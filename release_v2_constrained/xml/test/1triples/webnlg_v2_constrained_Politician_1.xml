@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battle | Overland_Campaign</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battles | Overland_Campaign</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | battles | Overland_Campaign</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales fought in the Overland Campaign.</lex>
+    </entry>
+    <entry category="Politician" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battles | Peninsula_Campaign</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battle | Peninsula_Campaign</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | battles | Peninsula_Campaign</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales was active during the Peninsula Campaign.</lex>
+    </entry>
+    <entry category="Politician" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_Garnett's_&amp;_Golding's_Farm</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battle | Battle_of_Garnett's_&amp;_Golding's_Farm</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_Garnett's_&amp;_Golding's_Farm</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S. Daggett fought during the Battle of Garnett's &amp; Golding's Farm.</lex>
+    </entry>
+    <entry category="Politician" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battle | Battle_of_Mine_Run</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_Mine_Run</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Battle of Mine Run was one fought by Aaron S Daggett.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett fought in the Battle of Mine Run.</lex>
+      <lex comment="good" lid="Id3">The Battle of Mine Run was one of the battles that Aaron S. Daggett fought at.</lex>
+    </entry>
+    <entry category="Politician" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_South_Mountain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battle | Battle_of_South_Mountain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_South_Mountain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron S Daggett fought in the Battle of South Mountain.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett fought in the Battle of South Mountain.</lex>
+    </entry>
+    <entry category="Politician" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Battle_of_White_Oak_Swamp</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Battle_of_White_Oak_Swamp</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Among the battles that Aaron S. Daggett fought in was the Battle of White Oak Swamp.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett fought in the Battle of White Oak Swamp.</lex>
+      <lex comment="good" lid="Id3">Aaron S. Daggett was present at the Battle of White Oak Swamp.</lex>
+    </entry>
+    <entry category="Politician" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battles | Second_Battle_of_Rappahannock_Station</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battles | Second_Battle_of_Rappahannock_Station</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the battles Aaron S. Daggett fought in, was the Second Battle of Rappahannock Station.</lex>
+      <lex comment="good" lid="Id2">Aaron S. Daggett fought in the Second Battle of Rappahannock Station.</lex>
+    </entry>
+    <entry category="Politician" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | country | Nigeria</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | country | Nigeria</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar's country is Nigeria.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar is from Nigeria.</lex>
+      <lex comment="good" lid="Id3">Abdulsalami Abubakar lives in Nigeria.</lex>
+    </entry>
+    <entry category="Politician" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | dateOfBirth | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal' s date of birth is 11 - 04 - 1921.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born on the 11th April 1921.</lex>
+    </entry>
+    <entry category="Politician" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal's birth place was Ridgewood, Queens.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens.</lex>
+    </entry>
+    <entry category="Politician" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal died in Alexandria, Virginia.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal died in Alexandria, Virginia.</lex>
+      <lex comment="good" lid="Id3">Abner W Sibal died in Alexandria, Virginia.</lex>
+    </entry>
+    <entry category="Politician" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was a member of the Connecticut Senate from the 26th District.</lex>
+    </entry>
+    <entry category="Politician" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal was a member of the Republican party of the United States.</lex>
+    </entry>
+    <entry category="Politician" eid="Id68" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal represented Connecticut's 4th Congressional District.</lex>
+    </entry>
+    <entry category="Politician" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal's successor was Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id2">Donald J. Irwin succeeded Abner W. Sibal.</lex>
+      <lex comment="good" lid="Id3">The successor of Abner W. Sibal was Donald J. Irwin.</lex>
+    </entry>
+    <entry category="Politician" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal was succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id2">Abner W. successor was Marjorie Farmer.</lex>
+    </entry>
+    <entry category="Politician" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | president | John_F._Kennedy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | inOfficeWhilePresident | John_F._Kennedy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff was in office while John F. Kennedy was president.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff was in office at the same time as John F. Kennedy was president.</lex>
+    </entry>
+    <entry category="Politician" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adenan_Satem | governor | Abdul_Taib_Mahmud</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adenan_Satem | inOfficeWhileVicePresident | Abdul_Taib_Mahmud</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adenan Satem was in office during the time Abdul Taib Mahmud was Vice President.</lex>
+      <lex comment="good" lid="Id2">Adenan Satem was in office while Abdul Taib Mahmud was Vice President.</lex>
+      <lex comment="good" lid="Id3">Adenan Satem was in office at the same time as Abdul Taib Mahmud was President.</lex>
+    </entry>
+    <entry category="Politician" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albert_Jennings_Fountain | battle | American_Indian_Wars</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albert_Jennings_Fountain | battles | American_Indian_Wars</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albert_Jennings_Fountain | battles | American_Indian_Wars</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albert Jennings Fountain fought in battles in the American Indian Wars.</lex>
+      <lex comment="good" lid="Id2">Albert Jennings Fountain battled in the American Indian Wars.</lex>
+      <lex comment="good" lid="Id3">Albert Jennings Fountain fought in the American Indian Wars.</lex>
+    </entry>
+    <entry category="Politician" eid="Id190" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfons_Gorbach | successor | Josef_Klaus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfons_Gorbach | successor | Josef_Klaus</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Josef Klaus succeeded Alfons Gorbach.</lex>
+      <lex comment="good" lid="Id2">The successor to Alfons Gorbach is Josef Klaus.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach's successor was Josef Klaus.</lex>
+    </entry>
+    <entry category="Politician" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | activeYearsStartDate | "1885-01-21"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | activeYearsStartDate | 1885-01-21</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales began his career on January 21st 1885.</lex>
+    </entry>
+    <entry category="Politician" eid="Id194" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The alma Mater of Alfred Moore Scales is the University of North Carolina at Chapel Hill.</lex>
+      <lex comment="good" lid="Id2">The alma mater of Alfred Moore Scales was the University of North Carolina at Chapel Hill.</lex>
+    </entry>
+    <entry category="Politician" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battles | American_Civil_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | battles | American_Civil_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales took part in American Civil War battles.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales battled in the American Civil War.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales fought in the American Civil War.</lex>
+    </entry>
+    <entry category="Politician" eid="Id199" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales was born in Reidsville, North Carolina.</lex>
+      <lex comment="good" lid="Id2">Reidsville, North Carolina was the birthplace of Alfred Moore Scales.</lex>
+    </entry>
+    <entry category="Politician" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales was Governor of North Carolina.</lex>
+    </entry>
+    <entry category="Politician" eid="Id202" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales is a member of the Democratic Party in the United States.</lex>
+    </entry>
+    <entry category="Politician" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Daniel Gould Fowle suceeded Alfred Moore Scales.</lex>
+      <lex comment="good" lid="Id2">Daniel Gould Fowle is the successor to Alfred Moore Scales.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales was succeeded by Daniel Gould Fowle.</lex>
+    </entry>
+    <entry category="Politician" eid="Id204" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | James_Madison_Leach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | James_Madison_Leach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The successor of Alfred Moore Scales was James Madison Leach.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales was succeeded by James Madison Leach.</lex>
+      <lex comment="good" lid="Id3">The successor to Alfred Moore Scales was James Madison Leach.</lex>
+    </entry>
+    <entry category="Politician" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales's successor was the politician, James W. Reid.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales was succeeded by the politician James W Reid.</lex>
+    </entry>
+    <entry category="Politician" eid="Id216" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was born in Lufkin, Texas.</lex>
+      <lex comment="good" lid="Id2">The birth place of Allan Shivers is Lufkin, Texas.</lex>
+    </entry>
+    <entry category="Politician" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was Governor of Texas.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers worked as the Governor of Texas.</lex>
+    </entry>
+    <entry category="Politician" eid="Id219" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Lieutenant Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was Lieutenant Governor of Texas.</lex>
+    </entry>
+    <entry category="Politician" eid="Id220" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of the Texas State Senate from District 4"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers worked as a member of the Texas State Senate from District 4 (Port Arthur).</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was a member of the Texas State Senate District 4 for Port Arthur.</lex>
+    </entry>
+    <entry category="Politician" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers served in the Democratic Party in the U.S.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was a member of the Democratic Party in the United States.</lex>
+    </entry>
+    <entry category="Politician" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | successor | Ben_Ramsey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | successor | Ben_Ramsey</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was succeeded by Ben Ramsey.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers' successor was Ben Ramsey.</lex>
+    </entry>
+    <entry category="Politician" eid="Id223" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers had the successor Price Daniel.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was succeeded by Price Daniel.</lex>
+    </entry>
+    <entry category="Politician" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wilfred R. Cousins, Jr. was the successor of Allan Shivers.</lex>
+      <lex comment="good" lid="Id2">The successor of Allan Shivers was Wilfred R. Cousins, Jr.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was succeeded by Wilfred R. Cousins, Jr.</lex>
+    </entry>
+    <entry category="Politician" eid="Id260" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Daniel_Gould_Fowle | almaMater | Princeton_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Daniel_Gould_Fowle | almaMater | Princeton_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Daniel Gould Fowle's Alma Mater is Princeton University.</lex>
+      <lex comment="good" lid="Id2">The alma mater of Daniel Gould Fowle is Princeton University.</lex>
+      <lex comment="good" lid="Id3">Daniel Gould Fowle attended Princeton University.</lex>
+    </entry>
+    <entry category="Politician" eid="Id261" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Emile_Roemer | party | Socialist_Party_(Netherlands)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Emile_Roemer | party | Socialist_Party_(Netherlands)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Emile Roemer is a member of the Socialist Party in the Netherlands.</lex>
+    </entry>
+    <entry category="Politician" eid="Id269" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_F._Kennedy | predecessor | Dwight_D._Eisenhower</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_F._Kennedy | predecessor | Dwight_D._Eisenhower</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dwight D. Eisenhower was the predecessor to John F. Kennedy.</lex>
+      <lex comment="good" lid="Id2">Dwight D. Eisenhower preceded John F. Kennedy as President.</lex>
+      <lex comment="good" lid="Id3">John F. Kennedy's predecessor was Dwight D. Eisenhower.</lex>
+    </entry>
+    <entry category="Politician" eid="Id270" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Josef_Klaus | almaMater | University_of_Vienna</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Josef_Klaus | almaMater | University_of_Vienna</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The University of Vienna is the Alma mater of Josef Klaus.</lex>
+      <lex comment="good" lid="Id2">Josef Klaus alma mater is the University of Vienna.</lex>
+      <lex comment="good" lid="Id3">The alma mater of Josef Klaus is the University of Vienna.</lex>
+    </entry>
+    <entry category="Politician" eid="Id285" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Nigeria | leader | Yemi_Osinbajo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Nigeria | leaderName | Yemi_Osinbajo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Yemi Osinbajo is the leader of Nigeria.</lex>
+      <lex comment="good" lid="Id2">Yemi Osinbajo is a leader in Nigeria.</lex>
+    </entry>
+    <entry category="Politician" eid="Id287" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Olusegun_Obasanjo | predecessor | Abdulsalami_Abubakar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olusegun_Obasanjo | predecessor | Abdulsalami_Abubakar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Olusegun Obasanjo's predecessor was Abdulsalami Abubakar.</lex>
+    </entry>
+    <entry category="Politician" eid="Id308" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States_Army | battle | Operation_Enduring_Freedom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Army | battles | Operation_Enduring_Freedom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Operation Enduring Freedom is a battle of the United States Army.</lex>
+      <lex comment="good" lid="Id2">The United States was involved in Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id3">The United States Army was involved in the Operation Enduring Freedom battle.</lex>
+    </entry>
+  </entries>
+</benchmark>

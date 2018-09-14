@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Artist" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ace_Wilder | genre | Electropop</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ace_Wilder | genre | Electropop</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ace Wilder performs electropop music.</lex>
+      <lex comment="good" lid="Id2">Ace Wilder's genre is Electropop.</lex>
+    </entry>
+    <entry category="Artist" eid="Id240" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Electropop | stylisticOrigins | Disco</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Electropop | stylisticOrigin | Disco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Electropop | stylisticOrigin | Disco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The stylistic origin of electropop is disco.</lex>
+      <lex comment="good" lid="Id2">Electropop has its origins in Disco.</lex>
+    </entry>
+  </entries>
+</benchmark>

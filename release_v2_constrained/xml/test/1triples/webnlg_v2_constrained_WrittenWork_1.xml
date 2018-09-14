@@ -1,0 +1,1168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | oclc | "76798317"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | OCLC_number | 76798317</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance has the OCLC number 76798317.</lex>
+      <lex comment="good" lid="Id2">The OCLC number of "A Glastonbury Romance is 76798317.</lex>
+      <lex comment="good" lid="Id3">The OCLC number for A Glastonbury Romance is 76798317.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"A Glastonbury Romance " can be found in hardcover.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance is available in hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Diane Duane wrote A Wizard of Mars.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was written by Diane Duane.</lex>
+      <lex comment="good" lid="Id3">the author Diane Duane wrote the book A wizard of Mars.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "0025-5858"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg ISSN number is "0025-5858".</lex>
+      <lex comment="good" lid="Id2">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg can be located by the ISSN number "0025-5858".</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is 0025-5858.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | author | Garth_Nix</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Garth Nix is the author of Above the Veil.</lex>
+      <lex comment="good" lid="Id2">The author of Above the Veil is Garth Nix.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Above_the_Veil | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Above the Veil was produced in Print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The journal Addiction has the LCCN number 93645978.</lex>
+      <lex comment="good" lid="Id2">The Addiction journal has an LCCN number of 93645978.</lex>
+      <lex comment="good" lid="Id3">The LCCN number of Addiction journal is 93645978.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | academicDiscipline | Addiction</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | academicDiscipline | Addiction</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addiction journal is about addiction.</lex>
+      <lex comment="good" lid="Id2">Addiction (journal) is about Addiction.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Castle_(novel) | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Castle_(novel) | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel "Castle" is written in English.</lex>
+      <lex comment="good" lid="Id2">Castle (the novel) is written in the English language.</lex>
+      <lex comment="good" lid="Id3">Castle (novel) was written in English.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Farrar,_Straus_and_Giroux | parent | Macmillan_Publishers</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Farrar,_Straus_and_Giroux | parentCompany | Macmillan_Publishers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Farrar,_Straus_and_Giroux | parentCompany | Macmillan_Publishers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Macmillan publishers are the parent company of Farrar, Straus and Giroux.</lex>
+      <lex comment="good" lid="Id2">The parent company of Farrar, Straus and Giroux is Macmillan Publishers.</lex>
+      <lex comment="good" lid="Id3">Macmillan Publishers is the parent company of Farrar, Straus and Giroux.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_Cowper_Powys | notableWork | A_Glastonbury_Romance</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Cowper_Powys | notableWork | A_Glastonbury_Romance</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance is John Cowper Powys notable work.</lex>
+      <lex comment="good" lid="Id2">A notable work of John Cowper Powys is A Glastonbury Romance.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Weymouth_Sands | previousWork | A_Glastonbury_Romance</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Weymouth_Sands | precededBy | A_Glastonbury_Romance</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance preceded Weymouth Sands.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance was published before Weymouth Sands.</lex>
+      <lex comment="good" lid="Id3">Weymouth Sands was preceded by A Glastonbury Romance.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1634:_The_Galileo_Affair | subsequentWork | 1634:_The_Ram_Rebellion</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Galileo_Affair | followedBy | 1634:_The_Ram_Rebellion</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Galileo Affair was followed by 1634: The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id2">1634: The Galileo Affair is followed by 1634: The Ram Rebellion.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ATISET is the CODEN code for ACM Transactions on Information Systems.</lex>
+      <lex comment="good" lid="Id2">The CODEN code for ACM Transactions on Information Systems is "ATISET".</lex>
+      <lex comment="good" lid="Id3">The CODEN code for ACM Transactions on Information Systems is ATISET.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | ISSN_number | "1046-8188"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ISSN number of ACM Transactions on Information Systems is 1046-8188.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1558-2868"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACM Transactions on Information Systems has the ISSN number 1558-2868.</lex>
+      <lex comment="good" lid="Id2">The ISSN number of ACM Transactions on Information Systems is 1558-2868.</lex>
+      <lex comment="good" lid="Id3">The ACM Transactions on Information Systems ISSN number is 1558-2868.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | LCCN_number | 89646863</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">89646863 is the LCCN number of ACM Transactions on Information Systems.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACM Transactions on Information Systems has the abbreviation of ACM Trans. Inf. Syst.</lex>
+      <lex comment="good" lid="Id2">The abbreviation "ACM Trans. Inf. Syst." is for ACM Transactions on Information Systems.</lex>
+      <lex comment="good" lid="Id3">ACM Transactions on Information Systems is abbreviated to ACM Trans. Inf. Syst.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | discipline | Computer_science</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | academicDiscipline | Computer_science</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACM Transactions on Information Systems is part of the academic Discipline of Computer Science.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | publisher | Association_for_Computing_Machinery</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | publisher | Association_for_Computing_Machinery</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Association for Computing Machinery is the publisher of ACM Transactions on information Systems.</lex>
+      <lex comment="good" lid="Id2">ACM Transactions on Information Systems is published by the Association for Computing Machinery.</lex>
+      <lex comment="good" lid="Id3">ACM Transactions on Information Systems was published by the Association for Computing Machinery.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | issn | "0269-9370"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | ISSN_number | "0269-9370"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ISSN number 0269-9370 is the AIDS journal.</lex>
+      <lex comment="good" lid="Id2">AIDS (journal) has the ISSN number of "0269-9370".</lex>
+      <lex comment="good" lid="Id3">The ISSN number of AIDS (journal) is 0269-9370.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | issn | "1473-5571"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | ISSN_number | "1473-5571"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDS journal has the ISSN number 1473-5571.</lex>
+      <lex comment="good" lid="Id2">The Aids Journal ISSN number is 1473-5571.</lex>
+      <lex comment="good" lid="Id3">The ISSN number of AIDS journal is 1473-5571.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | lccn | "90640840"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | LCCN_number | "90640840"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDS journal has the LCCN number 90640840.</lex>
+      <lex comment="good" lid="Id2">The LCCN number of AIDS (journal) is 90640840.</lex>
+      <lex comment="good" lid="Id3">The LCCN number of AIDS journal is 90640840.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | discipline | HIV</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDS (journal) comes under the academic discipline HIV.</lex>
+      <lex comment="good" lid="Id2">The academic discipline of AIDS journal is HIV.</lex>
+      <lex comment="toFix" lid="Id3">The AIDS(journal) is the academic discipline of HIV.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | discipline | HIV/AIDS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
+      </modifiedtripleset>
+      <lex comment="toFix" lid="Id1">The AIDS journal studiies HIV/AIDS.</lex>
+      <lex comment="good" lid="Id2">The Aids Journal's discipline is HIV/AIDS.</lex>
+      <lex comment="good" lid="Id3">The AIDS journal belongs to the academic discipline, HIV/AIDS.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | firstPublicationYear | "1987"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | history | 1987</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | firstPublicationYear | 1987</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDS (journal) was first published in 1987.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ISBN number of the book A Fortress of Grey Ice is 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id2">The ISBN number of A Fortress of Grey Ice is 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice's ISBN number is 0-7653-0633-6.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | 51969173</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | OCLC_number | 51969173</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The OCLC number of A Fortress of Grey Ice is 51969173.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id59" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">J.V. Jones authored A Fortress of Grey Ice.</lex>
+      <lex comment="good" lid="Id2">The author of A Fortress of Grey Ice is J.V. Jones.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice was written by J. V. Jones.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book "A Fortress of Grey Ice" can be found in print.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice was made in "Print".</lex>
+      <lex comment="good" lid="Id3">A fortress of Grey Ice is available in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is a hardcover book.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice was made in hardcover.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice was produced in Hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | numberOfPages | "672"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | numberOfPages | "672"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice has 672 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | publisher | Tor_Books</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | publisher | Tor_Books</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is published by Tor Books.</lex>
+      <lex comment="good" lid="Id2">Tor Books publishes A Fortress of Grey Ice.</lex>
+      <lex comment="good" lid="Id3">The book "A Fortress of Grey Ice" was published by Tor Books.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance has the ISBN number 0-7156-3648-0.</lex>
+      <lex comment="good" lid="Id2">The ISBN number of A Glastonbury Romance is 0-7156-3648-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | congress | "PR6031.O867"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | LibraryofCongressClassification | "PR6031.O867"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Library of Congress Classification of "A Glastonbury Romance" is PR6031.0867.</lex>
+      <lex comment="good" lid="Id2">The Library of Congress Classification of A Glastonbury Romance is PR6031O867.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance is in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id71" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | numberOfPages | "1174"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance has 1174 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | isbn | "1-56947-301-3"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | ISBN_number | "1-56947-301-3"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book, A Loyal Character Dancer, has the ISBN number of 1-56947-301-3.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | oclc | 49805501</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | OCLC_number | 49805501</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The OCLC number of A Loyal Character Dancer is 49805501.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer was penned by Qiu Xiaolong.</lex>
+      <lex comment="good" lid="Id2">Qiu Xiaolong is the author of A Loyal Character Dancer.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character was written by Qiu Xiaolong.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id89" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id90" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer can be found in hardcover,.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer was published in Hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id91" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | numberOfPages | "360"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | numberOfPages | "360"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A loyal Character Dancer is 360 pages long.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer has 360 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | ISBN_number | "0-374-26131-8"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp has an ISBN number of "0-374-26131-8".</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp has the ISBN number 0-374-26131-8.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id94" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | congress | "PS3523.E55 S4 1982"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | LibraryofCongressClassification | "PS3523.E55 S4 1982"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">PS3523.E55 S4 1982 is the Library of Congress Classification of "A Severed Wasp".</lex>
+      <lex comment="good" lid="Id2">The Library of Congress Classification of A Severed Wasp is PS3523.E55 S4 1982.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | 8805735</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | OCLC_number | 8805735</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp was assigned the OCLC number 8805735.</lex>
+      <lex comment="good" lid="Id2">The OCLC number of A Severed Wasp is 8805735.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id96" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | author | Madeleine_L'Engle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | author | Madeleine_L'Engle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Madeleine L'Engle wrote "A Severed Wasp".</lex>
+      <lex comment="good" lid="Id2">Madeleine L'Engle is the author of A Severed Wasp.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id99" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A severed wasp can be found in print.</lex>
+      <lex comment="good" lid="Id2">The book "A Severed Wasp" is available in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id100" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is a hardcover book.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp was published in hardback.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | numberOfPages | "388"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">388 is the number of pages A severed Wasp has.</lex>
+      <lex comment="good" lid="Id2">There are 388 pages in the book "A Severed Wasp".</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp has 388 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id102" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | publisher | Farrar,_Straus_and_Giroux</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | publisher | Farrar,_Straus_and_Giroux</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Farrar, Straus and Giroux publish A Severed Wasp.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp was published by Farrar, Straus, and Giroux.</lex>
+      <lex comment="good" lid="Id3">A severed wasp is published by Farrar, Straus and Giroux.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars ISBN number is "978-0-15-204770-2".</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars has the ISBN number 978-0-15-204770-2.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars' ISBN number is "978-0-15-204770-2".</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | oclc | 318875313</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | OCLC_number | 318875313</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The OCLC number of A Wizard of Mars is 318875313.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars is available in print form.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was published in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars is published in Hardcover.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was published in hardback.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | numberOfPages | "560"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | numberOfPages | "560"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A wizard of Mars is 560 pages long.</lex>
+      <lex comment="good" lid="Id2">There are 560 pages in "A Wizard of Mars".</lex>
+      <lex comment="good" lid="Id3">The book A Wizard of Mars has 560 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | precededBy | Wizards_at_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | previousWork | Wizards_at_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | precededBy | Wizards_at_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars is preceded by Wizards at War.</lex>
+      <lex comment="good" lid="Id2">Wizards at War preceded A Wizard of Mars.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars was preceded by Wizards at War.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | publisher | Harcourt_(publisher)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | publisher | Harcourt_(publisher)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars was published by Harcourt.</lex>
+      <lex comment="good" lid="Id2">Harcourt is the publisher of A Wizard of Mars.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars is published by Harcourt.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | CODEN_code | "AMHAAJ"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the CODEN code AMHAAJ.</lex>
+      <lex comment="good" lid="Id2">The CODEN code for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is AMHAAJ.</lex>
+      <lex comment="good" lid="Id3">The code for Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is AMHAAJ.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "1865-8784"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the ISSN number 1865-8784.</lex>
+      <lex comment="good" lid="Id2">The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg ISSN number is 1865-8784.</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is 1865-8784.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | LCCN_number | 32024459</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the LCCN number 32024459.</lex>
+      <lex comment="good" lid="Id2">The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has an LCCN number of 32024459.</lex>
+      <lex comment="good" lid="Id3">The LCCN number of Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is 32024459.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"Abh.Math.Semin.Univ.Hambg" is the abbreviation for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg.</lex>
+      <lex comment="good" lid="Id2">The abbreviation for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is Abh. Math. Semin. Univ. Hambg.</lex>
+      <lex comment="good" lid="Id3">The abbreviation of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg is Abh. Math. Semin. Univ. Hambg.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id116" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | discipline | Pure_mathematics</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | academicDiscipline | Pure_mathematics</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is concerned with the academic discipline of Pure Mathematics.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id117" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | publisher | Springer_Science+Business_Media</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | publisher | Springer_Science+Business_Media</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Springer Science &amp; Business Media is the publisher of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id118" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Above_the_Veil | isbn | "0-439-17685-9"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | ISBN_number | "0-439-17685-9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ISBN number of Above the Veil is 0-439-17685-9.</lex>
+      <lex comment="good" lid="Id2">Above the Veil has an ISBN number 0-439-17685-9.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Above_the_Veil | oclc | "46451790"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | OCLC_number | 46451790</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Above the Veil has the OCLC number 46451790.</lex>
+      <lex comment="good" lid="Id2">Above the Veil has a OCLC number of 46451790.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Above_the_Veil | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Above the Veil is available in hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Above_the_Veil | numberOfPages | "248"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | numberOfPages | "248"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Above the Veil is 248 pages long.</lex>
+      <lex comment="good" lid="Id2">Above the Veil contains 248 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id126" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | CODEN_code | "AMAHE9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acta Mathematica Hungarica CODEN code is "AMAHE9".</lex>
+      <lex comment="good" lid="Id2">The CODEN code for Acta Mathematica Hungarica is "AMAHE9".</lex>
+      <lex comment="good" lid="Id3">The code of Acta Mathematica is AMAHE9.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id127" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acta Mathematica Hungarica has the ISSN number 0236-5294.</lex>
+      <lex comment="good" lid="Id2">The Acta Mathematica Hungarica ISSN number is "0236-5294".</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Acta Mathematica Hungarica is 0236-5294.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id128" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "1588-2632"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acta Mathematica Hungarica is ISSN number 1588-2632.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica has the ISSN number of "1588-2632".</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Acta Mathematica Hungarica is 1588-2632.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | LCCN_number | 83646315</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">83646315 is the LCCN number for Acta Mathematica Hungarica.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica has the LCCN number 83646315.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id130" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acta Mathematica Hungarica is also known as Acta Math. Hungar.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar.".</lex>
+      <lex comment="good" lid="Id3">The abbreviation of Acta Mathematica Hungarica is Acta Math. Hungar.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acta Mathematica Hungarica covers the academic discipline of Mathematics.</lex>
+      <lex comment="good" lid="Id2">The Acta Mathematica Hungarica discipline is Math.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acta Mathematica Hungarica is published by Springer Science and Business Media.</lex>
+      <lex comment="good" lid="Id2">Springer Science+Business Media is the publisher of Acta Mathematica Hungarica.</lex>
+      <lex comment="good" lid="Id3">Acta Mathematica Hungarica are the publishers of Springer Science+Business Media.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id141" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | coden | "ADICE5"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | CODEN_code | "ADICE5"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addiction (Journal) has the CODEN Code ADICE5.</lex>
+      <lex comment="good" lid="Id2">The CODEN code "ADICE5" is for Addiction (journal).</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id142" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | ISSN_number | "0965-2140"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The journal Addiction had the ISSN number 0965-2140.</lex>
+      <lex comment="good" lid="Id2">The Addiction journal has an ISSN number of 0965-2140.</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Addiction journeal is 0965-2140.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | ISSN_number | "1360-0443"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The journal Addiction has the ISSN number 1360-0443.</lex>
+      <lex comment="good" lid="Id2">The ISSN number of Addiction (journal) is 1360-0443.</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Addiction journal is 1360-0443.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id144" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | oclc | "27367194"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | OCLC_number | 27367194</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The OCLC number of Addiction (journal) is 27367194.</lex>
+      <lex comment="good" lid="Id2">The OCLC number for Addiction journal is 27367194.</lex>
+      <lex comment="good" lid="Id3">Addiction (journal) has an OCLC number 27367194.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id145" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addiction is the abbreviated version of the Addiction journal.</lex>
+      <lex comment="good" lid="Id2">Addiction (journal) has the abbreviation of "Addiction".</lex>
+      <lex comment="good" lid="Id3">Addiction (journal) is abbreviated to Addiction.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id146" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id2">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id3">The journal Addiction is published by Wiley Blackwell on behalf of the Society for the Study of Addiction.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id147" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | publisher | Wiley-Blackwell</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | publisher | Wiley-Blackwell</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wiley-Blackwell is the publisher of the journal Addiction.</lex>
+      <lex comment="good" lid="Id2">Wiley-Blackwell is the publisher of Addiction (journal).</lex>
+      <lex comment="good" lid="Id3">Addiction journal is published by Wiley-Blackwell.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id166" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | ISBN_number | "0-439-92550-9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians has the ISBN number 0-439-92550-9.</lex>
+      <lex comment="good" lid="Id2">The ISBN number of Alcatraz Versus the Evil Librarians is 0-439-92550-9.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id167" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | oclc | "78771100"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus The Evil Librarian OCLC number is 78771100.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians has the OCLC number of 7877110.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians has an OCLC number of 78771100.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id168" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | author | Brandon_Sanderson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | author | Brandon_Sanderson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians was written by Brandon Sanderson.</lex>
+      <lex comment="good" lid="Id2">The author of Alcatraz Versus the Evil Librarians is Brandon Sanderson.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id169" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | subsequentWork | Alcatraz_Versus_the_Scrivener's_Bones</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | followedBy | Alcatraz_Versus_the_Scrivener's_Bones</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians is followed by the book Alcatraz Versus the Scrivener's Bones.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians was followed by Alcatraz Versus the Scrivener's Bones.</lex>
+      <lex comment="good" lid="Id3">Alcatraz versus the Evil Librarians is followed by Alcatraz Versus the Scrivener's Bones.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id170" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | genre | Fantasy_literature</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | genre | Fantasy_literature</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is in the genre of Fantasy literature.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is Fantasy literature.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is a fantasy novel.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id171" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | literaryGenre | Fantasy_literature</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | literaryGenre | Fantasy_literature</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The literary genre of Alcatrz Versus the Evil Librarians is fantasy literature.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is considered Fantasy literature.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id172" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book "Alcatraz Versus the Evil Librarians is in print.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is produced in print.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id173" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is published in Hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id174" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is 320 pages long.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians has 320 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id175" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Scrivener's_Bones | author | Brandon_Sanderson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Scrivener's_Bones | author | Brandon_Sanderson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Scrivener's Bones was authored by Brandon Sanderson.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Scrivener's Bones was written by Brandon Sanderson.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id185" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Annie_Dunne | subsequentWork | A_Long_Long_Way</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Annie_Dunne | followedBy | A_Long_Long_Way</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel Annie Dunne is followed by A Long Long Way.</lex>
+      <lex comment="good" lid="Id2">Annie Dunne was followed by A Long, Long Way.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Association_for_Computing_Machinery | headquarter | New_York_City</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Association_for_Computing_Machinery | headquarter | New_York_City</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">New York City is where the Association for Computing machinery headquarters is located.</lex>
+      <lex comment="good" lid="Id2">The Association for Computing Machinery is headquartered in New York City.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id187" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Association_for_Computing_Machinery | leaderName | Alexander_L._Wolf</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Association_for_Computing_Machinery | leaderName | Alexander_L._Wolf</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alexander L. Wolf is a leader of the Association for Computing Machinery.</lex>
+      <lex comment="good" lid="Id2">Alexander L. Wolf is the leader of the Association for Computing Machine.</lex>
+      <lex comment="good" lid="Id3">The leader of the Association for Computing Machinery is Alexander L. Wolf.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id188" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Brandon_Sanderson | birthPlace | Lincoln,_Nebraska</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Brandon_Sanderson | birthPlace | Lincoln,_Nebraska</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Brandon Sanderson was born in Lincoln Nebraska.</lex>
+      <lex comment="good" lid="Id2">Lincoln, Nebraska is the birthplace of Brandon Sanderson.</lex>
+      <lex comment="good" lid="Id3">Brandon Sanderson was born in Lincoln, Nebraska.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Castle_(novel) | subsequentWork | Aenir</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Castle_(novel) | followedBy | Aenir</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Castle_(novel) | followedBy | Aenir</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel Castle is followed by Aenir.</lex>
+      <lex comment="good" lid="Id2">Aenir followed the novel Castle.</lex>
+      <lex comment="good" lid="Id3">Castle is followed by Aenir.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id199" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>HIV | family | Orthoretrovirinae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>HIV | family | Orthoretrovirinae</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">HIV is part of the Orthoretrovirinae family.</lex>
+      <lex comment="good" lid="Id2">The HIV virus is part of the family of orthoretrovirinae.</lex>
+      <lex comment="good" lid="Id3">HIV belongs to the family Orthoretrovirinae.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>HIV | family | Retrovirus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>HIV | family | Retrovirus</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">HIV comes under the family of Retroviruses.</lex>
+      <lex comment="good" lid="Id2">HIV is part of the family Retrovirus.</lex>
+      <lex comment="good" lid="Id3">HIV is classed as a Retrovirus.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>HIV | genus | Lentivirus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>HIV | genus | Lentivirus</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The HIV virus is from the genus Lentivirus.</lex>
+      <lex comment="good" lid="Id2">HIV is genus Lentivirus.</lex>
+      <lex comment="good" lid="Id3">HIV genus is categorised as Lentivirus.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id204" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Into_Battle_(novel) | previousWork | Above_the_Veil</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Into_Battle_(novel) | precededBy | Above_the_Veil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Into_Battle_(novel) | precededBy | Above_the_Veil</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel Into Battle is preceded by Above the Veil.</lex>
+      <lex comment="good" lid="Id2">Into Battle (novel) was preceded by Above the Veil.</lex>
+      <lex comment="good" lid="Id3">Above the Viel is the sequel to Into Battle.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id217" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Madeleine_L'Engle | influencedBy | George_MacDonald</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madeleine_L'Engle | influencedBy | George_MacDonald</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Madeleine L'Engle was influenced by George MacDonald.</lex>
+      <lex comment="good" lid="Id2">Madeleine L'Engle is influenced by George MacDonald.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ring_of_Fire_II | previousWork | 1634:_The_Bavarian_Crisis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ring_of_Fire_II | precededBy | 1634:_The_Bavarian_Crisis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis was written prior to "Ring of Fire II".</lex>
+      <lex comment="good" lid="Id2">Ring of Fire II was preceded by 1634: The Bavarian Crisis.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id223" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Springer_Science+Business_Media | founder | Julius_Springer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Springer_Science+Business_Media | founder | Julius_Springer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julius Springer is the founder of Springer Science and Business Media.</lex>
+      <lex comment="good" lid="Id2">The founder of Springer Science and Business Media is Julius Springer.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id225" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>The_Secret_Scripture | previousWork | A_Long_Long_Way</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Secret_Scripture | precededBy | A_Long_Long_Way</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way came before the book "The Secret Scripture".</lex>
+      <lex comment="good" lid="Id2">The Secret Scripture is preceded by A Long, Long Way.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tor_Books | parentCompany | Macmillan_Publishers</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Tor_Books | parent | Macmillan_Publishers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tor_Books | parentCompany | Macmillan_Publishers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Macmillan Publishers is the parent company of Tor Books.</lex>
+      <lex comment="good" lid="Id2">Macmillan Publishers owns Tor Books.</lex>
+      <lex comment="good" lid="Id3">Macmillan Publishers are the parent company of Tor Books.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id244" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Wiley-Blackwell | parentCompany | John_Wiley_&amp;_Sons</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Wiley-Blackwell | parent | John_Wiley_&amp;_Sons</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wiley-Blackwell | parentCompany | John_Wiley_&amp;_Sons</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The parent company of Wiley-Blackwell is John Wiley &amp; Sons.</lex>
+      <lex comment="good" lid="Id2">John Wiley &amp; Sons is the parent company of Wiley-Blackwell.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id245" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Wizards_at_War | publisher | Harcourt_(publisher)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wizards_at_War | publisher | Harcourt_(publisher)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wizards at War was published by Harcourt (publishers).</lex>
+      <lex comment="good" lid="Id2">Wizards at War is published by Harcourt.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Wolf_Solent | subsequentWork | A_Glastonbury_Romance</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Wolf_Solent | followedBy | A_Glastonbury_Romance</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wolf_Solent | followedBy | A_Glastonbury_Romance</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wolf Solent was followed by A Glastonbury Romance.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance is the sequel to Wolf Solent.</lex>
+    </entry>
+  </entries>
+</benchmark>

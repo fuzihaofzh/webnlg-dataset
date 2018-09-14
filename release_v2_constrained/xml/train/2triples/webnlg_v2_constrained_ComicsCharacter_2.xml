@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman, starring Jill Shilling, is broadcasted by the BBC.</lex>
+      <lex comment="good" lid="Id2">Bananaman was broadcast by the BBC and starred Jill Shilling.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Graeme Garden stars in Bananaman, which is broadcast by STV.</lex>
+      <lex comment="good" lid="Id2">Bananaman stars Graeme Garden, and is broadcasted by STV.</lex>
+      <lex comment="good" lid="Id3">Graeme Garden stars in Bananaman which is broadcasted by STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor, star of Bananaman was born in Derbyshire.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke Taylor, was born in Derbyshire, and starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Big Hero 6, starring Alan Tudyk, was Baymax's first film appearance.</lex>
+      <lex comment="good" lid="Id2">Baymax first appeared in the film Big Hero 6, starring Alan Tudyk.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The first appearance in a film for the character Baymax was Big Hero 6, the film that Scott Adsit starred in.</lex>
+      <lex comment="good" lid="Id2">The first appearance in a film for the character Baymax was Big Hero 6 which starred Scott Adsit.</lex>
+      <lex comment="good" lid="Id3">Baymax first appeared in Big Hero 6, starring Scott Adsit.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax, created by Steve T. Seagle, is a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">Baymax was created by Steven t Seagle and is a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id3">Baymax, a character in Big Hero 6, was created by Steven. T Seagle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id29" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | locationCity | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman is broadcast by the BBC which is headquartered in Broadcasting house.</lex>
+      <lex comment="good" lid="Id2">Bananaman the TV series was shown on the BBC, the BBC is headquartered in Broadcasting house.</lex>
+      <lex comment="good" lid="Id3">Bananaman is broadcasted by the BBC which is based in the Broadcasting House in London.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | locationCity | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Located in London, the BBC, broadcast Bananaman.</lex>
+      <lex comment="good" lid="Id2">Bananaman is broadcast by the BBC, which is based in London.</lex>
+      <lex comment="good" lid="Id3">Bananaman the TV series was shown on the BBC which is located in London.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The BBC broadcasted Bananaman which starred Bill Oddie.</lex>
+      <lex comment="good" lid="Id2">Bill Oddies stars in Bananaman, broadcasted by the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id32" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Starring Graeme Garden, Bananaman, the TV series was shown on the BBC.</lex>
+      <lex comment="good" lid="Id2">Graeme Garden starred in the TV series Bananman, which was shown on the BBC.</lex>
+      <lex comment="good" lid="Id3">Bananaman , which starred Graeme Garden, was broadcasted by the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie starred in Bananaman broadcast by STV.</lex>
+      <lex comment="good" lid="Id2">STV broadcast Bananaman starring Bill Oddie.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman first aired on the 3rd of October 1983, and starred Bill Oddie.</lex>
+      <lex comment="good" lid="Id2">Bill Oddie stars in Bananaman that was first aired on the 3rd of October, 1983.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id35" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie, who stars in Bananaman, was born in Lancashire.</lex>
+      <lex comment="good" lid="Id2">Bananaman starred Bill Oddie who was born in Lancashire.</lex>
+      <lex comment="good" lid="Id3">Bill Oddie, who was born in Lancashire, starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id36" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie (born in Rochdale) stars in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Bill Oddie, who was born in Rochdale, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id3">Bananaman starred Bill Oddie, who was born in Rochdale.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id37" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman first aired on tv screens on the 3rd of October 1983, and starred Graeme Garden.</lex>
+      <lex comment="good" lid="Id2">Bananaman, first aired 3/10/1983, stars Graeme Garden.</lex>
+      <lex comment="good" lid="Id3">Bananaman was first aired on 10/03/1983 and starred Graeme Garden.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Graeme_Garden | birthPlace | Aberdeen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Graeme_Garden | birthPlace | Aberdeen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Graeme Garden, one of the stars of Bananaman, was born in Aberdeen.</lex>
+      <lex comment="good" lid="Id2">Bananaman stars Graeme Garden who was born in Aberdeen.</lex>
+      <lex comment="good" lid="Id3">Graeme Garden, born in Aberdeen, stars in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id39" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jill Shilling stared in Bananaman, broadcasted by STV.</lex>
+      <lex comment="good" lid="Id2">Jill Shilling starred in Bananaman, broadcasted by STV,.</lex>
+      <lex comment="good" lid="Id3">Bananaman which stars Jill Shilling is broadcasted by STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor starred in Bananaman, which was broadcasted by STV.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor starred in Bananaman, which is broadcast by STV.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke-Taylor starred as Bananaman, which was broadcast by STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id41" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor starred in Bananaman, broadcasted by the BBC.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke Tayler starred in Bananaman, broadcasted by the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id42" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Buxton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Buxton is the birthplace of Tim Brooke-Taylor, who starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Tayler, born in Buxton, starred in bananaman.</lex>
+      <lex comment="good" lid="Id3">Born in Buxton, Tim Brooke-Taylor, starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id43" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor, born in England, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke Taylor, who starred in Bananaman, was born in England.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke Taylor was born in England and starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id44" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in the UK and starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Born in the United Kingdom, Tim Brooke-Taylor, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke-Taylor , originally from the U.K, starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id45" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Duncan Rouleau and Steven T. Seagle created Baymax.</lex>
+      <lex comment="good" lid="Id2">Baymax was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex comment="good" lid="Id3">Baymax was created by both Duncan Rouleau and Steven T. Seagle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id46" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax first appeared in Big Hero 6, starring Ryan Potter.</lex>
+      <lex comment="good" lid="Id2">Baymax first appeared in the film Big Hero 6 which stars Ryan Potter.</lex>
+      <lex comment="good" lid="Id3">The first appearance in a film for the character Baymax was Big Hero 6 which starred Ryan Potter.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id47" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Duncan Rouleau created Baymax, a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">Created by Duncan Rouleau, Baymax, is a character in Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id48" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Big Hero 6, starring Damon Wayans Jr., features the character Baymax.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6 that stars the actor Damon Wayans Jr.</lex>
+      <lex comment="good" lid="Id3">The film Big Hero 6, which stars Damon Wayans Jr, has a character called Baymax.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id49" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in the film Big Hero 6 that starred Jamie Chung.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6, where Jamie Chung is the star.</lex>
+      <lex comment="good" lid="Id3">Big Hero 6, starring Jamie Chung, features the character Baymax.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id50" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in Big Hero 6 which also starred Maya Rudolph.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6 that stars Maya Rudolph.</lex>
+      <lex comment="good" lid="Id3">Maya Rudolph starred in the film Big Hero 6, in which Baymax is a character.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id51" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in Big Hero 6, Scott Adsit starred in the movie version of Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in the film Big Hero 6 which stars Scott Adsit.</lex>
+      <lex comment="good" lid="Id3">Baymax is a character in Big Hero 6, starring Scott Adsit.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id52" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Scott_Adsit | birthPlace | Northbrook,_Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Scott_Adsit | birthPlace | Northbrook,_Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Scott Adsit was born in Northbrook, Illinois and does the voice for Baymax.</lex>
+      <lex comment="good" lid="Id2">The character Baymax is voiced by Scott Adsit, who was born in Northbrook, Illinois.</lex>
+      <lex comment="good" lid="Id3">Born in Northbrook Illinois, Scott Adsit, provides the voice for the character Baymax.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id57" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in the film Big Hero 6, which stars Alan Tudyk.</lex>
+      <lex comment="good" lid="Id2">The film Big Hero 6, starring Alan Tudyk, has a character called Baymax.</lex>
+      <lex comment="good" lid="Id3">Baymax is a character in the film Big Hero 6, which starred Alan Tudyk.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id58" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in the film Big Hero 6, which starred Ryan Potter.</lex>
+      <lex comment="good" lid="Id2">Baymax is a character in Big Hero 6 in which Ryan Potter stars.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id80" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Duncan Rouleau is an American national who created Baymax.</lex>
+      <lex comment="good" lid="Id2">Baymax was created by American, Duncan Rouleau.</lex>
+    </entry>
+  </entries>
+</benchmark>

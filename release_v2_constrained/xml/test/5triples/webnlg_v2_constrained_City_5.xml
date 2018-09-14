@@ -1,0 +1,781 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="City" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.5"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaCode | "325"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42449e+07</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | areaOfWater | 14.2 (square kilometres)</mtriple>
+        <mtriple>Abilene,_Texas | elevationAboveTheSeaLevel | 524.0</mtriple>
+        <mtriple>Abilene,_Texas | areaCode | 325</mtriple>
+        <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abilene, Texas lies 524.0 above sea level and has the area code of 325 and a population density of 429.9 inhabitants per sq km. It has a total area of 286.5 sq km of which 14.2 sq km are water.</lex>
+      <lex comment="good" lid="Id2">Abilene is in Texas and has the area code 325. It is 524.0 above sea level, has a water area of 14.2 sq km, and a total area of 286.5 sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaWater | "880000.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.53755844165633"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | areaWater | "880000.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaWater | "880596.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.54"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | areaWater | "880596.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaWater | "880596.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaCode | 234330</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.54"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaWater | "880000.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.54"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaWater | "880596.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.54"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | areaWater | "880000.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.349318705397"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | areaWater | "880000.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaCode | 234330</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | areaWater | "880000.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.349318705397"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | areaOfWater | 0.88 (square kilometres)</mtriple>
+        <mtriple>Akron,_Ohio | elevationAboveTheSeaLevel | 306.0</mtriple>
+        <mtriple>Akron,_Ohio | populationDensity | 1239.3 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Akron,_Ohio | areaTotal | 161.54 (square kilometres)</mtriple>
+        <mtriple>Akron,_Ohio | areaCode | 234, 330</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akron, Ohio has 1239.3 inhabitants per square km, it is 161.54 square kilometres, 306.0 above sea level, there is .99 square km of water and the area codes are 234 and 330.</lex>
+      <lex comment="good" lid="Id2">Akron, Ohio lies 306.0 above sea level and has the area codes of 234 and 330. It has a total area of 161.54 sq km of which 0.88 sq km is water, and a population density of 1239.3 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id3">Akron, Ohio with the area codes 234 and 330, have a total area of 161.54 square kilometres and has a population density of1239.3 inhabitants per square kilometre. Its water has a total area of .88 sq. km and it is located at 306.0 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "543898.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.0977325679783"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaCode | "541, 458"</otriple>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "543898.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.0977325679783"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "540000.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "543898.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "540000.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "543898.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaCode | "541, 458"</otriple>
+        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "540000.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "540000.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.0977325679783"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "543898.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaCode | "541, 458"</otriple>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | areaWater | "543898.0"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | areaTotal | 45.97 (square kilometres)</mtriple>
+        <mtriple>Albany,_Oregon | areaOfWater | 0.54 (square kilometres)</mtriple>
+        <mtriple>Albany,_Oregon | elevationAboveTheSeaLevel | 64.008</mtriple>
+        <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Albany,_Oregon | areaCode | 541, 458</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With a total area of 45.97 Sq Km, Albany (Oregon), has a population density of, 1104.1 inhabitants per square kilometre. Albany; is 64,008 metres above sea level, has a water area of 0,54 square kilometres, and the area codes, 541 and 458.</lex>
+      <lex comment="good" lid="Id2">At 64.008 metres above sea level, Albany, Oregon, has a water area pf 0.54 square kilometres. Albany; has a total area of 45.97 sq kms, a population density of 1104.1 inhabitants per square kilometre, and the are codes, 541 and 458.</lex>
+    </entry>
+    <entry category="City" eid="Id34" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | areaCode | 770404678</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.6265410345586"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.63"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | areaCode | "770, 404, 678"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | areaCode | 770404678</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "346.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.63"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | areaCode | "770, 404, 678"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | areaCode | "770, 404, 678"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "346.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.63"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | areaCode | 770404678</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | areaTotal | 55.4 (square kilometres)</mtriple>
+        <mtriple>Alpharetta,_Georgia | areaOfWater | 1.0 (square kilometres)</mtriple>
+        <mtriple>Alpharetta,_Georgia | elevationAboveTheSeaLevel | 346.0</mtriple>
+        <mtriple>Alpharetta,_Georgia | areaCode | 770, 404, 678</mtriple>
+        <mtriple>Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpharetta, Georgia is elevated 346.0 above sea level and has a total area of 55.4 square kilometres(water area is 1.0 sq Km.).The area codes for Alpharetta, Georgia are 770, 404 and 678 and its population density is 992.6 people per square kilometres.</lex>
+      <lex comment="good" lid="Id2">Alpharetta,Georgia is elevated 346.0 meters above sea level and it has a total area of 55.4 sq km (water area:1.0 sq km).The area codes of Alpharetta are 770,404, and 678 and its population density is 992.6 inhabitants per square kilometres.</lex>
+      <lex comment="good" lid="Id3">Alpharetta, Georgia has an area of water of 1 square kilometre and is 346 above sea level. Its total area is 55.4 square kilometres, has 992.6 residents per square kilometre and uses the 770, 404 and 678 area codes.</lex>
+    </entry>
+    <entry category="City" eid="Id85" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | language | Arabic</otriple>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Michigan | language | Arabic</mtriple>
+        <mtriple>Washtenaw_County,_Michigan | country | United_States</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor, Michigan is part of Washtenaw County, United States. Arabic is spoken in Michigan and the capital is Lansing.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan located in the United States. The capital of Michigan is Lansing and Arabic is a language found there.</lex>
+      <lex comment="good" lid="Id3">Washtenaw County, Michigan is in the United States and Ann Arbor is part of it. Arabic is a language found in Michigan and Arabic is one of the languages spoken there.</lex>
+    </entry>
+    <entry category="City" eid="Id86" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Michigan | largestCity | Detroit</mtriple>
+        <mtriple>Michigan | country | United_States</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor forms part of Washentaw County in Michigan, United States. Detroit is the largest city in Michigan, where the capital is Lansing.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is in Washtenaw County, Michigan, United States. The largest city in Michigan is Detroit, while the state capital is Lansing.</lex>
+      <lex comment="good" lid="Id3">Ann Arbr is in Michigan, Washtenaw County US. The capital of Michigan is Lansing and Detroit is the largest city.</lex>
+    </entry>
+    <entry category="City" eid="Id87" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Michigan | largestCity | Detroit</mtriple>
+        <mtriple>Washtenaw_County,_Michigan | country | United_States</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Washentaw County in Michigan, United States. Detroit is the largest city in Michigan and the state capital is Lansing.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor , Washtenaw County, Detroit are found in Michigan which is in the United States and whose capital is Lansing.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan which is in the United States. Ann Arbor is part of Michigan but the largest city is Detroit and the capital is Lansing.</lex>
+    </entry>
+    <entry category="City" eid="Id88" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+        <otriple>Michigan | language | Spanish_language</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Washtenaw_County,_Michigan | country | United_States</mtriple>
+        <mtriple>Michigan | language | Spanish_language</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Michigan is a great state, it's capital is Lansing. There is also the city of Ann Arbor, which is in Washtenaw County, al off which Spanish is spoken.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is located in part of Washtenaw County in Spanish speaking Michigan . The County is located within the United States and has the capital of Lansing.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor, Michigan is part of Washtenaw County,U.S. Lansing is the capital of Michigan where Spanish is spoken.</lex>
+    </entry>
+    <entry category="City" eid="Id89" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | 734</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | "734"</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | 734</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | "734"</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | 734</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | "Christopher Taylor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | leader | Christopher_Taylor_(politician)</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | areaCode | 734</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The City Administrator, Christopher Taylor (politician), leads Ann Arbor, Michigan. Ann Arbor, which has a total area of 74.33 square kilometeres, has a population density of 1580.7 inhabitants per square kilometre. Its area code is 734.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, in Michigan, has a total area of 74.33 square kilometres and a population of 1580.7 per square kilometre. Its area code is 734 and it is led by a City Administrator, Christopher Taylor (politician).</lex>
+      <lex comment="good" lid="Id3">Ann Arbor has a total area of 74.33 square kilometres and a population of 1580.7 per square kilometre. The City Administrator, Christopher Taylor, leads Ann Arbor and the area code is 734.</lex>
+    </entry>
+    <entry category="City" eid="Id90" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | "734"</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | 734</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | "Christopher Taylor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | 734</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | "734"</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaCode | 734</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | Mayor</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | leader | Christopher_Taylor_(politician)</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | areaCode | 734</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is located in Michigan and is led by the politician Christopher Taylor and a Mayor. It has the area code of 734 , covers a total area of 74.33 sq km and has a population density of 1580.7 people per sq km.</lex>
+      <lex comment="good" lid="Id2">The Mayor is the leader title in Ann Arbor (Michigan), which is led by the politician Christopher Taylor. With a total area of 74.33 square kilometres, Ann Arbor has the area code, 734 and the population density of 1580.7 as per square kilometre.</lex>
+    </entry>
+    <entry category="City" eid="Id101" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.28796e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682817214469972"^^xsd:decimal</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.3e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.28796e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.3e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+        <otriple>Arlington,_Texas | areaTotal | "258.2"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.3e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682817214469972"^^xsd:decimal</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.3e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.28796e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682817214469972"^^xsd:decimal</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.28796e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.3e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.3e+06</otriple>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | areaOfWater | 82.8 (square kilometres)</mtriple>
+        <mtriple>Arlington,_Texas | elevationAboveTheSeaLevel | 184.0</mtriple>
+        <mtriple>Arlington,_Texas | populationDensity | 1472.0 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Arlington,_Texas | areaCode | 682, 817, 214, 469, 972</mtriple>
+        <mtriple>Arlington,_Texas | areaTotal | 258.2 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arlington, Texas, which lies 184.0 above sea level, has a total area of 258.2 square kilometres, of which 82.8 sq km is water. The area codes for Arlington are 682, 817, 214, 469 and 972 and the population density is 1472 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id2">The area codes for Arlington, Texas are 682, 817, 214, 469, 972 and the total area is 258.2 square kilometres. The area of water within Arlington is 82.8 sq km and it is 184 above sea level. The population density is 1472 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">Arlington in Texas is located at 184.0 above sea level and has an area of 258.2 Sq Km. Arlington, has the area of water of 82.8 sq km, and the population density of 1472 people per square kilometre. Arlington has the area codes, 682, 817, 214, 469 and 972.</lex>
+    </entry>
+    <entry category="City" eid="Id113" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.164825163035"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.16"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.41256e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.16"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | 609</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.16"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125627435794435"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | 609</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | "Don Guardian"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.41256e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | leader | Don_Guardian</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | areaCode | 609</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader in Atlantic City, New Jersey is Don Guardian which is the Clerk a municipal official. Atlantic City has the area code of 609 with a population density of 1421.2 people per Sq.Km. and an area of 44.125 Sq.Km.</lex>
+      <lex comment="good" lid="Id2">Don Guardian is the leader of Atlantic City (New Jersey), which has a population density of 1421.2 inhabitants per square kilometre and a total area of 44.125 square kilometres. A Clerk (municipal official) is the leader of Atlantic City, N.J, whose area code is 609.</lex>
+      <lex comment="good" lid="Id3">A Clerk (municipal official) is the leader of Atlantic City, New Jersey, where Don Guardian is the leader. Atlantic City; has a population density of 1421.2 inhabitants per square kilometre, a total area of 44.125 square kilometres, and the area code 609.</lex>
+    </entry>
+    <entry category="City" eid="Id114" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | "Don Guardian"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.4125e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | "Don Guardian"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.41256e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | 609</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | "Don Guardian"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.4125e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.16"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | "Don Guardian"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.41256e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.16"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | "Don Guardian"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.4125e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | areaCode | 609</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | leader | Don_Guardian</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The municipal leader of Atlantic City, New Jersey is Don Guardian who is known as the Mayor. It has the area code of 609 , covers a total area of 44.125 sq km and has a population density of 1421.2 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id2">Don Guardian leads Atlantic City, New Jersey, where the municipal leader is known as the Mayor. With a total area of 44.125 square kilometres, Atlantic City, has a population of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
+      <lex comment="good" lid="Id3">"Mayor" is the title of the leader in Atlantic City, New Jersey, which is led by Don Guardian. With a total area of 44.125 square kilometres, Atlantic City, has a population density of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
+    </entry>
+    <entry category="City" eid="Id122" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.036e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaTotal | "153.0682973208576"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Auburn,_Alabama | areaCode | "334"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.036e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.53068e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Auburn,_Alabama | areaCode | "334"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+        <otriple>Auburn,_Alabama | areaTotal | "140.8"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Auburn,_Alabama | areaCode | "334"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | areaOfWater | 1.7 (square kilometres)</mtriple>
+        <mtriple>Auburn,_Alabama | elevationAboveTheSeaLevel | 214.0</mtriple>
+        <mtriple>Auburn,_Alabama | areaCode | 334</mtriple>
+        <mtriple>Auburn,_Alabama | areaTotal | 140.8 (square kilometres)</mtriple>
+        <mtriple>Auburn,_Alabama | populationDensity | 368.65 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Auburn Alabama has an elevation above sea level of 214 and has a total area of 140.8 square kilometres(water area 1.7 sq km).The area code for Auburn, Alabama is 334 and its population density is 368.65 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id2">Auburn, Alabama is located 214.0 above sea level and has the area code of 334. There is a total area of 140.8 sq km which includes 1.7 sq km of water, and it has a population density of 368.65 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id3">Auburn (area code 334), located in Alabama, has a total area of 140.8 square kilometres and has 368.65 inhabitants per square kilometre. It is located 214.0 above sea level and has 1.7 square kilometres of water.</lex>
+    </entry>
+    <entry category="City" eid="Id161" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Michigan | language | English_language</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | country | United_States</mtriple>
+        <mtriple>Michigan | language | English_language</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Lansing is the capital of Michigan, in the United States. In Michigan, English is the language spoken, and Lansing is the capital. Ann Arbor, Michigan is part of Washtenaw County.</lex>
+      <lex comment="good" lid="Id2">English is the spoken language in Michigan whose state capital is Lansing and Ann Arbor is located in the county of Washtenaw.</lex>
+    </entry>
+    <entry category="City" eid="Id257" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+        <otriple>Michigan | language | English_language</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Washtenaw_County,_Michigan | country | United_States</mtriple>
+        <mtriple>Michigan | language | English_language</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County in the United States. It is located in Michigan which has the capital city of Lansing and uses the english language.</lex>
+      <lex comment="good" lid="Id2">English is spoken in Michigan, in the United States. Ann Arbor, is part of Washtenaw County, in Michigan, the capital of which is Lansing.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County, Michigan, United States. Lansing is the capital of the state and the language spoken is English.</lex>
+    </entry>
+  </entries>
+</benchmark>

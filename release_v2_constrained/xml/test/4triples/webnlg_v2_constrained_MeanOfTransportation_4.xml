@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionEndYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe is a 2 door coupe which has a wheelbase of 2160 millimetres and contains a straight four engine. The car was last manufactured in 1958.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe is a two door model with a straight four engine and a wheelbase of 2160 millimetres. It rolled off the production line in 1958.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has a wheelbase of 2160 mm, it's two doors and has a straight four engine. It's final year of production was 1959.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionEndYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe has a Coupe body style and the straight four engine. Its wheelbase is 2160 millimetres. The last Abarth 1000 GT Coupé rolled off the production line in 1958.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe has a Coupe body style, a straight-four engine and a 2160 millimetres wheelbase. 1958 was its last production year.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupé has a straight-four engine and a wheelbase of 2160 millimetres. The vehicle has a coupe body style and was last manufactured in 1958.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+        <otriple>Audi_A1 | engine | Audi_A1__4</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | class | Supermini</mtriple>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
+        <mtriple>Audi_A1 | assembly | "Brussels, Belgium"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 is made in Brussels, Belgium and has a front engine, front-wheel drive layout and a 1.2 l engine. That car is classed as a supermini vehicle.</lex>
+      <lex comment="good" lid="Id2">Audi A1 is assembled in Brussels in Belgium and is classed as a super mini. It has a 1.2 litre engine and a front-engine, front-wheel-drive layout.</lex>
+      <lex comment="good" lid="Id3">The Audi A1 is assembled in Brussels, Belgium and classed as a supermini. It has a 1.2 litre engine and a front-engine/front-wheel drive layout.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id29" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__3</otriple>
+        <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | transmission | "5-speed manual"</mtriple>
+        <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 is assembled at Audi Brussels and has the hatchback style of body. It has a 1.2 litre engine and a 5 speed manual transmission.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is assembled by Audi Brussels and is a hatchback. It has a 1.2 litre engine and has a 5-speed manual transmission.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id87" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionStartYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The production of the Abarth 1000 GT started in 1958 and it has a wheelbase of 2160 millimetres. It is a two door coupe and has a straight four engine.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe is a two door model with a wheelbase of 2160 millimetres and a straight-four engine. Its production began in 1958.</lex>
+      <lex comment="good" lid="Id3">Abarth 1000 GT Coupé is a two door coupé with a straight-four engine. Its wheelbase is 2160 millimetres and its production started in the Year 1958.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id88" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear</otriple>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionStartYear | 1958</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe 's production started in 1958. The Abarth 1000 GT has a Coupé body style, a straight-four engine and a wheelbase that is, 2160.0 millimetres.</lex>
+      <lex comment="good" lid="Id2">The production of the Abarth 1000 GT Coupé started in 1958. This car has a coupe style body, a straight-four engine and has a wheelbase of 2160 millimetres.</lex>
+      <lex comment="good" lid="Id3">Production of the Abarth 1000 GT Coupe began in 1958, it has a wheelbase of 2160mm, a Coupe body style and a straight four engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id89" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | width | "1.55"^^xsd:double</otriple>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | width | 1.55</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupé is a two door coupe which has a width of 1.55 metres. It has a wheelbase of 2160 millimetres and a straight-four engine.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT 2 door Coupe is 1.55 m wide and has a wheelbase of 2160 millimetres. It's engine is a straight-four type.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000GT Coupe has a wheelbase of 2160mm, and a width of 1.55m. It is a two door coupe and has a straight four engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id141" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>American_Motors | fate | Eagle_(automobile)</otriple>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | fate | Eagle_(automobile)</otriple>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | fate | Eagle_(automobile)</mtriple>
+        <mtriple>American_Motors | subsidiary | Wheel_Horse</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American Motors Co, which includes member Roy D. Chapin Jr., was succeeded by Eagle. AMC Matador is manufactured by American Motors, which includes subsidary Wheel Horse.</lex>
+      <lex comment="good" lid="Id2">American Motors Co was succeeded by Eagle and owns a subsidiary company, The Wheel Horse. A key person at American Motors, a company where the AMC Matador is manufactured, is Roy D. Chapin Jr.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id142" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | subsidiary | Wheel_Horse</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | fate | Chrysler</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AMC Matador is manufactured by American Motors and Wheel Horse is a subsidiary. Roy D Chapin Jr is a key person at American Motors which was acquired by Chrysler.</lex>
+      <lex comment="good" lid="Id2">AMC Matador is manufactured by American Motors which was acquired by Chrysler. Roy D. Chapin Jr. is a key person at American Motors and The Wheel Horse is a subsidiary of them.</lex>
+      <lex comment="good" lid="Id3">American Motors manufactures the AMC Matador, was acquired by Chrysler and includes subsidary Wheel Horse. AM includes member Roy D Chapin Jr.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id143" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | fate | Chrysler</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American motors was acquired by Chrysler. It was succeed by Eagle, and manufactures AMC Matador.</lex>
+      <lex comment="good" lid="Id2">American Motors was succeeded by Eagle and acquired by Chrysler, it includes figure Roy D. Chapin Jr. The AMC Matador is made by American Motors.</lex>
+      <lex comment="good" lid="Id3">Eagle succeeded American Motors, who manufacture the AMC Matador, were acquired by Chrysler and have Roy D Chapin Jr as a keyperson.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id144" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
+        <mtriple>American_Motors | subsidiary | Wheel_Horse</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AMC Matador is manufactured by American Motors, a key person with the company is Roy D. Chapin Jr. The Wheel Horse is a subsidiary of American Motors which was succeeded by Eagle.</lex>
+      <lex comment="good" lid="Id2">American Motors manufactures the AMC Matador. Roy D Chapin Jr is a key person at American Motors which has The Wheel Horse as a subsidiary. Eagle is the successor to American Motors.</lex>
+      <lex comment="good" lid="Id3">Made by American Motors is the AMC Matador. Roy D. Chapin Jr. is a key person at that company. A subsidiary of American Motors is Wheel Horse and Eagle is the successor for American Motors.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id145" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 has a 3.8m ship beam and is 45000.0 (millimetres) long. Its top speed is 8.334 and it was built by General Dynamics Electric Boat.</lex>
+      <lex comment="good" lid="Id2">Built by General Dynamics Electric Boat Co., the American submarine, NR-1, has a top speed of 8.334 km/h. It is 45000.0 (millimetres) long and has a 3.8m ship beam.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 is built by General Dynamics Electric Boat. It has a top speed of 8.334 km/h, a beam of 3.8 metres and a length of 45000 mms.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id146" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+        <mtriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</mtriple>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 was built by General Dynamics Electric Boat and launched on 25 January 1969. It has a beam of 3.8 metres and a top speed of 8.334.</lex>
+      <lex comment="good" lid="Id2">General Dynamics Electric Boat is the builder of the American submarine NR-1 and it was launched on January 25th 1969. It's top speed is 8.334 and it has a ship beam of 3.8 m.</lex>
+      <lex comment="good" lid="Id3">The American Submarine NR-1, built by General Dynamics Electric Boat, has a top speed of 8.334. It was launched January 25, 1969 and has a 3.8m ship beam.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id147" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</mtriple>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 was launched on The 25th of January 1969. It has a top speed of 8.334 km/h, a ship beam of 3.8 m., and is 45000.0 (millimetres) long.</lex>
+      <lex comment="good" lid="Id2">The American submarine NR-1, which was launched on The 25th of January 1969, has a top speed of 9.334 km/hr, a ship beam of 3.8m and a length of 45000.0 mms.</lex>
+      <lex comment="good" lid="Id3">The American sub NR-1 was launched on January 25, 1969 and it's top speed is 8.344. It is 45000.0 millimetres long and has a ship beam of 3.8 m.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id148" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | shipDraft | 4.6 m</mtriple>
+        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine, NR-1, has a top speed of 8.334 km/h has a ship beam of 3.8 m. It has a ship draft of 4.6m and is 45000.0 (millimetres) long.</lex>
+      <lex comment="good" lid="Id2">The American Submarine NR-1 has a ship beam of 3.8 m., a ship draft of 4.6 m, top speed of 8.334 and is 45000.0 millimetres long.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 has a ship draft of 4.6m and a top speed of 8.334 km/h. It is 45000.0 (millimetres) long and has a beam of 3.8 metres.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id195" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+        <otriple>Audi_A1 | engine | Audi_A1__3</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__2</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | class | "Supermini"@en</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+        <otriple>Audi_A1 | engine | Audi_A1__5</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | class | Supermini</mtriple>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
+        <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Classed as a supermini, the Audi A1 (assembled at Audi Brussels), has a 1.2 litre front-engine with front-wheel-drive.</lex>
+      <lex comment="good" lid="Id2">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout .</lex>
+      <lex comment="good" lid="Id3">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id196" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__5</otriple>
+        <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+        <otriple>Audi_A1 | engine | "1.2"^^xsd:double</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__3</otriple>
+        <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__4</otriple>
+        <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | transmission | "5-speed manual"</mtriple>
+        <mtriple>Audi_A1 | assembly | "Brussels, Belgium"</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi A1 has the hatchback style of body and a 1.2 litre engine and a 5 speed manual transmission. It is assembled in Brussels, Belgium.</lex>
+      <lex comment="good" lid="Id2">Assembled in Brussels, Belgium, the Audi A1 hatchback has a 5 speed manual transmission and a 1.2 litre engine.</lex>
+      <lex comment="good" lid="Id3">The Audi A1 is a hatchback and is assembled in Brussels, Belgium. It has a 1.2 litre engine and a 5 speed manual transmission.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id197" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__5</otriple>
+        <otriple>Audi_A1 | transmission | "6-speed manual"</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | transmission | "6-speed manual"</mtriple>
+        <mtriple>Audi_A1 | assembly | "Brussels, Belgium"</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 hatchback, assembled in Brussels, Belgium, has a 6-speed manual transmission with a 1.2 liter engine.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is a hatchback assembled in Brussels, Belgium with a 1.2 litre engine and a 6-speed manual transmission.</lex>
+      <lex comment="good" lid="Id3">The Audi A1 is a hatchback assembled in Brussels, Belgium. It has a 1.2 litre engine and a 6 speed manual gearbox.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id198" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsidiary | Ducati</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+        <mtriple>Audi | subsidiary | Ducati</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi, owned by Ducati, was founded by August Horch and includes Audi e-tron. It makes the Audi A1.</lex>
+      <lex comment="good" lid="Id2">August Horch founded Audi, which makes the Audi A1. Audi e-tron is a division of Audi and the company Ducati is owned by them.</lex>
+      <lex comment="good" lid="Id3">August Horch founded the Audi company who make the Audi A1. The company own Ducati and have a sub-division known as Audi e-tron.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id199" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsid | Lamborghini</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsidiary | Lamborghini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+        <mtriple>Audi | subsidiary | Lamborghini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi was founded by August Horch and they manufacture the Audi A1. Audi e-tron is a division of Audi and Lamborghini is a subsidiary.</lex>
+      <lex comment="good" lid="Id2">The company Audi was founded by August Horch and they make the Audi A1. Audi e-tron is a division of Audi and Lamborghini is a subsidiary.</lex>
+      <lex comment="good" lid="Id3">Lamborghini is a subsidiary and Audi e-tron a division of Audi, which was founded by August Horch and is the manufacturer of the Audi A1.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id200" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsidiary | Quattro_GmbH</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsid | Quattro_GmbH</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+        <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">August Horch founded Audi who manufactured the Audi A1. The Quattro Gmbh is a subsidiary and it also has a division known as Audi e-tron.</lex>
+      <lex comment="good" lid="Id2">Audi A1 is made by Audi, which was founded by August Horch. Audi e-tron is a division of Audi and The Quattro Gmbh is a subsidiary of the Audi.</lex>
+      <lex comment="good" lid="Id3">Audi is the manufacturer of the Audi A1 and it was founded by August Horch. Audi e-tron is a division of Audi and the Quattro Gmbh is a subsidiary.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id231" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | length | "45.0"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</mtriple>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+        <mtriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</mtriple>
+        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">General Dynamics is the parent company of the General Dynamics Electric Boat Co. located in Groton, CT. They built the American submarine NR-1 which is 45000 mms in length.</lex>
+      <lex comment="good" lid="Id2">General Dynamics Electric Boat is the company that built the American submarine NR-1, which is 45000.0 (millimetres) long. General Dynamics is the parent company of the General Dynamics Electric Boat Co, which is located in Groton, CT.</lex>
+      <lex comment="good" lid="Id3">General Dynamics is the parent company of the General Dynamics Electric Boat, which is located in Groton, Connecticut, and built the NR-1 submarine, which is 450000.0 mm millimetres long.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id232" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+        <mtriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American Submarine NR-1 has a ship beam of 3.8 m and was built by General Dynamics Electric Boat. General Dynamics is the parent company of the General Dynamics Electric Boat Co which is located in the city of Groton, Connecticut.</lex>
+      <lex comment="good" lid="Id2">General Dynamics is the parent company of the General Dynamics Electric Boat Co. out of Groton, CT. The GD Electric Boat Co built the American sub called NR-1 which has a 3.8 m beam.</lex>
+      <lex comment="good" lid="Id3">General Dynamics is the parent company of General Dynamics Electric Boat who are located in the city of Groton, Connecticut and built the American submarine NR-1 with a ship beam of 3.8 m.</lex>
+    </entry>
+  </entries>
+</benchmark>

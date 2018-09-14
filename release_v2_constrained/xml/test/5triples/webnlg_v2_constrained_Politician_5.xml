@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id25" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | dateOfBirth | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+        <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born Ridgewood, Queens, on 11 - 04 - 1921, Abner W. Sibal, was a member of the Republican party of the United States. He worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">Republican Abner W. Sibal was born in Ridgewood, Queens on November 4th, 1921. He was a member of the Connecticut Senate from the 26th District and was succeeded by Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id3">Abner W Sibal was born in Ridgewood, Queens on 11 April 1921. He was a member of the Republican party of the United States and of the Connecticut Senate from the 26th District before being succeeded by Donald J Irwin.</lex>
+    </entry>
+    <entry category="Politician" eid="Id26" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+        <mtriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal was born in Ridgewood, Queens and died in Alexandria, Virginia. He was a member of the Republican party of the United States and worked as a member of the Connecticut Senate from the 26th District before being succeeded by Donald J Irwin.</lex>
+      <lex comment="good" lid="Id2">Abner W Sibal, of the Republican Party of the United States, was a member of the Connecticut Senate from the 26th District. Sibal was born in Ridgewood, Queens, died in Alexandria, Virginia and was succeeded by Donald J Irwin.</lex>
+      <lex comment="good" lid="Id3">Abner W Sibal, who was born in Ridgewood, Queens and died in Alexandria, Virginia, was a member of the Republican party of the United States. He was part of the Connecticut Senate from the 26th District and was succeeded by Donald J Irwin.</lex>
+    </entry>
+    <entry category="Politician" eid="Id27" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | dateOfBirth | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+        <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal was born on 11 April 1921 in Ridgewood, Queens. He was a member of the Republican party of the United States and prior to being succeeded by Marjorie Farmer worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">United States 26th District, Republican, Connecticut Senate member Abner W. Sibal was succeeded by Marjorie Farmer. He was born 04/11/1921 in Ridgewood, Queens.</lex>
+      <lex comment="good" lid="Id3">Republican Abner W. Sibal was born in Ridgewood, Queens on November 4th, 1921 and worked as a member of the Connecticut Senate from the 26th District. He was succeeded by Marjorie Farmer.</lex>
+    </entry>
+    <entry category="Politician" eid="Id28" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
+        <mtriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal was born in Ridgewood, Queens and was a member of the U.S. Republican party. He was a member of the Connecticut Senate from the 26th District and his successor was, Marjorie Farmer. Abner W. Sibal died in Alexandria, Virginia.</lex>
+      <lex comment="good" lid="Id2">Connecticut Senate's 26th District Republican member Abner W. Sibal was succeeded by Majorie Farmer. Sibal was born in Ridgewood, Queens and died in Alexandria , Virginia.</lex>
+    </entry>
+    <entry category="Politician" eid="Id110" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</mtriple>
+        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
+        <mtriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</mtriple>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">University of North Carolina at Chapel Hill alum Alfred Moore Scales was a Democratic Governor of North Carolina. He was born in Reidsville, North Carolina and succeeded by James, W. Reid.</lex>
+      <lex comment="good" lid="Id2">Reidsville, North Carolina was the birthplace of Alfred Moore Scales, who was a member of the Democratic Party in the United States. his alma mater was the University of North Carolina at Chapel Hill. Alfred Moore Scales was Governor of North Carolina and was succeeded by the politician James W Reid.</lex>
+    </entry>
+    <entry category="Politician" eid="Id111" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</mtriple>
+        <mtriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</mtriple>
+        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</mtriple>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Democrat Alfred Moore Scales was Governor of North Carolina and was born in Reidsville, North Carolina. He attended the University of North Carolina in Chapel Hill and was succeeded by Daniel Gould Fowle.</lex>
+      <lex comment="good" lid="Id2">Born in Reidsville, North Carolina, Alfred Moore Scales, was Governor of North Carolina. He was a member of the U.S. Democratic Party and was succeeded by Daniel Gould Fowle. The alma mater of Alfred Moore Scales was the University of North Carolina at Chapel Hill.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales, who was born in Reidsville, North Carolina, graduated from the University of North Carolina at Chapel Hill and is a member of the Democratic Party. He became governor of North Carolina and was succeeded by Daniel Gould Fowle.</lex>
+    </entry>
+  </entries>
+</benchmark>

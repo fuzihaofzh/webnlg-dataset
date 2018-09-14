@@ -1,0 +1,2510 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"^^xsd:positiveInteger</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Available in print form, '1634: The Bavarian Crisis' by Virginia DeMarce and Eric Flint has 448 pages.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and has 448 pages in print.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis was written by Virginia DeMarce and Eric Flint, has 448 pages and is available in print form.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>1634:_The_Ram_Rebellion | previousWork | 1634:_The_Galileo_Affair</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634:The Ram Rebellion is the sequel to 1634: The Galileo Affair written in English which is spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id2">English is spoken in Great Britain and is the language used in 1634: The Ram Rebellion. The book was preceded by 1634 The Galileo Affair.</lex>
+      <lex comment="good" lid="Id3">1634 The Galileo Affair preceded 1634 The Ram Rebellion which is written in English as spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | language | English_language</otriple>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | language | English_language</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is written in English and published by Soho Press in the United States.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press and written in English. Soho Press is situated in the US.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer is written in English and published by Soho Press from the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp (from the United States) is written in English, which is the language spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id19" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | state | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
+        <mtriple>Cornell_University | state | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University is located in the state of New York. It is affiliated with the Association of American Universities and is the publisher of Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2">Cornell University which is in new York, is affiliated with the Association of American Universities and is the publisher of Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3">Cornell University in New York is affiliated with the Association of American Universities and published Administrative Science Quarterly.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id21" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is a book from the USA, written in English, the language of Great Britain.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from the United States and written in the English language which is spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from The United States, it was in English, that is the language spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id23" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">English is the language spoken in both Great Britain and the United States. The book Alcatraz Versus the Evil Librarians comes from the U.S.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from the United States where they speak English as they do in Great Britain.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from the United States, where the language is English. English is spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id25" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
+        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
+        <otriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>SAGE_Publications | founder | Sara_Miller_McCune</mtriple>
+        <mtriple>Administrative_Science_Quarterly | ISSN_number | "0001-8392"</mtriple>
+        <mtriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sara Miller McCune is the founder of SAGE publications which publishes the Administrative Science Quarterly which has the ISSN number of 0001-8392.</lex>
+      <lex comment="good" lid="Id2">Sara Miller McCune founded SAGE Publications who publish Administrative Science Quarterly with ISSN number "0001-8392".</lex>
+      <lex comment="good" lid="Id3">Sara Miller McCune is the founder of SAGE publications who publish Administrative Science Quarterly which has the ISSN number of 0001-8392.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id26" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States, whose capital is Washington D.C., and which counts Native Americans among its ethnic groups.</lex>
+      <lex comment="good" lid="Id2">A severed Wasp originates from the United States where the capital is Washington DC and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is from the United States where Washington D.C. is the capital and Native Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id27" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars is published in English and originates from the United States, where one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was originally published in the United States and is written in English. African Americans are one of many ethnic groups in the U.S.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars was published in English in the United States where the African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id28" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The capital city of the United States is Washington D.C. Some Asian Americans live in the United States and A Wizard of Mars was Published there.</lex>
+      <lex comment="good" lid="Id2">The United States are home to Asian Americans as well as where "A Wizard of Mars" was published. Washington D.C. is the capital.</lex>
+      <lex comment="good" lid="Id3">Washington D. C. is the capital of the United States, where many Asian Americans live. A Wizard of Mars was written in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id29" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asian Americans are one of the ethnic groups in the United States where Barack Obama is the leader. It is also the country where 'A Wizard of Mars' originates from.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States where Barack Obama is the leader and there are many Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States where the leader is Barack Obama and the Asian Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id30" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States where the leader is known as the President and one of the ethnic groups are the African Americans.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion was written in the United States where the leader is known as the President, and the African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion was written in the US were the leader is known as the President and one of the ethnic groups is African American.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id31" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The President is the leader of the United States, which is where A Fortress of Grey Ice is from. Additionally, Native Americans are an ethnic Group in the U.S.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where the leader is known as the President and the Native Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | isbn | "978-1-4165-4253-7"</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis can be located by it's ISBN number "978-1-4165-4253-7". It is written by Virginia DeMarce and Eric Flint and was put in print.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis was authored by Virginia DeMarce and Eric Flint and has a ISBN number of 978-1-4165-4253-7.</lex>
+      <lex comment="good" lid="Id3">The ISBN number of 1634: The Bavarian Crisis is 978-1-4165-4253-7, it is written by Virginia DeMarce and Eric Flint and is available in print form.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | isbn | "978-1-4165-4253-7"</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | "Print"@en</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | Virginia_DeMarce</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Virginia_DeMarce</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis written by Virginia DeMarce is available in print form and can be located by it's ISBN number "978-1-4165-4253-7".</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis was authored by Virginia DeMarce and has a ISBN number of 978-1-4165-4253-7.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | isbn | "978-1-4165-4253-7"</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis can be located by it's ISBN number "978-1-4165-4253-7", its author is Eric Flint and was put in print.</lex>
+      <lex comment="good" lid="Id2">The 1634 The Bavarian Crisis by Eric Flint, was put in print and has the ISBN number 978-1-4165-4253-7.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis was put into print and written by Eric Flint. It can be located by the ISBN number 978-1-4165-4253-7.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | isbn | "978-1-4165-4253-7"</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The hardcover book 1634: The Bavarian Crisis was written by Eric Flint and has the ISBN number 978-1-4165-4253-7.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis, available in hardcover, has an ISBN number of 978-1-4165-4253-7 and was written by Eric Flint.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis, written by Eric Flint, has the ISBN number 978-1-4165-4253-7 and is available in hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | language | English_language</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | language | English_language</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis was written by Eric Flint in English and was preceded by Grantville Gazette III.</lex>
+      <lex comment="good" lid="Id2">Eric Flint wrote the book 1634: The Bavarian Crisis. It is the sequel to Grantville Gazette III.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis is written in English and the sequel to Grantville Gazette III written by Eric Flint.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis, written by Eric Flint, has 448 pages and is available in hardcover.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis by Eric Flint is a hardcover publication with 448 pages.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis by Eric Flint comes in hardcover and has 448 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"^^xsd:positiveInteger</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | "Print"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis by Eric Flint, is available in print form and has 448 pages.</lex>
+      <lex comment="good" lid="Id2">The printed book 1634: The Bavarian Crisis, was written by Eric Flint and has 448 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Baltic_War</otriple>
+        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Baltic_War</mtriple>
+        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in Burbank, California, Eric Flint wrote 1634: The Bavarian Crisis which was preceded by 1634: The Baltic War.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis and it's predecessor, 1634: The Baltic War, was written by Eric Flint who was born in Burbank California.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Ram_Rebellion</otriple>
+        <otriple>1634:_The_Ram_Rebellion | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Ram Rebellion was written in English and preceded 1634 The Bavarian Crisis written by Eric Flint.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis and it's predecessor 1634: The Ram Rebellion is written in English by Eric Flint..</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis was written in English by Eric Flint. The book was preceded by 1634 The Ram Rebellion.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Ram_Rebellion</otriple>
+        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion</mtriple>
+        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The author, Eric Flint, wrote 1634: The Ram Rebellion and followed this with 1634: The Bavarian Crisis. Eric Flint was born in Burbank, California.</lex>
+      <lex comment="good" lid="Id2">Eric Flint was born in Burbank California and is the author of 1634: The Bavarian Crisis which was the sequel to 1634: The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id3">Eric Flint, who was born in Burbank, California, is the author of 1634: The Bavarian Crisis which was preceded by 1634: The Ram Rebellion.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_II</otriple>
+        <otriple>Grantville_Gazette_II | precededBy | The_Grantville_Gazette</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II</mtriple>
+        <mtriple>Grantville_Gazette_II | precededBy | The_Grantville_Gazette</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Grantville Gazette preceded Grantville Gazette II and 1634: The Bavarian Crisis written by Eric Flint.</lex>
+      <lex comment="good" lid="Id2">Written by Eric Flint, 1634: The Bavarian Crisis was preceded by Grantville Gazette II which itself was preceded by The Grantville Gazette.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | The_Grantville_Gazettes</otriple>
+        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
+        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint, born in Burbank, California, is the author of 1634: The Bavarian Crisis, the sequel to The Grantville Gazettes.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis, the sequel to The Grantville Gazettes, was written by Eric Flint who was born in Burbank, California.</lex>
+      <lex comment="good" lid="Id3">Eric Flint, born in Burbank, California, is the author of 1634: The Bavarian Crisis, which follows The Grantville Gazettes.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id13" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in Burbank California, Eric Flint wrote 1634: The Bavarian Crisis which was preceded by Grantville Gazette II.</lex>
+      <lex comment="good" lid="Id2">Eric Flint, born in Burbank, California, wrote both Grantville Gazette II and then 1634: The Bavarian Crisis.</lex>
+      <lex comment="good" lid="Id3">Grantville Gazette II preceded 1634: The Bavarian Crisis written by Eric Flint who was born in Burbank California.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint was born in Burbank California and wrote 1634: The Bavarian Crisis which is the sequel to Grantville Gazette III.</lex>
+      <lex comment="good" lid="Id2">The author Eric Flint was born in Burbank California. He wrote 1634: The Bavarian Crisis which is the sequel to Grantville Gazette III.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Baltic_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Baltic_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint, author of 1634: The Bavarian Crisis which was preceded by 1634: The Baltic War, was influenced by Robert A. Heinlein.</lex>
+      <lex comment="good" lid="Id2">Eric Flint, influenced by Robert A. Heinlein, is the author of 1634: The Bavarian Crisis and it's predecessor 1634: The Baltic War.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis is preceded by 1634: The Baltic War. The books were written by Eric Flint who was influenced by Robert A. Heinlein.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id16" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Ram_Rebellion</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint was influenced by Robert A Heinlein and wrote 1634: The Bavarian Crisis which was preceded by 1634 The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis was preceded by 1634: The Ram Rebellion. The author, Eric Flint, was influenced by Robert A. Heinlein.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis is the sequel to 1634:The Ram Rebellion written by Eric Flint and influenced by Robert A. Heinlein.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id17" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint was influenced by Robert A. Heinlein and is the author of 1634: The Bavarian Crisis, that was preceded by Grantville Gazette II.</lex>
+      <lex comment="good" lid="Id2">Influenced by Robert A. Heinlein, Eric Flint is the author of 1634: The Bavarian Crisis and it's predecessor Grantville Gazette II.</lex>
+      <lex comment="good" lid="Id3">Eric Flint is the author of 1634: The Bavarian Crisis which was preceded by Grantville Gazette II. He was influenced by Robert A Heinlein.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis, which was preceded by Grantville Gazette III, was written by Eric Flint, who was influenced by Robert A. Heinlein.</lex>
+      <lex comment="good" lid="Id2">Eric Flint, influenced by Robert A. Heinlein, wrote 1634: The Bavarian Crisis. It is the sequel to Grantville Gazette III.</lex>
+      <lex comment="good" lid="Id3">Eric Flint, influenced by Robert A Heinlein, is the author of 1634: The Bavarian Crisis. This book follows the publication of Grantville Gazette III.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id19" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | The_Grantville_Gazettes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint, who was influenced by Robert A. Heinlein wrote 1634: The Bavarian Crisis which was preceded by The Grantville Gazettes.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis is the sequel to The Grantville Gazettes written by Eric Flint and influence by Robert A Heinlein.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis was written by Eric Flint who was influenced by Robert A. Heinlein. The book is the sequel to The Grantville Gazettes.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"^^xsd:positiveInteger</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | Hardcover</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Available in hardcover, 1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and has 448 pages.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis was written by Virginia DeMarce and Eric Flint. It is available in hardcover and has 448 pages.</lex>
+      <lex comment="good" lid="Id3">A hardcover publication, 1634: The Bavarian Crisis has 448 pages and was authored by Virginia DeMarce and Eric Flint.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"^^xsd:positiveInteger</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | mediaType | "Print"@en</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | Virginia_DeMarce</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | numberOfPages | "448"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | Virginia_DeMarce</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Virginia DeMarce is the author of 1634: The Bavarian Crisis, which was put in print and has 448 pages.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis by Virginia DeMarce is 448 pages long and in print.</lex>
+      <lex comment="good" lid="Id3">The printed book 1634: The Bavarian Crisis was written by Virginia DeMarce and has 448 pages.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id22" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Baltic_War</otriple>
+        <otriple>1634:_The_Baltic_War | author | David_Weber</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Baltic_War</mtriple>
+        <mtriple>1634:_The_Baltic_War | author | David_Weber</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Grantville Gazettes preceded 1634: The Baltic War (written by David Weber) and 1634: The Bavarian Crisis.</lex>
+      <lex comment="good" lid="Id2">The sequel to The Grantville Gazettes, 1634: The Bavarian Crisis was preceded by 1634: The Baltic War (written by David Weber).</lex>
+      <lex comment="good" lid="Id3">1634:The Bavarian Crisis, preceded by David Weber's 1634: The Baltic war, is the sequel to The Grantville Gazettes.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id23" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Ram_Rebellion</otriple>
+        <otriple>1634:_The_Ram_Rebellion | language | English_language</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Ram_Rebellion</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | language | English_language</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Ram Rebellion is written in English and was preceded by 1634: The Bavarian Crisis written by Virginia DeMarce and Eric Flint.</lex>
+      <lex comment="good" lid="Id2">Authored by Virginia DeMarce and Eric Flint, '1634: The Bavarian Crisis' is preceded by '1634: The Ram Rebellion' which is written in English.</lex>
+      <lex comment="good" lid="Id3">Authored byVirginia DeMarce and Eric Flint, 1634: The Bavarian Crisis is preceded by 1634: The Ram Rebellion which is written in English.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_II</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis is preceded by The Grantville Gazettes including Grantville Gazette II, and is written by Virginia DeMarce and Eric Flint.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis, written by Virginia DeMarce and Eric Flint, was preceded by The Grantville Gazettes and Grantville Gazette II.</lex>
+      <lex comment="good" lid="Id3">1634; The Bavarian Crisis was the sequel to The Grantville Gazettes and written by Virginia DeMarce and Eric Flint.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id25" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_II</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+        <otriple>Grantville_Gazette_II | precededBy | The_Grantville_Gazette</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_II</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+        <mtriple>Grantville_Gazette_II | precededBy | The_Grantville_Gazette</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Authored by Virginia DeMarce and Eric Flint, 1634: The Bavarian Crisis was preceded by Grantville Gazette II which in turn was preceded by The Grantville Gazette.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Bavarian Crisis of 1634, written by Virginia DeMarce and Eric Flint, occurred after Grantville Gazette III.</lex>
+      <lex comment="good" lid="Id2">Preceded by The Grantville Gazettes, 1634: The Bavarian Crisis (by Virginia DeMarce and Eric Flint) is the sequel to Grantville Gazette III.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis was preceded by The Grantville Gazettes including Grantville Gazette III and is written by Virginia DeMarce and Eric Flint.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | Grantville_Gazette_III</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | precededBy | "DeMarce short stories in the"@en</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | "DeMarce short stories in the The Grantville Gazettes"</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Virginia DeMarce and Eric Flint wrote 1634: The Bavarian Crisis. It is the prequel to Grantville Gazettes.</lex>
+      <lex comment="good" lid="Id2">1634: The Bavarian Crisis is the sequel to Grantiville Gazettes III written by Virginia DeMarce and Eric Flint.</lex>
+      <lex comment="good" lid="Id3">DeMarce short stories in the Grantville Gazettes preceded 1634: The Bavarian Crisis which was written by Virginia DeMarce and Eric Flint.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id28" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Galileo_Affair | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>1634:_The_Ram_Rebellion | previousWork | 1634:_The_Galileo_Affair</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Galileo_Affair | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion was preceded by 1634 The Galileo Affair, which is available in English. English is spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion was preceded by 1634 The Galileo Affair, which is written in English, the language spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id3">1634: The Galileo Affair is written in English, the language spoken in Great Britain, and was followed by 1634: The Ram Rebellion.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | "Print"@en</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | "Print"</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Ram Rebellion by Eric Flint was published in print and has the ISBN number 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion by Eric Flint was published in print and has the ISBN number 0-439-92550-9.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion was written by Eric Flint. It was published in print and has an ISBN number of 1-4165-2060-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Ram Rebellion. written by Eric Flint, has the ISBN number 1-4165-2060-0 and is also available as an E book.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion, available as an E-Book, was authored by Eric Flint and has a ISBN number of 1-4165-2060-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        <otriple>1634:_The_Ram_Rebellion | numberOfPages | "512"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | numberOfPages | "512"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint is the author of 1634: The Ram Rebellion which has 512 pages and is available as an E-Book.</lex>
+      <lex comment="good" lid="Id2">During 1634, Eric Flint wrote the RAM Rebellion which is 512 pages long and is of the media type E book.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id32" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | Hardcover</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | Hardcover</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The hardcover book 1634: The Ram Rebellion was written by Eric Flint and has the ISBN number 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion, ISBN number 1-4165-2060-0, was written by Eric Flint and is available in hardcover.</lex>
+      <lex comment="good" lid="Id3">Eric Flint wrote 1634: The Ram Rebellion found in hardcover with an ISBN of 1-4165-2060-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | Paperback</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | Paperback</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"1634; The Ram Rebellion" by Eric Flint is available in paperback with an ISBN number of 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2">The paperback book "1634: The Ram Rebellion", was written by Eric Flint and has the ISBN number of 1-4165-2060-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | Paperback</otriple>
+        <otriple>1634:_The_Ram_Rebellion | numberOfPages | "512"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | Paperback</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | numberOfPages | "512"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint wrote the book "1634: The Ram Rebellion" which is available in paperback and has 512 pages.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion, written by Eric Flint, is available in paperback and is 512 pages long.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion, written by Eric Flint, is 512 pages long and is available in paperback.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id35" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
+        <otriple>1634:_The_Ram_Rebellion | previousWork | 1634:_The_Galileo_Affair</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"1634: The Ram Rebellion" is the sequel to "1634: The Galileo Affair", written by Eric Flint, who was born in Burbank, California.</lex>
+      <lex comment="good" lid="Id2">Eric Flint was born in Burbank California and wrote 1634: The Ram Rebellion which was preceded by 1634 The Galileo Affair.</lex>
+      <lex comment="good" lid="Id3">Eric Flint was born in Burbank, California and wrote 1634: The Ram Rebellion which was preceded by 1634: The Galileo Affair.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id36" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
+        <otriple>Eric_Flint | influencedBy | Robert_A._Heinlein</otriple>
+        <otriple>Eric_Flint | birthPlace | Burbank,_California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | author | Eric_Flint</mtriple>
+        <mtriple>Eric_Flint | influencedBy | Robert_A._Heinlein</mtriple>
+        <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Eric Flint, who was born in Burbank, California, was influenced by Robert A Heinlen and wrote the book 1634: The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id2">Eric Flint, born in Burbank, California, is the author of 1634: The Ram Rebellion, influenced by Robert A. Heinlein.</lex>
+      <lex comment="good" lid="Id3">Born, Burbank California, Eric Flint, author of 1634: The Ram Rebellion, was influenced by Robert A Heinlein.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id37" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | "Print"@en</otriple>
+        <otriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | "Print"</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Virginia DeMarce is the author of 1634: The Ram Rebellion which was published in print and has the ISBN number 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2">The Ram Rebellion was written by Virginia DeMarce and published in 1634. It can be found by ISBN number 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion was published in print and written by Virginia DeMarce. The ISBN number is 1-4165-2060-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id38" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        <otriple>1634:_The_Ram_Rebellion | author | "Eric Flint, Virginia DeMarce, et al."@en</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | author | "Eric Flint, Virginia DeMarce, et al."</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The E-Book, The Ram Rebellion which was written by Eric Flint, Virginia DeMarce et al. has the ISBN number 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion, which can be found as an e book, was written by Eric Flint and Virginia DeMarce and has the ISBN number 1-4165-2060-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id39" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        <otriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | "1-4165-2060-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Written by Virginia DeMarce, 1634: The Ram Rebellion has the ISBN number 1-4165-2060-0 and is available as an E-Book.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebelllion, written by Virginia DeMarce, has the ISBN number 1-4165-2060-0 and is available as an E book.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion was written by Virginia DeMarce and has the ISBN number 1-4165-2060-0. It is published as an E book.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id40" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        <otriple>1634:_The_Ram_Rebellion | numberOfPages | "512"^^xsd:positiveInteger</otriple>
+        <otriple>1634:_The_Ram_Rebellion | author | "Eric Flint, Virginia DeMarce, et al."@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | numberOfPages | "512"</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | author | "Eric Flint, Virginia DeMarce, et al."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634: The Ram Rebellion, written by Eric Flint, Virginia DeMarce. et al., is 512 pages long and can be found as an E book.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion was written by Eric Flint, Virginia DeMarce, et al. It has 512 pages and is available as an E-Book.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion has 512 pages and was written by Eric Flint, Virginia DeMarce, et al. . It can be found as an E book.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id50" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Lippincott_Williams_&amp;_Wilkins | parent | Wolters_Kluwer</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+        <mtriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDS (journal) is published in the UK by Lippincott, Williams &amp; Wilkins whose parent company is Wolters Kluwer.</lex>
+      <lex comment="good" lid="Id2">The AIDS journal is published in the United Kingdom by Lippincott, Williams &amp; Wilkins, the parent company of which is Wolters Kluwer.</lex>
+      <lex comment="good" lid="Id3">Wolters Kluwer is the parent company of Lippincott Williams &amp; Wilkins, which publishes the AIDS Journal in the United Kingdom.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+        <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDS journal was published by Lippincott Williams &amp; Wilkins in the United Kingdom where Elizabeth II is the leader.</lex>
+      <lex comment="good" lid="Id2">The AIDS journal is published by Lippincot Williams &amp; Wilkins and comes from the United Kingdom where Elizabeth II is the leader.</lex>
+      <lex comment="good" lid="Id3">The AIDS journal, which came from the United Kingdom in the reign of Elizabeth II, was published by Lippincott Williams and Wilkins.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id52" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott, Williams &amp; Wilkins. It is is published in the UK, which capital is London.</lex>
+      <lex comment="good" lid="Id2">AIDS (journal) is published in the United Kingdom by Lippincott Williams &amp; Wilkins. The capital city of the United Kingdom is London.</lex>
+      <lex comment="good" lid="Id3">The capital of the UK is London; this is where the AIDS journal is published by Lippincott Williams &amp; Wilkins.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id54" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>Lippincott_Williams_&amp;_Wilkins | country | United_States</otriple>
+        <otriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lippincott_Williams_&amp;_Wilkins | parent | Wolters_Kluwer</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>Lippincott_Williams_&amp;_Wilkins | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+        <mtriple>Lippincott_Williams_&amp;_Wilkins | country | United_States</mtriple>
+        <mtriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Lippincott Williams &amp; Wilkins are the publishers of AIDS (journal), they are based in the United States and their parent company is Walters Kluwer.</lex>
+      <lex comment="good" lid="Id2">Lippincott Williams &amp; Wilkins, whose parent company is Wolters Kluwer, is based in the United States and published the AIDS (journal).</lex>
+      <lex comment="good" lid="Id3">AIDS (journal) was published by Lippincott, Williams &amp; Wilkins, parent company Wolters Kluwer, from the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id72" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice was originally published in English. The book is from the United States, where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is written in the English language and is from the U.S. where the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Gray is written in English and comes from the United States where the Native Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id73" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice was written in the United States in English which is spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice, from the United States, is written in English which is the language spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id3">From the United States, A Fortress of Grey Ice was originally published in English which is the language spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id84" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | oclc | 57392246</otriple>
+        <otriple>A_Long_Long_Way | isbn | "0-670-03380-4"</otriple>
+        <otriple>A_Long_Long_Way | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | OCLC_number | 57392246</mtriple>
+        <mtriple>A_Long_Long_Way | ISBN_number | "0-670-03380-4"</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The hardback book A Long Long Way has an OCLC number 57392246 and an ISBN number 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way is available in hardcover. The OCLC number is 57392246 and the ISBN number is 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way is available in hardcover and has the OCLC number of 57392246 and the ISBN number 0-670-03380-4.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id85" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | oclc | "57392246"</otriple>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+        <otriple>A_Long_Long_Way | isbn | "0-670-03380-4"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | OCLC_number | 57392246</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"</mtriple>
+        <mtriple>A_Long_Long_Way | ISBN_number | "0-670-03380-4"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way has a OCLC number of 57392246 and a ISBN number of 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way was published in both Print &amp; Paperback. It has the OCLC number of 57392246 and the ISBN numberr of 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way was published in print and paperback. Its ISBN number is 0-670-03380-4 and its OCLC number is 57392246.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id86" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | precededBy | "Annie Dunne"@en</otriple>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+        <otriple>A_Long_Long_Way | oclc | 57392246</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | oclc | "57392246"</otriple>
+        <otriple>A_Long_Long_Way | precededBy | "Annie Dunne"@en</otriple>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | OCLC_number | 57392246</mtriple>
+        <mtriple>A_Long_Long_Way | precededBy | Annie_Dunne</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way , which was published in Print &amp; Paperback, was preceded by Annie Dunne, it has an OCLC number of 57392246.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way, preceded by Annie Dunne, was published in print &amp; paperback. Its OCLC number is 57392246.</lex>
+      <lex comment="good" lid="Id3">Preceded by Annie Dunne, A Long Long Way was published in print &amp; paperback with the OCLC number 57392246.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id87" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way, the prequel to The Secret Scripture, was published by Viking Press.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way, an Irish book, was published by Viking Press and is the prequel to The Secret Scripture.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way, from Ireland, and published by Viking Press, was followed by The Secret Scripture.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id88" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>Viking_Press | parent | Penguin_Random_House</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>Viking_Press | parentCompany | Penguin_Random_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+        <mtriple>Viking_Press | parentCompany | Penguin_Random_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way was written in Ireland and published by Penguin Random House (parent company Viking Press).</lex>
+      <lex comment="good" lid="Id2">A Long Long Way is from Ireland and published by Viking Press whose parent company is Penguin Random House.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way comes from Ireland and was published by Viking Press who have the parent company Penguin Random House.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id89" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+        <otriple>Ireland | ethnicGroup | White_people</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
+        <mtriple>Ireland | ethnicGroup | White_people</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way, published by Viking Press, comes from Ireland where the ethnic group is White people.</lex>
+      <lex comment="good" lid="Id2">The book "A Long Long Way was published by Viking Press. It was written in Ireland, where white people are considered an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Viking Press published A Long Long Way which comes from Ireland where an ethnic group is white people.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id90" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+        <otriple>The_Secret_Scripture | publisher | Faber_and_Faber</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
+        <mtriple>The_Secret_Scripture | publisher | Faber_and_Faber</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Secret Scripture, published by Faber and Faber is the follow up book to the Irish novel A Long Long Way.</lex>
+      <lex comment="good" lid="Id2">The novel A Long Long Way, which was written in Ireland, was followed by The Secret Scripture which Faber and Faber published.</lex>
+      <lex comment="good" lid="Id3">The novel A Long Long Way was written in Ireland and was followed by The Secret Scripture which is published by Faber and Faber.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id91" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way (followed by the book The Secret Scripture) is written in the English language, which is spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id2">Followed by The Secret Scripture, the book A Long Long Way is written in English, the language spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id92" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | numberOfPages | "292"^^xsd:positiveInteger</otriple>
+        <otriple>A_Long_Long_Way | isbn | "0-670-03380-4"</otriple>
+        <otriple>A_Long_Long_Way | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | numberOfPages | "292"</mtriple>
+        <mtriple>A_Long_Long_Way | ISBN_number | "0-670-03380-4"</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way, available in hardcover, has 292 pages in it and the ISBN number 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id2">Available in hardcover, A Long Long Way is 292 pages long and has the ISBN number 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way, with 292 pages, is available in hardcover. Its ISBN number is 0-670-03380-4.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id93" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | numberOfPages | "292"^^xsd:positiveInteger</otriple>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+        <otriple>A_Long_Long_Way | oclc | 57392246</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | numberOfPages | "292"^^xsd:positiveInteger</otriple>
+        <otriple>A_Long_Long_Way | oclc | "57392246"</otriple>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | numberOfPages | "292"</mtriple>
+        <mtriple>A_Long_Long_Way | OCLC_number | 57392246</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way, OCLC #57392246, is 292 pages and published in Print &amp; Paperback.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way was printed in print and paperback. It has 292 pages and the OCLC number 57392246.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way is 292 pages and was published in print and paperback with the OCLC number 57392246.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id94" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | numberOfPages | "292"^^xsd:positiveInteger</otriple>
+        <otriple>A_Long_Long_Way | oclc | "57392246"</otriple>
+        <otriple>A_Long_Long_Way | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | numberOfPages | "292"^^xsd:positiveInteger</otriple>
+        <otriple>A_Long_Long_Way | oclc | 57392246</otriple>
+        <otriple>A_Long_Long_Way | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | numberOfPages | "292"</mtriple>
+        <mtriple>A_Long_Long_Way | OCLC_number | 57392246</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way (292 pages) is available in hardcover and has the OCLC number 57392246.</lex>
+      <lex comment="good" lid="Id2">The book 'A Long Long Way' with the OCLC number 57399346 is available in hardcover and has 292 pages.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way is 292 pages long and is available in hardcover. It has an OCLC number of 57392246.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id95" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | numberOfPages | "292"^^xsd:positiveInteger</otriple>
+        <otriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"@en</otriple>
+        <otriple>A_Long_Long_Way | isbn | "0-670-03380-4"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | numberOfPages | "292"</mtriple>
+        <mtriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"</mtriple>
+        <mtriple>A_Long_Long_Way | ISBN_number | "0-670-03380-4"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way is 292 pages long and was published in Print &amp; Paperback with the ISBN 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way, ISBN 0-670-03380-4, was published in Print &amp; Paperback and has 292 pages.</lex>
+      <lex comment="good" lid="Id3">A Long Long Way, with 292 pages, was published in print &amp; paperback. Its ISBN number is 0-670-03380-4.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id96" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>Viking_Press | parent | Penguin_Random_House</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>Viking_Press | parentCompany | Penguin_Random_House</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+        <mtriple>Viking_Press | parentCompany | Penguin_Random_House</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel A Long Long Way, followed by The Secret Scripture, was published by Viking Press whose parent company is Penguin Random House.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way and it's sequel The Secret Scripture is published by Viking Press, parent company Penguin Random House.</lex>
+      <lex comment="good" lid="Id3">Viking Press published "A Long Long Way." The book is a prequel to The Secret Scripture.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id103" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | language | English_language</otriple>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | language | English_language</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is written in English and published by Soho Press in the United States.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is written in English and published in the United States by Soho Press.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer is published in the United States, written in English and published by Soho Press.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id104" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer, published in the United States is written in English. English is the national language of Great Britain.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer, published in the United States, is written in English (also spoken in Great Britain).</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer is published in the United States and written in English, which is also spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id105" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press in the United States, which counts African Americans among its ethnic groups.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer was published in the United States by Soho Press. One of the ethnic groups in the US are African Americans.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer is published by Soho Press in the United States where the African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id106" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press in the United States. The United States has an ethnic group called Asian Americans.</lex>
+      <lex comment="good" lid="Id2">The US, home to many Asian Americans, is also where Soho Press published the book A Loyal Character Dancer.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id107" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press, in the United States, where some Native Americans live.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where one of the ethnic groups is Native Americans.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer was published by Soho Press in the United States where Native Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id108" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press in the United States. The language of the United States is English.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where English is the language.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer is published in the United States by Soho Press. The national language of the U.S. is English.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id109" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press in the United States, which leader is Barack Obama.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press, in the United States where the leader is Barack Obama.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer was published by Soho Press in the United States which is led by Barack Obama.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id110" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press which is based in the United States. In addition, African Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the US where African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id111" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press in the United States which includes many Asian Americans.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press, that is based in United States, where there is an ethnic group called Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer is published by Soho Press which is located in the U.S. where Asian Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id112" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press, which is located in the U.S, where some Native Americans live.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">The US is home to Native Americans and also where Soho Press published A Loyal Character Dancer.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id113" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press in the United States where the language is English.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where English is the language.</lex>
+      <lex comment="good" lid="Id3">Soho Press is based in the United States where the language used is English. They published A Loyal Character Dancer.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id114" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press in the United States where Barack Obama is the leader.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where Barack Obama is the president.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id118" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A severed Wasp was written in English in the United States, where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is written in English in the United States where one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp was written in the English language and originates from the United States where African American is one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id119" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is written in the English language and is from the United States where the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp was written in English in the United States where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">Native Americans are one of the ethnic groups of the United States where A Severed Wasp (written in English) is from.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id120" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | language | English_language</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | language | English_language</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where English is the primary language. Additionally, the United states has an ethnic group called Asian Americans.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp was written in the English language and is from the United States, where Asian Americans is one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is from the United States and is written in the English Language. Asian Americans are one of many ethnic groups in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id127" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Native Americans are one of the ethnic groups of the United States where A Wizard of Mars, which is published in English, originates from.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars is written in English and was published in the United States. Additionally, Native Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id3">The US is not only home to Native Americans but also the origin place of the English book A Wizard of Mars.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id128" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars, published in the United States was written in English, which is spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was written in English (which is spoken in Great Britain) and originates from the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id129" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | language | English_language</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The English-language book A Wizard of Mars originates from the United States that includes many Asian Americans.</lex>
+      <lex comment="good" lid="Id2">Written in English, A Wizard of Mars was Published in the United States where one of the ethnic groups is Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id172" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | lccn | 57059226</otriple>
+        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | lccn | 57059226</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | lccn | "57059226"</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+        <mtriple>Administrative_Science_Quarterly | LCCN_number | 57059226</mtriple>
+        <mtriple>Administrative_Science_Quarterly | ISSN_number | "0001-8392"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Administrative Science Quarterly (ISSN number 0001-8392) is abbreviated to Admin. Sci. Q. It has an LCCN number of 57059226.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly known as, Admin. Sci. Q. has the LCCN number of 57059226 and the ISSN number of 0001-8392.</lex>
+      <lex comment="good" lid="Id3">The abbreviation of the Administrative Science Quarterly is Admin. Sci. Q. and it has the LCCN number 57059226 as well as the ISSN number 0001-8392.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id173" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+        <otriple>Administrative_Science_Quarterly | lccn | "57059226"</otriple>
+        <otriple>Administrative_Science_Quarterly | publisher | "SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+        <mtriple>Administrative_Science_Quarterly | LCCN_number | 57059226</mtriple>
+        <mtriple>Administrative_Science_Quarterly | publisher | "SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The LCCN number of Administrative Science Quarterly (also known as Admin. Sci. Q.) is 57059226. It was published by SAGE publications for the Samuel Curtis Johnson Graduate chool of Management, Cornell University.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. The LCCN number is 57059226 and the abbreviation is Admin.Sci.Q..</lex>
+      <lex comment="good" lid="Id3">Administrative Science Quarterly publisher of SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University, its abreviation is Admin. Sci. Q. and the LCCN number is 57059226.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id174" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+        <otriple>Administrative_Science_Quarterly | issn | "0001-8392"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+        <mtriple>Administrative_Science_Quarterly | academicDiscipline | Management</mtriple>
+        <mtriple>Administrative_Science_Quarterly | ISSN_number | "0001-8392"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Administrative Science Quarterly, or Admin. Sci. Q, is in the management discipline with ISSN number 0001-8392.</lex>
+      <lex comment="good" lid="Id2">The ISSN number "0001-8392" is for Administrative Science Quarterly (Admin. Sci. Q ) which comes under the academic discipline of Management.</lex>
+      <lex comment="good" lid="Id3">Administrative Science Quarterly (Admin. Sci. Q.) comes under the academic discipline of Management and the ISSN number is 0001-8392.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id175" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+        <otriple>Administrative_Science_Quarterly | publisher | "SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+        <mtriple>Administrative_Science_Quarterly | academicDiscipline | Management</mtriple>
+        <mtriple>Administrative_Science_Quarterly | publisher | "SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Administrative Science Quarterly is the publisher of SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It's academic discipline is Management and its abbreviation is Admin. Sci. Q.</lex>
+      <lex comment="good" lid="Id2">The Administrative Science Quarterly, or Admin. Sci. Q, comes under the academic discipline of Management. It is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University.</lex>
+      <lex comment="good" lid="Id3">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It comes under the academic discipline of Management and has the abbreviation Admin.Sci.Q..</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id176" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+        <otriple>Administrative_Science_Quarterly | lccn | 57059226</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+        <otriple>Administrative_Science_Quarterly | lccn | 57059226</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | lccn | "57059226"</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | lccn | "57059226"</otriple>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | academicDiscipline | Management</mtriple>
+        <mtriple>Administrative_Science_Quarterly | LCCN_number | 57059226</mtriple>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Administrative Science Quarterly is abbreviated to Admin. Sci. Q. and has the LCCN number 57059226. It comes under the academic discipline of Management.</lex>
+      <lex comment="good" lid="Id2">The academic discipline of Administrative Science Quarterly (which can be abbreviated to Admin. Sci. Q. ) is Management. It has the LLCN number 57059226.</lex>
+      <lex comment="good" lid="Id3">Administrative Science Quarterly, or Admin. Sci. Q is under Management and has a LLCN number of 57059226.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id177" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Administrative_Science_Quarterly | discipline | Management</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Administrative_Science_Quarterly | academicDiscipline | Management</mtriple>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Administrative Science Quarterly (abbreviated to Admin. Sci. Q.) comes under the academic discipline of Management and is published by Cornell University.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly, abbreviated to Admin. Sci. Q, was published by Cornell University and has the academic discipline of Management.</lex>
+      <lex comment="good" lid="Id3">Cornell University is the publisher of Administrative Science Quarterly which academic discipline is management and can be abbreviated to Admin. Sci. Q.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id178" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliations | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
+        <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University, which is in Ithaca, New York and affiliated with the Association of American Universities, is the publisher of the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2">Cornell University, Ithaca, New York, publishes Administrative Science Quarterly and is affiliated with the Association of American Universities.</lex>
+      <lex comment="good" lid="Id3">Cornell University, in Ithaca, New York is affiliated with the Association of American Universities and is the publisher of Administrative Science Quarterly.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id179" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | president | Elizabeth_Garrett</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
+        <mtriple>Cornell_University | president | Elizabeth_Garrett</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University, where the President is Elizabeth Garrett, is affiliated with the Association of American Universities and is the publisher of Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly was published by Cornell University, affiliated with the Association of American Universities, whose president is Elizabeth Grant.</lex>
+      <lex comment="good" lid="Id3">Cornell University (affiliated with the Association of American Universities) is the publisher of the Administrative Science Quarterly. The president of Cornell University is Elizabeth Garrett.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id180" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliations | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | affiliations | Association_of_American_Universities</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University, which publishes of Administrative Science Quarterly, is affiliated with both the Association of American Universities and the Association of Public and Land grant Universities.</lex>
+      <lex comment="good" lid="Id2">Cornell University is affiliated with the Association of Public and Land grant Universities and the Association of American Universities. It is the publisher of the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3">Cornell University which published Administrative Science Quarterly is affiliated with the Association of Public and Land grant Universities as well as with the Association of American Universities.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id181" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliations | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
+        <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University is situated in Ithaca, New York and is affiliated with the Association of Public and Land grant Universities. It was responsible for publishing Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2">Cornell University, in Ithaca, New York, is the publisher of Administrative Science Quarterly and is affiliated with the Association of Public and Land grant Universities.</lex>
+      <lex comment="good" lid="Id3">Cornell University, Ithaca, New York, is affiliated with the Association of Public and Land grant Universities, and the publisher of the Administrative Science Quarterly.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id182" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | president | Elizabeth_Garrett</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
+        <mtriple>Cornell_University | president | Elizabeth_Garrett</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Administrative Science Quarterly is published by Cornell University (president Elizabeth Garrett). The university is affiliated with the Association of Public and Land grant Universities.</lex>
+      <lex comment="good" lid="Id2">Elizabeth Garrett is president of Cornell University which is affiliated with the Association of Public and Land grant Universities and publishes the Administrative Science Quarterly.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id183" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</otriple>
+        <otriple>Cornell_University | state | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
+        <mtriple>Cornell_University | state | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cornell University, New York, affiliated with the Association of Public and Land Grant Universities, is the publisher of Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2">Cornell University (of New York) is the publisher of Administrative Science Quarterly and is also affiliated with the Association of Public and Land grant Universities.</lex>
+      <lex comment="good" lid="Id3">Cornell University in the state of New York is affiliated with the Association of Public and Land grant Universities and publishes Administrative Science Quarterly.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id194" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is written in the English language and it comes from the U.S., where there is and ethnic group of African Americans.</lex>
+      <lex comment="good" lid="Id2">The book Alcatraz Versus the Evil Librarians is written in English and comes from the United States where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians, written in English, is from the United States, where there is an ethnic group called the African Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id195" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the U.S. and is written in English. One of the ethnic groups in the US are the Native Americans.</lex>
+      <lex comment="good" lid="Id2">Written in English, Alcatraz Versus the Evil Librarians comes from the US. Native Americans are one of the ethnic groups of the United States.</lex>
+      <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians, written in English, is from the United States, which has Native Americans among its ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id196" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Written in English, the book Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id2">The US is home to Asian Americans and the origin place of Alcatraz Versus the Evil Librarians.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians was written in English and comes from the United States where one of the ethnic groups are the Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id197" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians is written in the English language and comes from the U.S. One of the ethnic groups in the U.S. are White Americans.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians (written in English) is from the United States, where White Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians comes from the U.S. and is written in English. An ethnic group in the U.S. is white Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id217" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Loyal_Character_Dancer | country | United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is published in the United States where, just like in Great Britain, the language spoken is English.</lex>
+      <lex comment="good" lid="Id2">English is the both spoken in Great Britain and the language of the United states where "A Loyal Character Dancer"is also published.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id218" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">English is spoken in both Great Britain and the United States. Additionally, A severed Wasp is from the United States.</lex>
+      <lex comment="good" lid="Id2">English is spoken in the US and Great Britain. A Severed Wasp was published in the US.</lex>
+      <lex comment="good" lid="Id3">A severed Wasp originates from the United States, where the language is English. English is spoken in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id219" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">English is spoken in Great Britain and the US. The US is where "A Wizard of Mars was published.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States. In this country and Great Britain English is the language spoken.</lex>
+      <lex comment="good" lid="Id3">The English language is spoken in Great Britain and the United States (the origin of A Wizard of Mars).</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id225" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
+        <otriple>Administrative_Science_Quarterly | oclc | 1461102</otriple>
+        <otriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
+        <otriple>Administrative_Science_Quarterly | oclc | "01461102"</otriple>
+        <otriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>SAGE_Publications | founder | Sara_Miller_McCune</mtriple>
+        <mtriple>Administrative_Science_Quarterly | OCLC_number | 1461102</mtriple>
+        <mtriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Administrative Science Quarterly, OCLC 1461102, is published by SAGE Publications founded by Sara Miller McCune.</lex>
+      <lex comment="good" lid="Id2">SAGE Publications, founded by Sara Miller McCune, is the publisher of Administrative Science Quarterly which has the OCLC number 1461102.</lex>
+      <lex comment="good" lid="Id3">The Administrative Science Quarterly (OCLC number 1461102) is published by Sage Publications, the company which was founded by Sara Miller McCune.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id226" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."@en</otriple>
+        <otriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>SAGE_Publications | founder | Sara_Miller_McCune</otriple>
+        <otriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</otriple>
+        <otriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>SAGE_Publications | founder | Sara_Miller_McCune</mtriple>
+        <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
+        <mtriple>Administrative_Science_Quarterly | publisher | SAGE_Publications</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Administrative Science Quarterly (Admin. Sci. Q) is published by SAGE Publications which was founded by Sara Miller McCune.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly ( Admin. Sci. Q,) is published by SAGE Publications who's founder is Sara Miller McCune.</lex>
+      <lex comment="good" lid="Id3">Sara Miller McCune is the founder of SAGE publications which publishes the Administrative Science Quarterly. The abbreviation for the Administrative Science Quarterly is Admin. Sci. Q.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id227" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_Kingdom | language | English_language</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | language | English_language</mtriple>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott Williams &amp; Wilkins in the United Kingdom, in the English language.</lex>
+      <lex comment="good" lid="Id2">The AIDS journal is from the United Kingdom where the spoken language is English. It is published by Lippincott Williams &amp; Wilkins.</lex>
+      <lex comment="good" lid="Id3">AIDS (journal) is published by Lippincott Williams &amp; Wilkins in the UK where English is the main language.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id228" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_Kingdom | leader | David_Cameron</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | David_Cameron</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leaderName | David_Cameron</mtriple>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AIDS (journal), is published by Lippincott Williams &amp; Wilkins who are based in the United Kingdom which is where David Cameron is the leader.</lex>
+      <lex comment="good" lid="Id2">The AIDS journal was published by Lippincott, Williams &amp; Wilkins in the UK. David Cameron is the leader.</lex>
+      <lex comment="good" lid="Id3">The AIDS (journal) is published by Lippincott Williams &amp; Wilkins. It was published in the United Kingdom, which leader is David Cameron.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id229" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States, which has the capital Washington DC and contains the ethnic group African American.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion comes from the United States which has the capital city of Washington DC and the ethnic group of African Americans.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion is from the United States where the capital city is Washington D.C, and an ethnic group is African American.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id230" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Washington D. C. is the capital of the United States which includes many Asian Americans. 1634 The Ram Rebellion comes from the country.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion was written in the U.S,, where there are many Asian Americans and the capital city is Washington D.C.</lex>
+      <lex comment="good" lid="Id3">1634 The Ram Rebellion was written in the United States where the capital city is Washington D.C. Additionally, Asian Americans are one of the ethnic minorities in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id231" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Native Americans are an ethnic group in the U.S. where the capital city is Washington DC and 1634 The Ram Rebellion was written.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion was written in the U.S. where the capital is Washington DC and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">The book, 1634: The Ram Rebellion, comes from the United States, whose capital is Washington, D.C., and has Native Americans as one of its ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id232" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States, where the capital is Washington DC and Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Washington D. C. is the capital of the United States the country where Native Americans are an ethnic group. It is also where A Fortress of Grey Ice is from.</lex>
+      <lex comment="good" lid="Id3">The US is home to Native Americans and is the origin place of A Fortress of Grey Ice. Washington, D.C. is the capital.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id233" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp comes from the United States where the capital is Washington D.C. and one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States, the capital city of which is Washington and where African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id234" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars originates from the United States where the Native Americans are an ethnic group and the capital city is Washington DC.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars comes from the United States where Native Americans are one of the ethnic groups and the capital city is Washington D.C.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars was published in the United States where the Native Americans are an ethnic group and the capital city is Washington DC.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id235" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is written in English and from the United States where some African Americans live.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is written in the English language. It is from the United States where one of the ethnic groups is African Americans.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice, originally published in English, is from the United States, which includes African Americans among its ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id236" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where African Americans are one of the ethnic groups and the capital city is Washington D.C.</lex>
+      <lex comment="good" lid="Id2">In the United States one of the ethnic groups is African American and the capital is Washington DC. A Fortress of Grey Ice is from the country.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id237" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the ethnic Groups of the United States (where the capital city is Washington D.C) is African American. Additionally, A Wizard of Mars originates from the United States.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was published in the United States, where the capital is Washington, D.C. African Americans are one of the ethnic groups there.</lex>
+      <lex comment="good" lid="Id3">Washington D. C. is the capital of the United States a country where one of the ethnic groups is African Americans. Also where A Wizard of Mars originates from.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id238" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States, where the language is English and where one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2">In the United States, where English is the primary language, one of the ethnic groups is African American. In addition, A Fortress of Grey Ice is also from the United States.</lex>
+      <lex comment="good" lid="Id3">'A Fortress of Grey Ice' is from the United States where English is the language and African Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id239" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars comes from the United States where they speak english and African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">English is the language of the United States where A Wizard of Mars was published. One of the ethnic groups in the country are the African Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id240" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where Barack Obama is the leader and the African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Barack Obama is both president of the US and African American, which is an ethnic group of the United States. A Fortress of Grey Ice originates from the US.</lex>
+      <lex comment="good" lid="Id3">In the United States, one of the ethnic groups is African American, Barack Obamais President and it is where A Fortress of Grey Ice originates.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id241" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars was published in the United States, where Barack Obama is the leader and one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2">Barack Obama, president of the US is an African American man, which is one of the ethnic groups of the United States. A Wizard of Mars was published in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id242" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars was Published in the United States where the leader the President. it is also where one of the ethnic groups is African Americans.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States, which is led by the President, and includes African Americans as one of its ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States, where the title of the leader is the President and where African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id243" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Many Asian Americans live in the United States, the country where English is the language and where 'A Fortress of Grey Ice' is from.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice was originally published in English. The book came from the United States, where there is an ethnic group called Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is written in the English language and is from the United States where one of the ethnic groups are Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id244" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the US, where the capital city is Washington D.C. There are many Asian Americans in the United States.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States, where Washington D. C. is the capital and Asian Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">The US is home to Asian Americans and the origin place of A Fortress of Grey Ice. Washington, D.C. is the capital.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id245" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A severed Wasp originates from the United States, a country that includes many Asian Americans and has Washington, D.C. as its capital.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States, where there is an ethnic group called Asian Americans and where the capital is Washington DC.</lex>
+      <lex comment="good" lid="Id3">The US is home to Asian Americans and is the origin place of A Severed Wasp. Washington, D.C. is the capital.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id246" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In the United States, English is the language spoken and one of the ethnic groups is Asian Americans. It is also the country where A Fortress of Grey Ice is from.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where they speak English and of the ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States which has the language of English and where the Asian Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id247" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where the language is English and the Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States where the language is English and one of the ethnic groups are the Asian Americans.</lex>
+      <lex comment="good" lid="Id3">English is spoken in the US; which is home to Asian Americans and the origin place of A Severed Wasp.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id248" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In the United States, English is the language, Asian Americans are an ethnic group and the book Alcatraz versus the Evil Librarians was written.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from The United States where English is spoken and the Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians comes from the United States where English is the primary language. Additionally, Asian Americans is one of the ethnic groups in the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id249" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where there are many Asian Americans and the leader is Barack Obama.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where Barack Obama is the president and one of the ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States where Barack Obama is the leader and Asian Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id250" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is from The United States, where the leader is Barack Obama and Asian Americans is one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">The book Alcatraz Versus the Evil Librarians comes from the U.S. where Barack Obama is the leader of the country which includes many Asian Americans.</lex>
+      <lex comment="good" lid="Id3">The United States is home to Barack Obama and Asian Americans. Alcatraz Versus the Evil Librarians was also written here.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id251" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | leaderName | Joe_Biden</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the U.S., where Joe Biden is a leader and Asian Americans are one of its ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from The United States which has many Asian Americans. Joe Biden is a leader in the U.S.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from The United States where Joe Biden is a leader and there are many Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id252" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States which is led by the President and includes the ethnic group of Asian Americans.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where the leader is called the President and there are many Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States, where the leader is known as the President. Asian Americans is one of the ethnic groups there.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id253" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where the English language is used and one of the ethnic groups are the Native Americans.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States, where the language is English and Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States where English is spoken, however there are a large number of ethic groups in the U.S. including Native Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id254" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A severed Wasp originates from the United States. where the language is English and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp is from the United States where the language is English and the Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is from the United States where English is the primary language. In addition Native Americans are an ethnic group in the USA.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id255" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars is from the United States were they speak English and one of the ethnic groups is Native Americans.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States, which English is the language, and Native Americans are among its ethnic groups.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars was published in the United States where they speak English and Native Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id256" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups is African American and the language used is English.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from the United States where they speak English and one of the ethnic groups is African American.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id257" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is from The United States where the English language is spoken and one of the ethnic groups are the Native Americans.</lex>
+      <lex comment="good" lid="Id2">The US is home to Native Americans and the origin place of Alcatraz Versus the Evil Librarians.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans and the English language is spoken.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id258" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States. Here and in Great Britain the language spoken is English.</lex>
+      <lex comment="good" lid="Id2">The English language is spoken in Great Britain and the United States. A Fortress of Grey Ice is from the US.</lex>
+      <lex comment="good" lid="Id3">A Fortress of Grey Ice is from the United States where english is spoken as it is in Great Britain.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id259" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is from the United States where they speak English and White Americans live.</lex>
+      <lex comment="good" lid="Id2">In the United States, the language is English, White Americans are an ethnic group and the book Alcatraz Verses the Evil Librarians was written.</lex>
+      <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians comes from the United States where the language is English and White Americans live.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id260" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States, where Barack Obama is the president. African Americans are one of the ethnic groups there.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion comes from the United States where the African Americans are an ethnic group and Barack Obama is President.</lex>
+      <lex comment="good" lid="Id3">1634 The Ram Rebellion comes from the United States, where the leader is Barack Obama and the African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id261" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States where the Asian Americans are an ethnic group and Barack Obama leads the country.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion is from the United States where Barack Obama is the president and there are many Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id262" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion was written in the U.S. where Native Americans live and Barack Obama is the leader.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion comes from the United States where Barack Obama is president and Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">1634 The Ram Rebellion comes from the United States where the leader is Barack Obama and the Native Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id263" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barack Obama is the leader of the United States. A Fortress of Grey Ice is from the USA and Native Americans are an ethnic group in the US.</lex>
+      <lex comment="good" lid="Id2">The United States, home to Barack Obama and Native Americans, is also the origin place of A Fortress of Grey Ice.</lex>
+      <lex comment="good" lid="Id3">Native Americans are one of the ethnic groups in the United States where Barack Obama is the president. It is also the country that A Fortress of Grey Ice is from.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id264" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States where the leader is Barack Obama and one of the ethnic groups is African Americans.</lex>
+      <lex comment="toFix" lid="Id2">Barack Obama is the president of the U.S. which is home to the severed wasp and also African Americans.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is from the United States where Barack Obama is the leader and African Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id265" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A severed Wasp originates from the United States where the President is Barack Obama. One of the ethnic groups in the US are the Native Americans.</lex>
+      <lex comment="good" lid="Id2">Native Americans are an ethnic group in the United States where Barack Obama is president and where A Severed Wasp is from.</lex>
+      <lex comment="good" lid="Id3">A severed Wasp originates from the United States where the leader is Barack Obama and the Native Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id266" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barack Obama is president of the United States where A Wizard of Mars was published and Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars was Published in the United States, where Barack Obama is the President and where Native Americans are an ethnic group.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id267" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Native Americans and Alcatraz Versus the Evil Librarians are part of the US; which Barack Obama is the president of.</lex>
+      <lex comment="good" lid="Id2">The united States, under the leadership of Barack Obama, is home to ethnic groups such as Native Americans and is where the book Alcatraz Versus the Evil Librarians came from.</lex>
+      <lex comment="good" lid="Id3">Barack Obama is president of the United States where one of the ethnic groups are Native Americans. The book Alcatraz Versus the Evil Librarians originated in the U.S.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id268" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Barack_Obama</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States, where Barack Obama is the leader. Asian Americans are one of the ethnic groups there.</lex>
+      <lex comment="good" lid="Id2">A severed Wasp originates from the United States which has Barack Obama as leader and includes many Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp was written in the United States where Barack Obama is the leader and Asian Americans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id269" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderName | Joe_Biden</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the United States where one of the ethnic groups is African American and one of the leaders is Joe Biden.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from The United States where one of the leaders is Joe Biden and one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians comes from the United States where Joe Biden is a leader and one ethnic group is the African Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id270" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States where one of the ethnic groups is Asian Americans and the leader of the country is called the President.</lex>
+      <lex comment="good" lid="Id2">1634 The Ram Rebellion comes from the United States, where the title of the leader is the President and where there are many Asian Americans.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion was written in the US; which is home to many Asian Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id271" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>1634:_The_Ram_Rebellion | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States where the leader is known as the President and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">The President is the leader of the United States which is where 1634 The Ram Rebellion was written. Additionally, Native Americans are one of the ethnic groups of the United States.</lex>
+      <lex comment="good" lid="Id3">1634 The Ram Rebellion comes from the United States where one of the ethnic groups are the Native Americans and the leader is known as the President.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id272" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In the United States the title of the leader is the President. In this country Native Americans are one of the ethnic groups and A severed Wasp originates from.</lex>
+      <lex comment="good" lid="Id2">A severed Wasp originates from the United States where the leader has the title of President and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is from the United States where the leader is called the President, and one of the ethnic groups is Native Americans.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id273" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>A_Wizard_of_Mars | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars originates from the United States where the leader is called President and Native Americans live.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States where Native Americans are an ethnic group and the leader is called the President.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars was Published in the United States, a country which contains the ethnic group Native Americans and whose leader is known as the President.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id274" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asian Americans are on of the ethnic groups in the United States where the leader is called the President. It is also where 'A Severed Wasp' is from.</lex>
+      <lex comment="good" lid="Id2">The leader of the United States is known as the president, and within the US there are many African Americans. Additionally, A severed Wasp is from the United States.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id275" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Viking_Press | country | United_States</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Viking_Press | country | United_States</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Viking Press in the United States published A Long Long Way which was followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id2">The book "A Long Long Way" was published by Viking Press located in the United States. The novel was followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id3">Located in the United States, Viking Press published A Long Long Way, the novel which was followed by The Secret Scripture.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id276" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Viking_Press | country | United_States</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>Viking_Press | parent | Penguin_Random_House</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Viking_Press | country | United_States</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>Viking_Press | parentCompany | Penguin_Random_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Viking_Press | country | United_States</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+        <mtriple>Viking_Press | parentCompany | Penguin_Random_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Long Long Way is published by Viking Press from the United States, parent company Penguin Random House.</lex>
+      <lex comment="good" lid="Id2">Viking Press in the United States is owned by its parent company Penguin Random House and published the book "A Long Long Way".</lex>
+      <lex comment="good" lid="Id3">Penguin Random House is the parent company of Viking Press in the United States which published A Long Long Way.</lex>
+    </entry>
+  </entries>
+</benchmark>

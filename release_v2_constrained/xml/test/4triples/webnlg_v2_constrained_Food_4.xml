@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id197" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Apple</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Apple</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Apple</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Apple</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Apple</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Apple</mtriple>
+        <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
+        <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
+        <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes can be made with apple. They contain 1.8g of protein, 4.8 g of fat and 18 grams of carbohydrate.</lex>
+      <lex comment="good" lid="Id2">Barny cakes, made with apple, contain 1.8g of protein, 18.0g of carbohydrates and 4.8 g of fat.</lex>
+    </entry>
+    <entry category="Food" eid="Id198" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Chocolate</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Chocolate</mtriple>
+        <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
+        <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
+        <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny Cakes can be chocolate flavoured. It contains 1.8 g of protein, 18 grams of carbs and 4.8 g of fat.</lex>
+      <lex comment="good" lid="Id2">Barny cakes, which can be chocolate flavoured, contain 1.8g of protein, 4.8g of fat and 18g of carbohydrates.</lex>
+    </entry>
+    <entry category="Food" eid="Id199" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Milk</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Milk</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Milk</mtriple>
+        <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
+        <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
+        <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny Cakes can include milk and contain 1.8g of protein, 4.8g of fat and 18.0g of carbohydrates.</lex>
+      <lex comment="good" lid="Id2">Barny cakes have a dish variation that uses milk in the recipe. The nutritional value of the Barny cake includes the following: 1.8g protein, 18.00g carbohydrates and 4.8g of fat.</lex>
+      <lex comment="good" lid="Id3">Barny cakes have 1.8g protein, 4.8g fat and 18g carbohydrates. One variation of the dish uses milk in the recipe.</lex>
+    </entry>
+    <entry category="Food" eid="Id200" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Strawberry</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Strawberry</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Strawberry</mtriple>
+        <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
+        <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
+        <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the variations of Barny Cakes is with Strawberry flavour. They contain 1.8g of protein, 4.8 g of fat and 18 grams of carbs.</lex>
+      <lex comment="good" lid="Id2">Strawberries can be added to barny cakes that contain 1.8 g of protein, 4.8 g of fat and 18 grams of carbs.</lex>
+      <lex comment="good" lid="Id3">Barny Cakes can include straweberries and contain 1.8 g of protein, 18.0g of carbohydrates and 4.8g fat.</lex>
+    </entry>
+  </entries>
+</benchmark>

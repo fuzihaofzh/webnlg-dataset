@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | league | Salvadoran_Primera_División</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | league | Salvadoran_Primera_División</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A D Isidro Metapán play in a league called the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapán is in the Salvadoran Primera División league.</lex>
+      <lex comment="good" lid="Id3">A.D. Isidro Metapan play in the Salvadoran Primera Division.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | clubs | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel has represented the club FC Sachsen Leipzig.</lex>
+      <lex comment="good" lid="Id2">Jens Härtel played for FC Sachsen Leipzig.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | FC_Dallas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | FC_Dallas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | FC_Dallas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodríguez is a member of the club FC Dallas.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez is in the FC Dallas club.</lex>
+      <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for FC Dallas.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stoger is the manager of FC Kolin.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is manager of 1. FC Köln.</lex>
+      <lex comment="good" lid="Id3">The manager of 1. FC Koln is Peter Stoger.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1._FC_Köln | capacity | 50000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | numberOfMembers | 50000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1. FC Köln has 50000 members.</lex>
+      <lex comment="good" lid="Id2">F.C. Koln have 50000 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1._FC_Köln | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1 FC Köln played in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">2014 saw 1. FC Koln participating.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1._FC_Köln | season | 2014–15_Bundesliga</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | season | 2014–15_Bundesliga</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1. FC Köln were in the 2014–15 Bundesliga season.</lex>
+      <lex comment="good" lid="Id2">FC Köln played the 2014-15 season in the Bundesliga.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The manager of FC Magdeburg is Jens Härtel.</lex>
+      <lex comment="good" lid="Id2">Jens Härtel has been the manager of 1 FC Magdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.D. Isidro Metapan's full name is "Asociación Deportiva".</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapán's full name is Asociación Deportiva.</lex>
+      <lex comment="good" lid="Id3">The fullname of A.D. Isidro Metapan is Asociacion Deportiva.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | fullname | "Isidro Metapán"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | fullname | "Isidro Metapán"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The full name of A.D. Isidro Metapan is Isidro Metapan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | "Metapán, El Salvador"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | ground | "Metapán, El Salvador"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ground of AD Isidro Metapán is located in Metapán, El Salvador.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapan's ground is in Metapan, El Salvador.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.D. Isidro Metapán are at Estadio Jorge Calero Suárez.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapan play at the Estadio Jorge Calero Suarez.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | Metapán</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | ground | Metapán</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.D. Isidro Metapán's ground is in Metapán.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapán is playing in it's ground at Metapán.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodriguez has been manager of A D Isidro Metapán.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan.</lex>
+      <lex comment="good" lid="Id3">A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AD Isidro Metapan has 10000 members.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapán has 10000 members.</lex>
+      <lex comment="good" lid="Id3">The number of members of Isidro Metapán is 10000.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The first club Jens Härtel played for was FC Lokomotive Leipzig.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel plays for 1. FC Lokomotive Leipzig.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | 1._FC_Union_Berlin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | 1._FC_Union_Berlin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel is part of the club 1. FC Union Berlin.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | Berliner_AK_07</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel played for Berliner AK 07.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel club is Berliner AK 07.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id202" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | clubs | FSV_Zwickau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | FSV_Zwickau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Hartel is attached to the club FSV Zwickau.</lex>
+      <lex comment="good" lid="Id2">Jens Härtel is a member of the FSV Zwickau club.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | RB_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | RB_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel is in the RB Leipzig club.</lex>
+      <lex comment="good" lid="Id2">Jens Härtel played for RB Leipzig.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id204" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | clubs | SV_Babelsberg_03</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | SV_Babelsberg_03</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | SV_Babelsberg_03</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel is part of the SV Babelsberg 03 club.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel plays for SV Babelsberg 03.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | SV_Germania_Schöneiche</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | clubs | SV_Germania_Schöneiche</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | SV_Germania_Schöneiche</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Hartel plays for SV Germania Schoneiche.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id216" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | Alianza_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | Alianza_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | Alianza_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodgriguez plays for the Alianza F.C. club.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez club is Alianza F.C.</lex>
+      <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for Alianza F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id217" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | C.D._FAS</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodriquez plays for the C.D. FAS.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez is in C.D. FAS.</lex>
+      <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for C.D. FAS.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | C.D._Águila</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | C.D._Águila</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._Águila</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodriguez is attached to the club CD Aguila.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodriguez is a member of C.D. Aguila.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id219" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | El_Salvador_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodríguez is a member of the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodriguez plays for the El Salvador national football team.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id246" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | Austria_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | Austria_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Footballer, Peter Stöger, plays for the Austria National Football team.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger plays for the Austria national football team.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger's club is the FC Admira Wacker Mödling.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger plays for FC Admira Wacker Modling.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id248" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stoger is a member of the FK Austria Wien soccer club.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is at the FK Austria Wien club.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger plays for FK Austria Wien.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id249" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | Favoritner_AC</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | Favoritner_AC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stoger plays for Favoritner AC.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id250" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stoger is attached to the club First Vienna FC.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id251" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | LASK_Linz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger played for the club LASK Linz.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger plays for LASK Linz.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id252" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger played for SC Wiener Neustadt.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger plays for SC Wiener Neustadt.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id253" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger was at the club SK Rapid Wien.</lex>
+      <lex comment="good" lid="Id2">PeterStöger plays for SK Rapid Wien club.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger plays for SK Rapid Wien.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id254" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger played football for SK Vorwärts Steyr.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is in the SK Vorwärts Steyr club.</lex>
+    </entry>
+  </entries>
+</benchmark>

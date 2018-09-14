@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Into_Battle_(novel) | country | Australians</otriple>
+        <otriple>Into_Battle_(novel) | subsequentWork | The_Violet_Keystone</otriple>
+        <otriple>Above_the_Veil | followedBy | Into_Battle_(novel)</otriple>
+        <otriple>Above_the_Veil | previousWork | Aenir</otriple>
+        <otriple>Aenir | precededBy | Castle_(novel)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Into_Battle_(novel) | country | Australians</mtriple>
+        <mtriple>Into_Battle_(novel) | followedBy | The_Violet_Keystone</mtriple>
+        <mtriple>Above_the_Veil | followedBy | Into_Battle_(novel)</mtriple>
+        <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
+        <mtriple>Aenir | precededBy | Castle_(novel)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The novel Into Battle is published in Australia. It is in a series of books including The Violet Keystone, Above The Veil, Aenir and Castle.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id27" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Above_the_Veil | country | Australians</otriple>
+        <otriple>Into_Battle_(novel) | subsequentWork | The_Violet_Keystone</otriple>
+        <otriple>Above_the_Veil | followedBy | Into_Battle_(novel)</otriple>
+        <otriple>Above_the_Veil | precededBy | Aenir</otriple>
+        <otriple>Aenir | previousWork | Castle_(novel)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Above_the_Veil | subsequentWork | Into_Battle_(novel)</otriple>
+        <otriple>Above_the_Veil | country | Australians</otriple>
+        <otriple>Into_Battle_(novel) | followedBy | The_Violet_Keystone</otriple>
+        <otriple>Above_the_Veil | precededBy | Aenir</otriple>
+        <otriple>Aenir | previousWork | Castle_(novel)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | country | Australians</mtriple>
+        <mtriple>Into_Battle_(novel) | followedBy | The_Violet_Keystone</mtriple>
+        <mtriple>Above_the_Veil | followedBy | Into_Battle_(novel)</mtriple>
+        <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
+        <mtriple>Aenir | precededBy | Castle_(novel)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was later followed by Into Battle and The Violet Keystone.</lex>
+      <lex comment="good" lid="Id2">Above the Viel is an Austrlian novel and the sequel to Aenir and Castle. It was followed by Into Battle and The Violet Keystone.</lex>
+      <lex comment="good" lid="Id3">Above the Veil is an Austrlian novel and the sequel to Aenir and Castle. It was followed by Into the Battle and The Violet Keystone.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id28" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aenir | country | Australians</otriple>
+        <otriple>Into_Battle_(novel) | subsequentWork | The_Violet_Keystone</otriple>
+        <otriple>Above_the_Veil | followedBy | Into_Battle_(novel)</otriple>
+        <otriple>Above_the_Veil | previousWork | Aenir</otriple>
+        <otriple>Aenir | precededBy | Castle_(novel)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aenir | country | Australians</otriple>
+        <otriple>Into_Battle_(novel) | subsequentWork | The_Violet_Keystone</otriple>
+        <otriple>Above_the_Veil | followedBy | Into_Battle_(novel)</otriple>
+        <otriple>Above_the_Veil | precededBy | Aenir</otriple>
+        <otriple>Aenir | previousWork | Castle_(novel)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Above_the_Veil | subsequentWork | Into_Battle_(novel)</otriple>
+        <otriple>Aenir | country | Australians</otriple>
+        <otriple>Into_Battle_(novel) | followedBy | The_Violet_Keystone</otriple>
+        <otriple>Above_the_Veil | precededBy | Aenir</otriple>
+        <otriple>Aenir | previousWork | Castle_(novel)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | followedBy | Into_Battle_(novel)</mtriple>
+        <mtriple>Aenir | country | Australians</mtriple>
+        <mtriple>Into_Battle_(novel) | followedBy | The_Violet_Keystone</mtriple>
+        <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
+        <mtriple>Aenir | precededBy | Castle_(novel)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aenir is an Australian novel that was preceded by the novel Castle. Above the Veil is the sequel to Aenir and was followed by Into Battle and The Violet Keystone.</lex>
+      <lex comment="good" lid="Id2">The Australian novel Aenir was preceded by the novel Castle and it's sequel is Above The Veil which in turn was followed by Into Battle and later The Violet Keystone.</lex>
+      <lex comment="good" lid="Id3">The novel "Into Battle", that was followed by The Violet Keystone, followed "Above the Veil", that was preceded By Aenir, which was written by Australians and after Castle.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id29" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Acta_Palaeontologica_Polonica | issn | "0567-7920"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | lccn | "60040714"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | publisher | "Institute of Paleobiology, Polish Academy of Sciences"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Palaeontologica_Polonica | issn | "0567-7920"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | lccn | "60040714"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | publisher | "Institute of Paleobiology, Polish Academy of Sciences"@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Palaeontologica_Polonica | ISSN_number | "0567-7920"</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | LCCN_number | 60040714</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | CODEN_code | "APGPAC"</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | publisher | "Institute of Paleobiology, Polish Academy of Sciences"</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acta Palaeontologica Polonica (abbr. Acta Palaeontol. Pol) is published by the Institute of Paleobiology, Polish Academy of Sciences. Code information: ISSN number 0567-7920, LCCN number of 60040714, CODEN code APGPAC.</lex>
+      <lex comment="good" lid="Id2">Acta Palaeontologica Polonica (abbrv. Acta Palaeontol. Pol) was published by the Institute of Paleobiology, Polish Academy of Sciences. Code information: ISSN 0567-7920, LCCN 60040714 and the CODEN code is APGPAC.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id30" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | issn | "0567-7920"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | lccn | 60040714</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | issn | "0567-7920"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | lccn | "60040714"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | issn | "0567-7920"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | lccn | "60040714"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | issn | "0567-7920"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | lccn | "60040714"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | ISSN_number | "0567-7920"</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | LCCN_number | 60040714</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | CODEN_code | "APGPAC"</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acta Palaeontologica Polonica was published by the Polish Academy of Science and has the abbreviated name of Acta Palaeontol. Pol.. It is also identified by an ISSN number (0567-7920), a CODEN code (APGPAC) and the ISSN number (0567-7920).</lex>
+      <lex comment="good" lid="Id2">The Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica which has the abbreviated name of Acta Palaeontol. Pol.. It is identified by the LCCN number 60040714, the ISSN number of 0567-7920 and the CODEN code of APGPAC.</lex>
+      <lex comment="good" lid="Id3">The Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica (abbrv. Acta Palaeontol. Pol). The ISSN number for the journal is 0567-7920, the LCCN number 60040714 and the CODEN code is APGPAC.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id31" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | issn | "1732-2421"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | lccn | "60040714"</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."@en</otriple>
+        <otriple>Acta_Palaeontologica_Polonica | coden | "APGPAC"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Palaeontologica_Polonica | publisher | Polish_Academy_of_Sciences</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | ISSN_number | "1732-2421"</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | LCCN_number | 60040714</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
+        <mtriple>Acta_Palaeontologica_Polonica | CODEN_code | "APGPAC"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and is abbreviated to Acta Palaeontol. Pol.. It is identified by the ISSN number of "1732-2421" and the LCCN number of 60040714. It also has the CODEN code of "APGPAC".</lex>
+      <lex comment="good" lid="Id2">The Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and can be abbreviated to Acta Palaeontol.Pol. It has an ISSN number of 1732-2421, a LCCN number of 60040714 and the CODEN code is APGPAC.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id60" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</otriple>
+        <otriple>Weymouth_Sands | followedBy | Maiden_Castle_(novel)</otriple>
+        <otriple>A_Glastonbury_Romance | subsequentWork | Weymouth_Sands</otriple>
+        <otriple>A_Glastonbury_Romance | previousWork | Wolf_Solent</otriple>
+        <otriple>A_Glastonbury_Romance | author | John_Cowper_Powys</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</otriple>
+        <otriple>Weymouth_Sands | subsequentWork | Maiden_Castle_(novel)</otriple>
+        <otriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</otriple>
+        <otriple>A_Glastonbury_Romance | previousWork | Wolf_Solent</otriple>
+        <otriple>A_Glastonbury_Romance | author | John_Cowper_Powys</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</mtriple>
+        <mtriple>Weymouth_Sands | followedBy | Maiden_Castle_(novel)</mtriple>
+        <mtriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</mtriple>
+        <mtriple>A_Glastonbury_Romance | precededBy | Wolf_Solent</mtriple>
+        <mtriple>A_Glastonbury_Romance | author | John_Cowper_Powys</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">After Wolf Solent, John Cowper Powys from Shirley, Derbyshire wrote A Glastonbury Romance. He next wrote the novel Weymouth Sands, followed by the novel Maiden Castle.</lex>
+      <lex comment="good" lid="Id2">The author of A Glastonbury Romance is John Cowper Powys, who was born in Shirley, Derbyshire. The novel is a sequel to Wolf Solent and was followed by Weymouth Sands and Maiden Castle.</lex>
+      <lex comment="good" lid="Id3">A Glastonbury Romance, the sequel to Wolf Solent, was written by John Cowper Powys who was born in Shirley, Derbyshire. The book was followed by Maiden Castle and Weymouth Sands.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id61" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</otriple>
+        <otriple>Weymouth_Sands | subsequentWork | Maiden_Castle_(novel)</otriple>
+        <otriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</otriple>
+        <otriple>A_Glastonbury_Romance | previousWork | Wolf_Solent</otriple>
+        <otriple>Wolf_Solent | author | John_Cowper_Powys</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</mtriple>
+        <mtriple>Weymouth_Sands | followedBy | Maiden_Castle_(novel)</mtriple>
+        <mtriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</mtriple>
+        <mtriple>A_Glastonbury_Romance | precededBy | Wolf_Solent</mtriple>
+        <mtriple>Wolf_Solent | author | John_Cowper_Powys</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">John Cowper Powys was born in Shirley Derbyshire and wrote "Wolf Solent". The book is followed by A Glastonbury Romance, Weymouth Sands and Maiden Castle.</lex>
+      <lex comment="good" lid="Id2">Shirley, Derbyshire is the birthplace of John Cowper Powys who wrote "Wolf Solent". This book is followed by the novel "A Glastonbury Romance", "Weymouth Sands" and "Maiden Castle".</lex>
+      <lex comment="good" lid="Id3">A Glastonbury Romance was followed by Weymouth Sands, which is sequeled to Maiden Castle, and was preceded By Wolf Solent, which author is John Cowper Powys, who was born in Shirley, Derbyshire.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id62" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</otriple>
+        <otriple>Weymouth_Sands | subsequentWork | Maiden_Castle_(novel)</otriple>
+        <otriple>Weymouth_Sands | author | John_Cowper_Powys</otriple>
+        <otriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</otriple>
+        <otriple>A_Glastonbury_Romance | previousWork | Wolf_Solent</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</mtriple>
+        <mtriple>Weymouth_Sands | followedBy | Maiden_Castle_(novel)</mtriple>
+        <mtriple>Weymouth_Sands | author | John_Cowper_Powys</mtriple>
+        <mtriple>A_Glastonbury_Romance | followedBy | Weymouth_Sands</mtriple>
+        <mtriple>A_Glastonbury_Romance | precededBy | Wolf_Solent</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">John Cowper Powys was born in Shirley, Derbyshire and was the author of Weymouth Sands. This book was preceded by Wolf Solent and A Glastonbury Romance, and followed by the novel Maiden Castle.</lex>
+      <lex comment="good" lid="Id2">Maiden Castle (preceded by Weymouth Sands) was written by Shirley, Derbyshire born John Cowper Powys. A Glastonbury Romance was preceded by Wolf Solent and followed by Weymouth Sands.</lex>
+      <lex comment="good" lid="Id3">John Cowper Powys (born: Shirley, Derbyshire) wrote Weymouth Sands, which was preceded by A Glastonbury Romance (preceded by Wolf Solent). The sequel to Weymouth Sands is Maiden Castle.</lex>
+    </entry>
+  </entries>
+</benchmark>

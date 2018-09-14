@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Budapest | country | Hungary</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>Budapest | country | Hungary</otriple>
+        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+        <mtriple>Budapest | country | Hungary</mtriple>
+        <mtriple>Akeem_Adams | deathPlace | Budapest</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams, who died in the Hungarian city of Budapest, played for Ferencvarosi TC and United Petrotrin F.C., the latter of which have their home ground at the Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams club was Ferencvarosi TC and he was a member of United Petrotrin FC club whose ground is at Palo Seco Velodrome. He died in Budapest, Hungary.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams played for United Petrotrin F.C. at the Palo Seco Velodrome. He now plays for Ferencvarosi TC. Mr. Adams passed away in Budapest, Hungary.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id21" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Moscow</otriple>
+        <otriple>Moscow | leaderName | Sergey_Sobyanin</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Moscow</mtriple>
+        <mtriple>Moscow | leaderName | Sergey_Sobyanin</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov passed away in Moscow where the leader is Sergey Sobyanin. Chumakov was a member of the Soviet Union national football team and also played for FC Torpedo Moscow under the manager, Valery Petrakov.</lex>
+      <lex comment="good" lid="Id2">Valery Petrakov is the manager of FC Torpedo Moscow, the club Aleksandr Chumakov once played for. Aleksandr Chumakov's played for the Soviet Union national football team. He died in Moscow, the leader of which, is Sergey Sobyanin.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov who plays for the Soviet Union National football team, died in Moscow where the leader is Sergey Sobyanin. He has also played for FC torpedo Moscow who are managed by Valery Petrakov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id22" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | language | Russian_language</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | language | Russian_language</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov died in Russia where the Russian language is spoken. He plays for FC Torpedo Moscow under the manager Valery Petrakov and was previously a member of the Soviet Union national football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov has played for FC Torpedo Moscow and the Soviet Union national football team. The Torpedo Moscow was managed by Valaery Petrakov. Mr. Chumakov died in Russia. Russian is spoken there.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for FC Torpedo Mosow, managed by Valery Petrakov and for the Soviet Union national football team. He died in Russia where the spoken language is Russian.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id23" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Sergey_Naryshkin</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leaderName | Sergey_Naryshkin</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov, who died in Russia (leader: Sergey Naryshkin), belonged to the Soviet Union national football team and played for FC Torpedo Moscow, which is manged by Valery Petrakov.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov who plays for the Soviet Union national football team and whose club is FC Torpedo Moscow managed by Valery Petrakov, died in Russia, a country led by Serkey Naryshkin.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov died in Russia where the leader is Sergey Naryshkin. Chumakov was a member of the Soviet Union national football team and played for FC Torpedo Moscow under their manager, Valery Petrakov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Valentina_Matviyenko</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leader | Valentina_Matviyenko</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leaderName | Valentina_Matviyenko</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov, who died in Russia, belonged to FC Torpedo Moscow and the Soviet Union national football team. FC Torpedo is managed by FC Torpedo, a Russian leader.</lex>
+      <lex comment="good" lid="Id2">Former Soviet Union international footballer Aleksandr Chumakov died in Russia, where the leader is Valentina Matviyenko. FC Torpedo Moscow, managed by Valery Petrakov, once signed Aleksandr Chumakov.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov died in Russia where Valentina Matviyenko is a leader. He belongs to the Soviet Union national football team and has played for FC Torpedo Moscow under the manager Valery Petrakov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id25" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Vladimir_Putin</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leader | Vladimir_Putin</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leaderName | Vladimir_Putin</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov plays for FC Torpedo Moscow who are managed by Valery Petrakov. He was also a member of the Soviet Union national football team and died in Russia where the leader is Vladimir Putin.</lex>
+      <lex comment="good" lid="Id2">Former Soviet Union international footballer Aleksandr Chumakov died in Russia, where the leader is Vladimir Putin. Chumakov played for FC Torpedo Moscow, where the manager was Valery Petrakov.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov played for FC Torpedo Moscow and the Soviet Union national football team. He died in Russia, a country whose leader is Vladimir Putin. FC Torpedo Moscow are managed by Valery Petrakov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id53" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Soviet_Union</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Soviet_Union</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov, born in the soviet Union, belongs to the Soviet Union national football team and plays for FC Torpedo Moscow, which plays in the Russian Premier League's 2014-15 season and is managed by Valery Petrakov.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov was born in the Soviet Union and was a member of the Soviet Union national football team. He has also played for FC Torpedo Moscow who are managed by Valery Petrakov and participated in the 2014-15 Russian Premier League.</lex>
+      <lex comment="good" lid="Id3">Born in the Soviet Union and representing his country at international football, Aleksandr Chumakov played for FC Torpedo Moscow, who competed in the 2014-15 Russian Premier League and whose manager is Valery Petrakov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id54" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+        <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov's club was FC Torpedo Moscow and the Soviet Union national football team. The Torpedo Moscow team played in the 2014-15 Russian Premier league. Its chairman is Aleksandr Tukmanov and its manager is Valery Petrakov.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov has played for FC Torpedo Moscow and is now their chairman. He was a member of the Soviet Union national football team and the FC Torpedo Moscow also participated in the 2014-15 Russian Premier League. The club is managed by Valery Petrakov.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for FC Torpedo Moscow (managed by Valery Petrakov and includes chairman Aleksandr Tukmanov.) and the Soviet Union national football team. FC Torpedo Moscow played in Russian Premier League during the 2014-15 season.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id55" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams' former clubs include United Petrotrin FC, who play at Palo Seco, and Ferencvarosi TC, where Thomas Doll is the manager and Gabor Kubatov is the chairman.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams is a member of the United Petrotrin F.C. club and also Ferencvarosi TC. The latter club, whose ground is Palo Seco, is chaired by Gabor Kubatov and managed by Thomas Doll.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams is a member of the United Petrotrin F.C. club who have their ground at Palo Seco. He plays for Ferencvarosi TC which is managed by Thomas Doll and chaired by Gabor Kubatov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id56" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams' club is Ferencvarosi TC who are managed by Thomas Doll and chaired by Gabor Kubatov. He has previously played for United Petrotrin FC who are based at the Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams belongs to Ferencvárosi TC, which is managed by Thomas Doll and includes chairman Gábor Kubatov. He has played for United Petrotrin F.C., who play in Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams was part of the team Ferencvarosi TC, which is managed by Thomas Doll and where the chairman is Gabor Kubatov. Adams' former clubs also include United Petrotrin FC, whose home ground is the Palo Seco Velodrome.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id64" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Moscow | leaderName | Sergey_Sobyanin</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Moscow | leaderName | Sergey_Sobyanin</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in Moscow, Russia which is led by Sergey Sobyanin. His club was FC Torpedo Moscow where Valery Petrakov is the manager, but he also plays for the Soviet Union National football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov, who was born in Moscow where the leader is Sergey Sobyanin, was a member of the Soviet Union national football team. His club is FC Torpedo Moscow where the manager is Valery Petrakov.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov was born in Moscow where the leader is Sergey Sobyanin. His clubs are FC Torpedo Moscow (managed by Valery Petrakov) and the Soviet Union national football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id70" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Budapest | country | Hungary</otriple>
+        <otriple>Akeem_Adams | team | Central_F.C.</otriple>
+        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
+        <mtriple>Budapest | country | Hungary</mtriple>
+        <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
+        <mtriple>Akeem_Adams | deathPlace | Budapest</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams' club is Central F.C.and is part of the United Petrotrin F.C. that has their home ground in Palo Seco. Mr. Adams died in Budapest, Hungary.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams, who died in the Hungarian city of Budapest, represented Central FC and also United Petrotrin FC, who play at Palo Seco.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams, whose club was Central F.C., played for United Petrotrin F.C., the ground of which is, Palo Seco. Akeem Adams died in Budapest, a city in Hungary.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id71" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Budapest | country | Hungary</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Budapest | country | Hungary</otriple>
+        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
+        <mtriple>Budapest | country | Hungary</mtriple>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Akeem_Adams | deathPlace | Budapest</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for Ferencvarosi TC and is a member of the United Petrotin FC who play at the Palo Seco ground. He died in Budapest, Hungary.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams, who died in the Hungarian city of Budapest, played for Ferencvarosi TC and United Petrotrin FC, the latter of whose home ground is Palo Seco.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams died in the Hungarian city of Budapest. His former clubs include Ferencvarosi TC and United Petrotrin F.C, the latter of which play their home games in Palo Seco.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id72" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Budapest | country | Hungary</otriple>
+        <otriple>Akeem_Adams | team | Central_F.C.</otriple>
+        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
+        <mtriple>Budapest | country | Hungary</mtriple>
+        <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
+        <mtriple>Akeem_Adams | deathPlace | Budapest</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams played for United Petrotrin F.C. which is at the Palo Seco Velodrome. He also played for Central F.C. Mr. Adams died in Budapest, Hungary.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams died in Budapest, Hungary. He was a member of the United Petrotrin FC club who play at the Palo Seco Velodrome, and also played for Central FC.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams, who died in the Hungarian city of Budapest, once played for the club United Petrotrin FC, whose home ground is the Palo Seco Velodrome.</lex>
+    </entry>
+  </entries>
+</benchmark>

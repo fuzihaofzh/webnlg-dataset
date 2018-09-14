@@ -1,0 +1,1692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+        <otriple>(410777)_2009_FD | Planet/apoapsis | "2.5977670247055E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | Planet/apoapsis | "2.5977670247055E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+        <mtriple>(410777)_2009_FD | periapsis | 88234300000.0</mtriple>
+        <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Discovered by Spacewatch, (410777) 2009 FD, has an apoapsis of 259776702.47055 kilometers, and an periapsis of, 88234300000.0.</lex>
+      <lex comment="good" lid="Id2">(410777) 2009 FD, with the periapsis of 88234300000.0 and an apoapsis of 259776702.47055 km, was discovered by Spacewatch.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | orbitalPeriod | 1.03926e+08</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | orbitalPeriod | 1.03926e+08</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
+        <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1089 Tama was discovered on 26 November 2005. It has an orbital period of 1202.846 days and a periapsis of 288749000000.0.</lex>
+      <lex comment="good" lid="Id2">1089 Tama, with the epoch date of 26th November 2005, has a periapsis of 288749000000.0 and an orbital period of 1202.846 days.</lex>
+      <lex comment="good" lid="Id3">26 November 2005 is the epoch date of 1089 Tama, which has a periapsis of 288749000000.0 and an orbital period of 1202.846 days.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
+        <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date of 1097 Vicia is 2006.12.31. It has a periapsis of 279142000000.0 and an apoapsis of 511592000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">The epoch date of 1097 Vicia is 2006.12.31. The periapsis measurement of this celestial body is 279142000000.0. It has an apoapsis of 511592000.0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | escapeVelocity | "40.32"^^xsd:double</otriple>
+        <otriple>1097_Vicia | temperature | "171.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | temperature | "171.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | escapeVelocity | "0.0112"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | escapeVelocity | 0.0112 (kilometrePerSeconds)</mtriple>
+        <mtriple>1097_Vicia | temperature | 171.0 (kelvins)</mtriple>
+        <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as 1097 Vicia has a temperature of 171 kelvins, an escape velocity of 0.0112 kilometres per second and an apoapsis of 511592000.0 km.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as 1097 Vicia has an apoapsis of 511592000.0 km, a temperature of 171 kelvins and the escape velocity of 00112km per sec.</lex>
+      <lex comment="good" lid="Id3">The temperature of 1097 Vicia is 171.0 (kelvins),has an escape velocity of 0.0112 kilometres per second and its apoapsis is 511592000.0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+        <mtriple>1099_Figneria | orbitalPeriod | 179942000.0</mtriple>
+        <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1099 Figneria has an epoch date of December 31st 2006,an orbital period of 179942000.0 and its periapsis is 349206000000.0.</lex>
+      <lex comment="good" lid="Id2">1099 Figneria's epoch date is December 31, 2006. Its orbital period is 179942000.0 and has a periapsis measurement of 349206000000.0.</lex>
+      <lex comment="good" lid="Id3">The epoch date for 1099 Figneria is the 31st of December 2006. The orbital period for 1099 Figneria, is 179942000.0 and it has a periapsis of 349206000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | temperature | "156.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | escapeVelocity | "0.0155"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | escapeVelocity | "55.8"^^xsd:double</otriple>
+        <otriple>1099_Figneria | temperature | "156.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | escapeVelocity | 0.0155 (kilometrePerSeconds)</mtriple>
+        <mtriple>1099_Figneria | temperature | 156.0 (kelvins)</mtriple>
+        <mtriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, an apoapsis of 605718000.0 km and an escape velocity of 0.0155 km per sec.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, escape velocity of 0.0155 k.p.s. and an apoapsis of 605718000.0 kms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>109_Felicitas | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+        <otriple>109_Felicitas | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>109_Felicitas | epoch | 2006-12-31</mtriple>
+        <mtriple>109_Felicitas | orbitalPeriod | 139705000.0</mtriple>
+        <mtriple>109_Felicitas | periapsis | 283326000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">December 31st 2006 is the epoch date of 109 Felicitas, which has a periapsis of 283326000000.0 and an orbital period of 139705000.0.</lex>
+      <lex comment="good" lid="Id2">109 Felicitas, who's epoch date is December 31st, 2006, has an orbital period of 139705000.0 and periapsis of 283326000000.0.</lex>
+      <lex comment="good" lid="Id3">The epoch date of 109 Felicitas is 31 December 2006. It has a periapsis of 283326000000.0 and an orbital period of 139705000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | surfaceArea | 8.37081e+11</otriple>
+        <otriple>10_Hygiea | epoch | "2015-06-27"^^xsd:date</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>10_Hygiea | surfaceArea | 8.37081e+11</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | epoch | 2015-06-27</mtriple>
+        <mtriple>10_Hygiea | surfaceArea | 837080.744 (squareKilometres)</mtriple>
+        <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The asteroid 10 Hygiea has a surface area of 837080.744 square kilometres and an apoapsis of 523951582.33968 kilometres. It has an epoch date of 27th June 2015.</lex>
+      <lex comment="good" lid="Id2">With an epoch date of June 27th, 2015, 10 Hygiea has a surface area of 837080.744 square kilometres, and an apoapsis of 523951582.33968 km.</lex>
+      <lex comment="good" lid="Id3">The celestial body known as 10 Hygiea has a surface area of 837080.744 sq km, an epoch date of 27 June 2015 and an apoapsis of 523951582.33968 kms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch of 1101 Clematis is on the 31st of July 2016. The orbital period for 1101 Clematis is 183309000.0 and it has an apoapsis of 520906000.0 Kilometers.</lex>
+      <lex comment="good" lid="Id2">1101 Clematis' epoch date is December 31, 2006. Its orbital period is 183309000.0 and its apoapsis is 520906000.0 (kilometres).</lex>
+      <lex comment="good" lid="Id3">The epoch of 1101 Clematis is 31 December 2006. 1101 Clematis has an orbital period of 183309000.0 and an apoapsis of 520906000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">110 Lydia; has a periapsis measurement of 377016000000.0, an orbital period of 142603000.0 and its epoch is 31st December 2006.</lex>
+      <lex comment="good" lid="Id2">110 Lydia has an epoch date of December 31st 2006 and an orbital period of 142603000. It's periapsis is 377016000000.0.</lex>
+      <lex comment="good" lid="Id3">The celestial body 110 Lydia, with the epoch date December 31st 2006, has a periapsis of 377016000000.0 and an orbital period of 142603000.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | "18.29"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/orbitalPeriod | "1513.722"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as 11264 Claudiomaccone has an average speed of 18.29km/s. Its orbital period is 1513.722 days, and it has an apoapsis of, 475426000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">The asteroid called 11264 Claudiomaccone; has an average speed of 18.29 kilometres per second, an apoapsis of 475426000 kilometres, and an orbital period of 1513.722 days.</lex>
+      <lex comment="good" lid="Id3">11264 Claudiomaccone has an orbital period of 1513.722 days and an average speed of 18.29 kilometres per second. It has an apoapsis of 475426000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 11264 Claudiomaccone which has a periapsis of 296521000.0 km and an apoapsis of 475426000 km has an epoch date of 26th November 2005.</lex>
+      <lex comment="good" lid="Id2">11264 Claudiomaccone; has an epoch date of November 26th 2005, a periapsis of 296521000.0 kilometres, and an apoapsis of 475426000.0 kilometres.</lex>
+      <lex comment="good" lid="Id3">11264 Claudiomaccone has the epoch date of 26 November 2005, an apoapsis of 475426000.0 kilometres and a periapsis of 296521000.0 (kilometres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | temperature | "173.0"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | temperature | "173.0"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | temperature | 173.0 (kelvins)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11264 Claudiomaccone has the epoch date of 26 November 2005, a temperature of 173 kelvins and an apoapsis of 475426000 km.</lex>
+      <lex comment="good" lid="Id2">11264 Claudiomaccone, which has an epoch date of November 26th 2005 has a temperature of 173.0 (kelvins) and an apoapsis of 475426000 kilometres.</lex>
+      <lex comment="good" lid="Id3">1264 Claudiomaccone has a temperature of 173.0 kelvins and an apoapsis of475426000.0 (kilometres). Its epoch date is 26 November 2005.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | mass | "8300.0"^^xsd:double</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | mass | "8300.0"^^xsd:double</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | mass | "8.3"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+        <mtriple>(410777)_2009_FD | mass | 8.3 (kilograms)</mtriple>
+        <mtriple>(410777)_2009_FD | periapsis | 88234300000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With a mass of 8.3 kgs, The celestial body known as (410777), was discovered by Spacewatch, and has a periapsis of, 88234300000.0.</lex>
+      <lex comment="good" lid="Id2">410777 2009 FD, with a mass of 8.3kg, was discovered by Spacewatch and has a periapsis of 88234300000.0.</lex>
+      <lex comment="good" lid="Id3">Discovered by Spacewatch, (410777) 2009 FD, has a mass of 8.3 kilograms and a periapsis of 88234300000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | epoch | "27 June 2015"</otriple>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | epoch | "27 June 2015"</otriple>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | epoch | 2015-06-27</mtriple>
+        <mtriple>(410777)_2009_FD | orbitalPeriod | 39447000.0</mtriple>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as (410777) 2009 FD has an orbital period of 39447000 and was discovered by Spacewatch on 27 June 1015.</lex>
+      <lex comment="good" lid="Id2">The epoch date of 410777 2009 FD is June 27, 2015. It has an orbital period of 39447000 and was discovered by Spacewatch.</lex>
+      <lex comment="good" lid="Id3">(410777) 2009 FD has an epoch date of June 27th 2015 and an orbital period of 39447000.0. It was discovered by Spacewatch.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | Planet/apoapsis | "2.5977670247055E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+        <otriple>(410777)_2009_FD | Planet/apoapsis | "2.5977670247055E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | orbitalPeriod | 39447000.0</mtriple>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+        <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">(410777) 2009 FD was discovered by Spacewatch. It has an orbital period of 39447000.0 and its apoapsis is 259776702.47055 kilometers.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as (410777) 2009 FD has an orbital period of 39447000 and an apoapsis of 259776702.47055 kilometres. It was discovered by Spacewatch.</lex>
+      <lex comment="good" lid="Id3">410777 2009 FD has an orbital period of 39447000.0,an apoapsis of 259776702.47055 kilometres and it was discovered by the Spacewatch.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | orbitalPeriod | 3.9447e+07</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | orbitalPeriod | 39447000.0</mtriple>
+        <mtriple>(410777)_2009_FD | periapsis | 88234300000.0</mtriple>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as (410777) 2009 FD has an orbital period of 39447000 , has a periapsis of 88234300000.0 and it was discovered by Spacewatch.</lex>
+      <lex comment="good" lid="Id2">(410777) 2009 FD, which was discovered by Spacewatch, has an orbital period of 39447000.0 and a periapsis of 88234300000.0.</lex>
+      <lex comment="good" lid="Id3">Discovered by Spacewatch, (410777) 2009 FD has a periapsis of 88234300000.0, and an orbital period of 39447000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | epoch | "2015-06-27"^^xsd:date</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | epoch | "27 June 2015"</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+        <otriple>(410777)_2009_FD | discoverer | "Spacewatch"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
+        <otriple>(410777)_2009_FD | epoch | "27 June 2015"</otriple>
+        <otriple>(410777)_2009_FD | periapsis | 8.82343e+10</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(410777)_2009_FD | periapsis | 88234300000.0</mtriple>
+        <mtriple>(410777)_2009_FD | epoch | 2015-06-27</mtriple>
+        <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Spacewatch discovered the 410777 2009 FD which has a periapsis of 88234300000.0 and an epoch date of the 27th June 2015.</lex>
+      <lex comment="good" lid="Id2">Spacewatch is the discoverer of the 410777 2009 FD, which has a periapsis of 88234300000.0 and an epoch date of the 27th June 2015.</lex>
+      <lex comment="good" lid="Id3">Spacewatch discovered 410777 2009 FD on June 27, 2015. It's periapsis is 88234300000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | formerName | "1999 SN5"@en</otriple>
+        <otriple>(66063)_1998_RO1 | periapsis | 4.14984e+10</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | formerName | "1999 SN5"@en</otriple>
+        <otriple>(66063)_1998_RO1 | periapsis | 4.14984e+10</otriple>
+        <otriple>(66063)_1998_RO1 | epoch | "2013-11-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
+        <mtriple>(66063)_1998_RO1 | formerName | "1999 SN5"</mtriple>
+        <mtriple>(66063)_1998_RO1 | periapsis | 41498400000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">(66063) 1998 RO1(former name:"1999 SN5") has an epoch date of 2013-11-04 and its periapsis is 41498400000.0 Gm.</lex>
+      <lex comment="good" lid="Id2">(66063) 1998 RO1(formerly called 1999 SN5) has an epoch date of 2013-11-04 and its periapsis is 41498400000.0 Gm.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | formerName | "1999 SN5"@en</otriple>
+        <otriple>(66063)_1998_RO1 | orbitalPeriod | 3.11291e+07</otriple>
+        <otriple>(66063)_1998_RO1 | epoch | "2013-11-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+        <otriple>(66063)_1998_RO1 | formerName | "1999 SN5"@en</otriple>
+        <otriple>(66063)_1998_RO1 | orbitalPeriod | 3.11291e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | formerName | "1999 SN5"</mtriple>
+        <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
+        <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">(66063) 1998 RO1 , formerly known as 1999 SN5, has an orbital period of 360.29 days and was discovered on 4 November 2013.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as (66063) 1998 RO1 was formerly called 1999 SN5. It has an orbital period of 360.29 days and an epoch date of 2013-11-04.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/meanTemperature | "265.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/meanTemperature | "265.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | epoch | "2013-11-04"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | meanTemperature | 265.0 (kelvins)</mtriple>
+        <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
+        <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins. It has an apoapsis of 254989570.60815 kilometres and its epoch is on the 13th of January 2016.</lex>
+      <lex comment="good" lid="Id2">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins. It has an apoapsis of 254989570.60815 kilometres and an epoch date of 4 November 2013.</lex>
+      <lex comment="good" lid="Id3">(66063) 1998 RO1; has an apoapsis of 254989570.60815 kilometres, an epoch date of 2013-11-04, and a mean temperature of 265.0 kelvins.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/meanTemperature | "265.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/orbitalPeriod | "360.29"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/meanTemperature | "265.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/orbitalPeriod | "360.29"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | meanTemperature | 265.0 (kelvins)</mtriple>
+        <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
+        <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins and its apoapsis is 254989570.60815 kilometres. It has an orbital period of 360.29 days.</lex>
+      <lex comment="good" lid="Id2">(66063) 1998 RO1 has a mean temperature of 265 kelvins,an orbital period of 360.29 days and its periapsis is 254989570.60815 kilometres.</lex>
+      <lex comment="good" lid="Id3">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins. It has an apoapsis of 254989570.60815 kilometres and an orbital period of 360.29 days.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minimumTemperature | "202.0"^^xsd:double</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "-71.0"^^&lt;http://dbpedia.org/datatype/degreeCelsius&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minimumTemperature | "202.0"^^xsd:double</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | Planet/minimumTemperature | "202.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.15"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66063)_1998_RO1 | minTemp | "-71.0"^^&lt;http://dbpedia.org/datatype/degreeCelsius&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+        <otriple>(66063)_1998_RO1 | Planet/apoapsis | "2.5498957060815E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66063)_1998_RO1 | minimumTemperature | -71.0 (degreeCelsius)</mtriple>
+        <mtriple>(66063)_1998_RO1 | maximumTemperature | 500.0 (kelvins)</mtriple>
+        <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">(66063) 1998 RO1 has an apoapsis of 254989570.60815 km, a maximum temperature of 500 kelvins and a minimum temperature of -71 degrees celsius.</lex>
+      <lex comment="good" lid="Id2">With an apoapsis of 254989570.60815 kilometres, (66063) 1998 RO1, has a minimum temperature of -71.0 degrees Celsius and a maximum temperature of 500.0 kelvins.</lex>
+      <lex comment="good" lid="Id3">The minimum temperature of (66063) 1998 RO1 is -71.0 deg celsius and its max temperature is 500.0 (kelvins). It has an apoapsis of 254989570.60815 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id86" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | Planet/averageSpeed | "19.94"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1089_Tama | Planet/orbitalPeriod | "1202.846"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | averageSpeed | 19.94 (kilometrePerSeconds)</mtriple>
+        <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
+        <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With an orbital period of 1202.846 days, 1089 Tama, has an average speed of 19.94 kilometres per second and an apoapsis of 373513000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">1089 Tama has an average speed of 19.94 km per sec. and an apoapsis of 373513000.0 kilometres. The orbital period for this body is 1202.846 days.</lex>
+      <lex comment="good" lid="Id3">1089 Tama has an average speed of 19.94 kilometres per second, an orbital period of 1202.846 days and an apoapsis of 373513000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id87" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | formerName | "1930 ST; 1952 HE4"@en</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | formerName | "1930 ST; 1952 HE4"@en</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | formerName | "1930 ST; 1952 HE4"</mtriple>
+        <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date of 1089 Tama(formerly known as 1930 ST; 1952 HE4) is the 26 of November 2005. 1089 Tama has a periapsis of 288749000000.0.</lex>
+      <lex comment="good" lid="Id2">Formerly known as "1930 ST; 1952 HE4", 1089 Tama, has a periapsis of 288749000000.0, and the epoch date, 26 November 2005.</lex>
+      <lex comment="good" lid="Id3">The former name of 1089 Tama is "1930 ST; 1952 HE4" and it has an epoch date of 26 November 2005 and a periapsis of 288749000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id88" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | formerName | "A894 VA; A904 VD;"@en</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | formerName | "A894 VA; A904 VD;"@en</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | formerName | "A894 VA; A904 VD;"</mtriple>
+        <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date of 1089 Tama(former name:"A894 VA; A904 VD;") was on 26 November 2005 and its apoapsis is 373513000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">The epoch date of 1089 Tama is 26 November 2005 and it has an apoapsis of 373513000.0 kilometres. A894 VA; A904 VD is that celestial body's former name.</lex>
+      <lex comment="good" lid="Id3">1089 Tama (former name: A894 VA; A904 VD), has an apoapsis of 373513000.0 kilometre, and the epoch date, 2005-11-26.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id89" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | formerName | "A894 VA; A904 VD;"@en</otriple>
+        <otriple>1089_Tama | orbitalPeriod | 1.03926e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | formerName | "A894 VA; A904 VD;"</mtriple>
+        <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Formerly named "A894 VA; A 904 VD", 1089 Tama has an orbital period of 1202.846 days, and it's epoch is 2005-11-26.</lex>
+      <lex comment="good" lid="Id2">The 1089 Tama (formally known as A894 VA; A904 VD) has an orbital period of 1202.846 days and an epoch date of the 26th November 2005.</lex>
+      <lex comment="good" lid="Id3">1089 Tama (formerly "A894 VA; A904 VD"), has an orbital period of 1202.846 days and the epoch date, 26 November 2005.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id90" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | formerName | "A894 VA; A904 VD;"@en</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | formerName | "A894 VA; A904 VD;"@en</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | formerName | "A894 VA; A904 VD;"</mtriple>
+        <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Formerly called, "A894 VA; A904 VD", 1089 Tama, has a periapsis of 288749000000.0, and the epoch of, 2005-11-26.</lex>
+      <lex comment="good" lid="Id2">The 1089 Tama (formally known as A894 VA; A904 VD) has a periapsis of 288749000000.0 and an epoch date of the 26th November 2005.</lex>
+      <lex comment="good" lid="Id3">1089 Tama has the epoch date of 26 November 2005, a periapsis of 288749000000.0 and was formerly known as A894 VA; A904 VD.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id91" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | formerName | "A919 HA; 1927 WB;"@en</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | formerName | "A919 HA; 1927 WB;"@en</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | formerName | "A919 HA; 1927 WB;"</mtriple>
+        <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch of 1089 Tama, formerly known as"A919 HA; 1927 WB;" is 2005-11-26 and it has an apoapsis of 373513000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">1089 Tama which has the epoch date of 26 November 2005, was formerly known as A919 HA; 1927 WB and has an apoapsis of 373513000.0.</lex>
+      <lex comment="good" lid="Id3">The epoch of 1089 Tama -formerly known as A919 HA; 1927 WB-was 2005-11-26 and its apoapsis is 373513000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id92" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | formerName | "A919 HA; 1927 WB;"@en</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | formerName | "A919 HA; 1927 WB;"@en</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | formerName | "A919 HA; 1927 WB;"</mtriple>
+        <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1089 Tama, which was formerly known as A919 HA; 1927 WB, has the epoch date of 26 November 2005 and a periapsis of 288749000000.0.</lex>
+      <lex comment="good" lid="Id2">The epoch date of 1089 Tama-formerly known asA919 HA; 1927 WB-was on 26 November 2005 and its periapsis is 288749000000.0.</lex>
+      <lex comment="good" lid="Id3">1089 Tama, which used to be known as "A919 HA; 1927 WB;", has an epoch date of November 26th 2005 and a periapsis of 288749000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id93" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | orbitalPeriod | 1.03926e+08</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | orbitalPeriod | 1.03926e+08</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
+        <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date of 1089 Tama was 26 November 2005 and has an orbital period of 1202.846 days and its apoapsis is 373513000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">The epoch of 1089 Tama is 2005-11-26. It has an orbital period of 1202.846 days and and an apoapsis of 373513000.0 (kilometres).</lex>
+      <lex comment="good" lid="Id3">The epoch date of 1089 Tama was on 26 November 2005 and has an orbital period of 1202.846 days and its apoapsis is 373513000.0 (kilometres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id94" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+        <otriple>1089_Tama | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>1089_Tama | periapsis | 2.88749e+11</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
+        <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
+        <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date of 1089 Tama is 26 November 2005. It has a periapsis of 288749000000.0 and 373513000.0 km is the apoapsis.</lex>
+      <lex comment="good" lid="Id2">1089 Tama, with the epoch date November 26th 2005, has a periapsis of 288749000000.0. and an apoapsis of 373513000.0 kilometres.</lex>
+      <lex comment="good" lid="Id3">The epoch of 1089 Tama is November 26, 2005. It has a periapsis of 288749000000.0 and and its apoapsis is 373513000.0 (kilometres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id95" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1089_Tama | temperature | "179.0"^^xsd:double</otriple>
+        <otriple>1089_Tama | escapeVelocity | "0.0068"^^xsd:double</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1089_Tama | escapeVelocity | "24.48"^^xsd:double</otriple>
+        <otriple>1089_Tama | temperature | "179.0"^^xsd:double</otriple>
+        <otriple>1089_Tama | Planet/apoapsis | "3.73513E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1089_Tama | escapeVelocity | 0.0068 (kilometrePerSeconds)</mtriple>
+        <mtriple>1089_Tama | temperature | 179.0 (kelvins)</mtriple>
+        <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1089 Tama has an escape velocity of 0.0068 kilometres per second, a temperature of 179 kelvins and an apoapsis of 373513000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">1089 Tama has an escape velocity of 0.0068 km per sec, a temperature of 179 kelvins and an apoapsis of 373513000.0 kms.</lex>
+      <lex comment="good" lid="Id3">1089 Tama, with a temperature of 179.0 kelvins, has an escape velocity of 0.0068 kmps and an apoapsis of 373513000.0 (kilometres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id96" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | formerName | "1928 PC"@en</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | formerName | "1928 PC"@en</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | formerName | "1928 PC"</mtriple>
+        <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1928 PC is the former name of 1097 Vicia, which has an epoch date of December 31st 2006 and an orbital period of 135589000.0.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia (formerly"1928 PC") has an orbital period of 135589000.0 and the epoch is on 13 January 2016.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id97" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | formerName | "1928 PC"@en</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | formerName | "1928 PC"@en</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | formerName | "1928 PC"</mtriple>
+        <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date of 1097 Vicia, which had 1928 PC as its former date, is 2006.12.31. Vicia has a periapsis measurement of 279142000000.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id98" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1097_Vicia | mass | "9.8"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | mass | "9.8"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | mass | "9800.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | mass | "9800.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | mass | 9.8 (kilograms)</mtriple>
+        <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">13 January 2016, is the epoch of 1097 Vicia, which weighs 9.8 kgs, and has the orbital period of, 135589000.0.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia; has a mass of 9.8 kgs, the epoch date 2006.12.31, and an orbital period of, 135589000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id99" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
+        <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch of 1097 Vicia is on 13 January 2016. It has an orbital period of 135589000.0 and an apoapsis of 511592000.0 km.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia, with the epoch date December 31st 2006, has an apoapsis of 511592000.0 km and an orbital period of 135589000.0.</lex>
+      <lex comment="good" lid="Id3">1097 Vicia has the epoch date of 31 December 2006, an orbital period of 135589000.0 and an apoapsis of 511592000.0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id100" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+        <otriple>1097_Vicia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1097_Vicia | orbitalPeriod | 1.35589e+08</otriple>
+        <otriple>1097_Vicia | periapsis | 2.79142e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
+        <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
+        <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch of 1097 Vicia was on 13 January 2016.It has an orbital period of 135589000.0 and its periapsis is 279142000000.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia; has an orbital period of 135589000.0, a periapsis of 279142000000 and its epoch is 13 January 2016.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id101" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1097_Vicia | escapeVelocity | "40.32"^^xsd:double</otriple>
+        <otriple>1097_Vicia | mass | "9.8"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | escapeVelocity | "40.32"^^xsd:double</otriple>
+        <otriple>1097_Vicia | mass | "9800.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | escapeVelocity | "0.0112"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1097_Vicia | mass | "9.8"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1097_Vicia | mass | "9800.0"^^xsd:double</otriple>
+        <otriple>1097_Vicia | escapeVelocity | "0.0112"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1097_Vicia | Planet/apoapsis | "5.11592E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1097_Vicia | escapeVelocity | 0.0112 (kilometrePerSeconds)</mtriple>
+        <mtriple>1097_Vicia | mass | 9.8 (kilograms)</mtriple>
+        <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1097 Vicia has an escape velocity of 0.0112 kilometres per second. 1097 Vicia has a mass of 9.8 kgs and an apoapsis of 511592000.0 km.</lex>
+      <lex comment="good" lid="Id2">The escape velocity of 1097 Vicia is 0.0112 km per sec. It has a mass of 9.8 kgs and an apoapsis of 511592000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id102" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | formerName | "1928 RQ"@en</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | formerName | "1928 RQ"@en</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+        <mtriple>1099_Figneria | formerName | "1928 RQ"</mtriple>
+        <mtriple>1099_Figneria | orbitalPeriod | 179942000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1099 Figneria, which has an orbital period of 179942000.0, was formerly known as "1928 RQ" and has an epoch date of 31.12.2006.</lex>
+      <lex comment="good" lid="Id2">1099 Figneria (formerly known as 1928 RQ) has an epoch date of December 31st 2006. It has an orbital period of 179942000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id103" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | mass | "2.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1099_Figneria | mass | "2.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | mass | "2700.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | mass | "2700.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+        <mtriple>1099_Figneria | mass | 2.7 (kilograms)</mtriple>
+        <mtriple>1099_Figneria | orbitalPeriod | 179942000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1099 Figneria, which has an orbital period of 179942.000.0 and a mass of 2.7 kg, has an epoch date of 31 December 2006.</lex>
+      <lex comment="good" lid="Id2">With an epoch date of December 31st 2006, 1099 Figneria, has a mass of 2.7 kg and the orbital period of 179942000.0.</lex>
+      <lex comment="good" lid="Id3">1099 Figneria's epoch date is the 31st of December, 2006. It has a mass of 2.7 kg and an orbital period of 179942000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id104" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | orbitalPeriod | 1.79942e+08</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+        <mtriple>1099_Figneria | orbitalPeriod | 179942000.0</mtriple>
+        <mtriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1099 Figneria has an epoch date of December 31st 2006,has an orbital period of 179942000.0,and its apoapsis is 605718000 kilometres.</lex>
+      <lex comment="good" lid="Id2">The epoch date for 1099 Figneria is 31 December 2006. It has an orbital period of 179942000.0 and an apoapsis of 605718000 kilometres.</lex>
+      <lex comment="good" lid="Id3">1099 Figneria; has an apoapsis of 605718000 kilometres, an orbital period of 179942000.0, and an epoch date of December 31st 2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id105" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+        <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
+        <mtriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date for 1099 Figneria is 31 December 2006. It has a periapsis of 34920600000 and an apoapsis of 605718000.0 kms.</lex>
+      <lex comment="good" lid="Id2">The epoch date for 1099 Figneria is 31 December 2006. It has an apoapsis of 605718000.0 kilometres and a periapsis of 349206000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id106" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | escapeVelocity | "55.8"^^xsd:double</otriple>
+        <otriple>1099_Figneria | mass | "2.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | escapeVelocity | "55.8"^^xsd:double</otriple>
+        <otriple>1099_Figneria | mass | "2700.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | mass | "2700.0"^^xsd:double</otriple>
+        <otriple>1099_Figneria | escapeVelocity | "0.0155"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | escapeVelocity | "0.0155"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1099_Figneria | mass | "2.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1099_Figneria | Planet/apoapsis | "6.05718E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | escapeVelocity | 0.0155 (kilometrePerSeconds)</mtriple>
+        <mtriple>1099_Figneria | mass | 2.7 (kilograms)</mtriple>
+        <mtriple>1099_Figneria | apoapsis | 605718000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">0.0155 kilometer per second is the escape velocity of 1099 Figneria, which has an apoapsis of 605718000 kilometres, and a mass of 2.7 kilograms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id107" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1099_Figneria | formerName | "1928 RQ"@en</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1099_Figneria | formerName | "1928 RQ"@en</otriple>
+        <otriple>1099_Figneria | periapsis | 3.49206e+11</otriple>
+        <otriple>1099_Figneria | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1099_Figneria | formerName | "1928 RQ"</mtriple>
+        <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
+        <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1099 Figneria-formerly known 1928 RQ, has an epoch date of December 31st 2006 and its periapsis is 349206000000.0.</lex>
+      <lex comment="good" lid="Id2">The epoch date for 1099 Figneria is 31 December 2006. It's former name was 1928 RQ. The periapsis of 1099 Figneria is 34920600000.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id108" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>109_Felicitas | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>109_Felicitas | mass | "7500.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+        <otriple>109_Felicitas | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>109_Felicitas | mass | "7.5"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | mass | "7500.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+        <otriple>109_Felicitas | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+        <otriple>109_Felicitas | mass | "7.5"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>109_Felicitas | epoch | 2006-12-31</mtriple>
+        <mtriple>109_Felicitas | mass | 7.5 (kilograms)</mtriple>
+        <mtriple>109_Felicitas | orbitalPeriod | 139705000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">109 Felicitas has an epoch date of 31 December 2006, a mass of 7.5 kg and an orbital period of 139705000.0.</lex>
+      <lex comment="good" lid="Id2">Weighing 7.5kgs, 109 Felicitas, has an epoch date of December 31st 2006, and its orbital period is, 139705000.0.</lex>
+      <lex comment="good" lid="Id3">The 109 Felicitas (mass of 7.5 kilograms) has an orbital period of 139705000.0 and has an epoch date of the 31st December 2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id109" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+        <otriple>109_Felicitas | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>109_Felicitas | mass | "7.5"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | mass | "7500.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+        <otriple>109_Felicitas | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>109_Felicitas | mass | "7500.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+        <otriple>109_Felicitas | mass | "7.5"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>109_Felicitas | epoch | 2006-12-31</mtriple>
+        <mtriple>109_Felicitas | mass | 7.5 (kilograms)</mtriple>
+        <mtriple>109_Felicitas | periapsis | 283326000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">109 Felicitas; has an epoch date of December 31st 2006, a mass of 7.5kgs, and its periapsis is, 283326000000.0.</lex>
+      <lex comment="good" lid="Id2">The epoch date of 109 Felicitas was 31 December 2006,has a mass of 7.5 kg and its periapsis is 283326000000.0.</lex>
+      <lex comment="good" lid="Id3">109 Felicitas has an epoch date of December 31st 2006. It has a mass of 7.5 kilograms and a periapsis of 283326000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id110" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>109_Felicitas | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | orbitalPeriod | 1.39705e+08</otriple>
+        <otriple>109_Felicitas | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>109_Felicitas | epoch | 2006-12-31</mtriple>
+        <mtriple>109_Felicitas | orbitalPeriod | 139705000.0</mtriple>
+        <mtriple>109_Felicitas | apoapsis | 523329000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch date of 109 Felicitas was 31 December 2006,has an orbital period of 139705000.0 and its apoapsis is 523329000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">109 Felicitas has an epoch date of December 31st 2006. Its orbital period is is 139705000.0 and its apoapsis is 523329000.0 (kilometres).</lex>
+      <lex comment="good" lid="Id3">109 Felicitas has an epoch date of December 31st 2006. It has an orbital period of 139705000.0 and an apoapsis of 523329000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>109_Felicitas | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | periapsis | 2.83326e+11</otriple>
+        <otriple>109_Felicitas | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>109_Felicitas | epoch | 2006-12-31</mtriple>
+        <mtriple>109_Felicitas | periapsis | 283326000000.0</mtriple>
+        <mtriple>109_Felicitas | apoapsis | 523329000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">109 Felicitas, with the epoch date 31st December 2006, has an apoapsis of 523329000.0 kilometres and a periapsis of 283326000000.0.</lex>
+      <lex comment="good" lid="Id2">With an epoch date of 31 December 2006, 109 Felicitas, has a periapsis of 283326000000.0 and an apoapsis of 523329000.0 kilometres.</lex>
+      <lex comment="good" lid="Id3">109 Felicitas, which has an epoch date of 31.12.2006, a periapsis of 283326000000.0 and an apoapsis of 523329000 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id112" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>109_Felicitas | escapeVelocity | "170.28"^^xsd:double</otriple>
+        <otriple>109_Felicitas | mass | "7.5"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | escapeVelocity | "0.0473"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>109_Felicitas | mass | "7.5"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | escapeVelocity | "170.28"^^xsd:double</otriple>
+        <otriple>109_Felicitas | mass | "7500.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | mass | "7500.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | escapeVelocity | "0.0473"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>109_Felicitas | escapeVelocity | 0.0473 (kilometrePerSeconds)</mtriple>
+        <mtriple>109_Felicitas | mass | 7.5 (kilograms)</mtriple>
+        <mtriple>109_Felicitas | apoapsis | 523329000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">109 Felicitas, which has an escape velocity of 0.0473 km per sec also has a mass of 7.5 kgs and an apoapsis of 523329000 kms.</lex>
+      <lex comment="good" lid="Id2">With an escape velocity of 0.0473 km per sec, 109 Felicitas, has a mass of 7.5 kilograms, and an apoapsis of 523329000.0 kilometres.</lex>
+      <lex comment="good" lid="Id3">The 109 Felicitas with a mass of 7.5 kg, has an apoapsis of 523329000.0 km and an escape velocity of 0.0473 km per sec.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id113" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>109_Felicitas | escapeVelocity | "170.28"^^xsd:double</otriple>
+        <otriple>109_Felicitas | temperature | "170.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>109_Felicitas | temperature | "170.0"^^xsd:double</otriple>
+        <otriple>109_Felicitas | escapeVelocity | "0.0473"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>109_Felicitas | Planet/apoapsis | "5.23329E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>109_Felicitas | escapeVelocity | 0.0473 (kilometrePerSeconds)</mtriple>
+        <mtriple>109_Felicitas | temperature | 170.0 (kelvins)</mtriple>
+        <mtriple>109_Felicitas | apoapsis | 523329000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With an escape velocity of 0.0473 kilometres per second, 109 Felicitas, has a teperature of 170.0 kelvins, and an apoapsis of 523329000 kilometres.</lex>
+      <lex comment="good" lid="Id2">109 Felicitas has a temperature of 170 kelvins,an escape velocity of 0.0473 kilometres per second and its periapsis is 523329000 kms.</lex>
+      <lex comment="good" lid="Id3">With a temperature of 170.0 kelvins, the asteroid called 109 Felicitas, has an escape velocity of 0.0473 kilometres per second, and an apoapsis of 523329000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id114" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | Planet/averageSpeed | "16.76"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>10_Hygiea | Planet/orbitalPeriod | "5.57"^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | averageSpeed | 16.76 (kilometrePerSeconds)</mtriple>
+        <mtriple>10_Hygiea | orbitalPeriod | 5.57 (days)</mtriple>
+        <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 10 Hygiea has an apoapsis of 523951582.33968 km and an average speed of 16.76 km per second. 5.57 days is the orbital period for the asteroid.</lex>
+      <lex comment="good" lid="Id2">10 Hygiea; has an average speed of 16.76 kilometres per second, an apoapsis of 523951582.33968 kilometre and takes 5.57 days to orbit.</lex>
+      <lex comment="good" lid="Id3">With an average speed of 16.76 km per secs, 10 Hygiea, takes 5.57 days to orbit and has an apoapsis of 523951582.33968 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id115" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | averageSpeed | "60336.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | Planet/surfaceArea | "837080.744"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | averageSpeed | 16.76 (kilometrePerSeconds)</mtriple>
+        <mtriple>10_Hygiea | surfaceArea | 837080.744 (squareKilometres)</mtriple>
+        <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">10 Hygiea has an apoapsis of 523951582.33968 km, a surface area of 837080.744 sq km and an average speed of 16.76 km per sec.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as 10 Hygiea, has a surface area of 837080.744 square km and an average speed of 16.76 km per secs. 10 Hygiea has an apoapsis of 523951582.33968 kilometres.</lex>
+      <lex comment="good" lid="Id3">The astroid10 Hygiea has a surface area of 837080.744 square kilometres and an apoapsis of 523951582.33968 kilometres. Its average speed is 16.76 kilometres per second.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id116" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>10_Hygiea | formerName | "A900 GA"@en</otriple>
+        <otriple>10_Hygiea | orbitalPeriod | "481248.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | formerName | "A900 GA"@en</otriple>
+        <otriple>10_Hygiea | orbitalPeriod | "481248.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | epoch | 2015-06-27</mtriple>
+        <mtriple>10_Hygiea | formerName | "A900 GA"</mtriple>
+        <mtriple>10_Hygiea | orbitalPeriod | 5.57 (days)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">10 Hygiea was formerly known as "A900 GA" and has an epoch date of 27 June 2015 and an orbital period of 5.57 days.</lex>
+      <lex comment="good" lid="Id2">The asteroid Hygiea 10, once known as A900 GA, has an epoch date of 27th June 2015 and has an orbital period of 5.57 days.</lex>
+      <lex comment="good" lid="Id3">10 Hygiea was formerly known as A900GA. It has the epoch date of 27 June 2015 and an orbital period of 5.57 days.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id117" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | formerName | "A900 GA"@en</otriple>
+        <otriple>10_Hygiea | periapsis | 4.16136e+11</otriple>
+        <otriple>10_Hygiea | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>10_Hygiea | formerName | "A900 GA"@en</otriple>
+        <otriple>10_Hygiea | periapsis | 4.16136e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | epoch | 2015-06-27</mtriple>
+        <mtriple>10_Hygiea | formerName | "A900 GA"</mtriple>
+        <mtriple>10_Hygiea | periapsis | 416136000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">10 Hygiea, formerly known as "A900 GA", has an epoch date of June 27th 2015 and a periapsis of 416136000000.0.</lex>
+      <lex comment="good" lid="Id2">10 Hygiea has an epoch date of 27 June 2015 and was formerly known as A900GA. It has a periapsis measurement of 416136000000.0.</lex>
+      <lex comment="good" lid="Id3">10 Hygiea, with the former name A900 GA, has a periapsis of 416136000000.0 and an epoch date of 27th June 2015.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id118" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>10_Hygiea | orbitalPeriod | "481248.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | escapeVelocity | "0.21"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | escapeVelocity | "756.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | orbitalPeriod | "481248.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>10_Hygiea | escapeVelocity | "756.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | orbitalPeriod | "481248.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | epoch | 2015-06-27</mtriple>
+        <mtriple>10_Hygiea | orbitalPeriod | 5.57 (days)</mtriple>
+        <mtriple>10_Hygiea | escapeVelocity | 0.21 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">10 Hygiea, which has an epoch date of 27 June 2015, takes 5.57 days to orbit and has an escape velocity of 0.21 km per sec.</lex>
+      <lex comment="good" lid="Id2">10 Hygiea; has an epoch date of June 27th 2015, takes 5.57 days to orbit, and an escape velocity of 0.21 km per secs.</lex>
+      <lex comment="good" lid="Id3">10 Hygiea has an epoch date of June 27th 2015. It has an orbital period of 5.57 days and an escape velocity of 0.21 kilometres per second.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id119" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>10_Hygiea | orbitalPeriod | "481248.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | periapsis | 4.16136e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | orbitalPeriod | "481248.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | periapsis | 4.16136e+11</otriple>
+        <otriple>10_Hygiea | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | orbitalPeriod | 5.57 (days)</mtriple>
+        <mtriple>10_Hygiea | periapsis | 416136000000.0</mtriple>
+        <mtriple>10_Hygiea | epoch | 2015-06-27</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The asteroid 10 Hygiea which has an epoch date of the 27th June 2015 takes 5.57 days to orbit and has a periapsis measurement of 416136000000.0.</lex>
+      <lex comment="good" lid="Id2">10 Hygiea has an epoch date of June 27th 2015, a periapsis of 416136000000.0 and takes 5.57 days to orbit.</lex>
+      <lex comment="good" lid="Id3">10 Hygiea, an asteroid, has an epoch date of 27th June 2015. It has an orbital period of 5.57 days and a periapsis measurement of 416136000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id120" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | surfaceArea | 8.37081e+11</otriple>
+        <otriple>10_Hygiea | temperature | "164.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | Planet/surfaceArea | "837080.744"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/temperature | "247.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | Planet/surfaceArea | "837080.744"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/temperature | "164.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | surfaceArea | 837080.744 (squareKilometres)</mtriple>
+        <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
+        <mtriple>10_Hygiea | temperature | 164.0 (kelvins)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">10 Hygiea; has a surface area of 837080.744 square kilometres, an apoapsis of 523951582.33968 kilometres, and a temperature of 164.0 kelvins.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as 10 Hygiea has a surface area of 837080.744 square km. It has an apoapsis of 523951582.33968 kilometres and a temperature of 164 Kelvins.</lex>
+      <lex comment="good" lid="Id3">The asteroid called 10 Hygiea, has an apoapsis of 523951582.33968 kilometres, a surface area of 837080.744 square km and a temperature of 164 Kelvins.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id121" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>10_Hygiea | surfaceArea | 8.37081e+11</otriple>
+        <otriple>10_Hygiea | escapeVelocity | "0.21"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | escapeVelocity | "756.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | Planet/surfaceArea | "837080.744"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | escapeVelocity | "0.21"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>10_Hygiea | Planet/surfaceArea | "837080.744"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>10_Hygiea | escapeVelocity | "756.0"^^xsd:double</otriple>
+        <otriple>10_Hygiea | surfaceArea | 8.37081e+11</otriple>
+        <otriple>10_Hygiea | Planet/apoapsis | "5.2395158233968E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>10_Hygiea | surfaceArea | 837080.744 (squareKilometres)</mtriple>
+        <mtriple>10_Hygiea | escapeVelocity | 0.21 (kilometrePerSeconds)</mtriple>
+        <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as 10 Hygiea has a surface area of 837080.744 square km and an escape velocity of 0.21 kilometres per second and its apoapsis is 523951582.33968 (kms).</lex>
+      <lex comment="good" lid="Id2">10 Hygiea has an apoapsis of 523951582.33968 km, an escape velocity of 0.21 km per sec, and a surface are of 837080.744 sq km.</lex>
+      <lex comment="good" lid="Id3">The celestial body known as 10 Hygiea has a surface area of 837080.744 square km, an escape velocity of 0.21 km per sec and an apoapsis of 523951582.33968 (kilometres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id122" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | mass | "5700.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1101_Clematis | mass | "5.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | mass | "5.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | "5700.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | mass | 5.7 (kilograms)</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1101 Clematis, has a mass of 5.7 kgs, an orbital period of, 183309000.0, and the epoch date of, 31 December 2006.</lex>
+      <lex comment="good" lid="Id2">1101 Clematis, which has a mass of 5.7 kg and an orbital period of 18330900.0, has an epoch date of 31 December 2006.</lex>
+      <lex comment="good" lid="Id3">With a mass of 5.7 kgs, 1101 Clematis, has an orbital period of 183309000.0 and an epoch on 31 December 2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id123" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch of 1101 Clematis was on 31 December 2006 and it has an orbital period of 183309000.0 and its periapsis is 445895000000.0.</lex>
+      <lex comment="good" lid="Id2">1101 Clematis; has the epoch on 31 December 2006, and orbital period of 183309000.0, and a periapsis of 445895000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id124" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1101 Clemantis has a periapsis of 445895000000, and the apoapsis of 520906000.0 kilometres. This minor planet's epoch date, is on the 31st of July 2016.</lex>
+      <lex comment="good" lid="Id2">The epoch of 1101 Clematis is on the 31st of July 2016. It has a periapsis of 445895000000.0 and an apoapsis of 520906000.0 (kilometres).</lex>
+      <lex comment="good" lid="Id3">The 1101 Clematis has a periapsis of 445895000000.0, an apoapsis of 520906000.0 km and an epoch date of the 31st July 2016.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id125" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "72.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | mass | "5700.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | "5700.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | escapeVelocity | "0.02"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "72.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | mass | "5.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "0.02"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | mass | "5.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)</mtriple>
+        <mtriple>1101_Clematis | mass | 5.7 (kilograms)</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1101 Clematis has an escape velocity of 0.02 kilometres per second and a mass of 5.7 kgs. It has an apoapsis of 520906000.0 Kilometers.</lex>
+      <lex comment="good" lid="Id2">1101 Clematis has an apoapsis of 520906000.0 km, a mass of 5.7kg and an escape velocity of 0.02 km per sec.</lex>
+      <lex comment="good" lid="Id3">The celestial body known as 1101 Clematis has an escape velocity of 0.02 k.p.s, a mass of 5.7kg and an apoapsis of 520906000.0 Kilometers.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id126" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | temperature | "155.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | escapeVelocity | "0.02"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | "72.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | temperature | "155.0"^^xsd:double</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | "5.20906E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)</mtriple>
+        <mtriple>1101_Clematis | temperature | 155.0 (kelvins)</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as 1101 Clematis has an escape velocity of 0.02 k.p.s., a temperature of 155 kelvins and an apoapsis of 520906000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">With a temperature of 155 kelvins, 1101 Clematis, has an escape velocity of 0.02 kilometres per second, and an apoapsis of 520906000.0 kilometres.</lex>
+      <lex comment="good" lid="Id3">The celestial body known as 1101 Clematis has an escape velocity of 0.02 k.p.s., a temperature of 155 kelvins and an apoapsis of 520906000.0 Kilometers.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id127" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | formerName | "1928 SJ"</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch of 1101 Clematis, formely known as 1928 SJ, is 31 December 2006 and it has an orbital period of 183309000.0.</lex>
+      <lex comment="good" lid="Id2">1101 Clematis has an orbital period of 183309000.0 and an epoch date of December 31st 2006. "1928 SJ" is the former name of 1101 Clematis.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id128" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | formerName | "1928 SJ"@en</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | formerName | "1928 SJ"</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1101 Clemantis has a periapsis of 445895000000. It has the former name of 1928 SJ and an epoch date of 31.12.2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id129" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">110 Lydia, with a mass of 6.7 kg and the epoch date December 31st 2006, has an orbital period of 142603000.0.</lex>
+      <lex comment="good" lid="Id2">31 December 2006 is the epoch of 110 Lydia, which has a mass of 6.7 kilograms, and an orbital period of 142603000.0.</lex>
+      <lex comment="good" lid="Id3">31 December 2006 is the epoch of 110 Lydia which has a mass of 6.7 kg and an orbital period of 142603000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id130" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">110 Lydia's epoch is 31st December 2006, it has a mass of 6.7kg and a periapsis of 377016000000.0.</lex>
+      <lex comment="good" lid="Id2">110 Lydia has a mass of 6.7 kg, a periapsis of 377016000000.0, and has an epoch date of December 31st, 2006.</lex>
+      <lex comment="good" lid="Id3">110 Lydia has an epoch date of December 31st 2006. Its mass is 6.7 kg and has a periapsis measurement of 377016000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id131" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as 110 Lydia has an orbital period of 142603000. It has an apoapsis of 440756000.0 kilometres, and an epoch date of December 31st 2006.</lex>
+      <lex comment="good" lid="Id2">The apoapsis for 110 Lydia, epoch date 31 December 2006, is 440756000.0 (kilometres) and the orbital period is 142603000.0.</lex>
+      <lex comment="good" lid="Id3">With an orbital period of 142603000.0 , 110 Lydia, has an epoch date of December 31st 2006, and an apoapsis of 440756000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id132" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">110 Lydia; has an apoapsis of 440756000.0 kilometres, a periapsis of 377016000000.0, and its epoch is 31st December 2006.</lex>
+      <lex comment="good" lid="Id2">110 Lydia, with the epoch date December 31st 2006, has an apoapsis of 440756000.0 km and a periapsis measurement of 377016000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id133" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "0.0455"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "163.8"^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | "6700.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | escapeVelocity | "0.0455"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "163.8"^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | "6.7"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">110 Lydia has a mass of 6.7 kilograms,an escape velocity of 0.0455km/s and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">The 110 Lydia has a mass of 6.7 kilograms, an apoapsis of 440756000.0 km and an escape velocity of 0.0455 k.p.s.</lex>
+      <lex comment="good" lid="Id3">110 Lydia has an escape velocity of 0.0455 kilometres per second,an apoapsis of 440756000.0 kms and its mass is 6.7 kilograms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id134" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>110_Lydia | temperature | "168.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | escapeVelocity | "0.0455"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | "163.8"^^xsd:double</otriple>
+        <otriple>110_Lydia | temperature | "168.0"^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | "4.40756E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+        <mtriple>110_Lydia | temperature | 168.0 (kelvins)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With an escape velocity of 0.0455 km/s, 110 Lydia, has a temperature of 168.0 kelvins and an apoapsis of 440756000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">At a temperature of 168.0 kelvins, and with an escape velocity of 0.0455 kilometres per second, 110 Lydia has an apoapsis of, 440756000.0 kilometres.</lex>
+      <lex comment="good" lid="Id3">110 Lydia has an escape velocity of 0.0455 km per sec, a temperature of 168 kelvins and an apoapsis of 440756000.0 (kilometres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id135" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | "18.29"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Nikolai Chernykh discovered 11264 Claudiomaccone which has an apoapsis of 475426000.0 kilometres and an average speed of 18.29 km per sec.</lex>
+      <lex comment="good" lid="Id2">Nikolai Chernykh discovered 11264 Claudiomaccone, which has an average speed of 18.29 kilometres per second and an apoapsis of 475426000.0 kilometres.</lex>
+      <lex comment="good" lid="Id3">Nikolai Chernykh was the discoverer of the asteroid 11264 Claudiomaccone. It has an average speed of 18.29 km per sec and an apoapsis of 475426000.0 kms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id136" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Nikolai Chernykh was the discoverer of 11264 Claudiomaccone whose epoch date is November 26, 2005. The celestial body has a periapsis of 296521000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">Discovered by Nikolai Chernykh, 11264 Claudiomaccone has an epoch date of November 26th 2005 and has a periapsis of 296521000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id137" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11264 Claudiomaccone has the epoch date of 26 November 2005,an orbital period of 1513.722 days and its apoapsis is 475426000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">11264 Claudiomaccone has an epoch date of November 26th 2005, an orbital period of 1513.722 days and an apoapsis of 475426000.0 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id138" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | rotationPeriod | "11473.9"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | rotationPeriod | "11473.9"^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | "4.75426E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The rotation period for 11264 Claudiomaccone which has an epoch date of 26.11.2005, is 11473.9. It's apoapsis is 475426000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">11264 Claudiomaccone has an epoch date of November 26th 2005,an apoapsis of 475426000 kilometres and its rotation period is 11473.9.</lex>
+      <lex comment="good" lid="Id3">11264 Claudiomaccone has the epoch date of 26 November 2005, an apoapsis of 475426000 kms and a rotation period of 11473.9.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id139" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | "2005-11-26"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11264 Claudiomaccone has an orbital period of 1513.722 days and a periapsis of 296521000.0 kilometres. It has an epoch date of 26th November 2005.</lex>
+      <lex comment="good" lid="Id2">11264 Claudiomaccone has the epoch date of 26 November 2005, an orbital period of 1513.722 days and a periapsis of 296521000.0 (kilometres).</lex>
+      <lex comment="good" lid="Id3">11264 Claudiomaccone has an epoch date of November 26th 2005. It has an orbital period of 1513.722 days and a periapsis of 296521000.0 kilometres.</lex>
+    </entry>
+  </entries>
+</benchmark>

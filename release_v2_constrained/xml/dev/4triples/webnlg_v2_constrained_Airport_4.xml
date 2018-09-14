@@ -1,0 +1,877 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2776.73"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | "Aarhus Lufthavn A/S"@en</otriple>
+        <otriple>Aarhus_Airport | elevation | "25.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10L/28R"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2776.73"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | "Aarhus Lufthavn A/S"@en</otriple>
+        <otriple>Aarhus_Airport | elevation | "24.9936"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10L/28R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
+        <mtriple>Aarhus_Airport | operatingOrganisation | "Aarhus Lufthavn A/S"</mtriple>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+        <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Operated by Aarhus Lufthavn A/S, Aarhus Airport is 25 metres above sea level. It has a runway length of 2776.0 and the runway name, 10L/28R.</lex>
+      <lex comment="good" lid="Id2">Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which is 25.0 metres above the sea level. It has a runway length of 2776.0 and a runway with the name 10L/28R.</lex>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "09/27 'Buitenveldertbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "09/27 'Buitenveldertbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "09/27 'Buitenveldertbaan'"</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Serving the city of Amsterdam, Amsterdam Airport Schiphol is -3.3528 metres above sea level. It has a runway named 09/27 Buitenveldertbaan and a runway length of 2014.0.</lex>
+      <lex comment="good" lid="Id2">Amsterdam AIrport, Schiphol serves the city of Amsterdam and is -3.3528 from sea level. The runway name is 09/27 Buitenvelderbaan and is 2014.0 in length.</lex>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "18L/36R 'Aalsmeerbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "18L/36R 'Aalsmeerbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18L/36R 'Aalsmeerbaan'"</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The city of Amsterdam is served by Amsterdam Schiphol Airport. This airport has an elevation of -3.3528 from sea level and the runway name 18L/36R 'Aalsmeerbaan. It also has the runway length of 2014.0 metres.</lex>
+      <lex comment="good" lid="Id2">Amsterdam Airport Schiphol is -3.3528 above sea level, has a runway name 18L/36R'Aalsmeerbaan which is 2014.0 in length and serves the city of Amsterdam.</lex>
+      <lex comment="good" lid="Id3">Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 above sea level and has a runway length of 2014.0 with the name of 18L/36R.</lex>
+    </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport is located at Ícolo e Bengo in Luanda Province, Angola, and serves the city of Luanda.</lex>
+      <lex comment="good" lid="Id2">Angola International Airport is located at Ícolo e Bengo, Luanda Province, Angola and serves the city of Luanda.</lex>
+      <lex comment="good" lid="Id3">Angola International airport is located in Icolo e Bengo in Luada Province, Angola and serves the city of Luanda.</lex>
+    </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2776.73"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | elevation | "24.9936"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | Aktieselskab</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10L/28R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+        <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
+        <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport which is located at 25 metres above sea level. It has a runway name of 10L/28R and has a length of 2776.0.</lex>
+      <lex comment="good" lid="Id2">Aktieselskab operates Aarhus Airport, which is 25 metres above sea level, has a runway length of 2776.0 and a runway name of 10L/28R.</lex>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2776.73"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | elevation | "25.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | Aktieselskab</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10R/28L"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+        <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
+        <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aktieselskab operates Aarhus Airport which has an elevation of 25 metres above seal level. It also has a runway length of 2776.0 metres and a runway name, 10R/28L.</lex>
+      <lex comment="good" lid="Id2">Operated by the Aktieselkab organisation, Aarhus Airport is 25.0 metres above the sea level. It has a runway length of 2776.0 and 10R/28L is the runway name.</lex>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2776.73"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | "Aarhus Lufthavn A/S"@en</otriple>
+        <otriple>Aarhus_Airport | elevation | "24.9936"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10R/28L"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
+        <mtriple>Aarhus_Airport | operatingOrganisation | "Aarhus Lufthavn A/S"</mtriple>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+        <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus Airport, which is 25 metres above sea level, is operated by Aarhus Lufthavn A/S. The runway name is 10R/28L and has a length of 2776.0.</lex>
+      <lex comment="good" lid="Id2">Aarhus airport which is 25 metres above sea level, is operated by Aarhus Lufthavn A/S. The runway name is 10R/28L and has a length of 2776.0.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is run by Aarhus Lufthavn A/S and is 25 metres above sea level. The runway length is 2776 and it is called 10R/28L.</lex>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2777.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | elevation | "25.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | Aktieselskab</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10L/28R"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2777.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | elevation | "24.9936"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | Aktieselskab</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10L/28R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2777.0</mtriple>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+        <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
+        <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport which is 25 metres above sea level. The runway name is 10L/28R and has a length of 2777.0.</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport is operated by the Aktieselkab organisation. Its runway name is 10L/28R ,is 25 meters above sea level, and 2777 meters long.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is 25 meters above sea level with a runway length of 2777 and named 10L/28R. It is operated by Aktieselskab .</lex>
+    </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2777.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | elevation | "24.9936"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | Aktieselskab</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10R/28L"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2777.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | elevation | "25.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | Aktieselskab</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10R/28L"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2777.0</mtriple>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+        <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
+        <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aktieselskab is the operationg organisation for Aarhus Airport(runway name of 10R/28L is 2777.0 meters) is 25 metres aboce sea level.</lex>
+      <lex comment="good" lid="Id2">Aarhus airport is 25 metres above sea level and operated by Aktieselskab. The runway name is 10R/28L and it has a length of 2777.0.</lex>
+      <lex comment="good" lid="Id3">10R/28L is the runway name at Aarhus Airport. It is 2777 meters long with 25 meters above sea level. Aktieselskab operates the airport.</lex>
+    </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2777.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | operator | "Aarhus Lufthavn A/S"@en</otriple>
+        <otriple>Aarhus_Airport | elevation | "25.0"^^xsd:double</otriple>
+        <otriple>Aarhus_Airport | runwayDesignation | "10L/28R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2777.0</mtriple>
+        <mtriple>Aarhus_Airport | operatingOrganisation | "Aarhus Lufthavn A/S"</mtriple>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+        <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus airport has a runway length of 2777.0 and is 25 metres above sea level. It is operated by Aarhus Lufthavn A/S and the runway name is 10L/28R.</lex>
+      <lex comment="good" lid="Id2">Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which is 25 metres above sea level. The runway length is 2777.0 metres and the runway name is 10L/28R.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport which is also known as 10L/28R is operated by Aarhus Lufthavn A/S and is 25.0 metres above sea level. It has a runway length of 2777.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id104" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1533.0"^^xsd:double</otriple>
+        <otriple>Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport has a runway length of 1533 and is 210 metres above sea level. It is located in Maple Ridge Township, Alpena County, Michigan, United States.</lex>
+      <lex comment="good" lid="Id2">Aplena County Regional Airport lies 210 metres above sea level and has a runway length of 1533.0. The airport is located in Maple Ridge Township, Alpena County, Michigan, United States.</lex>
+    </entry>
+    <entry category="Airport" eid="Id105" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1533.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | cityServed | Alpena,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport serves Alpena, Michigan and is located at Maple Ridge Township, Alpena County, Michigan. It has a runway length of 1533.0 and is 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County and serves the city of Alpena, Michigan. It is located 210 metres above sea level and has a runway length of 1533.0.</lex>
+      <lex comment="good" lid="Id3">Alpena, Michigan, is served by the Alpena County Regional Airport in Maple Ridge Township. The runway length is 1533.0 and the elevation is 210 metres above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id106" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "2743.5"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 2744.0</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | cityServed | Alpena,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena, Michigan is served by Alpena County Regional Airport which is located in Maple Ridge Township, Alpena County, Michigan at 210 metres above sea level and with a runway length of 2744.0.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport is found in Maple Ridge Township and serves the city of Alpena, Michigan. Its runway is 2744 m long and is 210 m above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id107" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1533.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1533.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | cityServed | Alpena,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport, which serves Alpena Michigan, is located in Wilson Township, Alpena County , Michigan. The Airport has a runway length of 1,533 and is 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Alpena, Michigan, is served by the County Regional Airport. Located in the Wilson Township, the airport has an elevation 210 metres above sea level and a runway length of 1,533.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is found in Wilson Township,Alpena County Michigan and serves Alpena.The airport is situated 210 metres above sea level and has a 1,533km long runway.</lex>
+    </entry>
+    <entry category="Airport" eid="Id108" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "2743.5"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "2744.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 2744.0</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | cityServed | Alpena,_Michigan</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional airport serves the city of Alpena in Michigan and is located in Wilson Township, Alpena County. It is located at 210 metres above sea level and has a runway length of 2744.0.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport serves the city of Alpena and is located in Wilson Township, Alpena County, Michigan. The airport is 210 metres above sea level and has a runway length of 2744.0.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan and serves that area. Its runway length is 2744 and it is 210 meters above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id109" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1533.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1533.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wilson Township (Alpena County), Michigan, U.S.A., is home to the Alpena County Regional Airport, whose runway length is 1,533. and is located 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan, United States. The airport has a runway length of 1533.0 and is at an elevation of 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan, U.S.A. The airport is 210 meters above sea level and the runway is 1533 long.</lex>
+    </entry>
+    <entry category="Airport" eid="Id110" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "2743.5"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "2744.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.0"^^xsd:double</otriple>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "2743.5"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</mtriple>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 2744.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan, United States. The airport is 210 metres above sea level and is 2744 metres in length.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan, USA. It is 210 metres above sea level and has a runway length of 2744.0.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan, United States. The runway length is 2744.0 and it is 210 metres above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id111" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "04/22 'Oostbaan'"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "04/22 'Oostbaan'"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam is served by Amsterdam Airport Schuphol which is at an elevation of -3.3528 from sea level. It has a runway length of 2014.0 metres and it has the runway name, 04/22 Oostbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id112" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "06/24 'Kaagbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "06/24 'Kaagbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "06/24 'Kaagbaan'"</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level. It has a runway length of 2014.0 meters and 06/24, Kaagbaan, is the runway name.</lex>
+      <lex comment="good" lid="Id2">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. Amsterdam Airport Schiphol's runway length is 2014.0 and it has the runway name, 06/24 Kaagbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id113" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "06/24 'Kaagbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "3800.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "06/24 'Kaagbaan'"</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3800.0</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. It has the runway name, 06/24, Kaagbaan, and has a runway length of 3800.0.</lex>
+      <lex comment="good" lid="Id2">Amsterdam Airport Schiphol serves the city of Amsterdam. The runway named 06/24 Kaagbaan is 3800.0 long. The airport is -3.3528 above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id114" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "18C/36C 'Zwanenburgbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18C/36C 'Zwanenburgbaan'"</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">18C/36C or Zwanenburgbaan are the names for the runway at Amsterdam Airport Schiphol which has a runway length of 2014.0. This Airport serves Amsterdam and is at an elevation of -3.3528 from sea level.</lex>
+      <lex comment="good" lid="Id2">Amsterdam airport, Schiphol serves the city of Amsterdam is -3.3528 metres above sea level and has runway 18C/36C Zwamemburgbaan that is 2014.0 long.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schiphol serves Amsterdam. The runway is called 18C/36C or Zwanenburgbaan and is 2014 metres long. Schiphol is -3.3528 above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id115" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "18R/36L 'Polderbaan'"</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18R/36L 'Polderbaan'"</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol has an elevation of -3.3528 from sea level. it serves the city of Amsterdam with a runway length and runway name of 2014.0 meters and 18R/36L Polderbaan respectively.</lex>
+      <lex comment="good" lid="Id2">Amsterdam airport Schiphol is -3.3528 above sea level and serves the city of Amsterdam. It has a runway that is 2014 metres long and the runway name, 18R/36L Polderbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id132" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3800.86"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3800.86"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
+        <mtriple>Angola_International_Airport | runwayLength | 3800.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Located in Ícolo e Bengo, with an elevation of 159 meters above sea level, is Angola International Airport. It serves the city of Luanda and has a runway that is 3800 long.</lex>
+      <lex comment="good" lid="Id2">Luanda is served by Angola International Airport located in Icole e Bengo. The airport is 159 metres above sea level and has a runway length of 3800.</lex>
+    </entry>
+    <entry category="Airport" eid="Id133" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "4000.0"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "4000.0"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3999.89"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3999.89"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+        <mtriple>Angola_International_Airport | runwayLength | 4000.0</mtriple>
+        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International airport is 159 metres above sea level, has a runway length of 4000, serves the city of Luanda and is located in Icolo e Bengo.</lex>
+      <lex comment="good" lid="Id2">Angola International Airport is located in Ícolo e Bengo which serves Luanda. The runway length is 4000.0 and 159 meters above sea level.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport, located in Ícolo e Bengo and serving Luanda, is 4000 in length and 159 meters above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id134" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+        <otriple>Luanda | country | Angola</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+        <mtriple>Luanda | country | Angola</mtriple>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International airport is located in Icolo e Bengo, serves Luanda which is located in Angola and is part of Luanda Province.</lex>
+      <lex comment="good" lid="Id2">Angola International airport serves the city of Luanda and is located in Icolo e Bengo, Luanda Province, Angola.</lex>
+      <lex comment="good" lid="Id3">The Angola International Airport serving Luanda in Angola is located at Ícolo e Bengo. lcolo e Bengo is in the Luanda Province.</lex>
+    </entry>
+    <entry category="Airport" eid="Id135" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3999.89"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | runwayDesignation | "05L/23R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Angola_International_Airport | runwayLength | 4000.0</mtriple>
+        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
+        <mtriple>Angola_International_Airport | runwayName | "05L/23R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">At 159 metres above the sea level, with a runway name 05L/23R and a runway length of 4000.0, Angola International Airport is located at Ícolo e Bengo.</lex>
+      <lex comment="good" lid="Id2">Angola International Airport, which is located at Ícolo e Bengo is 159 metres above sea level and has a runway name of 05L/23R with a length of 4000.0.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport is 159 metres above the sea level and located in Icolo e Bengo. The runway is called "05L/23R" and has a length of 4000 feet.</lex>
+    </entry>
+    <entry category="Airport" eid="Id136" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "4000.0"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+        <otriple>Angola_International_Airport | runwayDesignation | "South Runway"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Angola_International_Airport | runwayLength | 4000.0</mtriple>
+        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
+        <mtriple>Angola_International_Airport | runwayName | "South Runway"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport is 159 metres above the sea level and is located in Ícolo e Bengo. It has a runway called South Runway and has a runway length of 4000ft.</lex>
+      <lex comment="good" lid="Id2">The Angola International Airport is located at Ícolo e Bengo and is 159 m above sea level. The runway's name is South Runway and it is 4000 feet long.</lex>
+      <lex comment="good" lid="Id3">Angola International airport, located in Icolo e Bengo, is 159 metres above sea level, has a runway named "South Runway", which is 4000.0 in length.</lex>
+    </entry>
+    <entry category="Airport" eid="Id137" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3800.86"^^xsd:double</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+        <mtriple>Angola_International_Airport | runwayLength | 3800.0</mtriple>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With a runway length of 3800.0, Angola International Airport is located at Ícolo e Bengo which is in the Luanda Province, in Angola.</lex>
+      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo, Luanda Province, Angola. It has a runway 3800 long.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport is located in Ícolo e Bengo which is part of Luanda Province. The runway length of Angola International Airport is 3,800.</lex>
+    </entry>
+    <entry category="Airport" eid="Id138" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "3999.89"^^xsd:double</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Angola_International_Airport | runwayLength | "4000.0"^^xsd:double</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+        <mtriple>Angola_International_Airport | runwayLength | 4000.0</mtriple>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport is located at Ícolo e Bengo, Luanda Province, Angola. It has a runway length of 4000 ft.</lex>
+      <lex comment="good" lid="Id2">Angola International Airport is located in Ícolo e Bengo, Luanda Province, Angola and has a runway length of 4000.</lex>
+      <lex comment="good" lid="Id3">Angola International airport which has a runway length of 4000 feet is located at Ícolo e Bengo in Luanda Province, Angola.</lex>
+    </entry>
+    <entry category="Airport" eid="Id139" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Angola_International_Airport | runwayDesignation | "05L/23R"</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+        <mtriple>Angola_International_Airport | runwayName | "05L/23R"</mtriple>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport is located at Ícolo e Bengo, Luanda Province, Angola and has a runway called "05L/23R".</lex>
+      <lex comment="good" lid="Id2">Angola International airport is located at Ícolo e Bengo, Luanda Province, Angola, and has the runway name of 05L/23R.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport , with a runway named 05L/23R, is located at Ícolo e Bengo, which is in the Luanda Province of Angola.</lex>
+    </entry>
+    <entry category="Airport" eid="Id140" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Angola_International_Airport | runwayDesignation | "South Runway"</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+        <mtriple>Angola_International_Airport | runwayName | "South Runway"</mtriple>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport, has a runway named South Runway, and is located at Ícolo e Bengo. Ícolo e Bengo is in the Luanda Province, in Angola.</lex>
+      <lex comment="good" lid="Id2">Icolo e bengo is part of Luanda Province, Angola and is the location of Angola International airport where the runway is known as "south runway".</lex>
+      <lex comment="good" lid="Id3">Angola International Airport is located at Ícolo e Bengo, which is in the Luanda Province of Angola. "South Runway" is a runway name at this airport.</lex>
+    </entry>
+    <entry category="Airport" eid="Id141" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+        <otriple>Angola_International_Airport | elevation | "159.106"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">At 159 meters above sea level, Angola International Airport is located at Ícolo e Bengo, part of Luanda Province, in Angola.</lex>
+      <lex comment="good" lid="Id2">Angola International airport, situated 159 metres above sea level, is located at Ícolo e Bengo, part of Luanda Province in Angola.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport is located in Ícolo e Bengo in Luanda Province, Angola. It is 159 metres above sea level..</lex>
+    </entry>
+    <entry category="Airport" eid="Id171" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "210.922"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "900.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "210.922"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "900.074"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "900.074"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "900.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+        <mtriple>Ashgabat_International_Airport | location | Ashgabat</mtriple>
+        <mtriple>Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211</mtriple>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 900.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ashgabat International Airport located in Ashgabat is operated by Turkmenistan Airlines, it's runway is 211 metres above sea level and has a runway length of 900.0.</lex>
+      <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport in Ashgabat, is called Turkmenistan Airlines. The airport is 211 metres above sea level and the runway length is 900 metres.</lex>
+      <lex comment="good" lid="Id3">The Ashgabat International Airport is located in Ashgabat and operated by the Turkmenistan Airlines.The airport is situated 211 meters above sea level and has a 0.9 km long runway.</lex>
+    </entry>
+    <entry category="Airport" eid="Id172" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "2989.0"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "2988.87"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "2989.0"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "210.922"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+        <mtriple>Ashgabat_International_Airport | location | Ashgabat</mtriple>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 2989.0</mtriple>
+        <mtriple>Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ashgabat International Airport located in Ashgabat has a runway of length 2989.0 meters. The airport is operated by Turkmenistan Airlines and has an elevation of 211 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Turkmenistan airlines are the operating organisation for Ashgabat International Airport which is 211 metres above sea level and has a runway length of 2989.0 metres.</lex>
+      <lex comment="good" lid="Id3">The operating organization for Ashgabat International Airport in Ashgabat is Turkmenistan Airlines. The runway length is 2989.0 and the airport is 211 metres above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id173" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "3799.94"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "210.922"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "3799.94"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+        <otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+        <mtriple>Ashgabat_International_Airport | location | Ashgabat</mtriple>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 3800.0</mtriple>
+        <mtriple>Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Turkmenistan Airlines is the operating organization for Ashgabat International Airport which is located in Ashgabat. It is elevated 211 metres above sea level and has a runway length of 3800.0.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airport in Ashgabat is operated by Turkmenistan Airlines. It is located 211 metres above sea level and has a runway length of 3800.0.</lex>
+      <lex comment="good" lid="Id3">Ashgabat International Airport in Ashgabat is operated by Turkmenistan Airlines. It is 211 metres above sea level and has a runway length of 3800.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id174" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "900.0"^^xsd:double</otriple>
+        <otriple>Turkmenistan_Airlines | headquarters | Turkmenistan</otriple>
+        <otriple>Turkmenistan_Airlines | headquarter | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 900.0</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Turkmenistan airlines have headquarters in Ashgabat, Turkmenistan and are the operating organisation for Ashgabat International airport that has a runway length of 900.0.</lex>
+      <lex comment="good" lid="Id2">The headquarters of Turkmenistan Airlines are located in Ashgabat, Turkmenistan. They operate Ashgabat International airport which has a runway length of 900.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id175" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Turkmenistan_Airlines | headquarter | Turkmenistan</otriple>
+        <otriple>Ashgabat_International_Airport | runwayLength | "3799.94"^^xsd:double</otriple>
+        <otriple>Turkmenistan_Airlines | headquarters | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 3800.0</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The operating organization for Ashgabat International Airport is Turkmenistan Airlines whose HQ is in Ashgabat, Turkmenistan. The runway length at the airport is 3800.0.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airports has a runway length of 3800. It is operated by Turkmenistan Airlines who are located in Ashgabat, Turkmenistan.</lex>
+      <lex comment="good" lid="Id3">The Ashgabat International Airport has 3800.00 meters long runway and operated by the Turkmenistan Airlines.The headquarters of the Airlines is placed in Ashgabat,Turkmenistan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id176" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Turkmenistan_Airlines | headquarter | Turkmenistan</otriple>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenabat_Airport</otriple>
+        <otriple>Turkmenistan_Airlines | headquarters | Ashgabat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Turkmenistan_Airlines | headquarters | Turkmenistan</otriple>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenabat_Airport</otriple>
+        <otriple>Turkmenistan_Airlines | headquarter | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ashgabat International Airport is operated by Turkmenistan Airlines, the headquarters of which are in Ashgabat, in Turkmenistan. The hub airport for Turkmenistan Airlines is Turkmenabat Airport.</lex>
+      <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines and is in Turkmenistan. The hub airport for Turkmenistan Airlines is Turkmenabat Airport which is in Ashgabat.</lex>
+      <lex comment="good" lid="Id3">The headquarters of Turkmenistan Airlines are located in Ashgabat, Turkmenistan. They are the operating organization for Ashgabat International Airport and have a hub at Turkmenabat airport.</lex>
+    </entry>
+    <entry category="Airport" eid="Id177" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Turkmenistan_Airlines | headquarter | Turkmenistan</otriple>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenbashi_International_Airport</otriple>
+        <otriple>Turkmenistan_Airlines | headquarters | Ashgabat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenbashi_International_Airport</otriple>
+        <otriple>Turkmenistan_Airlines | headquarters | Turkmenistan</otriple>
+        <otriple>Turkmenistan_Airlines | headquarter | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenbashi_International_Airport</mtriple>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Turkmenistan Airlines have their HQ in Ashgabat, Turkmenistan and their hub airport at Turkmenbashi International airport. They are the operating organisation for Ashgabat International airport.</lex>
+      <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines who have headquarters in Ashgabat, Turkmenistan. Their hub airport is Turkmenbashi International Airport.</lex>
+      <lex comment="toFix" lid="Id3">The headquarters of Turkmenistan Airlines are located in Ashgabat International Airport in Turkmenistan.</lex>
+    </entry>
+  </entries>
+</benchmark>

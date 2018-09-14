@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | servingSize | 30.0 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes can be served in 30 gram sizes.</lex>
+      <lex comment="good" lid="Id2">Serving size for the Barny cakes is 30.0g.</lex>
+      <lex comment="good" lid="Id3">The serving size of Barny cakes is 30.0g.</lex>
+    </entry>
+    <entry category="Food" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | variations | "Onion, garlic, black pepper, chili"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | dishVariation | "Onion, garlic, black pepper, chili"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A variation of Amatriciana sauce includes onion, garlic, black pepper, and chili.</lex>
+      <lex comment="good" lid="Id2">A variation of Amatriciana sauce contains onion, garlic, black pepper, chili.</lex>
+    </entry>
+    <entry category="Food" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | hasVariant | Garlic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | dishVariation | Garlic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amatriciana sauce can be varied by adding garlic.</lex>
+      <lex comment="good" lid="Id2">One variation of Amatriciana sauce uses garlic as part of its dish.</lex>
+    </entry>
+    <entry category="Food" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | hasVariant | Onion</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | dishVariation | Onion</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Onion is one variation of ingredients in Amatriciana sauce.</lex>
+    </entry>
+    <entry category="Food" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | creatorOfDish | Malay_cuisine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | creatorOfDish | Malay_cuisine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asam pedas is a dish that was created within Malay cuisine.</lex>
+    </entry>
+    <entry category="Food" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asam_pedas | creatorOfDish | Padang_cuisine</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | creatorOfDish | Padang_cuisine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Padang cuisine has resulted in the creation of the dish Asam pedas.</lex>
+    </entry>
+    <entry category="Food" eid="Id134" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes have 18 grams of carbs.</lex>
+      <lex comment="good" lid="Id2">Barny Cakes have 18.0g of carbohydrates.</lex>
+    </entry>
+    <entry category="Food" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Apple</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Apple</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">barny cakes can be made with apple.</lex>
+    </entry>
+    <entry category="Food" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Chocolate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Chocolate</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny Cakes can be chocolate flavoured.</lex>
+      <lex comment="good" lid="Id2">Chocolate is one variation of the Barny Cakes dish.</lex>
+    </entry>
+    <entry category="Food" eid="Id139" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Milk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Milk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One dish variation called Barny Cakes is the use of milk in the recipe.</lex>
+    </entry>
+    <entry category="Food" eid="Id140" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | hasVariant | Strawberry</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | dishVariation | Strawberry</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Strawberries can be added to barny cakes.</lex>
+      <lex comment="good" lid="Id2">a variation of Barny Cakes is to use Strawberry.</lex>
+    </entry>
+    <entry category="Food" eid="Id141" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes contain 4.8 g of fat.</lex>
+      <lex comment="good" lid="Id2">Barny cakes contain 4.8g of fat.</lex>
+    </entry>
+    <entry category="Food" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes contain 1.8 g of protein.</lex>
+      <lex comment="good" lid="Id2">Barny cakes contain 1.8g of protein.</lex>
+    </entry>
+    <entry category="Food" eid="Id144" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Barny_Cakes | year | 1999</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | year | 1999</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes were invented in 1999.</lex>
+      <lex comment="good" lid="Id2">Barny Cakes were introduced in 1999.</lex>
+    </entry>
+    <entry category="Food" eid="Id172" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bhajji | related | Pakora</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bhajji | related | Pakora</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The dish bhajji is related to pakora.</lex>
+      <lex comment="good" lid="Id2">Bhajji is a snack that is similar to Pakora.</lex>
+      <lex comment="good" lid="Id3">bhajji and pakora are related.</lex>
+    </entry>
+    <entry category="Food" eid="Id258" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pakora | hasVariant | Cauliflower</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakora | dishVariation | Cauliflower</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">As a dish variation on a pakora, cauliflower can be used.</lex>
+    </entry>
+    <entry category="Food" eid="Id259" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pakora | hasVariant | Paneer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakora | dishVariation | Paneer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Pakora can be varied by using paneer.</lex>
+    </entry>
+    <entry category="Food" eid="Id276" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Siomay | hasVariant | Batagor</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Siomay | variations | Batagor</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Siomay | dishVariation | Batagor</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Batagor and Siomay are variation of the same dish.</lex>
+      <lex comment="good" lid="Id2">Batagor is a dish variation of Siomay.</lex>
+      <lex comment="good" lid="Id3">Batagor is a variation of Siomay.</lex>
+    </entry>
+  </entries>
+</benchmark>

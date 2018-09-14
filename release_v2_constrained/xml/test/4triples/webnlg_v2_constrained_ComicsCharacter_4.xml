@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Bolt, who has the alternative name of Larry Bolatinsky, was created by Gary Cohn and the Puerto Rican national, Ernie Colon.</lex>
+      <lex comment="good" lid="Id2">The comic character Bolt, with the alternative name Larry Bolatinsky, was created by Gary Cohn and Ernie Colon, who is a Puerto Rican national.</lex>
+      <lex comment="good" lid="Id3">Larry Bolatinsky is the alternative name for the comic character, Bolt. It was created by the Puerto Rican national Ernie Colon and the comic book writer, Gary Cohn.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arion (also known as Ahri'ahn) is a comic character created by Paul Kupperberg and Jan Duursema, who won the Eisner award.</lex>
+      <lex comment="good" lid="Id2">Paul Kupperberg and Eisner Award winning Jan Duursema are the creators of the comic book character Arion, also know as Ahri'ahn.</lex>
+      <lex comment="good" lid="Id3">The comic book character Arion (also known as Ahri'ahn), was created by Paul Kupperberg and Jan Duursema, the latter having won the Eisner Award.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic book character Aurakles was created by Len Wein and the American Dick Dillin.</lex>
+      <lex comment="good" lid="Id2">The comic book character Aurakles, with the alternative name Aurakles, was created by Dick Dillin (from the United States) and Len Wein.</lex>
+      <lex comment="good" lid="Id3">The fictional character Aurakles, also known as ''Aurakles'' was created by Len Wein and Dick Dillin (American).</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Balder is a comic character created by Stan Lee and the American, Jack Kirby. His alternative name is Balder Odinson.</lex>
+      <lex comment="good" lid="Id2">The comic character of Balder is also known as "Balder Odinson". It was created by Stan Lee and the American, Jack Kirby.</lex>
+      <lex comment="good" lid="Id3">The comic character, Balder has the alternative name of Balder Odinson . It was created by Stan Lee and the American, Jack Kirby.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id23" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dan Mishkin and the Puerto Rican national, Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky.</lex>
+      <lex comment="good" lid="Id2">Dan Mishkin and Ernie Colón (Puerto Rican) created the comic character Bolt, the alternative name of which is Larry Bolatinsky.</lex>
+      <lex comment="good" lid="Id3">The comic book character of Bolt has the alternative name of Larry Bolatinsky. It was created by Dan Mishkin and the Puerto Rican national, Ernie Colon.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bolt (Larry Bolatinsky) is a comic character that was created by both Paris Cullins and Ernie Colon who is a national of Puerto Rico.</lex>
+      <lex comment="good" lid="Id2">Bolt is a comic character otherwise know as Larry Bolatinsky. He was created by Paris Cullins and Ernie Colon ( national of Puerto Rico ).</lex>
+      <lex comment="good" lid="Id3">The character Bolt, also known as Larry Bolatinsky, was created by Paris Cullins and Ernie Colon, a puerto Rican National.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id32" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"@en</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+        <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bibbo Bibbowski is the full name of Bo Bibbowski created by Marv Wolfman and the American, Jerry Ordway.</lex>
+      <lex comment="good" lid="Id2">Bo (full name Bibbo) Bibbowski was created by Marv Wolfman and the American, Jerry Ordway.</lex>
+      <lex comment="good" lid="Id3">Marv Wolfman and the American, Jerry Ordway created Bo (full name Bibbo) Bibbowski.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id33" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Auron ( Lambien ) was created by both Marv Wolfman and American national Karl Kesel.</lex>
+      <lex comment="good" lid="Id2">Auron ( Lambien ) is a comic character that was created by both Marv Wolfman and American national Karl Kesel.</lex>
+      <lex comment="good" lid="Id3">Marv Wolfman and the American Karl Kesel are the creators of the comic book character Auron, whose full name is Lambien.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character of Auron (whose full name is Lambien) was created by Walt Simonson and the American, Karl Kesel.</lex>
+      <lex comment="good" lid="Id2">The comic character of Auron has the full name Lambien. He was created by Walt Simonson and the American, Karl Kesel.</lex>
+      <lex comment="good" lid="Id3">The comic book character Auron, with the full name Lambien, was created by Walt Simonson and Karl Kesel, who is from the United States.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id35" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bolt is a comic character with the alternative name of Larry Bolatinsky. He was created by Dan Mishkin and the US national, Paris Cullins.</lex>
+      <lex comment="good" lid="Id2">Bolt ( Larry Bolatinsky ) is a comic character which was created by both Dan Mishkin and U.S. national Paris Cullins.</lex>
+      <lex comment="good" lid="Id3">The comic book character Bolt also known as Larry Bolatinsky was created by Dan Mishkin and the American Paris Cullins.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id36" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The US national, Paris Cullins along with comic book writer, Gary Cohn created the comic character of Bolt. The character has the alternative name of Larry Bolatinsky,.</lex>
+      <lex comment="good" lid="Id2">The comic character Bolt , or otherwise known as Larry Bolatinsky, was created by both Gary Cohn and U.S national Paris Cullins.</lex>
+      <lex comment="good" lid="Id3">Bolt, also known as Larry Bolatinsky, is a comic book character created by Gary Cohn and the United States national Paris Cullins.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id37" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Larry Bolatinsky is the alternative name for the comic book character Bolt, which was created by Ernie Colon and the American Paris Cullins.</lex>
+      <lex comment="good" lid="Id2">Ernie Colon and the US national Paris Cullins created the comic character of Bolt, who has the alternative name of Larry Bolatinsky.</lex>
+      <lex comment="good" lid="Id3">Ernie Colón and the American Paris Cullins were among the creators of the comic book character Bolt, also known as Larry Bolatinsky.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id38" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The comic character Asterix is sometimes called "Astérix" and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
+      <lex comment="good" lid="Id2">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id39" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American comic book writer Roger McKenzie and Gene Colan created the character Ben Urich, who has the full name Benjamin Urich.</lex>
+      <lex comment="good" lid="Id2">The comic book writer, Roger McKenzie is an American and along with Gene Colan created Ben (Benjamin) Urich.</lex>
+      <lex comment="good" lid="Id3">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic book writer Roger Mckenzie who is American.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id40" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | "Jon Valor"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+        <mtriple>Black_Pirate | alternativeName | "Jon Valor"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Black Pirate, also know as Jon Valor, was created by the Inkpot Award winning American, Sheldon Moldoff.</lex>
+      <lex comment="good" lid="Id2">American Sheldon Moldoff, who has won the Inkpot Award, created The Black Pirate, whose alternative name is Jon Valor.</lex>
+      <lex comment="good" lid="Id3">The black pirate, also known as Jon Valor, was created by Sheldon Moldoff, an American who has won the Inkpot award.</lex>
+    </entry>
+  </entries>
+</benchmark>

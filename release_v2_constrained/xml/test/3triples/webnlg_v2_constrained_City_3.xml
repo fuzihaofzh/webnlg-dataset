@@ -1,0 +1,749 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="City" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | areaTotal | "6.81166873018368"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81167e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "265.0"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3316527565869"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "265.0"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.332"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.332"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | areaTotal | "6.81"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81167e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81167e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81167e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.332"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+        <otriple>Alexandria,_Indiana | elevation | "264.871"^^xsd:double</otriple>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alexandria,_Indiana | areaTotal | 6.81 (square kilometres)</mtriple>
+        <mtriple>Alexandria,_Indiana | elevationAboveTheSeaLevel | 265.0</mtriple>
+        <mtriple>Alexandria,_Indiana | populationDensity | 755.3 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alexandria, Indiana is elevated 265 metres above sea level,its total area is 6.81 square kilometres and its population density is 755.3 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id2">Alexandria, Indiana is located 265 above sea level, has a total area of 6.81 sq km and a population density of 755.3 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id3">At 265m above sea level, Alexandria, Indiana, has a population density of 755.3 inhabitants per square kilometre, and a total area of 6.81 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.582e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaTotal | "258.2"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaTotal | "258.2"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.582e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | areaTotal | "258.2218146004992"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.0"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaTotal | "258.2218146004992"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | elevationAboveTheSeaLevel | 184.0</mtriple>
+        <mtriple>Arlington,_Texas | populationDensity | 1472.0 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Arlington,_Texas | areaTotal | 258.2 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arlington, Texas, which is elevated 184 above sea level, has a population density, of 1472.0 inhabitants per sq km and a total area of 258.2 sq km.</lex>
+      <lex comment="good" lid="Id2">Arlington, Texas is elevated 184 above sea level. has a population density of 1472 inhabitants per sq km and a total area of 258.3 sq kms.</lex>
+      <lex comment="good" lid="Id3">Arlington Texa; is 184m above sea level, has a total area of 258.2 square kilometres, and the population density of 1472 inhabitants per square kilometre.</lex>
+    </entry>
+    <entry category="City" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaCode | "512 &amp; 737"</otriple>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaCode | "512 &amp; 737"</otriple>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | areaCode | 512, 737</mtriple>
+        <mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
+        <mtriple>Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Austin in Texas, has a population of 1296.65 people for each of its 703.95 square kilometres. The area codes for Austin are 512 and 737.</lex>
+      <lex comment="good" lid="Id2">With an area of 703.95 square kilometres, Austin, Texas, has the area codes 512 and 737 and the population density of 1296.65 inhabitants per sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.865e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.5"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.865e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | 2.86453e+08</otriple>
+        <otriple>Abilene,_Texas | elevation | "524.0"^^xsd:double</otriple>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | elevationAboveTheSeaLevel | 524.0</mtriple>
+        <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abilene, Texas is 524 above sea level, is 286.5 square kilometres large and has 429.9 people per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Abilene, Texas; is 524m above sea level, has a total area of 286.5 sq km, and a population density of 429.9 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">At 524 metres above sea level, Abilene (Texas) has a total area of 286.5 square kilometres, and a population density of 429.9 inhabitants per square kilometre.</lex>
+    </entry>
+    <entry category="City" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.54"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.53755844165633"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.54"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.53755844165633"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | areaTotal | "161.53755844165633"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | 1.61538e+08</otriple>
+        <otriple>Akron,_Ohio | elevation | "306.0"^^xsd:double</otriple>
+        <otriple>Akron,_Ohio | populationDensity | "1239.3"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | elevationAboveTheSeaLevel | 306.0</mtriple>
+        <mtriple>Akron,_Ohio | populationDensity | 1239.3 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Akron,_Ohio | areaTotal | 161.54 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akron, Ohio is at a height of 306.0 above sea level with a total area of 161.54 Sq Km and it has a 1239.3 inhabitants per square km population density.</lex>
+      <lex comment="good" lid="Id2">Akron, Ohio is 306 above sea level, has a total area of 161.54 sq km and a population density of 1239.3 people per sq km.</lex>
+      <lex comment="good" lid="Id3">At 306 metres above sea level, Akron, Ohio, has a total area of 161.54 square kilometres, and a population density of 1239.3 inhabitants per square km.</lex>
+    </entry>
+    <entry category="City" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | areaTotal | "45.972288958464"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.597e+07</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+        <otriple>Albany,_Oregon | populationDensity | "1104.0977325679783"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | areaTotal | 45.97 (square kilometres)</mtriple>
+        <mtriple>Albany,_Oregon | elevationAboveTheSeaLevel | 64.008</mtriple>
+        <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albany, Oregon is located at 64.008 above sea level and its population density is 1104.1 persons per sq. km. Its total area is 45.97 sq. km.</lex>
+      <lex comment="good" lid="Id2">Albany, Oregon which is 64,008 above sea level has a population density of 1104.1 inhabitants per square kilometres and is 45.97 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Albany, Oregon is 45.97 square kilometres, is 64.008 above sea level, and houses 1104.1 residents per square kilometre.</lex>
+    </entry>
+    <entry category="City" eid="Id42" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "346.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "346.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54257e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.6265410345586"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "346.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.6265410345586"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54257e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "1071.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+        <otriple>Alpharetta,_Georgia | elevation | "346.0"^^xsd:double</otriple>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | areaTotal | 55.4 (square kilometres)</mtriple>
+        <mtriple>Alpharetta,_Georgia | elevationAboveTheSeaLevel | 346.0</mtriple>
+        <mtriple>Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">There are 992.6 people per square km in Alpharetta, Georgia and it is located 346.0 above sea level. It has a total area of 55.4 sq. km.</lex>
+      <lex comment="good" lid="Id2">Alpharetta, Georgia is elebated 346.0 above sea level and has a total rea of 55.4 square kilometres and 992.6 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">Alpharetta, Georgia has a population density of 992.6 inhabitants per square kilometre, is located at 346.0 above sea level and is 55.4 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id107" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County in Michigan(capital:Lansing).</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan,whose capital is Lansing.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan, the capital of which, is Lansing.</lex>
+    </entry>
+    <entry category="City" eid="Id108" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Michigan | country | United_States</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor, Washtenaw County, is in Michigan in the U.S.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County, Michigan, United States.</lex>
+      <lex comment="good" lid="Id3">Part of Washtenaw County, Ann Arbor, is in Michigan, in the United States.</lex>
+    </entry>
+    <entry category="City" eid="Id109" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Michigan | largestCity | Detroit</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Detroit is the largest city in Michigan. The state is also the location of Ann Arbor, Washtenaw County.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan, the largest city in that state is , Detroit.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan, the largest city in that state is Detroit.</lex>
+    </entry>
+    <entry category="City" eid="Id110" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+        <mtriple>Washtenaw_County,_Michigan | country | United_States</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County, Michigan, United States.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, Michigan is part of Washtenaw County in the U.S.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan, United States.</lex>
+    </entry>
+    <entry category="City" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor in Michigan, which is led by the City Administrator, has a population density of 1580 inhabitants per sq km and a total area of 74.33 sq km.</lex>
+      <lex comment="good" lid="Id2">Led by the City Administrator, Ann Arbor, Michigan, has an area of 74.33 square kilometres and a population density of 1580.7 per square kilometre.</lex>
+      <lex comment="good" lid="Id3">Led by a City Administrator, Ann Arbor, Michigan, has a total area of 74.33 square kilometres and a population density of 1580.7 per square kilometer.</lex>
+    </entry>
+    <entry category="City" eid="Id112" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.6636268569193"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.33"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | Mayor</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Mayor is the title of the leader of Ann Arbor, which has a population density of 1580.7 people for each of the 74.33 square kilometres it covers.</lex>
+      <lex comment="good" lid="Id2">The city of Ann Arbor, Michigan, where the leader has the title of Mayor, has a population density of 1580.7 people for each of its 74.33 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor, Michigan is led by the Mayor, has a population density of 1580.7 per sq km and a total area of 74.33 sq kms.</lex>
+    </entry>
+    <entry category="City" eid="Id113" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | City_manager</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.66"^^xsd:double</otriple>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | City_manager</otriple>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | City_Manager</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor, Michigan has a population of 1580.7 people for each of the 74.33 square kilometres it covers. City Manager is the title given to the leader of Ann Arbor.</lex>
+      <lex comment="good" lid="Id2">The city of Ann Arbor, Michigan has a population of 1580.7 per square kilometre and a total area of 74.33 sq. km. Its city manager is the leader there.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor, Michigan is led by the city manager, has a total area of 74.33 sq kms and a population density of 1580.7 per sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id147" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.16"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.4125e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.164825163035"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.164825163035"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.41256e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.4125e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.164825163035"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.164825163035"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.4125e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.164825163035"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125627435794435"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | 4.41256e+07</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</otriple>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125627435794435"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The municipal official titled the Clerk leads Atlantic City, New Jersey,whose total area is 44.125 square kilometres and its population density is 1421.2 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id2">A Clerk (municipal official) is the leader of Atlantic City, N.J. where the population density is 1421.2 inhabitants per square kilometre and where the total are is 44.125 (square kilometres).</lex>
+      <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey which has a population density of 1421.2 inhabitants per square kilometre. It also has a total area of 44.125 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id152" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaTotal | "140.8"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | areaTotal | "153.0682973208576"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.53068e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.53068e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.408e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.53068e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | 1.53068e+08</otriple>
+        <otriple>Auburn,_Alabama | elevation | "213.97"^^xsd:double</otriple>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | elevationAboveTheSeaLevel | 214.0</mtriple>
+        <mtriple>Auburn,_Alabama | populationDensity | 368.65 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Auburn,_Alabama | areaTotal | 140.8 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Auburn, Alabama lies 214 metres above sea level and has a population density of 368.65 people for each of its 140.8 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Auburn, Alabama has a population density of 368.65 people per sq km, a total area of 140.8 sq km and is located 214 above sea level.</lex>
+      <lex comment="good" lid="Id3">Auburn, Alabama is 214.o above sea level, covers an area of 140.8 square kilometres and has 368.65 inhabitants per square kilometre.</lex>
+    </entry>
+    <entry category="City" eid="Id167" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
+        <mtriple>Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Austin,_Texas | areaCode | 512</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Austin, Texas has the area code 512, a population density of 1296.65 people per sq km and an area of 703.95 sq km.</lex>
+      <lex comment="good" lid="Id2">Austin, Texas has the area code of 512, a population density per sq km of 1296.65 and a total area of 703.95 sq km.</lex>
+      <lex comment="good" lid="Id3">Austin, Texas covers 703.95 square kilometres, has a population density of 1296.65 people per square kilometres and uses 512 as its area code.</lex>
+    </entry>
+    <entry category="City" eid="Id175" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.65"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | "703.9587683893247"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)</mtriple>
+        <mtriple>Austin,_Texas | areaOfLand | 686.0 (square kilometres)</mtriple>
+        <mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Austin, Texas has a area of land that measures 686.0 square kilometers(total area:703.95 sq km) and its population density is 1296.65 inhabitants per square kilometres.</lex>
+      <lex comment="good" lid="Id2">Austin, Texas has a population density of 1296.65 people per square kilometre and a total area of 703 square kilometres, of which land comprises 686 square kilometres.</lex>
+      <lex comment="good" lid="Id3">With a population density of 1296.65 inhabitants per sq km, Austin (Texas) has an area of 703.95 square kilometres, and a land area measures 686.0 square kilometers.</lex>
+    </entry>
+    <entry category="City" eid="Id191" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | country | United_States</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Michigan in the U.S. Lansing is the capital of Michigan.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, United States is in Michigan which has the capital of Lansing.</lex>
+      <lex comment="good" lid="Id3">Michigan's capital is Lansing and one of their major cities is Ann Arbor. This state is in the United States.</lex>
+    </entry>
+    <entry category="City" eid="Id192" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | largestCity | Detroit</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is located in Michigan where the largest city is Detroit and the capital is Lansing.</lex>
+      <lex comment="good" lid="Id2">The city of Detroit is the largest in Michigan which contains Ann Arbor and Lansing is the capital city.</lex>
+      <lex comment="good" lid="Id3">Detroit is the largest city in Michigan but Lansing is the capital and Ann Arbor is a notable city.</lex>
+    </entry>
+    <entry category="City" eid="Id193" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+        <otriple>Michigan | country | United_States</otriple>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | largestCity | Detroit</mtriple>
+        <mtriple>Michigan | country | United_States</mtriple>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Michigan state where the largest city is Detroit and it is located in the United States.</lex>
+      <lex comment="good" lid="Id2">The US town of Ann Arbor is part of Michigan, whose largest city is Detroit.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor is in Michigan (United States), where the state's largest city is Detroit.</lex>
+    </entry>
+  </entries>
+</benchmark>

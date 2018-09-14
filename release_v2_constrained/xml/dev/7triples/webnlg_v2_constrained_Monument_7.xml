@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id21" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroups | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | languages | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dead Mans Plack is a rock formation found in England and dedicated to Aethelwald, Ealdorman of East Anglia. One of the ethnic groups of the country are the British Arabs, and the Church of England is the official religion. The Cornish language is still spoken in parts of the country.</lex>
+      <lex comment="good" lid="Id2">Dead Man's Plack is located in England, made from stone, and dedicated to AEthelwald, Ealdorman of East Anglia. England's established religion is The Church of England, and the capital city is London. The Cornish language is spoken there, and the British Arabs are an English ethnic group.</lex>
+      <lex comment="good" lid="Id3">The capital of England is London where we can find the Dead Man's Plack which is made of stone. The Plack is dedicated to Æthelwald, Ealdorman of East Anglia. Cornish language is spoken in England and it has an established religion called the Church of England. One of the ethnic groups found in that country is the British Arabs.</lex>
+    </entry>
+    <entry category="Monument" eid="Id22" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield, Frederick County, Maryland. Located near to the city of Frederick, the monument was established on 11th July 1907, is owned by the National Park Service and belongs to the category of Historic districts in the United States.</lex>
+      <lex comment="good" lid="Id2">Frederick, Maryland is the nearest city to the 14th New Jersey Volunteer Infantry Monument which was established on 11 July 1907 at the Monocacy National Battlefield in Frederick, Maryland. The monument is categorised as a historic district in the US and is owned by the National Park Service.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is owned by The National Park Service. It was established on July 11th, 1907 and is categorized as a historic district in the United States and is found in the Monocacy National Battlefield, the city nearest to this is Frederick, Maryland.</lex>
+    </entry>
+  </entries>
+</benchmark>

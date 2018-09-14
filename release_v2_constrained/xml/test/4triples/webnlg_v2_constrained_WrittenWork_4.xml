@@ -1,0 +1,947 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | 51969173</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | "51969173"</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | OCLC_number | 51969173</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice, by J V Jones, has the OCLC number 51969173, the ISBN number 0-7653-0633-6 and is available in hardcover.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice, written by J.V. Jones and produced in hardcover, has the ISBN number 0-7653-0633-6 and the OCLC number 51969173.</lex>
+      <lex comment="good" lid="Id3">J V Jones is the author of A Fortress of Grey Ice which was published in hardcover. The OCLC number is 51969173 and the ISBN number is 0-7653-0633-6.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</otriple>
+        <otriple>A_Loyal_Character_Dancer | isbn | "1-56947-301-3"</otriple>
+        <otriple>A_Loyal_Character_Dancer | mediaType | Hardcover</otriple>
+        <otriple>A_Loyal_Character_Dancer | oclc | "49805501"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</otriple>
+        <otriple>A_Loyal_Character_Dancer | oclc | 49805501</otriple>
+        <otriple>A_Loyal_Character_Dancer | isbn | "1-56947-301-3"</otriple>
+        <otriple>A_Loyal_Character_Dancer | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | OCLC_number | 49805501</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | ISBN_number | "1-56947-301-3"</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book, A Loyal Character Dancer, has the ISBN number of 1-56947-301-3 and The OCLC number is 49805501. It was penned by Qiu Xiaolong and can be found in hardcover.</lex>
+      <lex comment="good" lid="Id2">The hardcover book A Loyal Character Dancer was written by Qiu Xiaolong, has an OCLC number of 49805501 and an ISBN number of 1-56947-301-3.</lex>
+      <lex comment="good" lid="Id3">The book A Loyal Character Dancer, written by Qiu Xiaolong, was published in hardcover. It has the ISBN number 1-56947-301-3 and OCLC number 49805501.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | numberOfPages | "560"^^xsd:positiveInteger</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | mediaType | Hardcover</mtriple>
+        <mtriple>A_Wizard_of_Mars | numberOfPages | "560"</mtriple>
+        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
+        <mtriple>A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars was written by Diane Duane and published in hardback. It's 560 pages long and the ISBN number is 978-0-15-204770-2.</lex>
+      <lex comment="good" lid="Id2">Diane Duane's 'A Wizard of Mars'(ISBN: 978-0-15-204770-2) was published in hardback and has 560 pages.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars written by Diane Duane has the ISBN number 978-0-15-204770-2 and is 560 pages long and published in hardcover.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | 83646315</otriple>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</otriple>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | 83646315</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</otriple>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | LCCN_number | 83646315</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acta Mathematica Hungarica, abbreviated to Acta Math. Hungar, discipline is Math. The LCCN number is 83646315 and the ISSN number is 0236-5294.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica (abbreviated as "Acta Math. Hungar.") covers the academic discipline of Mathematics. It has the ISSN number of "0236-5294" and LCCN number 83646315.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id27" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | 89646863</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | 89646863</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | ISSN_number | "1046-8188"</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | LCCN_number | 89646863</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACM Transactions on Information Systems (abbreviated to ACM Trans. Inf. Syst.) has the CODEN code ATISET. It has the ISSN number of 1046-8188 and LCCN number 89646863.</lex>
+      <lex comment="good" lid="Id2">ACM Transactions on Information Systems (abbrv. ACM Trans. Inf. Syst) has the CODEN code 'ATISET'. It's ISSN and LCCN numbers are 1046-8188 and 89646863 respectively.</lex>
+      <lex comment="good" lid="Id3">ACM Transactions on Information Systems has the abbreviation ACM Trans. Inf. Syst. It also has the ISSN number 1046-8188. As well as the CODEN code "ATISET" and the LCCN number 89646863.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1558-2868"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | 89646863</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1558-2868"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | 89646863</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1558-2868"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1558-2868"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | coden | "ATISET"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | LCCN_number | 89646863</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | CODEN_code | "ATISET"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACM Transactions on Information Systems (abbreviation: ACM Trans. Inf. Syst.) has the LCCN number 89646863 and the ISSN number 1558-2868. The CODEN code for ACM Transactions on Information Systems is "ATISET".</lex>
+      <lex comment="good" lid="Id2">The ACM Transactions on Information Systems (ACM Trans. Inf. Syst.) has the ISSN number 1558-2868, LCCN number 89646863 and CODEN code ATISET.</lex>
+      <lex comment="good" lid="Id3">ACM Transactions of Information Systems, abbreviated ACM Trans. Inf. Syst., has an ISSN number of 1558-2868, an LCCN number of 89646863 and a CODEN coden of ATISET.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id29" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | discipline | Computer_science</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | discipline | Computer_science</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."@en</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | discipline | Computer_science</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | 89646863</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | discipline | Computer_science</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | 89646863</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1046-8188"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | LCCN_number | 89646863</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | academicDiscipline | Computer_science</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | ISSN_number | "1046-8188"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACM Transactions on Information Systems (abbreviation ACM Trans. Inf. Syst) is part of the academic Discipline of Computer Science. This publication has the LCCN number 89646863 and the ISSN number 1046-8188.</lex>
+      <lex comment="good" lid="Id2">ACM Transactions on Information Systems (abbrv. ACM Trans. Inf. Syst) is part of the academic Discipline of Computer Science. It's LCCN and ISSN codes are 89646863 and 1046-8188 respectively.</lex>
+      <lex comment="good" lid="Id3">ACM Transactions on Information Systems (abbreviated to ACM Trans. Inf. Syst.) has the ISSN number 1046-8188 and the LCCN number 89646863. It is part of the academic discipline of Computer Science.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id30" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | "89646863"</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | discipline | Computer_science</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1558-2868"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACM_Transactions_on_Information_Systems | discipline | Computer_science</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | lccn | 89646863</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</otriple>
+        <otriple>ACM_Transactions_on_Information_Systems | issn | "1558-2868"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACM_Transactions_on_Information_Systems | academicDiscipline | Computer_science</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | LCCN_number | 89646863</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | abbreviation | "ACM Trans. Inf. Syst."</mtriple>
+        <mtriple>ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACM Transactions on Information Systems is part of the academic Discipline of Computer Science and has the LCCN number of 89646863. The abbreviation used is ACM Trans.Inf.Syst. and the ISSN number is 1558-2868.</lex>
+      <lex comment="good" lid="Id2">ACM Transactions on Information Systems, abbreviated to ACM Trans. Inf. Syst., is part of the academic Discipline of Computer Science. It has an ISSN number of 1558-2868 and an LCCN number of 89646863.</lex>
+      <lex comment="good" lid="Id3">ACM Transactions on Information Systems (abbreviated ACM Trans. Inf. Syst.) is part of the academic Discipline of Computer Science. It has a LCCN number of 89646863 and an ISSN number of 1558-2868.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id31" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV</otriple>
+        <otriple>AIDS_(journal) | lccn | "90640840"</otriple>
+        <otriple>AIDS_(journal) | discipline | HIV/AIDS</otriple>
+        <otriple>AIDS_(journal) | issn | "1473-5571"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | discipline | HIV</otriple>
+        <otriple>AIDS_(journal) | lccn | "90640840"</otriple>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</otriple>
+        <otriple>AIDS_(journal) | issn | "1473-5571"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
+        <mtriple>AIDS_(journal) | LCCN_number | "90640840"</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
+        <mtriple>AIDS_(journal) | ISSN_number | "1473-5571"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDS (journal) comes under the academic discipline HIV/AIDS. The journal has the ISSN number 1473-5571 and LCCN number 90640840.</lex>
+      <lex comment="good" lid="Id2">The Aids Journal's discipline is HIV/AIDS and comes under the academic discipline HIV. Their LCCN number is 90640840 and their ISSN number is 1473-5571.</lex>
+      <lex comment="good" lid="Id3">The AIDS Journal's academic discipline is HIV/AIDS, and it has ISSN number 1473-5571 and LCCN number 90640840.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id32" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV</otriple>
+        <otriple>AIDS_(journal) | discipline | HIV/AIDS</otriple>
+        <otriple>AIDS_(journal) | firstPublicationYear | "1987"^^xsd:gYear</otriple>
+        <otriple>AIDS_(journal) | issn | "0269-9370"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | discipline | HIV</otriple>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</otriple>
+        <otriple>AIDS_(journal) | firstPublicationYear | "1987"^^xsd:gYear</otriple>
+        <otriple>AIDS_(journal) | issn | "0269-9370"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
+        <mtriple>AIDS_(journal) | firstPublicationYear | 1987</mtriple>
+        <mtriple>AIDS_(journal) | ISSN_number | "0269-9370"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIDS (journal) has the ISSN number of "0269-9370". Its belongs to the academic discipline, HIV/AIDS and was first published in 1987.</lex>
+      <lex comment="good" lid="Id2">AIDS (journal) was first published in 1987 and comes under the academic discipline of HIV/AIDS. It has the ISSN number 0269-9370.</lex>
+      <lex comment="good" lid="Id3">The AIDS (journal) comes under the academic discipline HIV and studies HIV/AIDS. It was first published in 1987 and has an ISSN number of 0269-9370.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id33" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV</otriple>
+        <otriple>AIDS_(journal) | discipline | HIV/AIDS</otriple>
+        <otriple>AIDS_(journal) | firstPublicationYear | "1987"^^xsd:gYear</otriple>
+        <otriple>AIDS_(journal) | issn | "1473-5571"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDS_(journal) | discipline | HIV</otriple>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</otriple>
+        <otriple>AIDS_(journal) | firstPublicationYear | "1987"^^xsd:gYear</otriple>
+        <otriple>AIDS_(journal) | issn | "1473-5571"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
+        <mtriple>AIDS_(journal) | firstPublicationYear | 1987</mtriple>
+        <mtriple>AIDS_(journal) | ISSN_number | "1473-5571"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aids Journal was first published in 1987 with the ISSN number 1473-5571, it's also comes under the academic discipline of HIV/AIDs.</lex>
+      <lex comment="good" lid="Id2">The AIDS (journal) was first published in 1987 and belongs to the academic discipline of HIV. The journal has the ISSN number of 1473-5571.</lex>
+      <lex comment="good" lid="Id3">The Aids Journal, first published in 1987, has the ISSN number 1473-5571 and belongs to the academic discipline HIV/AIDS.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id50" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | "Print"@en</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | 51969173</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | "51969173"</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | "Print"@en</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | "0-7653-0633-6"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | mediaType | "Print"</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | OCLC_number | 51969173</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice was written by J. V. Jones and is available in print. Th book which has the ISBN number 0-7653-0633-6. It also has the OCLC number 51969173.</lex>
+      <lex comment="good" lid="Id2">The author of A Fortress of Grey Ice, available in print, is J.V. Jones and has an OCLC number of 51969173 and the ISBN number is 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id3">J.V. Jones authored A Fortress of Grey Ice, made available in print it's OCLC and ISBN numbers are 51969173 and 0-7653-0633-6 respectively.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id53" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | Hardcover</otriple>
+        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
+        <otriple>A_Glastonbury_Romance | oclc | 76798317</otriple>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | mediaType | Hardcover</otriple>
+        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
+        <otriple>A_Glastonbury_Romance | oclc | "76798317"</otriple>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | mediaType | Hardcover</mtriple>
+        <mtriple>A_Glastonbury_Romance | numberOfPages | "1174"</mtriple>
+        <mtriple>A_Glastonbury_Romance | OCLC_number | 76798317</mtriple>
+        <mtriple>A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance, available in hardcover, has 1174 pages. The ISBN# is: 0-7156-3648-0 and OCLC#: 76798317.</lex>
+      <lex comment="good" lid="Id2">"A Glastonbury Romance " can be found in hardcover and has 1174 pages. The OCLC number is 76798317 and the ISBN number is 0-7156-3648-0.</lex>
+      <lex comment="good" lid="Id3">A Glastonbury Romance has 1174 pages and can be found in hardcover with the OCLC nuber 76798317 and the ISBN number 0-7156-3648-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id54" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
+        <otriple>A_Glastonbury_Romance | oclc | "76798317"</otriple>
+        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Glastonbury_Romance | numberOfPages | "1174"^^xsd:positiveInteger</otriple>
+        <otriple>A_Glastonbury_Romance | mediaType | "Print"@en</otriple>
+        <otriple>A_Glastonbury_Romance | oclc | 76798317</otriple>
+        <otriple>A_Glastonbury_Romance | isbn | "0-7156-3648-0"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Glastonbury_Romance | numberOfPages | "1174"</mtriple>
+        <mtriple>A_Glastonbury_Romance | OCLC_number | 76798317</mtriple>
+        <mtriple>A_Glastonbury_Romance | mediaType | "Print"</mtriple>
+        <mtriple>A_Glastonbury_Romance | ISBN_number | "0-7156-3648-0"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Glastonbury Romance, with 1174 pages, is available in print. Its ISBN number is 0-7156-3648-0, and its OCLC number is 76798317.</lex>
+      <lex comment="good" lid="Id2">A Glastonbury Romance, which has 1174 pages, is in print and has the OCLC number 76798317 and the ISBN number 0-7156-3648-0.</lex>
+      <lex comment="good" lid="Id3">The printed copy of A Glastonbury Romance has 1174 pages, an OCLC number of 76798317 and an ISBN number of -7156-3648-0.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id63" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</otriple>
+        <otriple>A_Loyal_Character_Dancer | mediaType | "Print"@en</otriple>
+        <otriple>A_Loyal_Character_Dancer | isbn | "1-56947-301-3"</otriple>
+        <otriple>A_Loyal_Character_Dancer | oclc | "49805501"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</otriple>
+        <otriple>A_Loyal_Character_Dancer | mediaType | "Print"@en</otriple>
+        <otriple>A_Loyal_Character_Dancer | oclc | 49805501</otriple>
+        <otriple>A_Loyal_Character_Dancer | isbn | "1-56947-301-3"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | mediaType | "Print"</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | OCLC_number | 49805501</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | ISBN_number | "1-56947-301-3"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The book, A Loyal Character Dancer, has the ISBN number of 1-56947-301-3 and The OCLC number is 49805501. It was penned by Qiu Xiaolong and is in print.</lex>
+      <lex comment="good" lid="Id2">The book, written by Qiu Xiaolong, A Loyal Character Dancer, is in print with an OCLC number of 49805501 and an ISBN of 1-56947-301-3.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id73" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
+        <otriple>A_Severed_Wasp | congress | "PS3523.E55 S4 1982"@en</otriple>
+        <otriple>A_Severed_Wasp | mediaType | "Print"@en</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | OCLC_number | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | LibraryofCongressClassification | "PS3523.E55 S4 1982"</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | "Print"</mtriple>
+        <mtriple>A_Severed_Wasp | ISBN_number | "0-374-26131-8"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp is available in print, with The Library of Congress Classification PS3523.E55 S4 1982. Its ISBN number is 0-374-26131-8, and its OCLC number is 8805735.</lex>
+      <lex comment="good" lid="Id2">The Book A Severed Wasp (ISBN number 0-374-26131-8) is available in print and has the OCLC number 8805735. It has the Library of Congress Classification PS3523.E55 S4 1982.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is in print and has the OCLC number of 8805735 and the ISBN number 0-374-26131-8. The Library of Congress Classification is PS3523.E55 S4 1982.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id78" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | oclc | 8805735</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | numberOfPages | "388"</mtriple>
+        <mtriple>A_Severed_Wasp | OCLC_number | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | ISBN_number | "0-374-26131-8"</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Severed Wasp was published in hardback and has 388 pages. The OCLC number of A Severed Wasp is 8805735 and the ISBN number of "0-374-26131-8".</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp, published in hardback, has 388 pages. Its OCLC number is 8805735, and ISBN number is 0-374-26131-8.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is a hardcover book with 388 pages. It's OCLC number is 8805735 and the ISBN number is 0-374-26131-8.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id79" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
+        <otriple>A_Severed_Wasp | mediaType | "Print"@en</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | "388"^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | mediaType | "Print"@en</otriple>
+        <otriple>A_Severed_Wasp | oclc | 8805735</otriple>
+        <otriple>A_Severed_Wasp | isbn | "0-374-26131-8"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | numberOfPages | "388"</mtriple>
+        <mtriple>A_Severed_Wasp | OCLC_number | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | "Print"</mtriple>
+        <mtriple>A_Severed_Wasp | ISBN_number | "0-374-26131-8"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The printed book A severed Wasp has 388 pages, an OCLC number of 8805735 and an ISBN number of 0-374-26131-8.</lex>
+      <lex comment="good" lid="Id2">The book A Severed Wasp is available in print and has the OCLC number 8805735 and the ISBN number 0-374-26131-8. The book has a total of 388 pages.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp, with 388 pages, can be found in print under the OCLC number 8805735 and ISBN number 0-374-26131-8.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id80" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | oclc | "318875313"</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | mediaType | "Print"@en</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | mediaType | "Print"@en</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | 318875313</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
+        <mtriple>A_Wizard_of_Mars | mediaType | "Print"</mtriple>
+        <mtriple>A_Wizard_of_Mars | OCLC_number | 318875313</mtriple>
+        <mtriple>A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars, written by Diane Duane, is available in print form. Its OCLC number is 33318875313 and ISBN number is 978-0-15-204770-2.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars (OCLC 318875313, ISBN 978-0-15-204770-2) was written by Diane Duane and was published in print.</lex>
+      <lex comment="good" lid="Id3">The author of A Wizard of Mars is Diane Duane and the print format has an OCLC number of 318875313 and an ISBN number of 978-0-15-204770-2.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id84" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | 318875313</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | "318875313"</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | "978-0-15-204770-2"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | mediaType | Hardcover</mtriple>
+        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
+        <mtriple>A_Wizard_of_Mars | OCLC_number | 318875313</mtriple>
+        <mtriple>A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A Wizard of Mars, written by Diane Duane, is available in hardcover, has the ISBN number 978-0-15-204770-2 and the OCLC number 318875313.</lex>
+      <lex comment="good" lid="Id2">A Wizard of Mars,OCLC number 318875313, ISBN number 978-0-15-204770-2, was written by Diane Duane and published in hardback.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars, ISBN number is "978-0-15-204770-2", OCLC number 318875313, was written by Diane Duane and published in hardback.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id85" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | 32024459</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "0025-5858"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | 32024459</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "0025-5858"</mtriple>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | LCCN_number | 32024459</mtriple>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</mtriple>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | CODEN_code | "AMHAAJ"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"Abh.Math.Semin.Univ.Hambg" is the abbreviation for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg. Their ISSN number is 0025-5858, their LCCN number is 32024459 and their CODEN code is AMHAAJ.</lex>
+      <lex comment="good" lid="Id2">The ISSN number for Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg (abbreviating to Abh. Math. Semin. Univ. Hambg.) is 0025-5858. It has an LCCN number of 32024459, and the CODEN code is AMHAAJ.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id86" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | "32024459"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | issn | "1865-8784"</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | coden | "AMHAAJ"@en</otriple>
+        <otriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | lccn | 32024459</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | ISSN_number | "1865-8784"</mtriple>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | LCCN_number | 32024459</mtriple>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | abbreviation | "Abh. Math. Semin. Univ. Hambg."</mtriple>
+        <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | CODEN_code | "AMHAAJ"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is abbreviated to Abh. Math. Semin. Univ. Hambg. It has the ISSN number1865-8784, LCCN number 32024459 and CODEN code AMHAAJ..</lex>
+      <lex comment="good" lid="Id2">The abbreviation for Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is Abh. Math. Semin. Univ. Hambg. Its code is AMHAAJ. It has an ISSN number of 1865-8784 and an LCCN number of 32024459.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id87" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
+        <otriple>Above_the_Veil | oclc | 46451790</otriple>
+        <otriple>Above_the_Veil | isbn | "0-439-17685-9"</otriple>
+        <otriple>Above_the_Veil | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Above_the_Veil | oclc | "46451790"</otriple>
+        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
+        <otriple>Above_the_Veil | isbn | "0-439-17685-9"</otriple>
+        <otriple>Above_the_Veil | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | OCLC_number | 46451790</mtriple>
+        <mtriple>Above_the_Veil | author | Garth_Nix</mtriple>
+        <mtriple>Above_the_Veil | ISBN_number | "0-439-17685-9"</mtriple>
+        <mtriple>Above_the_Veil | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Above the Veil is available in hardcover and was written by Garth Nix. It has the OCLC number 46451790 and the ISBN number 0-439-17685-9.</lex>
+      <lex comment="good" lid="Id2">Above the Veil was written by Garth Nix and is available in hardcover. It has an ISBN number 0-439-17685-9 and an OCLC number 46451790.</lex>
+      <lex comment="good" lid="Id3">Garth Nix wrote Above the Veil which is available in hardcover. This book has the OCLC number 46451790 and an ISBN number 0-439-17685-9.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id88" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
+        <otriple>Above_the_Veil | mediaType | "Print"@en</otriple>
+        <otriple>Above_the_Veil | oclc | 46451790</otriple>
+        <otriple>Above_the_Veil | isbn | "0-439-17685-9"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Above_the_Veil | oclc | "46451790"</otriple>
+        <otriple>Above_the_Veil | author | Garth_Nix</otriple>
+        <otriple>Above_the_Veil | mediaType | "Print"@en</otriple>
+        <otriple>Above_the_Veil | isbn | "0-439-17685-9"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Above_the_Veil | OCLC_number | 46451790</mtriple>
+        <mtriple>Above_the_Veil | author | Garth_Nix</mtriple>
+        <mtriple>Above_the_Veil | mediaType | "Print"</mtriple>
+        <mtriple>Above_the_Veil | ISBN_number | "0-439-17685-9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The author of Above the Veil is Garth Nix and it was produced in Print with an OCLC number of 46451790 and an ISBN number of 0-439-17685-9.</lex>
+      <lex comment="good" lid="Id2">Above the Veil is written by Garth Nix and is produced in print. The OCLC number is 46451790 and the ISBN number is 0-439-17685-9.</lex>
+      <lex comment="good" lid="Id3">Garth Nix is the author of Above the Veil (produced in print). The ISBN# is 0-439-17685-9 and the OCLC#: 46451790.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id89" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | 83646315</otriple>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "0236-5294"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | 83646315</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | LCCN_number | 83646315</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | CODEN_code | "AMAHE9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Acta Mathematica Hungarica (abbrv. Acta Math. Hungar) has the CODEN code "AMAHE9". It's ISSN and LCCN numbers are 0236-5294 and 83646315 respectively.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica (abbreviated as "Acta Math. Hungar.") has the CODEN code "AMAHE9". It has the ISSN number of "0236-5294" and LCCN number 83646315.</lex>
+      <lex comment="good" lid="Id3">The Acta Mathematica Hungarica ISSN number is "0236-5294" and the LCCN number 83646315. It has the CODEN code of "AMAHE9" and the abbreviation of Acta Math. Hungar..</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id90" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "1588-2632"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | issn | "1588-2632"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | coden | "AMAHE9"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | LCCN_number | 83646315</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | CODEN_code | "AMAHE9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Acta Mathematica Hungarica is abbreviated as "Acta Math. Hungar". The ISSN# is: 1588-2632; LCCN#: 83646315 and code AMAHE9.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica (Acta Math.Hungar) has the ISSN number of "1588-2632" and the LCCN number of 83646315. The CODEN code for it is AMAHE9.</lex>
+      <lex comment="good" lid="Id3">The publication Acta Mathematica Hungarica is abbreviated to Acta Math. Hungar. It has an ISSN number of 1588-2632, LCCN number 83646315 and CODEN code of AMAHE9.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id91" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</otriple>
+        <otriple>Acta_Mathematica_Hungarica | issn | "1588-2632"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acta_Mathematica_Hungarica | lccn | "83646315"</otriple>
+        <otriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."@en</otriple>
+        <otriple>Acta_Mathematica_Hungarica | discipline | Mathematics</otriple>
+        <otriple>Acta_Mathematica_Hungarica | issn | "1588-2632"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acta_Mathematica_Hungarica | LCCN_number | 83646315</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
+        <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">83646315 is the LCCN number for Acta Mathematica Hungarica and the ISSN number is 1588-2632. Its bbreviation is "Acta Math. Hungar." and its discipline is Math.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica (Acta Math. Hungar.) which has a discipline of math has the LCCN number 83646315 and ISSN number 1588-2632.</lex>
+      <lex comment="good" lid="Id3">Acta Mathematica Hungarica has the abbreviation of Acta Math. Hungar and covers the academic discipline of Mathematics. This publication has the LCCN number 83646315 and the ISSN number 1588-2632.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id99" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        <otriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | ISSN_number | "0965-2140"</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+        <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addiction Journal, abbreviated to Addiction, is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
+      <lex comment="good" lid="Id2">The journal Addiction, which is abbreviated to Addicition, had the ISSN number 0965-2140 and LCCN number 93645978 and is published by Wiley Blackwell on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id3">The Addiction Journal has the ISSN number of 0965-2140 and the LCCN number of 93645978. It is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and is abbreviated to "Addiction".</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id100" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        <otriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | ISSN_number | "1360-0443"</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+        <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and has the ISSN number 1360-0443. It has the abbreviation of "Addiction" and the LCCN number 93645978.</lex>
+      <lex comment="good" lid="Id2">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction and has the abbreviated name "Addiction". The ISSN number is 1360-0443 and the LCCN number is 93645978.</lex>
+      <lex comment="good" lid="Id3">Addiction (journal) abbreviated to Addiction has an ISSN number of 1360-0443, a LCCN number of 93645978 and was published by Wiley Blackwell on behalf of the Society of the Study of Addiction.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id101" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | academicDiscipline | Addiction</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+        <mtriple>Addiction_(journal) | ISSN_number | "1360-0443"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addiction journal concerns the topic of Addiction and has the LCCN number 93645978. The abbreviated name is "Addiction" and the ISSN number is 1360-0443.</lex>
+      <lex comment="good" lid="Id2">Addiction is the abbreviated version of the Addiction journal and is about Addiction. The LCCN number is 93645978 and the ISSN number is 1360-0443.</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Addiction (journal), which is about addiction, is 1360-0443. Addiction (journal) has the abbreviation of Addiction and the LCCN number 93645978.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id102" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | academicDiscipline | Addiction</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+        <mtriple>Addiction_(journal) | ISSN_number | "0965-2140"</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addiction journal (abbreviated to just 'Addiction') is about addiction. The ISSN and LCCN numbers are 0965-2140 and 93645978 respectively.</lex>
+      <lex comment="good" lid="Id2">Addiction Journal, abbreviated "Addiction", about addiction, has an ISSN number 0965-2140 and LCCn number 93645978.</lex>
+      <lex comment="good" lid="Id3">Addiction (journal) is about Addiction, ISSN number of 0965-2140 , LCCN number 93645978.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id103" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | publisher | Wiley-Blackwell</otriple>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | publisher | Wiley-Blackwell</otriple>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | publisher | Wiley-Blackwell</otriple>
+        <otriple>Addiction_(journal) | issn | "0965-2140"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | publisher | Wiley-Blackwell</mtriple>
+        <mtriple>Addiction_(journal) | ISSN_number | "0965-2140"</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addiction journal (abbreviated to Addiction) is published by Wiley-Blackwell. It has the ISSN number 0965-2140, and the LCCN number 93645978.</lex>
+      <lex comment="good" lid="Id2">Wiley-Blackwell is the publisher of Addiction (journal), known as Addiction, ISSN number of 0965-2140 and LCCN number 93645978.</lex>
+      <lex comment="good" lid="Id3">The Addiction journal (abbreviated to Addiction) was published by Wiley Blackwell. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id104" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | publisher | Wiley-Blackwell</otriple>
+        <otriple>Addiction_(journal) | issn | "1360-0443"</otriple>
+        <otriple>Addiction_(journal) | lccn | "93645978"</otriple>
+        <otriple>Addiction_(journal) | abbreviation | "Addiction"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | publisher | Wiley-Blackwell</mtriple>
+        <mtriple>Addiction_(journal) | ISSN_number | "1360-0443"</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addiction journal (abbr. Addiction) is published by Wiley-Blackwell. The ISSN# is:1360-0443 and LCCN: 93645978.</lex>
+      <lex comment="good" lid="Id2">The Addiction Journal is published by Wiley-Blackwell and is abbreviated to Addiction. The ISSN number is 1360-0443 and the LCCN number is 93645978.</lex>
+      <lex comment="good" lid="Id3">Addiction, the abbreviated name of the Addiction Journal, has the ISSN number 1360-0443, the LCCN number 93645978 and is published by Wiley-Blackwell.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id124" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | oclc | "78771100"</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | oclc | 78771100</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | Hardcover</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | ISBN_number | "0-439-92550-9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians, a 320 page hardcover has the OCLC number 78771100 and ISBN number 0-439-92550-9.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is published in Hardcover (320 pages). The OCLC and ISBN codes are 78771100 and 0-439-92550-9, respectively.</lex>
+      <lex comment="good" lid="Id3">Published in hardcover, Alcatraz Versus the Evil Librarians is 320 pages long, has an OCLC number of 78771100 and an ISBN of 0-439-92550-9.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id125" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | oclc | "78771100"</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"@en</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"^^xsd:positiveInteger</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"@en</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | oclc | 78771100</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | isbn | "0-439-92550-9"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | numberOfPages | "320"</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | mediaType | "Print"</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | ISBN_number | "0-439-92550-9"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians has 320 pages and is produced in print. The book has an OCLC number of 78771100 and the ISBN number of 0-439-92550-9.</lex>
+      <lex comment="good" lid="Id2">Available in print, Alcatraz Versus the Evil Librarians is 320 pages long with an OCLC number of 78771100 and an ISBN number 0-439-92550-9.</lex>
+      <lex comment="good" lid="Id3">Produced in print, Alcatraz Versus the Evil Librarians has an OCLC number of 78771100, an ISBN of 0-439-92550-9 and is 320 pages long.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id150" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>HIV | genus | Lentivirus</otriple>
+        <otriple>HIV | family | Orthoretrovirinae</otriple>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV</otriple>
+        <otriple>AIDS_(journal) | discipline | HIV/AIDS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>HIV | genus | Lentivirus</mtriple>
+        <mtriple>HIV | family | Orthoretrovirinae</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">HIV is part of the Orthoretrovirinae family and belongs to the Lentivirus genus. The study of it comes under the academic discipline HIV/AIDS. The journal which is part of this Academic field of study is the AIDS journal.</lex>
+      <lex comment="good" lid="Id2">The Aids Journal is part of the academic discipline HIV . The discipline studies the field of HIV/AIDS. Looking at such things as HIV virus being part of the family of orthoretrovirinae pr belonging to the genus Lentivirus.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id151" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>HIV | genus | Lentivirus</otriple>
+        <otriple>HIV | family | Retrovirus</otriple>
+        <otriple>AIDS_(journal) | academicDiscipline | HIV</otriple>
+        <otriple>AIDS_(journal) | discipline | HIV/AIDS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>HIV | genus | Lentivirus</mtriple>
+        <mtriple>HIV | family | Retrovirus</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
+        <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">HIV is classed as a Retrovirus and is of the genus Lentivirus. The AIDS journal comes under the academic discipline of HIV/AIDS.</lex>
+      <lex comment="good" lid="Id2">The AIDS journal belongs to the academic discipline, HIV/AIDS. The HIV virus is from the genus Lentivirus, under the family of Retroviruses.</lex>
+      <lex comment="good" lid="Id3">The academic discipline of AIDS journal is HIV/AIDS. HIV is part of the family retrovirus and of the genus Lentivirus.</lex>
+    </entry>
+  </entries>
+</benchmark>

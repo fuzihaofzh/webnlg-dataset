@@ -1,0 +1,795 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Esteghlal_Ahvaz_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Naft</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Naft</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad has played for both Al-Naft and Esteghial Ahvaz FC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad used to play for Esteghial Ahvaz F.C. and now palys for Al-Naft.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad, whose club is Esteghlal Ahvaz F C. plays for Al-Naft.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Naft</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Naft</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Naft</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad in the Al-Naft club, plays for Steel Azin F.C.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for Al-Naft and formerly for Steel Azin FC.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad of Al-Naft plays for Steel Azin F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams club is Ferencvarosi TC and he is a member of the United Petrotrin FC.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams' former clubs include Ferencvarosi TC and United Petrotrin FC.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams Club is Ferencvarosi TC, but he also played for United Petrotrin F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | FC_Torpedo_Moscow</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in Moscow, Russia and plays for is FC Torpedo Moscow.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov plays for is FC Torpedo Moscow which is where he was born.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov was born in Moscow, Russia and has played for FC Torpedo Moscow.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Moscow</otriple>
+        <otriple>Moscow | leaderName | Sergey_Sobyanin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Moscow</mtriple>
+        <mtriple>Moscow | leaderName | Sergey_Sobyanin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov died in Moscow, where the leader is Sergey Sobyanin.</lex>
+      <lex comment="good" lid="Id2">Moscow is led by Sergey Sobyanin and is the deathplace of Aleksandr Chumakov.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov passed away in Moscow whose leader is Sergey Sobyanin.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Sergey_Naryshkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leaderName | Sergey_Naryshkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Russia is led by Sergey Naryshkin and is where Aleksandr Chumakov died.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov died in Russia where the leader is Sergey Naryshkin.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov died in Russia, where the leader is Sergey Naryshkin.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Vladimir_Putin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leaderName | Vladimir_Putin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov died in Russia which is led by Vladimir Putin.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov died in Russia, where the leader is Vladimir Putin.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov died in Russia where the leader is Vladimir Putin.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | league | Turkish_Basketball_Super_League</otriple>
+        <otriple>Alex_Tyus | team | Maccabi_Ashdod_B.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | league | Turkish_Basketball_Super_League</mtriple>
+        <mtriple>Alex_Tyus | club | Maccabi_Ashdod_B.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus has played for Maccabi Ashdod BC and has also played in the Turkish Basketball Super League.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus plays for Maccabi Ashdod BC of the Turkish Basketball Super League.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus plays for the club Maccabi Ashdod BC, which is part of the Turkish Basketball Super League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id41" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Zawra'a_SC</otriple>
+        <otriple>Al-Zawra'a_SC | manager | Basim_Qasim</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Zawra'a_SC</mtriple>
+        <mtriple>Al-Zawra'a_SC | manager | Basim_Qasim</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al-Zawra'a SC, whose manager is Basim Qasim.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for Al-Zawra'a SC managed by Basim Qasim.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's club is Al-Zawra'a SC which is managed by Basim Qasim.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id42" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Al_Shorta_SC</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Quwa_Al-Jawiya</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al_Shorta_SC</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Quwa_Al-Jawiya</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al-Quwa Al-Jawiya and his club is Al Shorta SC.</lex>
+      <lex comment="good" lid="Id2">hmad Kadhim Assad played for the clubs Al Shorta SC and Al-Quwa Al-Jawiya.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's club is Al Shorta SC and he played for the club Al-Quwa Al-Jawiya.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id43" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Esteghlal_Ahvaz_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Quwa_Al-Jawiya</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Quwa_Al-Jawiya</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al-Quwa Al-Jawiya and is part of the Esteghlal Ahvaz F.C.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad played for Esteghlal Ahvaz FC and Al-Quwa Al-Jawiya.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for the club Al-Quwa Al-Jawiya and is part of the Esteghlal Ahvaz F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id44" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Esteghlal_Ahvaz_F.C.</otriple>
+        <otriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
+        <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad's club is Esteghlal Ahvaz FC which is managed by Adnan Hamad.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad played for the Esteghlal Ahvaz F C whose manager is Adnan Hamad.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad plays for the Esteghlal Ahvaz F.C. which is managed by Adnan Hamad.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id45" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Jaish_SC_(Syria)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Jaish_SC_(Syria)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Jaish_SC_(Syria)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmas Kadhim Assad has played for the Syrian club Al Jaish SC and also Steel Azin FC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad used to play for Steel Azin F.C. and now plays for Al-Jaish SC (Syria).</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad formerly played for Steel Azin F.C. and now plays for Al-Jaish SC in Syria.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id46" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Quwa_Al-Jawiya</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Quwa_Al-Jawiya</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad has played for both Steel Azin F.C. and Al-Quwa Al-Jawiya.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad played for club Al-Quwa Al-Jawiya of Steel Azin F.C.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad has played for Al-Quwa Al-Jawiya and Steel Azin F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id47" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Talaba_SC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Talaba_SC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al Talaba SC and also for the club Steel Azin FC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad, who plays for Steel Azin F.C. also plays for Al Talaba SC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id48" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al_Shorta_SC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al_Shorta_SC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad clubs are Steel Azin FC and Al Shorta SC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad played for both Steel Azin F.C. and Al Shorta SC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id49" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | PAS_Tehran_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | PAS_Tehran_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad is a player forSteel Azin F.C. and also PAS Tehran FC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Steel Azin FC and he plays for PAS Tahran FC.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad plays for Steel Azin FC and also played for PAS Tehran FC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id50" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | clubs | Central_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | Central_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for Ferencvarosi TC and his club is Central FC.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams plays for Central fC and Ferencvarosi TC.</lex>
+      <lex comment="good" lid="Id3">Former clubs of Akeem Adams inlcude Central FC and Ferencvarosi FC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id51" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | T&amp;TEC_Sports_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Akeem_Adams | club | T&amp;TEC_Sports_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Former clubs of Akeem Adams include T&amp;TEC Sports Club and Ferencvarosi TC.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams club is Ferencvarosi TC and he plays for the T&amp;TEC Sports Club.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams played for T&amp;TEC Sports Club and now plays for Ferencvarosi TC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id52" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | Trinidad_and_Tobago_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for Ferencvarosi TC and the Trinidad and Tobago national football team.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams is in Ferencvarosi TC. Plays for Trinidad and Tobago national football team.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams club is Ferencvarosi TC and he plays for the Trinidad and Tobago national football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id53" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | Trinidad_and_Tobago_national_under-17_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_under-17_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams, who represented the Trinidad and Tobago national under 17 football team, has played for the club Ferencvarosi TC.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams clubs are Ferencvarosi TC and Trinidad and Tobago national under 17 football teams.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams plays for Ferencvarosi TC and the Trinidad and Tobago Under 17 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id54" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | Trinidad_and_Tobago_national_under-20_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_under-20_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for the Trinidad and Tobago national under-20 football team and also for Ferencvarosi TC.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams played football for the Trinidad and Tobago national under 20 team and his club is Ferencvarosi TC.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams has played for Ferencvarosi TC and represented Trinidad and Tobago at under 20 level.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id55" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for Ferencvarosi TC, whose chairman is Gábor Kubatov.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams plays for Ferencvarosi TC chaired by Gabor Kubatov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id56" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams played for Ferencvarosi TC, where the manager is Thomas Doll.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams club is Ferencvarosi TC, where the manager is Thomas Doll.</lex>
+      <lex comment="good" lid="Id3">Ferencvarosi TC is managed by Thomas Doll and is the club of Akeem Adams.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id57" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | T&amp;TEC_Sports_Club</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | T&amp;TEC_Sports_Club</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams played for the club T&amp;TEC Sports Club and played for United Petrotrin FC.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams plays for the T&amp;TEC Sports Club and also played for United Petrotrin F.C.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams plays for T&amp;TEC Sports Club and formerly for United Petrotrin F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id58" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | team | Trinidad_and_Tobago_national_football_team</otriple>
+        <otriple>Akeem_Adams | clubs | T&amp;TEC_Sports_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_football_team</mtriple>
+        <mtriple>Akeem_Adams | club | T&amp;TEC_Sports_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for the Trinidad and Tobago National football team and the T&amp;TEC Sports Club.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams, who plays for the Trinidad and Tobago national football team formerly played for the T&amp;TEC Sports Club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id78" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Connecticut_Huskies</otriple>
+        <otriple>Akeem_Priestley | clubs | Sheikh_Russel_KC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Connecticut_Huskies</mtriple>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's club is the Connecticut Huskies and he previously played for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for the Connecticut Huskies, having previously played for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley plays for the Connecticut Huskies and formerly played for Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id79" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Dayton_Dutch_Lions</otriple>
+        <otriple>Akeem_Priestley | clubs | Harbour_View_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Dayton_Dutch_Lions</mtriple>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley plays for Dayton Dutch Lions and Harbour View F.C.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley's clubs are Dayton Dutch Lions and Harbour View FC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley's club is Dayton Dutch Lions and he plays for Harbour View F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id80" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | FK_Mughan</otriple>
+        <otriple>Akeem_Priestley | clubs | Sheikh_Russel_KC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | FK_Mughan</mtriple>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley played for FK Mughan and Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for FK Mughan and formerly for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley has played for the clubs FK Mughan and Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id81" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Harbour_View_F.C.</otriple>
+        <otriple>Akeem_Priestley | clubs | Antigua_GFC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+        <mtriple>Akeem_Priestley | club | Antigua_GFC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley played for Antigua GFC and now plays for Harbour View FC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Harbour View Fc and Antigua GFC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley plays football for Harbour View FC and Antigua GFC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id82" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+        <otriple>Akeem_Priestley | clubs | Harbour_View_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley plays for Jacksonville Dolphins and the Harbour View F.C.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Jacksonville Dolphins and his club is Harbour View F.C.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley's former clubs include Harbour View FC and Jackson Dolphins.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id83" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+        <otriple>Akeem_Priestley | clubs | Sheikh_Russel_KC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley is in the Jackson Dolphins club and previously played for the club Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Jackson Dolphins Club and for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley plays for Jacksons Dolphins CLub and used to play for Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id84" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | RoPS</otriple>
+        <otriple>Akeem_Priestley | clubs | Harbour_View_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | RoPS</mtriple>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's clubs are Harbour View F.C. and RoPS.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley, a member of club RoPS, is a player for the Harbour View F.C.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley's former clubs include Harbour View FC and RoPS.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id85" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | RoPS</otriple>
+        <otriple>Akeem_Priestley | clubs | Sheikh_Russel_KC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | RoPS</mtriple>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley’s club is RoPS and he played for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Sheikh Russel KC and formerly for RoPS.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley played for the clubs RoPS and Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id86" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Sheikh_Russel_KC</otriple>
+        <otriple>Akeem_Priestley | clubs | Harbour_View_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | Sheikh_Russel_KC</mtriple>
+        <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's club is Harbour View F.C and he plays for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley, whose club is Harbour View FC, plays for Sheikh Russel KC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley, whose club is Harbour View F.C. played for the club Sheikh Russel KC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id115" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | team | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Soviet_Union</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Soviet_Union</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in the Soviet Union and his club was FC Torpedo Moscow.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov, who was born in the Soviet Union, has played for FC Torpedo Moscow.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov was born in the Soviet Union and played for FC Torpedo Moscow.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id116" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was in the Torpedo Moscow FC whose chairman is Aleksandr Tukmanov.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov played for FC Torpedo Moscow, the chairman of which is Aleksandr Tukmanov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id117" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>Aleksandr_Chumakov | team | FC_Torpedo_Moscow</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov has played for the club FC Torpedo Moscow, which is managed by Valery Petrakov.</lex>
+      <lex comment="good" lid="Id2">FC Torpedo Moscow, managed by Valery Petrakov, is a former club of Aleksandr Chumakov.</lex>
+      <lex comment="good" lid="Id3">FC Torpedo Moscow, managed by Valery Petrakov, is the former club of Aleksandr Chumakov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id118" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Moscow</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Moscow</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in Moscow and plays for the Soviet Union national football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov was born in Moscow and has represented the Soviet Union national football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id119" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>Aleksandr_Chumakov | placeOfBirth | Soviet_Union</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>Aleksandr_Chumakov | birthPlace | Soviet_Union</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov was born in the Soviet Union and was a member of the Soviet Union national football team.</lex>
+      <lex comment="good" lid="Id2">Soviet Union born Aleksandr Chumakov has represented his national football team.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov was born in the Soviet Union and plays for the Soviet Union national football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id120" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov played for FC Torpedo Moscow and represented the Soviet Union national football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov plays for FC Torpedo Moscow and the Soviet Union national football team.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov was a member of the Soviet Union national football team and played for FC Torpedo Moscow.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id121" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | deathPlace | Russia</otriple>
+        <otriple>Russia | leaderName | Valentina_Matviyenko</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | deathPlace | Russia</mtriple>
+        <mtriple>Russia | leaderName | Valentina_Matviyenko</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov died in Russia, where Valentina Matviyenko is the leader.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov died in Russia where Valentina Matviyenko is a leader.</lex>
+      <lex comment="good" lid="Id3">Valentina Matviyenko is a leader in Russia which is where Aleksandr Chumakov died.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id155" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Anadolu_Efes_S.K.</otriple>
+        <otriple>Alex_Tyus | league | Euroleague</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Anadolu_Efes_S.K.</mtriple>
+        <mtriple>Alex_Tyus | league | Euroleague</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus plays in the Euroleague and also for Anadolu Efes SK.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus plays for the Euroleague club Anadolu Efes SK.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus played for Anadolu Efes SK in the Euroleague.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id156" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Anadolu_Efes_S.K.</otriple>
+        <otriple>Alex_Tyus | league | Turkish_Basketball_Super_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Anadolu_Efes_S.K.</mtriple>
+        <mtriple>Alex_Tyus | league | Turkish_Basketball_Super_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus has played for Anadolu Efes Sk in the Turkish Basketball Super League.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus plays for Anadolu Efes SK in the Turkish Basketball Super League.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus played for the club Anadolu Efes S.K and he plays in the Turkish Basketball Super League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id157" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Maccabi_Tel_Aviv_B.C.</otriple>
+        <otriple>Alex_Tyus | dateOfBirth | "1988-01-08"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Maccabi_Tel_Aviv_B.C.</mtriple>
+        <mtriple>Alex_Tyus | birthDate | 1988-01-08</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus was born on 8th January 1988 and played for Maccabi Tel Aviv B.C.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus was born on 8th January 1988 and plays for the club Maccabi Tel Aviv BC.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus, who was born on 8 January 1988 and his club is Maccabi Tel Aviv BC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id158" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Pallacanestro_Cantù</otriple>
+        <otriple>Alex_Tyus | dateOfBirth | "1988-01-08"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Pallacanestro_Cantù</mtriple>
+        <mtriple>Alex_Tyus | birthDate | 1988-01-08</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus was born on the 8th January 1988 and plays for the club Pallacanestro Cantu.</lex>
+      <lex comment="good" lid="Id2">Born on January 8th 1988, Alex Tyus plays for the club Pallacanestro Cantu.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus was born on the 8th January 1988 and his club is Pallacanestro Cantu.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id159" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Pallacanestro_Cantù</otriple>
+        <otriple>Alex_Tyus | league | Euroleague</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Pallacanestro_Cantù</mtriple>
+        <mtriple>Alex_Tyus | league | Euroleague</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus belongs to the Pallacanestro Cantu club, which is in the Euroleague.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus plays in the Euroleague for the club Pallacanestro Cantù.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus plays in the Euroleague for club Pallacanestro Cantu.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id160" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Pallacanestro_Cantù</otriple>
+        <otriple>Alex_Tyus | league | Turkish_Basketball_Super_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Pallacanestro_Cantù</mtriple>
+        <mtriple>Alex_Tyus | league | Turkish_Basketball_Super_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus plays for Pallacanestro Cantu in the Turkish Basketball Super League.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus plays with the club Pallacanestro Cantù in the Turkish Basketball Super League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id161" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | team | Pallacanestro_Cantù</otriple>
+        <otriple>Pallacanestro_Cantù | league | Lega_Basket_Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | club | Pallacanestro_Cantù</mtriple>
+        <mtriple>Pallacanestro_Cantù | league | Lega_Basket_Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus belongs to the club, Pallacanestro Cantu, in the Lega Basket Serie A league.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus plays for Pallacanestro Cantu of the Lega Basket Serie A.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus plays for the club Pallacanestro Cantù which is in the Lega Basket Serie A league.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id162" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | league | Euroleague</otriple>
+        <otriple>Alex_Tyus | team | Maccabi_Ashdod_B.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | league | Euroleague</mtriple>
+        <mtriple>Alex_Tyus | club | Maccabi_Ashdod_B.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus is in the Euroleague and plays for Maccabi Ashdod B.C.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus is in the Euroleague with club Maccabi Ashdod BC.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus has played in the Euroleague and for the Maccabi Ashdod B.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id163" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | league | Euroleague</otriple>
+        <otriple>Alex_Tyus | team | Maccabi_Tel_Aviv_B.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | league | Euroleague</mtriple>
+        <mtriple>Alex_Tyus | club | Maccabi_Tel_Aviv_B.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus plays in the Euroleague for the club, Maccabi Tel Aviv B.C.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus, now in the Euroleague, played for Maccabi Tel Aviv B.C.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus, who played for Maccabi Tel Aviv B.C. , plays in the Euroleague.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id164" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alex_Tyus | league | Turkish_Basketball_Super_League</otriple>
+        <otriple>Alex_Tyus | team | Maccabi_Tel_Aviv_B.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | league | Turkish_Basketball_Super_League</mtriple>
+        <mtriple>Alex_Tyus | club | Maccabi_Tel_Aviv_B.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus plays for the club, Maccabi Tel Aviv B.C which is in the Turkish Basketball Super league.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus has played in the Turkish Basketball Super League and has also represented the club Maccabi Tel Aviv BC.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus plays for Maccabi Tel Aviv B.C. in the Turkish Basketball Super League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id167" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Budapest | country | Hungary</otriple>
+        <otriple>Akeem_Adams | deathPlace | Budapest</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Budapest | country | Hungary</mtriple>
+        <mtriple>Akeem_Adams | deathPlace | Budapest</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams died in Budapest, Hungary.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams died in the Hungarian ciry of Budapest.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams died in the city of Budapest, Hungary.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id189" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | team | FC_Torpedo_Moscow</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov has played for FC Torpedo Moscow who played the 2014–15 season in the Russian Premier League.</lex>
+      <lex comment="good" lid="Id2">The club Aleksandr Chumakov plays for is FC Torpedo Moscow who played in the 2014-15 Russian Premier league.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov played for the club FC Torpedo Moscow, which was part of the Russian Premier League in the 2014-15 season.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id194" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | Orange_County_Blues_FC</otriple>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+        <otriple>Akeem_Priestley | clubs | Orange_County_Blues_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Orange_County_Blues_FC | manager | Oliver_Wyss</mtriple>
+        <mtriple>Akeem_Priestley | club | Orange_County_Blues_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley is connected to the Orange County Blues Football Club which is managed by Oliver Wyss.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for Orange County Blues FC which is managed by Oliver Wyss.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley played for the Orange County Blues FC, the manager of which is Oliver Wyss.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id196" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>RoPS | league | Veikkausliiga</otriple>
+        <otriple>Akeem_Priestley | clubs | RoPS</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>RoPS | league | Veikkausliiga</otriple>
+        <otriple>Akeem_Priestley | team | RoPS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>RoPS | league | Veikkausliiga</mtriple>
+        <mtriple>Akeem_Priestley | club | RoPS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley’s club is RoPS which plays in the Veikkausliiga.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley plays for the club RoPS in the Veikkausliiga league.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley played for club RoPS in the Veikkausliiga.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id201" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams is a member of the United Petrotrin F.C. club who play in Palo Seco.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams played for United Petrotrin FC whose ground is Palo Seco.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams is a member of the United Petrotrin F.C. club whose ground is Palo Seco.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id202" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams played for United Petrotrin FC whose ground is Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams played for United Petrotrin FC, who were playing in Palo Seco Velodrome.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | nickname | "AIT"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | nickname | "AIT"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AIT is the nickname for the Acharya Institute of Technology.</lex>
+      <lex comment="good" lid="Id2">The nickname of the Acharya Institute of Technology is AIT.</lex>
+      <lex comment="good" lid="Id3">Acharya Institute of Technology is known as AIT.</lex>
+    </entry>
+  </entries>
+</benchmark>

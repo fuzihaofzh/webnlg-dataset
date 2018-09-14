@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id23" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</otriple>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</mtriple>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner plays football with Real Madrid Castilla under their manager Luis Miguel Ramis. He also plays with the Brazil national under 17 team and Coritiba Football club.</lex>
+      <lex comment="good" lid="Id2">Abner plays football for the Brazilian national under 17 team, but also currently plays for the Coritiba football club and for the Real Madrid Castilla who are managed by Luis Miguel Ramis.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</otriple>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</mtriple>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner, who has represented the Brazil national under 20 team, currently plays for Coritiba Football club and also for Real Madrid Castilla where Luis Miguel Ramis is manager.</lex>
+      <lex comment="good" lid="Id2">Abner plays football for Real Madrid Castilla who are managed by Luis Miguel Ramis, and also for both the Coritiba Football club and the Brazilian national under 20 football team.</lex>
+      <lex comment="good" lid="Id3">Abner currently plays for Real Madrid Castilla who are managed by Luis Miguel Ramis, and also for the Brazilian national under 20 football team and Coritiba Football Club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id25" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</otriple>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</mtriple>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner plays for Coritiba Football Club and CD FAS. He also plays for Real Madrid Castilla, where Luis Miguel Ramis is the manager.</lex>
+      <lex comment="good" lid="Id2">The footballer, Abner belongs to the club, C.D. FAS, and also plays for the Coritiba Football Club. Abner's current football club is Real Madrid Castilla, where Luis Miguel Ramis is manager.</lex>
+      <lex comment="good" lid="Id3">Abner is a footballer who currently plays for Real Madrid Castilla where Luis Miguel Ramis is the manager. He also belongs to the club CD FAS and plays for Coritiba Football club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id32" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | locationCity | Boston</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | city | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Boston_Bruins | generalManager | Don_Sweeney</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+        <mtriple>Boston_Bruins | city | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid played for the Boston Bruins, based in Boston, whose manger is Don Sweeney. His draft team was the Columbus Blue Jackets.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid's draft team is the Columbus Blue Jackets, and he plays for Boston Bruins who are based in Boston and have Don Sweeney as their general manager.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was drafted by the Columbus Blue Jackets, he plays for Boston's, Boston Bruins (managed by Don Sweeney).</lex>
+    </entry>
+    <entry category="Athlete" eid="Id33" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Boston_Bruins | generalManager | Don_Sweeney</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid was originally drafted to the Columbus Blue Jackets out of Columbus, Ohio. He nows plays with the Boston Bruins whose general manager is Don Sweeney.</lex>
+      <lex comment="good" lid="Id2">Don Sweeney is general manager for the Boston Bruins, the team Adam McQuaid played for. McQuaid was drafted to the Columbus Blue Jackets, from Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was drafted with the Columbus Blue Jackets in Columbus, Ohio. He played for the Boston Bruins whose manager is Don Sweeney.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id34" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | locationCity | Boston</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | city | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+        <mtriple>Boston_Bruins | city | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid, who played for the Boston club known as the Boston Bruins, was drafted to the Columbus Blue Jackets in Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid's draft team is the Columbus Blue Jackets, based in the city of Columbus, Ohio. Adam McQuaid plays for Boston Bruins, which are from Boston.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid's draft team was the Columbus Blue Jackets, which are based in the city of Columbus, Ohio. He plays for the Boston Bruins which are based in the city of Boston.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id35" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | city | Boston</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | locationCity | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+        <mtriple>Boston_Bruins | city | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid plays for the Boston Bruins in Boston. His draft team was the Columbus Blue Jackets whose general manager is Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid plays for the Boston Bruins which are from Boston. His draft team was the Columbus Blue Jackets, the general manager of which, is Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid, who was drafted to the Columbus Blue Jackets where the general manager is Jarmo Kekalainen, also plays for the Boston Bruins who originate from Boston.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id36" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid, who has played for the Boston Bruins. was drafted to the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid, who played for the Boston Bruins, was drafted to the Columbus Blue Jackets whose general manager is Jarmo Kekalainen and are based in Columbus, Ohio,.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid plays for the Boston Bruins, however his draft team is the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id79" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov, Jr was born in Tampere, Finland on September 2,1995. He is affiliated with the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr, who plays for the Florida Panthers, was born in Tampere, Finland on 2 September 1995.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id80" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr, a centre for the Florida Panthers, was born 1995 in Tampere, Finland.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov, Jr. was born in 1995, in Tampere, Finland. His ice hockey position is center, and his club is the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr was born in Tampere, Finland in 1995. He plays as a centre for the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id81" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr's birthdate is Sept. 2, 1995 in Tampere, Finland. He was drafted to the Florida Panthers team.</lex>
+      <lex comment="good" lid="Id2">Alaksander barkov Jr was born in Tampere Finland on 2nd September 1995 and his draft team was the Florida Pathers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov was born on 2nd September 1995 in Tampere, Finland and his draft team was the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id82" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | height | "1.905"^^xsd:double</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | height | 1.905</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1.905m tall, Aleksander Barkov Jr, has played for the Florida Panthers. He was born in Tampere, Finland, on 1995-09-02.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. was born in Tampere, Finland on the 2nd September 1995. He is 1.905 tall and has played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr . was born in Tampere, Finland, on the 2nd September 1995. His height is 1.905m and his club is the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id83" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born in Tampere, Finland, on 1995-09-02. He plays centre and has played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born September 2, 1995 in Tampere, Finland. He is a Centre and has played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr was born in Tampere, Finland on 2 September 1995 and plays as a centre for his club, the Florida Panthers.</lex>
+    </entry>
+  </entries>
+</benchmark>

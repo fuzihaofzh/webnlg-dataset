@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in Ridgewood, Queens, Abner W. Sibal was a member of the Republican party of the United States. Abner W. Sibal was a member of the Connecticut Senate from the 26th District and was the predecessor to, Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal; was born in Ridgewood, Queen, was a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibel was born in Ridgewood Queens, he was a member of the Republican party and a member of the Connecticut Senate from the 26th District, his successor was Donald J. Irwin.</lex>
+    </entry>
+    <entry category="Politician" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+        <mtriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal was born in Ridgewood, Queens and died in Alexandria, Virginia. He was a member of the Connecticut Senate from the 26th District before being succeeded by Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens and died in Alexandria, Virginia. He was a member of the Connecticut Senate from the 26th District and was succeeded by Donald J. Irwin.</lex>
+    </entry>
+    <entry category="Politician" eid="Id35" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Lieutenant Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers, born in Lufkin, Texas, was a member of the Democratic Party in the United States and Lieutenant Governor of Texas; he was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers' birthplace was Lufkin, Texas and he was a member of the Democratic Party, U.S. and Lieutenant Governor of Texas. Price Daniel succeeded him.</lex>
+      <lex comment="good" lid="Id3">United States Democratic Party member and Lieutenant Governor of Texas Allan Shivers, was born in Lufkin, Texas. His successor was Price Daniel.</lex>
+    </entry>
+    <entry category="Politician" eid="Id73" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in Ridgewood, Queens, Abner W. Sibal; a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens and was a member of the Republican party of the United States. He was also a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id3">Abner. W. Sibal, a 26th District Senator from Connecticut, was born in Queens, and succeeded by Marjorie Farmer.</lex>
+    </entry>
+    <entry category="Politician" eid="Id74" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal's who was born at Ridgewood, Queens, worked as a member of the Connecticut Senate from the 26th District and he represented Connecticut's 4th Congressional District. Abner W. Sibal's successor was Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal, who was born in Ridgewood, Queens, worked as a member of the Connecticut Senate from the 26th District. He represented Connecticut's 4th Congressional District and was succeeded by Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id3">Connecticut's 4th Congressional District representative and 26th District member, Abner W. Sibal, was born in Ridgewood, Queens. He was Donald J. Irwin's successor.</lex>
+    </entry>
+    <entry category="Politician" eid="Id75" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | region | Connecticut's_4th_congressional_district</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in Ridgewood, Queens, Abner W Sibal, represented Connecticut's 4th Congressional District. He worked as a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens and represented Connecticut's 4th Congressional District. A member of the Connecticut Senate from the 26th District, Abner W. Sibal's successor was Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal, born in Ridgewood, Queens, was both a member of Connecticut's 26th District Senate and 4th Congressional District. Marjorie Farmer was his successor.</lex>
+    </entry>
+    <entry category="Politician" eid="Id76" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
+        <mtriple>Abner_W._Sibal | deathPlace | Alexandria,_Virginia</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal was born in Ridgewood, Queens, and died in Alexandria in Virginia. He was a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens and he died in Alexandria, Virginia. He was a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id3">26th District Connecticut Senate member Abner W. Sibal, succeeded by Marjorie Farmer, was born in Ridgewood, Queens and died in Alexandria, Virginia.</lex>
+    </entry>
+    <entry category="Politician" eid="Id205" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_Madison_Leach</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_Madison_Leach</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Alfred_Moore_Scales | successor | James_Madison_Leach</mtriple>
+        <mtriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales, born in Reidsville, North Carolina, was a member of the U.S. Democratic Party and Governor of North Carolina. His successor was James Madison Leach.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales was born in Reidsville in North Carolina where later became Governor. Alfred was a member of the Democratic Party in the U.S. and was succeeded by James Madison Leach.</lex>
+      <lex comment="good" lid="Id3">Democrat Alfred Moore Scales was the Governor of North Carolina. He was born in Reidsville, North Carolina and was later succeeded by James Madison Leach.</lex>
+    </entry>
+    <entry category="Politician" eid="Id206" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
+        <mtriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Democrat Alfred Moore Scales was Governor of North Carolina. He was born in Reidsville, North Carolina and was succeeded by James W. Reid.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales, who was born in Reidsville, North Carolina, belongs to the Democratic Party in the United States and served as Governor of North Carolina, where he was succeeded by the politician James W Reid.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales, who was born in Reidsville, North Carolina, is a member of the Democratic Party in the United States. He was Governor of North Carolina and was succeeded by the politician James W Reid.</lex>
+    </entry>
+    <entry category="Politician" eid="Id207" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</mtriple>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+        <mtriple>Alfred_Moore_Scales | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales, a member of the U.S. Democratic Party, was born in Reidsville, North Carolina. He Governor of North Carolina and was succeeded by Daniel Gould Fowle.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales was born in Reidsville, North Carolina, is a member of the Democratic Party in the United States and served as Governor of North Carolina. He was succeeded by Daniel Gould Fowle.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales, of Reidsville, North Carolina, is a United States Democrat, and was the Governor of North Carolina. He was succeeded by Daniel Gould Fowle.</lex>
+    </entry>
+    <entry category="Politician" eid="Id217" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Ben_Ramsey</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Allan_Shivers | successor | Ben_Ramsey</mtriple>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers, was born in Lufkin, Texas, and served in the Democratic Party in the U.S. Allan Shivers, was a member of the Texas State Senate District 4 for Port Arthur and was succeeded by Ben Ramsey.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was born in Lufkin, Texas and was a member of the Democratic Party in the United States. He worked as a member of the Texas State Senate from District 4 (Port Arthur) and was succeeded by Ben Ramsey.</lex>
+      <lex comment="good" lid="Id3">Democrat Allan Shivers was born in Lufkin, Texas. He worked as a member of the Texas State Senate from District 4 in Port Arthur and was succeeded by Ben Ramsey.</lex>
+    </entry>
+    <entry category="Politician" eid="Id218" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</mtriple>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wilfred R. Cousins, Jr. was the successor of Allan Shivers, who, was born in Lufkin, Texas. Allan Shivers served in the Democratic Party in the U.S and was a member of the Texas State Senate District 4 for Port Arthur.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was born in Lufkin, Texas and served in the Democratic Party in the U.S. He worked as a member of the Texas State Senate from District 4 (Port Arthur) and was succeeded by Wilfred R. Cousins, Jr.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was born in Lufkin, Texas and was in the Democratic party and worked as a member of the Texas State Senate from District 4 (Port Arthur). His successor was Wilfred R. Cousins, Jr.</lex>
+    </entry>
+    <entry category="Politician" eid="Id219" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was born in Lufkin, Texas and served in the Democratic Party in the U.S. He worked as the Governor of Texas and was succeeded by, Price Daniel.</lex>
+      <lex comment="good" lid="Id2">U.S. Democratic Party member and Texas Governor, Allan Shivers, was born in Lufkin, Texas. He was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id3">United States Democratic Party member and Governor of Texas Allan Shivers was born in Lufkin, Texas and succeeded by Price Daniel.</lex>
+    </entry>
+    <entry category="Politician" eid="Id220" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Member of the Texas State Senate from District 4"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in Lufkin, Texas, Allan Shivers; served in the Democratic Party in the U.S., worked as a member of the Texas State Senate from District 4 (Port Arthur) and was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id2">Allan Shiver, who was born in Lufkin, Texas, served in the Democratic Party in the US. He was a member of the Texas State Senate District 4 for Port Arthur and his successor was Price Daniel.</lex>
+      <lex comment="good" lid="Id3">The birth place of Allan Shivers is Lufkin, Texas and he was a member of the Democratic Party in the United States. He was a member of the Texas State Senate District 4 for Port Arthur and his successor was Price Daniel.</lex>
+    </entry>
+    <entry category="Politician" eid="Id221" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Allan_Shivers | party | Democratic_Party_(United_States)</otriple>
+        <otriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | party | Democratic_Party_(United_States)</mtriple>
+        <mtriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</mtriple>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was born in Lufkin, Texas and is a member of the Democratic Party in the United States. He served as the Governor of Texas and was succeeded by Wilfred R. Cousins Jr.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was born in Lufkin, Texas, and served in the Democratic Party of the US. He worked as the Governor of Texas and was eventually succeeded by Wilfred R Cousins Jr.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was born in Lufkin, Texas and was a Governor of the same state. He was also a member of the Democratic Party in the U.S and was later succeeded by Wilfred R.Cousins, Jr.</lex>
+    </entry>
+  </entries>
+</benchmark>

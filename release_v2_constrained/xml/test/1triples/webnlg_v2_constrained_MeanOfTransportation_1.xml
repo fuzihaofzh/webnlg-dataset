@@ -1,0 +1,608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>ALV_X-1 | manufacturer | Alliant_Techsystems</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALV_X-1 | manufacturer | Alliant_Techsystems</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ALV X-1 was manufactured by Alliant Techsystems.</lex>
+      <lex comment="good" lid="Id2">Alliant Techsystems makes the ALV X-1.</lex>
+      <lex comment="good" lid="Id3">Alliant Techsystems is the manufacturer of the ALV X-1.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AMC Matador is manufactured by American Motors.</lex>
+      <lex comment="good" lid="Id2">The AMC Matador is manufactured by American Motors.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionEndYear | "1958"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionEndYear | 1958</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupé's final year of production was 1958.</lex>
+      <lex comment="good" lid="Id2">The last Abarth 1000 GT Coupé rolled off the production line in 1958.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi e-tron is a division of Audi.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 is a hatchback.</lex>
+      <lex comment="good" lid="Id2">Audi A1 has the hatchback style of body.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | class | Supermini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 is classed as a super mini.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is classed as a supermini.</lex>
+      <lex comment="good" lid="Id3">Audi A1 belongs to the supermini class.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Lancia_Thema | related | Alfa_Romeo_164</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lancia_Thema | relatedMeanOfTransportation | Alfa_Romeo_164</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lancia_Thema | relatedMeanOfTransportation | Alfa_Romeo_164</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Lancia Thema is related to the Alfa Romeo 164.</lex>
+      <lex comment="good" lid="Id2">Lancia Thema is a mean of transportation compared to Alfa Romeo 164.</lex>
+      <lex comment="good" lid="Id3">The Lancia Thema and the Alfa Romeo 164 are related means of transportation.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id80" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AMC_Matador | designer | Richard_A._Teague</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AMC_Matador | designCompany | Richard_A._Teague</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | designer | Richard_A._Teague</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Richard A. Teague designed the AMC Matador.</lex>
+      <lex comment="good" lid="Id2">The AMC Matador was designed by Richard A Teague.</lex>
+      <lex comment="good" lid="Id3">Richard A. Teague is the designer of the AMC Matador.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Two door coupe is the body style of the Abarth 1000 GT Coupé.</lex>
+      <lex comment="good" lid="Id2">Abarth 1000 GT Coupé is a two door coupé.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe is a two door model.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id94" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | bodyStyle | Coupé</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT has a coupe bodystyle.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT has a Coupé body style.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has a Coupe body style.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | engine | Abarth_1000_GT_Coupé__1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupé has a straight-four engine.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe has the straight four engine.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupé has a straight-four engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id97" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | productionStartYear | "1958"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | productionStartYear | 1958</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe 's production started in 1958.</lex>
+      <lex comment="good" lid="Id2">Production of the Abarth 1000 GT Coupe began in 1958.</lex>
+      <lex comment="good" lid="Id3">The production of the Abarth 1000 GT has started in the Year 1958.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id98" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | wheelbase | "2.16"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The wheelbase of the Abarth 1000 GT Coupé, is 2160.0 millimetres.</lex>
+      <lex comment="good" lid="Id2">The wheelbase of the Abarth 1000 GT Coupe is 2160 millimetres.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has a wheelbase of 2160 millimetres.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id99" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | width | "1.55"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | width | 1.55</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupé has a width of 1.55 m.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupé is 1.55 metres wide.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe is 1.55 metres in width.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipOperator | Sovcomflot</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | operator | Sovcomflot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | operator | Sovcomflot</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sovcomflot operates the icebreaker, Aleksey Chirikov.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alliant_Techsystems | product | AGM-88_HARM</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alliant_Techsystems | product | AGM-88_HARM</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AgM-88 HARM is produced by Alliant Techsystems.</lex>
+      <lex comment="good" lid="Id2">AGM-88 HARM is produced by Alliant Techsystems.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id144" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alliant_Techsystems | product | XM25_CDTE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alliant_Techsystems | product | XM25_CDTE</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alliant Techsystems produces the XM25-CDTE.</lex>
+      <lex comment="good" lid="Id2">Alliant Techsystems produces the XM25 CDTE.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | fate | Chrysler</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American Motors was acquired by Chrysler.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_Motors | fate | Eagle_(automobile)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | fate | Eagle_(automobile)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American Motors Co was succeeded by Eagle.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id163" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Roy D. Chapin Jr. is a key person at American Motors.</lex>
+      <lex comment="good" lid="Id2">Roy D Chapin Jr is a key person at American Motors.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | subsidiary | Wheel_Horse</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Wheel Horse is a subsidiary of American Motors.</lex>
+      <lex comment="good" lid="Id2">Wheel Horse is a subsidiary of American Motors.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id165" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">American Motors successor is Eagle.</lex>
+      <lex comment="good" lid="Id2">Eagle succeeded American Motors.</lex>
+      <lex comment="good" lid="Id3">Eagle is the successor of American Motors.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id166" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">General Dynamics Electric Boat is the builder of the American submarine NR-1.</lex>
+      <lex comment="good" lid="Id2">General Dynamics Electric Boat is the company that built the American submarine NR-1.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 was built by General Dynamics Electric Boat Co.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id167" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | length | "45.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 is 45000.0 millimetres long.</lex>
+      <lex comment="good" lid="Id2">The American Sub NR-1 is 45000 millimetres in length.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 is 45000.0 (millimetres) long.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id168" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 has a 3.8m ship beam.</lex>
+      <lex comment="good" lid="Id2">The American submarine NR-1 has a beam of 3.8 metres.</lex>
+      <lex comment="good" lid="Id3">The American Submarine NR-1 has a ship beam of 3.8 m.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id169" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipDraft | 4.6 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 has a ship draft of 4.6m.</lex>
+      <lex comment="good" lid="Id2">The American submarine NR-1 has a ship draft of 4.6 metres.</lex>
+      <lex comment="good" lid="Id3">The American sub NR-1 has a draft of 4.6 m.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id170" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American submarine NR-1 was launched in January 25th 1969.</lex>
+      <lex comment="good" lid="Id2">The American sub NR-1 was launched on January 25, 1969.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 was launched on The 25th of January 1969.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id171" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The top speed of the American submarine NR-1 is 8.334.</lex>
+      <lex comment="good" lid="Id2">The American submarine, NR-1, has a top speed of 8.334 km/h.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aston_Martin_DBS | successor | Aston_Martin_V8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_DBS | successor | Aston_Martin_V8</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aston Martin DBS had the Aston Martin V8 for a successor.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin DBS was succeeded by a V8 version.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id225" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi was founded by August Horch.</lex>
+      <lex comment="good" lid="Id2">August Horch founded Audi.</lex>
+      <lex comment="good" lid="Id3">The company Audi was founded by August Horch.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi | subsidiary | Ducati</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi | subsid | Ducati</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi | subsidiary | Ducati</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ducati is a subsidiary of Audi.</lex>
+      <lex comment="good" lid="Id2">The company Ducati is owned by Audi.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id227" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi | subsid | Lamborghini</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi | subsidiary | Lamborghini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi | subsidiary | Lamborghini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Lamborghini is a subsidiary of Audi.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id228" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi | subsidiary | Quattro_GmbH</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi | subsid | Quattro_GmbH</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Quattro Gmbh is a subsidiary of the Audi.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id229" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | assembly | "Brussels, Belgium"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi A1 is assembled in Brussels in Belgium.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is assembled in Brussels, Belgium.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id230" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 is assembled by Audi Brussels.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is assembled at Audi Brussels.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id231" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__5</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 has a 1.2 litre engine.</lex>
+      <lex comment="good" lid="Id2">Audi A1 has a 1.2 litre engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id232" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 has a front-engine, front-wheel-drive layout.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 has a front engine, front-wheel drive layout.</lex>
+      <lex comment="good" lid="Id3">Audi A1 has a front-engine with front-wheel-drive.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id233" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi is the manufacturer of the Audi A1.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is manufactured by Audi.</lex>
+      <lex comment="good" lid="Id3">Audi A1 is made by Audi.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id234" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | related | "SEAT Ibiza Mk4"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Seat Ibiza and the Audi A1 are both cars and therefore a related means of transportation.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 and the Seat Ibiza are similar means of transport.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id235" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | related | "Volkswagen Polo Mk5"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 and Volkswagen Polo are related kinds of transportation.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is a related vehicle to the VW Polo.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id236" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | transmission | "5-speedmanual"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | transmission | "5-speed manual"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 has a 5-speed manual transmission.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 has a 5 speed manual transmission.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id237" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Audi_A1 | transmission | "6-speed manual"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | transmission | "6-speed manual"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 has a 6 speed manual gearbox.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 has a 6-speed manual transmission.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id257" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Fiat_Croma | related | Alfa_Romeo_164</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Fiat_Croma | relatedMeanOfTransportation | Alfa_Romeo_164</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Fiat Croma is related to the Alfa Romeo 164.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id262" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">General Dynamics Electric Boat are located in the city of Groton, Connecticut.</lex>
+      <lex comment="good" lid="Id2">The General Dynamics Electric Boat is located in Groton, CT.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id263" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parent | General_Dynamics</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>General_Dynamics_Electric_Boat | parentCompany | General_Dynamics</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">General Dynamics is the parent company of the General Dynamics Electric Boat Co.</lex>
+      <lex comment="good" lid="Id2">The parent company of the General Dynamics Electric Boat is General Dynamics.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id280" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Honda_Accord | related | Acura_TLX</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Honda_Accord | relatedMeanOfTransportation | Acura_TLX</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Honda Accord is related to the Acura TLX.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id290" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | rockets | Antares_(rocket)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Antares_(rocket)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.</lex>
+      <lex comment="good" lid="Id2">The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.</lex>
+      <lex comment="good" lid="Id3">The Antares Rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad O.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id297" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Plymouth_Plaza | related | 1955_Dodge</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Plymouth_Plaza | relatedMeanOfTransportation | 1955_Dodge</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Plymouth_Plaza | relatedMeanOfTransportation | 1955_Dodge</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Plymouth Plaza is related to the 1955 Dodge.</lex>
+      <lex comment="good" lid="Id2">The Dodge 1955 is a related mean of transportation to the Plymouth Plaza.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id299" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Richard_A._Teague | employer | Chrysler</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Richard_A._Teague | employer | Chrysler</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Richard A. Teague works for Chrysler.</lex>
+      <lex comment="good" lid="Id2">Richard A. Teague is employed by Chrysler.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id300" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Richard_A._Teague | employer | General_Motors</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Richard_A._Teague | employer | General_Motors</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Richard A Teague is an employee of General Motors.</lex>
+      <lex comment="good" lid="Id2">Richard A. Teague's employer is General Motors.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id302" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>SEAT_Ibiza | related | Audi_A1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>SEAT_Ibiza | relatedMeanOfTransportation | Audi_A1</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The SEAT Ibiza and the Audi A1 are similar means of transport.</lex>
+      <lex comment="good" lid="Id2">The SEAT Ibiza is related to the Audi A1.</lex>
+      <lex comment="good" lid="Id3">The SEAT Ibiza and the Audi A1 are related means of transportation.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id303" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>SEAT_Ibiza | related | Volkswagen_Polo_Mk3</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>SEAT_Ibiza | relatedMeanOfTransportation | Volkswagen_Polo_Mk3</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The SEAT Ibiza is related to the Volkswagen Polo Mk3.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id304" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Saab_9000 | related | Alfa_Romeo_164</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saab_9000 | relatedMeanOfTransportation | Alfa_Romeo_164</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saab_9000 | relatedMeanOfTransportation | Alfa_Romeo_164</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Saab 9000 is related to Alfa Romeo 164.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id305" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sovcomflot | keyPerson | Sergey_Naryshkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sovcomflot | keyPerson | Sergey_Naryshkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sergey Naryshkin is a key person at Sovcomflot.</lex>
+      <lex comment="good" lid="Id2">Sergey Naryshkin is a key person at the company Sovcomflot.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id320" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Volkswagen_Polo | related | Audi_A1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Volkswagen_Polo | relatedMeanOfTransportation | Audi_A1</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Volkswagen Polo and Audi A1 are related forms of transportation.</lex>
+      <lex comment="good" lid="Id2">Volkswagen Polo is related to Audi A1.</lex>
+    </entry>
+  </entries>
+</benchmark>

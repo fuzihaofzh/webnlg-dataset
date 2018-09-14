@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Turin</otriple>
+        <otriple>Gruppo_Bertone | locationCountry | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Turin</mtriple>
+        <mtriple>Gruppo_Bertone | locationCountry | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gruppo Bertone, of Turin Italy, designed the Abarth 1000 GT Coupe.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe was designed by Gruppo Bertone (Italy). The Gruppo Bertone originates from Turin.</lex>
+      <lex comment="good" lid="Id3">Gruppo Bertone, founded in Turin, Italy, was the designer of the Abarth 1000 GT Coupé.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | status | "Wrecked"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
+        <otriple>Alhambra_(1855) | status | "Wrecked"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
+        <mtriple>Alhambra | status | "Wrecked"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra, which was wrecked, had an 8.3 m ship beam and was 63800.0 mms in length.</lex>
+      <lex comment="good" lid="Id2">Before it was wrecked the Alhambra had a length of 63800.0 millimetres and a beam of 8.3m.</lex>
+      <lex comment="good" lid="Id3">The Alhambra had wrecked, it had a ship beam of 8.3m and was 63800.0 millimetres long.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id23" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Car and Engineering Company, founded in Coventry and succeeded by the Rover Company, manufactured the Alvis Speed 25.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 was built by Coventry's Alvis Car and Engineering Company , which was succeeded by the Rover Co.</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 was made by Coventry based Alvis Car and Engineering Company which was succeeded by The Rover Co.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id82" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Abarth | foundationPlace | Bologna</otriple>
+        <otriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Abarth | foundationPlace | Bologna</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Designed by Gruppo Bertone and produced by the Abarth Co, Bologna, was the Abarth 1000 GT Coupe.</lex>
+      <lex comment="good" lid="Id2">Abarth was founded in Bologna and manufactures the Abarth 1000 GT Coupe designed by Gruppo Bertone.</lex>
+      <lex comment="good" lid="Id3">The Abarth company was founded in Bologna and are the manufacturers of the Abarth 1000 GT Coupé designed by Gruppo Bertone.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id83" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</otriple>
+        <otriple>Abarth | foundationPlace | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
+        <mtriple>Abarth | foundationPlace | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe was designed by Gruppo Bertone and built by Abarth which was founded in Italy.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupé was designed by Gruppo Bertone and made by the Abarth Co in Italy.</lex>
+      <lex comment="good" lid="Id3">Founded in Italy was the Abarth foundation that created the Abarth 1000 GT Coupe. It was designed by Gruppo Bertone.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id84" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Italy</otriple>
+        <otriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Italy</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe, designed by Italy's Gruppo Bertone, was made by Abarth.</lex>
+      <lex comment="good" lid="Id2">Abarth are the manufacturers of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone in Italy.</lex>
+      <lex comment="good" lid="Id3">Abarth is the manufacturer of the Abarth 1000 GT Coupé which was designed by the Italian founded Gruppo Bertone.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id85" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Italy</otriple>
+        <otriple>Gruppo_Bertone | foundation | Turin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Turin</otriple>
+        <otriple>Gruppo_Bertone | foundation | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Italy</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Turin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Gruppo Bertone was founded in Turin, Italy and was the designer of the Abarth 1000 GT Coupe.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupé was designed by Gruppo Bertone which was founded in Turin, in Italy.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe was designed by Turin, Italy's Gruppo Bertone.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id86" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Italy</otriple>
+        <otriple>Gruppo_Bertone | foundedBy | Giovanni_Bertone</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Italy</mtriple>
+        <mtriple>Gruppo_Bertone | foundedBy | Giovanni_Bertone</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gruppo Bertone was founded in Italy by Giovanni Bertone who designed the Abarth 1000 GT Coupé.</lex>
+      <lex comment="good" lid="Id2">Gruppo Bertone was founded by Giovanni Bertone in Italy and designed the Abarth 1000 GT Coupe.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id87" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Italy</otriple>
+        <otriple>Gruppo_Bertone | locationCity | Turin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Italy</mtriple>
+        <mtriple>Gruppo_Bertone | locationCity | Turin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe was designed by Gruppo Bertone which was founded in Italy and is located in Turin.</lex>
+      <lex comment="good" lid="Id2">Gruppo Bertone, founded in Turin, Italy, designed the Abarth 1000 GT Coupe.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id88" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Turin</otriple>
+        <otriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Turin</mtriple>
+        <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe was designed by Gruppo Bertone in Turin and made by Abarth.</lex>
+      <lex comment="good" lid="Id2">Abarth is the manufacturer of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone who were founded in Turin.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe was made by Abarth and designed by Gruppo Bertone. Gruppo Bertone was founded in Turin.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id89" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Turin</otriple>
+        <otriple>Gruppo_Bertone | foundedBy | Giovanni_Bertone</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designer | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Turin</mtriple>
+        <mtriple>Gruppo_Bertone | foundedBy | Giovanni_Bertone</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Gruppo Bertone was founded in Turin by Giovanni Bertone and was the designer of the Abarth 1000 GT Coupe.</lex>
+      <lex comment="good" lid="Id2">The Gruppo Bertone was founded in Turin by Giovanni Bertone. It designed the Abarth 1000 GT Coupé.</lex>
+      <lex comment="good" lid="Id3">The Gruppo Bertone was founded in Turin by Giovanni Bertone and designed the Abarth 1000 GT Coupe.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id128" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Alhambra_(1855) | owner | P&amp;O_(company)</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipOwner | P&amp;O_(company)</otriple>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | owner | P&amp;O_(company)</mtriple>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra is owned by P&amp;O and powered by a Humphrys, Tennant and Dykes engine which are located in Deptford.</lex>
+      <lex comment="good" lid="Id2">The P&amp;O owned Alhambra is powered by an engine from Deptford based Humphrys, Tennant and Dykes.</lex>
+      <lex comment="good" lid="Id3">Alhambra is owned by P&amp;O and is powered by the Deptford-located Humphrys, Tennant and Dykes engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id129" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | London</otriple>
+        <otriple>Alhambra_(1855) | owner | P&amp;O_(company)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipOwner | P&amp;O_(company)</otriple>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | owner | P&amp;O_(company)</mtriple>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra, powered by the London based Humphrys, Tennant and Dykes, is owned by the P &amp; O Company.</lex>
+      <lex comment="good" lid="Id2">The Alhambra is owned by P&amp;O and is powered by an engine from the London company Humphrys, Tennant and Dykes.</lex>
+      <lex comment="good" lid="Id3">Alhambra is owned by the P &amp; O company and is powered by a Humphrys, Tennant and Dykes engine. Humphrys,Tennant and Dykes is located in London.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id130" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>P&amp;O_(company) | location | London</otriple>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Alhambra_(1855) | owner | P&amp;O_(company)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipOwner | P&amp;O_(company)</otriple>
+        <otriple>P&amp;O_(company) | location | London</otriple>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | owner | P&amp;O_(company)</mtriple>
+        <mtriple>P&amp;O_(company) | location | London</mtriple>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alhambra has a Humphrys, Tennant, and Dykes power type. It is owned by the London-located P&amp;O company.</lex>
+      <lex comment="good" lid="Id2">The Alhambra, located in London and owned by P&amp;O, is powered by a Humphrys, Tennant and Dykes engine.</lex>
+      <lex comment="good" lid="Id3">The Alhambra, owned by the London based P &amp; O Company, has a Humphrys, Tennant and Dykes engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id131" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
+        <otriple>Alhambra_(1855) | builder | Samuda_Brothers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
+        <mtriple>Alhambra | builder | Samuda_Brothers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Samuda Brothers built the Alhambra which is powered by a Humphrys, Tennant and Dykes engine who is located is Deptford.</lex>
+      <lex comment="good" lid="Id2">The Samuda Brothers built the Alhambra which has a Humphrys, Tennant and Dykes power type from Deptford.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id132" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | Deptford</otriple>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
+        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra, having a Deptford based Humphrys, Tennant and Dykes engine, was 63800.0 millimetres long.</lex>
+      <lex comment="good" lid="Id2">The Alhambra, 63800.0 millimetres long, has a Humphrys, Tennant and Dykes power type that is located in Deptford.</lex>
+      <lex comment="good" lid="Id3">The Alhambra, which had the length of 63800.0 millimetres, has a Humphrys, Tennant and Dykes power type in Deptford.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id133" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | London</otriple>
+        <otriple>Alhambra_(1855) | builder | Samuda_Brothers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | London</mtriple>
+        <mtriple>Alhambra | builder | Samuda_Brothers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra has a Humphrys, Tennant and Dykes power type who are found in London. The Alhambra was built by the Samuda Brothers.</lex>
+      <lex comment="good" lid="Id2">Built by the Samuda Brothers, the Alhambra has a Humphrys, Tennant and Dykes power type. Humphrys, Tennant and Dykes is located in London.</lex>
+      <lex comment="good" lid="Id3">The Alhambra, built by the Samuda Brothers, has a, London located, Humphrys, Tennant and Dykes power type.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id134" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
+        <otriple>Humphrys,_Tennant_and_Dykes | location | London</otriple>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | powerType | Humphrys,_Tennant_and_Dykes</mtriple>
+        <mtriple>Humphrys,_Tennant_and_Dykes | location | London</mtriple>
+        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra is 6.38 metres long and has a Humphrys, Tennant and Dykes (of London) power type.</lex>
+      <lex comment="good" lid="Id2">The Alhambra, which is 63800.0 mm long, is powered by the London based, Humphrys, Tennant and Dykes engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id135" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | shipLaunch | "1855-05-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
+        <otriple>Alhambra_(1855) | shipLaunch | "1855-05-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
+        <mtriple>Alhambra | shipLaunch | 1855-05-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ship Alhambra, launched on the 31st May 1855, has a ship beam of 8.3m and is 63800.0 millimetres long.</lex>
+      <lex comment="good" lid="Id2">The Alhambra has a ship beam of 8.3m, is 63800.0 millimetres long, and was launched on 1855-05-31.</lex>
+      <lex comment="good" lid="Id3">The Alhambra has a ship beam of 8.3m and was 63800.0 millimetres long. It was launched on 31st May 1855.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id136" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
+        <otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | "63800.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
+        <mtriple>Alhambra | topSpeed | 18.52</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra, with a top speed of 18.52, is 63800.0 mm long and has an 8.3 m ship beam.</lex>
+      <lex comment="good" lid="Id2">The Alhambra is 638m long and has a ship beam of 8.3m and a top speed of 18.52.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id137" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
+        <otriple>Alhambra_(1855) | shipLaunch | "1855-05-31"^^xsd:date</otriple>
+        <otriple>Alhambra_(1855) | status | "Wrecked"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
+        <otriple>Alhambra_(1855) | shipLaunch | "1855-05-31"^^xsd:date</otriple>
+        <otriple>Alhambra_(1855) | status | "Wrecked"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+        <mtriple>Alhambra | shipLaunch | 1855-05-31</mtriple>
+        <mtriple>Alhambra | status | "Wrecked"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra, with its 8.3 m ship beam, launched 5/31/1855, was wrecked.</lex>
+      <lex comment="good" lid="Id2">The Alhambra, which was wrecked, had a ship beam of 8.3 metres and was launched on 31 May 1855.</lex>
+      <lex comment="good" lid="Id3">The wrecked Alhambra had a ship beam of 8.3m and was launched on 31st May 1855.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id138" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
+        <otriple>Alhambra_(1855) | status | "Wrecked"</otriple>
+        <otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | "8.3 m"@en</otriple>
+        <otriple>Alhambra_(1855) | status | "Wrecked"</otriple>
+        <otriple>Alhambra_(1855) | topSpeed | "18.52"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+        <mtriple>Alhambra | status | "Wrecked"</mtriple>
+        <mtriple>Alhambra | topSpeed | 18.52</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alhambra has a top speed of 18.52 and a ship beam of 8.3m. It was once wrecked.</lex>
+      <lex comment="good" lid="Id2">The wrecked Alhambra had a beam of 8.3m and a top speed of 18.52.</lex>
+      <lex comment="good" lid="Id3">The Alhambra has an 8.3m ship beam and has a top speed of 18.52 km/h. It was wrecked.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id139" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | "Petrol"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | "Petrol"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a petrol engine and was manufactured by the Alvis Car and Engineering Company which was founded in Coventry.</lex>
+      <lex comment="good" lid="Id2">Alvis Car and Engineering Company was founded in Coventry and made the Alvis Speed 25. Alvis Speed 25 has a petrol engine.</lex>
+      <lex comment="good" lid="Id3">The Alvis Car and Engineering Company was founded in Coventry where the Alvis Speed 25 was manufactured with a petrol engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id140" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__2</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | "4387.0"^^&lt;http://dbpedia.org/datatype/cubicCentimetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | "3571.0"^^&lt;http://dbpedia.org/datatype/cubicCentimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | 4387.0 (cubicCentimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 was made by the Alvis Car and Engineering Company (founded in Coventry) has a 4387.00 cc engine.</lex>
+      <lex comment="good" lid="Id2">Alvis Speed 25, with its 4387.0 cubic cm engine, was manufactured by, the Coventry based, Alvis Car and Engineering Company.</lex>
+      <lex comment="good" lid="Id3">Alvis Speed 25 which has a 4387.00 cc engine, was manufactured by the Alvis Car and Engineering Company which was founded in Coventry.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id141" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__3</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | Straight-six_engine</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | Alvis_Speed_25__6</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Speed_25 | engine | 106</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | Straight-six_engine</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25, with a straight 6 engine, was made by the Alvis Car and Engineering Company founded in Coventry.</lex>
+      <lex comment="good" lid="Id2">Alvis Speed 25, with a straight six engine, was manufactured by the Alvis Car and Engineering Company in Coventry.</lex>
+      <lex comment="good" lid="Id3">The Alvis Car and Engineering Company was founded in Coventry and manufactured the Alvis Speed 25 which has a straight-six engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id142" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | locationCity | Coventry</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | locationCity | Coventry</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 was built by the Coventry based Alvis Car and Enginerring Company which was succeeded by the Rover Co.</lex>
+      <lex comment="good" lid="Id2">Alvis Car and Engineering Company in Coventry was succeeded by The Rover Co., and manufactured the Alvis Speed 25.</lex>
+      <lex comment="good" lid="Id3">The Avis Car and Engineering Co., succeeded by The Rover Co., manufacture the Alvis Speed 25.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id143" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
+        <otriple>Alvis_Speed_25 | engine | "31.48"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
+        <otriple>Alvis_Speed_25 | engine | "25.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
+        <otriple>Alvis_Speed_25 | engine | "31.48"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
+        <otriple>Alvis_Speed_25 | engine | "25.63"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | class | "Full-size luxury car"</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | 31.48 tax horsepower</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 is classed as a full-size luxury car and has a 31.48 tax hp engine. It has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id2">A full-size luxury vehicle, the Alvis Speed 25 has a 31.48 tax hp engine and a" single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id144" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "31.48"^^xsd:double</otriple>
+        <otriple>Alvis_Speed_25 | class | Full-size_car</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "with metal joints (arranged in a straight line), spiral bevel fully floating back axle"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "25.63"^^xsd:double</otriple>
+        <otriple>Alvis_Speed_25 | class | Full-size_car</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "31.48"^^xsd:double</otriple>
+        <otriple>Alvis_Speed_25 | class | Full-size_car</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | engine | "25.63"^^xsd:double</otriple>
+        <otriple>Alvis_Speed_25 | class | Full-size_car</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | engine | 31.48 tax horsepower</mtriple>
+        <mtriple>Alvis_Speed_25 | class | Full-size_car</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A full-size car, the Alvis Speed 25, with its 31.48 tax hp engine, has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 is a full size class car with an engine capable of producing 31.48 tax horsepower and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 has an engine capable of 31.48 horsepower and an impressive transmission. It is a full size car.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id145" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent"</otriple>
+        <otriple>Alvis_Speed_25 | wheelbase | "127.0"^^&lt;http://dbpedia.org/datatype/inch&gt;</otriple>
+        <otriple>Alvis_Speed_25 | class | Full-size_car</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+        <mtriple>Alvis_Speed_25 | wheelbase | 127.0 (inches)</mtriple>
+        <mtriple>Alvis_Speed_25 | class | Full-size_car</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25, a full size car with a wheelbase of 127 inches, has a transmission system which comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propeller shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 is classed as a Full-size car. It has a a wheelbase of 127 inches and a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 is classed as a Full-size car and has a wheelbase of 127 inches. It has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id146" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | wheelbase | "127.0"^^&lt;http://dbpedia.org/datatype/inch&gt;</otriple>
+        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and \n\nall-syncromesh, centre change lever, open tubular propellor\n shaft with metal joints , spiral bevel fully floating back axle"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | wheelbase | "track"@en</otriple>
+        <otriple>Alvis_Speed_25 | class | "Full-size luxury car"@en</otriple>
+        <otriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and \n\nall-syncromesh, centre change lever, open tubular propellor\n shaft with metal joints , spiral bevel fully floating back axle"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | wheelbase | 127.0 (inches)</mtriple>
+        <mtriple>Alvis_Speed_25 | class | "Full-size luxury car"</mtriple>
+        <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 is a full-size luxury car with a wheelbase of 127 inches and an impressive transmission.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 has a wheelbase of 127 inches, is a full-size luxury vehicle, and has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id3">The full-size luxury car Alvis Speed 25 has a wheelbase of 127 inches and a transmission system comprised of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
+    </entry>
+  </entries>
+</benchmark>

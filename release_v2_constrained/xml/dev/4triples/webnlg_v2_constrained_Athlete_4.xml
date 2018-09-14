@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alex_Tyus | activeYearsStartYear | "2011"^^xsd:gYear</otriple>
+        <otriple>Alex_Tyus | college | Florida_Gators_men's_basketball</otriple>
+        <otriple>Alex_Tyus | draftYear | 2011</otriple>
+        <otriple>Alex_Tyus | dateOfBirth | "1988-01-08"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | activeYearsStartYear | 2011</mtriple>
+        <mtriple>Alex_Tyus | college | Florida_Gators_men's_basketball</mtriple>
+        <mtriple>Alex_Tyus | draftYear | 2011</mtriple>
+        <mtriple>Alex_Tyus | birthDate | 1988-01-08</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born Jan 8, 1988, Alex Tyus became active and drafted in 2011 for the Florida Gators in College football.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus was born in Jan 8, 1988 and was drafted in 2011 where he played pro basketball for the Florida Gators in College.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus, born January 8, 1988 began his career in 2011 (when he was drafted). He has played for the Florida Gators.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id26" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</otriple>
+        <otriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Esteghlal_Ahvaz_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Esteghlal_Ahvaz_F.C.</otriple>
+        <otriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
+        <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adnan Hamad manages Esteghlal Ahvaz F.C., the club Ahmad Kadhim Assad, used to play for. Ahmad Kadhim Assad plays for Steel Azin F.C., which play in Iran Football's 3rd Division.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Steel Azin FC in the 3rd division of Iran football. He is also part of Esteghlal Ahvaz F.C. where Adnan Hamad is the manager.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's club is Steel Azin FC who play in Iran's 3rd division. He also played for Esteghlal Ahvaz FC who are managed by Adnan Hamad.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id37" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</otriple>
+        <otriple>Ahmad_Kadhim_Assad | team | Al-Zawra'a_SC</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Steel_Azin_F.C.</otriple>
+        <otriple>Al-Zawra'a_SC | manager | Basim_Qasim</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | Steel_Azin_F.C.</otriple>
+        <otriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</otriple>
+        <otriple>Ahmad_Kadhim_Assad | clubs | Al-Zawra'a_SC</otriple>
+        <otriple>Al-Zawra'a_SC | manager | Basim_Qasim</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
+        <mtriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</mtriple>
+        <mtriple>Ahmad_Kadhim_Assad | club | Al-Zawra'a_SC</mtriple>
+        <mtriple>Al-Zawra'a_SC | manager | Basim_Qasim</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad's club is Al-Zawra'a SC who are managed by Basim Qasim, and he also plays in Iran's 3rd division for Steel Azin FC.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Al-Zawra'a SC with a manager named Basim Qasim. Another club of his is the Steel Azin F.C. in Iran's Football 3rd Division.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for Steel Azin F.C. which play in the Iran Football's 3rd Division. Ahmad Kadhim Assad plays for Al-Zawra'a SC which is managed by, Basim Qasim.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id38" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams played for United Petrtrin FC and now plays for Ferencvarosi TC which is managed by Thomas Doll and chaired by Gabor Kubatov.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams club is Ferencvarosi TC whose manager is Thomas Doll and chairman is Gabor Kubatov. Mr. Adams is also part of the United Petrotrin F.C. club.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams is a member of the United Petrotrin F.C. club and plays for the Ferencvarosi TC that is managed by Mr. Akeem Adams. The chairman of the Ferencvarosi TC is Gabor Kubatov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id39" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams belongs to United Ptrotrin FC based in Palo Seco and also Ferencvarosi TC whose manager is Thomas Doll.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams played for United Petrotrin F.C. in Palo Seco. He now plays with the Ferencvarosi TC, managed by Thomas Doll.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams plays for Ferencvarosi TC where Thomas Doll is the manager, but he previously played for United Petrotrin FC at their Palo Seco ground.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id40" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        <otriple>Akeem_Adams | team | Central_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+        <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for Central FC and Ferencvarosi TC, where Thomas Doll is the manager and Gabor Kubatov is the chairman.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams plays for Ferencvarosi TC and his club is Central FC. Ferencvarosi TC has Gabor Kubatov as a chairman and Thomas Doll as a manager.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams, whose club is Central F.C.,Ferencvarosi TC, which is managed by, Thomas Doll. Gábor Kubatov is the chairman of Ferencvárosi TC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id41" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        <otriple>Akeem_Adams | team | W_Connection_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+        <mtriple>Akeem_Adams | club | W_Connection_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plays for W Connection FC,, but his own club is Ferencvarosi TC where Thomas Doll is the manager and Gabor Kubatov is chairman.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams, who played for W Connection F.C., plays for Ferencvarosi TC. Gábor Kubatov is the chairman of Ferencvárosi TC. which is managed by, Thomas Doll.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams, who plays for W Connection F.C., also plays for Ferencvarosi TC. Thomas Doll is the manager for and Gabor Kubatov is the chairman of Ferencvárosi TC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id42" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ferencvárosi_TC | manager | Thomas_Doll</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | manager | Thomas_Doll</mtriple>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams is a member of the United Petrotrin F.C. club which plays at the United Petrotrin FC grounds. Mr. Adams club is Ferencvarosi TC which is managed by Thomas Doll.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams is a member of the United Petrotrin F.C. club, and plays for Ferencvarosi TC. The manager of Ferencvarosi TC is Thomas Doll and they play in the Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams plays for Ferencvarosi TC which is managed by Thomas Doll. Akeem Adams used to play for United Petrotrin F.C. which play in Palo Seco Velodrome.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id43" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams plaus for Palo Seco Velodrome based United Ptertrin FC and also Ferencvarosi TC, of which Gabor Kubatov is the manager.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams played for United Petrotrin F.C. which plays in Palo Seco Velodrome. He plays for Ferencvarosi TC, the chairman of which is, Gabor Kubatov.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams has played for Ferencvarosi TC and for United Petrotrin F.C. whose ground is the Palo Seco Velodrome. Gabor Kubatov is the chairman of Ferencvarosi TC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id84" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+        <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov plays for is FC Torpedo Moscow part of the Soviet Union national football team. It is managed by Valery Petrakov and its chairman is Aleksandr Tukmanov.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov plays for FC Topedo Moscow, managed by Valery Petrakov and chaired by Aleksandr Tukmanov, and also the Soviet Union national team.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov, who plays for the Soviet Union national football team, played for FC Torpedo Moscow. Aleksandr Tukmanov is the chairman of FC Torpedo Moscow which is managed by, Valery Petrakov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id109" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Alex_Tyus | college | Florida_Gators_men's_basketball</otriple>
+        <otriple>Alex_Tyus | height | "2.032"^^xsd:double</otriple>
+        <otriple>Alex_Tyus | draftYear | 2011</otriple>
+        <otriple>Alex_Tyus | dateOfBirth | "1988-01-08"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alex_Tyus | college | Florida_Gators_men's_basketball</otriple>
+        <otriple>Alex_Tyus | draftYear | "2011"^^xsd:gYear</otriple>
+        <otriple>Alex_Tyus | height | "2.032"^^xsd:double</otriple>
+        <otriple>Alex_Tyus | dateOfBirth | "1988-01-08"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | college | Florida_Gators_men's_basketball</mtriple>
+        <mtriple>Alex_Tyus | height | 2.032</mtriple>
+        <mtriple>Alex_Tyus | draftYear | 2011</mtriple>
+        <mtriple>Alex_Tyus | birthDate | 1988-01-08</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus was born on the 8th January 1988 and played for the college Florida Gators men's basketball team. He had been drafted in 2011 and is 2.032 metres tall.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus was born on the 8th of January 1988. He is 2.032 metres tall. He played for the college Florida Gators men's basketball team and was drafted in 2011.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus eas born on January 8th 1988 and was drafted in 2011. He is 2.032m tall and played on the Florida Gators men's basketball team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id130" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov played with the FC Torpedo Moscow, part of the Soviet Union national football club whose chairman is Aleksandr Tukmanov. That club was part of the 2014-15 Russian Premier League.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov's club is the Soviet Union national football team. He has also played for FC Torpedo Moscow who participated in the 2014-15 Russian Premier league season and have Aleksandr Tukmanov as chairman.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for is FC Torpedo Moscow and the Soviet Union national football team. In 2014-15 the Torpedo club played in the Russian Premier League. The chairman of the FC Moscow is Aleksandr Tukmanov.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id131" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>Aleksandr_Chumakov | team | Soviet_Union_national_football_team</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Chumakov has played for FC Torpedo Moscow who played the 2014-15 season in the Russian Premier League and are managed by Valery Petrakov. Aleksandr Chumakov also plays for the Soviet Union national football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov was a member of the Soviet Union national football team. and plays for FC Torpedo Moscow. The club Aleksandr Chumakov plays for is FC Torpedo Moscow which played the 2014–15 season in the Russian Premier League.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov, who is in the Soviet Union national football team, plays for is FC Torpedo Moscow. Valery Petrakov is the manager of FC Torpedo Moscow which played in the 2014-15 Russian Premier League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id132" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>Aleksandr_Chumakov | team | FC_Torpedo_Moscow</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</otriple>
+        <otriple>Aleksandr_Chumakov | clubs | FC_Torpedo_Moscow</otriple>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+        <otriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
+        <mtriple>Aleksandr_Chumakov | club | FC_Torpedo_Moscow</mtriple>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+        <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.</lex>
+      <lex comment="good" lid="Id2">FC Torpedo Moscow who are managed by Aleksandr Chumakov and whose chairman is Aleksandr Tukmanov, played the 2014–15 season in the Russian Premier League. Aleksandr Chumakov has played for the club.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id139" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Jacksonville_Dolphins | city | Jacksonville,_Florida</otriple>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+        <otriple>Akeem_Priestley | clubs | Orange_County_Blues_FC</otriple>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jacksonville_Dolphins | city | Jacksonville,_Florida</mtriple>
+        <mtriple>Orange_County_Blues_FC | manager | Oliver_Wyss</mtriple>
+        <mtriple>Akeem_Priestley | club | Orange_County_Blues_FC</mtriple>
+        <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley plays for Orange County Blues FC (managed by Oliver Wyss) and is in the Jackson Dolphins club. The Jacksonville Dolphins play in Jacksonville, Florida.</lex>
+      <lex comment="good" lid="Id2">Akeen Priestley plays for the Jacksonville Dolphins in Jacksonville, Florida and also for the Orange County Blues whose manager is Oliver Wyss.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley, who plays for the Jackson Dolphins which are based in the city of Jacksonville in Florida, is also connected to the Orange County Blues FC who are managed by Oliver Wyss.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id143" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+        <otriple>Akeem_Priestley | clubs | Orange_County_Blues_FC</otriple>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+        <otriple>Jacksonville_Dolphins | baseballfield | John_Sessions_Stadium</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+        <otriple>Akeem_Priestley | clubs | Orange_County_Blues_FC</otriple>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+        <otriple>Jacksonville_Dolphins | stadium | John_Sessions_Stadium</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Orange_County_Blues_FC | manager | Oliver_Wyss</mtriple>
+        <mtriple>Akeem_Priestley | club | Orange_County_Blues_FC</mtriple>
+        <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
+        <mtriple>Jacksonville_Dolphins | stadium | John_Sessions_Stadium</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley plays for Jacksonville Dolphind based at the John Sessions Stadium. He is also connected to the Orange County Blues Football Club which is managed by liver Wyss.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley is connected to the Orange County Blues Football club which is managed by Oliver Wyss, but he also plays for Jacksonville Dolphins who have their baseball field in the John Sessions stadium.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley is connected to the Orange County Blues Football Club where the manager is, Oliver Wyss. Akeem Priestley plays for Jacksonville Dolphins, the club play at the John Sessions Stadium.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id144" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+        <otriple>Akeem_Priestley | clubs | Orange_County_Blues_FC</otriple>
+        <otriple>Akeem_Priestley | team | Jacksonville_Dolphins</otriple>
+        <otriple>Jacksonville_Dolphins | university | Jacksonville_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Orange_County_Blues_FC | manager | Oliver_Wyss</mtriple>
+        <mtriple>Akeem_Priestley | club | Orange_County_Blues_FC</mtriple>
+        <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
+        <mtriple>Jacksonville_Dolphins | universityTeam | Jacksonville_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley plays for Jacksonville University's, Jacksonville Dolphins and Oliver Wyss managed, Orange County Blues FC.</lex>
+      <lex comment="good" lid="Id2">The Jackson University team is known as the Jacksonville Dolphins, which is the club of Akeem Priestley, who plays for Orange County Blues FC. Oliver Wyss is the manager of the Orange County Blues FC.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley is in the Jackson Dolphins University team club. He is also associated with the Orange County Blues Football Club that has Oliver Wyss as its manager.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id150" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>RoPS | league | Veikkausliiga</otriple>
+        <otriple>Akeem_Priestley | clubs | RoPS</otriple>
+        <otriple>Akeem_Priestley | team | Orange_County_Blues_FC</otriple>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>RoPS | league | Veikkausliiga</otriple>
+        <otriple>Orange_County_Blues_FC | manager | Oliver_Wyss</otriple>
+        <otriple>Akeem_Priestley | clubs | Orange_County_Blues_FC</otriple>
+        <otriple>Akeem_Priestley | team | RoPS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>RoPS | league | Veikkausliiga</mtriple>
+        <mtriple>Orange_County_Blues_FC | manager | Oliver_Wyss</mtriple>
+        <mtriple>Akeem_Priestley | club | Orange_County_Blues_FC</mtriple>
+        <mtriple>Akeem_Priestley | club | RoPS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley belongs to Oliver Wyss managed, Orange County Blues FC. He has played for RoPS in the Veikkausliiga.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley has played for the Orange County Blues FC and for RoPS who are in the Veikkausliiga league. Orange County Blues FC are managed by Oliver Wyss.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley plays for Orange County Blues FC that is managed by Oliver Wyss. He played for RoPS in the Veikkausliiga league.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id157" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Akeem_Adams | clubs | Ferencvárosi_TC</otriple>
+        <otriple>Akeem_Adams | team | United_Petrotrin_F.C.</otriple>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Petrotrin_F.C. | ground | Palo_Seco</otriple>
+        <otriple>Akeem_Adams | team | Ferencvárosi_TC</otriple>
+        <otriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</otriple>
+        <otriple>Akeem_Adams | clubs | United_Petrotrin_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
+        <mtriple>Akeem_Adams | club | Ferencvárosi_TC</mtriple>
+        <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
+        <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams has played for United Petrotrin F.C (home ground Palo Seco) and also Ferencvarosi TC (chairman Gábor Kubatov).</lex>
+      <lex comment="good" lid="Id2">Akeem Adams is a member of the United Petrotrin F.C. club., the ground of which is, Palo Seco. Akeem Adams club is Ferencvarosi TC, the chairman of which, is Gabor Kubatov.</lex>
+      <lex comment="good" lid="Id3">Palo Seco is the ground for United Petrotin F.C. which Akeem Adams played for. His club is Ferencvarosi TC, the chairman of which, is Gabor Kubatov.</lex>
+    </entry>
+  </entries>
+</benchmark>

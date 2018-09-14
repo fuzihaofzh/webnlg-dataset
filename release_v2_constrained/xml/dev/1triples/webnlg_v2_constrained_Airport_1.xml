@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | r1Number | 18</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | 1st_runway_Number | 18</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The first runway at Amsterdam's Schiphol Airport is known as Number 18.</lex>
+      <lex comment="good" lid="Id2">The Amsterdam Airport Schiphol's 1st runway number is 18.</lex>
+      <lex comment="good" lid="Id3">The number of the 1st runway at Amsterdam Airport Schiphol is 18.</lex>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | r5Surface | "Asphalt"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | 5th_runway_SurfaceType | "Asphalt"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 5th runway at Amsterdam airport Schiphol has an asphalt surfacing.</lex>
+      <lex comment="good" lid="Id2">The fifth runway of Amsterdam Airport Schiphol has an asphalt surface.</lex>
+      <lex comment="good" lid="Id3">The 5th runway of the Amsterdam Airport Schiphol is asphalt.</lex>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "06/24 'Kaagbaan'"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "06/24 'Kaagbaan'"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol runway name is 06/24 Kaagbaan.</lex>
+      <lex comment="good" lid="Id2">06/24, Kaagbaan, is the runway name of Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3">The runway name of Amsterdam Airport Schiphol is 06/24 Kaagbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | r1Surface | "ASPHALT"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | 1st_runway_SurfaceType | "Asphalt"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport is the first runway made of asphalt.</lex>
+      <lex comment="good" lid="Id2">Asphalt is the surface of the first runway of Angola International Airport.</lex>
+      <lex comment="good" lid="Id3">The 1st runway at Angola International Airport has an asphalt surface.</lex>
+    </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | runwayDesignation | "11/29"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | runwayName | "11/29"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway name of Ashgabat International Airport is 11/29.</lex>
+      <lex comment="good" lid="Id2">The runway name at Ashgabat International airport is 11/29.</lex>
+    </entry>
+    <entry category="Airport" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Maple_Ridge_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Maple_Ridge_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Maple Ridge Township in Alpena County, Michigan is part of the United States.</lex>
+      <lex comment="good" lid="Id2">Maple Ridge Township, Alpena County, Michigan is part of the United States.</lex>
+    </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | cityServed | "Aarhus, Denmark"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | cityServed | "Aarhus, Denmark"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Aarhus is the airport of Aarhus, Denmark.</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport serves the city of Aarhus, Denmark.</lex>
+    </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | elevation | "25.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | elevationAboveTheSeaLevel_(in_metres) | 25.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus Airport is 25 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Aarhus airport is at an elevation of 25 metres above seal level.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is 25.0 metres above the sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | operator | "Aarhus Lufthavn A/S"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | operatingOrganisation | "Aarhus Lufthavn A/S"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus Airport is operated by Aarhus Lufthavn A/S.</lex>
+      <lex comment="good" lid="Id2">Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport.</lex>
+    </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | operator | Aktieselskab</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport.</lex>
+      <lex comment="good" lid="Id2">Aktieselskab operates Aarhus Airport.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is operated by the Aktieselkab organisation.</lex>
+    </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2702.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2702.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus Airport's runway length is 2702.0.</lex>
+      <lex comment="good" lid="Id2">The Aarhus Airport has a runway length of 2702.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2776.73"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus Airport runway length is 2776.0.</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport has a runway length of 2776.0.</lex>
+      <lex comment="good" lid="Id3">The length of the runway at Aarhus Airport is 2776.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | "2777.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2777.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length at Aarhus Airport is 2777.0 meters.</lex>
+      <lex comment="good" lid="Id2">The runway length at Aarhus airport is 2777.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayDesignation | "10L/28R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus Airport runway name is 10L/28R.</lex>
+      <lex comment="good" lid="Id2">10L/28R is the runway name of the Aarhus Airport.</lex>
+      <lex comment="good" lid="Id3">The runway name of Aarhus Airport is 10L/28R.</lex>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayDesignation | "10R/28L"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway name at Aarhus Airport is "10R/28L".</lex>
+      <lex comment="good" lid="Id2">10R/28L is the runway name at Aarhus airport,.</lex>
+      <lex comment="good" lid="Id3">The runway name of Aarhus Airport is 10R/28L.</lex>
+    </entry>
+    <entry category="Airport" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena Michigan is a country in United States.</lex>
+      <lex comment="good" lid="Id2">Alpena, Michigan is in the U.S.</lex>
+      <lex comment="good" lid="Id3">Alpena, Michigan is located in the United States.</lex>
+    </entry>
+    <entry category="Airport" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | r1LengthF | 9001</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | 1st_runway_LengthFeet | 9001</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The length of the first runway of Alpena County Regional Airport is 9001.</lex>
+      <lex comment="good" lid="Id2">The first runway length in feet of Alpena County Regional Airport is 9001.</lex>
+    </entry>
+    <entry category="Airport" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | city | Alpena,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | cityServed | Alpena,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport city served Alpena, Michigan.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport serves the city of Alpena, Michigan.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport serves Alpena, Michigan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | elevationM | 210</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | elevation | "210.312"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">lpena County Regional Airport elevation above the sea level in metres is 210.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport has an elevation of 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id3">Aplena County Regional Airport is elevated 210 metres above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport is found in Maple Ridge Township, Alpena County in Michigan.</lex>
+      <lex comment="good" lid="Id2">The location of Alpena County Regional Airport is Maple Ridge Township, Alpena County, Michigan.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | location | Wilson_Township,_Alpena_County,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan.</lex>
+      <lex comment="good" lid="Id3">The location of Alpena County Regional Airport is Wilson Township, Alpena County, Michigan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | faa | "APN"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | locationIdentifier | "APN"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The location identifier of Alpena County Regional airport is APN.</lex>
+      <lex comment="good" lid="Id2">The Alpena County Regional Airport's location id is "APN".</lex>
+      <lex comment="good" lid="Id3">The loaction identifier of Alpena County Regional Airport is APN.</lex>
+    </entry>
+    <entry category="Airport" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | owner | Alpena_County,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | owner | Alpena_County,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena Country Regional Airport owner is Alpena Country, Michigan.</lex>
+      <lex comment="good" lid="Id2">Alpena County, Michigan is the owner of the Alpena County Regional Airport.</lex>
+      <lex comment="good" lid="Id3">The owner of Alpena County Regional Airport is Alpena County, Michigan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "1532.53"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length of Alpena County Regional Airport is 1,533.</lex>
+      <lex comment="good" lid="Id2">The runway length of Alpena County Regional airport is 1533.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | "2744.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 2744.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport's runway length is 2744.0.</lex>
+      <lex comment="good" lid="Id2">The Alpena County Regional Airport is 2744 meters long.</lex>
+      <lex comment="good" lid="Id3">The runway length of Alpena County Regional Airport is 2744.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id116" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayDesignation | "1/19"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayName | "1/19"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpena Country Regional Airport runway name is 1/19/.</lex>
+      <lex comment="good" lid="Id2">1/19 is the runway name of Alpena County Regional Airport.</lex>
+      <lex comment="good" lid="Id3">The runway name of Alpena County Regional Airport is 1/19.</lex>
+    </entry>
+    <entry category="Airport" eid="Id117" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayDesignation | "7/25"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayName | "7/25"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">7/25 is the runway name of Alpena County Regional Airport.</lex>
+      <lex comment="good" lid="Id2">The runway name of Alpena County Regional Airport is 7/25.</lex>
+    </entry>
+    <entry category="Airport" eid="Id118" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam | leaderName | Eberhard_van_der_Laan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam | leaderName | Eberhard_van_der_Laan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam's leader is Eberhard van der Laan.</lex>
+      <lex comment="good" lid="Id2">Eberhard van der Laan is the name of the leader of Amsterdam.</lex>
+      <lex comment="good" lid="Id3">The leader of Amsterdam is Eberhard van der Laan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | r1LengthM | 3800</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | 1st_runway_LengthMetre | 3800</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The length of the first runway at Amsterdam Airport Schiphol is 3800 metres.</lex>
+      <lex comment="good" lid="Id2">The length of the 1st runway at Amsterdam airport Schiphol is 3800 metres.</lex>
+      <lex comment="good" lid="Id3">The length of the first runway at Amsterdam Aiport Schiphol is 3800 meters.</lex>
+    </entry>
+    <entry category="Airport" eid="Id120" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | r1Surface | Asphalt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | 1st_runway_SurfaceType | Asphalt</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The first runway at Amsterdam's Schiphol Airport is made from asphalt.</lex>
+      <lex comment="good" lid="Id2">The first runway of Amsterdam Airport Schiphol is made in asphalt.</lex>
+      <lex comment="good" lid="Id3">The 1st runway at Amsterdam Airport Schiphol is made from Asphalt.</lex>
+    </entry>
+    <entry category="Airport" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | r4Surface | "Asphalt"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | 4th_runway_SurfaceType | "Asphalt"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The fourth runway at Schiphol Airport in Amsterdam is made of asphalt.</lex>
+      <lex comment="good" lid="Id2">The 4th runway at Amsterdam Airport Schiphol has a surface of asphalt.</lex>
+    </entry>
+    <entry category="Airport" eid="Id122" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | r5Number | 18</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | 5th_runway_Number | 18</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol is 5th runway number 18.</lex>
+      <lex comment="good" lid="Id2">18 is the number of the fifth runway of Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Schiphols Airport's 5th runway has the number 18.</lex>
+    </entry>
+    <entry category="Airport" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol serves the city of Amsterdam.</lex>
+      <lex comment="good" lid="Id2">Amsterdam airport, Schiphol serves the city of Amsterdam.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schuphol serves Amsterdam.</lex>
+    </entry>
+    <entry category="Airport" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | elevation | "-3.3528"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol is -3.3528 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Amsterdam airport Schiphol is -3.3528 above sea level.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schiphol is at an elevation of -3.3528 from sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id125" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | location | Haarlemmermeer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | location | Haarlemmermeer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam's Schiphol Airport is located in Haarlemmermeer.</lex>
+      <lex comment="good" lid="Id2">The Amsterdam Airport Schiphol is in Haarlemmermeer.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schiphol is located in Haarlemmermeer.</lex>
+    </entry>
+    <entry category="Airport" eid="Id126" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | operator | Schiphol_Group</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | operatingOrganisation | Schiphol_Group</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol operating organization is Schiphol Group.</lex>
+      <lex comment="good" lid="Id2">Schiphol Group operates the Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3">The Amsterdam Airport Schiphol is run by the operation organisation the Schiphol Group.</lex>
+    </entry>
+    <entry category="Airport" eid="Id127" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "2014.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length at Amsterdam Airport Schiphol is 2014.0 meters.</lex>
+      <lex comment="good" lid="Id2">The runway length at Amsterdam airport, Schiphol is 2014.0.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schiphol's runway length is 2014.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id128" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "3300.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3300.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length of Amsterdam airport Schiphol is 3300.0.</lex>
+      <lex comment="good" lid="Id2">The Amsterdam Airport Schiphol's runway length is 3300.</lex>
+      <lex comment="good" lid="Id3">The runway length of Amsterdam Airport Schiphol is 3300.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "3400.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3400.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The length of the runway at Amsterdam Airport Schiphol is 3400.0 metres.</lex>
+      <lex comment="good" lid="Id2">The runway length at Amsterdam Airport, Schiphol is 3400.0.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schiphol's runway length is 3400.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id130" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "3453.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3453.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length of Amsterdam's Schiphol Airport is 3,453.</lex>
+      <lex comment="good" lid="Id2">The runway length at Amsterdam Airport Schiphol is 3453.0.</lex>
+      <lex comment="good" lid="Id3">The runway length of Amsterdam Airport Schiphol is 3453.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "3500.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3500.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam's Schiphol Airport has a runway length of 3,500.</lex>
+      <lex comment="good" lid="Id2">The runway length of Amsterdam Airport Schiphol is 3500.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayLength | "3800.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3800.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length of Amsterdam Airport is 3800.0 metres.</lex>
+      <lex comment="good" lid="Id2">The runway length at Amsterdam Airport Schiphol is 3800.0.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schiphol's runway length is 3800.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "04/22 'Oostbaan'"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "04/22 'Oostbaan'"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol runway name is 04/22 Ooostbaan.</lex>
+      <lex comment="good" lid="Id2">04/22 Oostbaan is the runway name of Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3">The runway at Amsterdam Airport Schiphol is 04/22 'Oostbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id134" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "09/27 'Buitenveldertbaan'"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "09/27 'Buitenveldertbaan'"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol runway name is 09/27 Buitenvelderbaan.</lex>
+      <lex comment="good" lid="Id2">09/27 Buitenveldertbaan is the runway name of the Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Schiphol Airport has a runway named 09/27 Buitenveldertbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "18C/36C 'Zwanenburgbaan'"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18C/36C 'Zwanenburgbaan'"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway name of Amsterdam's Schiphol Airport is 18C/36C Zwanenburgbaan.</lex>
+      <lex comment="good" lid="Id2">18C/36C or Zwanenburgbaan are the names for the runway at Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3">The runway name of Amsterdam Airport Schiphol is 18C/36C Zwanenburgbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id136" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "18L/36R 'Aalsmeerbaan'"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18L/36R 'Aalsmeerbaan'"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amserdam Airport Schiphol runway name is 18L/36R Aalsmeerbaan.</lex>
+      <lex comment="good" lid="Id2">18L/36R Aalsmeerbaan is the runway name of Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Schiphol Airport has the runway name 18L/36R 'Aalsmeerbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | runwayDesignation | "18R/36L 'Polderbaan'"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18R/36L 'Polderbaan'"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">18R/36L Plderbaan is the runway name at Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id2">The runway at Amsterdam Sciphol Airport is called 18R/36L Polderbaan.</lex>
+      <lex comment="good" lid="Id3">The runway name of Amsterdam Airport Schiphol is 18R/36L Polderbaan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id153" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | r1LengthF | 13123</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | 1st_runway_LengthFeet | 13123</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The length of the first runway at Angola International Airport is 13,123 feet.</lex>
+      <lex comment="good" lid="Id2">The first runway of Angola International Airport is 13123 feet long.</lex>
+      <lex comment="good" lid="Id3">The 1st runway length in feet of Angola International Airport is 13123.</lex>
+    </entry>
+    <entry category="Airport" eid="Id154" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | r1Number | 5</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | 1st_runway_Number | 5</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport 1st runway is Number 5.</lex>
+      <lex comment="good" lid="Id2">5 is the number of the first runway of Angola International Airport.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport's 1st runway has the number 5.</lex>
+    </entry>
+    <entry category="Airport" eid="Id155" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | cityServed | Luanda</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport city served is Luanda.</lex>
+      <lex comment="good" lid="Id2">Angola International Airport serves the city of Luanda.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport serves Luanda.</lex>
+    </entry>
+    <entry category="Airport" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | elevation | "159.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | elevationM | 159</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International airport is 159 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">The Angola International Airport is 159 meters above sea level.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport is 159 metres above the sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id157" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | location | Ícolo_e_Bengo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | location | Ícolo_e_Bengo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Angola International Airport is located at Ícolo e Bengo.</lex>
+      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport is located in Ícolo e Bengo.</lex>
+    </entry>
+    <entry category="Airport" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | runwayLength | 3800.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length of Angola International Airport is 3,800.</lex>
+      <lex comment="good" lid="Id2">The runway at Angola International airport is 3800 long.</lex>
+      <lex comment="good" lid="Id3">The runway length of Angola International Airport is 3800.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id159" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | runwayLength | "3999.89"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | runwayLength | 4000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">4000ft is the runway length at Angola International Airport.</lex>
+      <lex comment="good" lid="Id2">The Angola International Airport is 4000 length.</lex>
+      <lex comment="good" lid="Id3">The runway length of Angola International Airport is 4000.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id160" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | runwayDesignation | "05L/23R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | runwayName | "05L/23R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway at Angola International Airport is called "05L/23R".</lex>
+      <lex comment="good" lid="Id2">05L/23R is the runway name at Angola International airport.</lex>
+      <lex comment="good" lid="Id3">The runway at Angola International Airport is named 05L/23R.</lex>
+    </entry>
+    <entry category="Airport" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | runwayDesignation | "South Runway"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | runwayName | "South Runway"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"South Runway" is a runway name at Angola International airport.</lex>
+      <lex comment="good" lid="Id2">The runway at Angola International Airport is named South Runway.</lex>
+      <lex comment="good" lid="Id3">The name of Angola International Airport runway is "South Runway".</lex>
+    </entry>
+    <entry category="Airport" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | r1LengthF | 12467</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | 1st_runway_LengthFeet | 12467</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The length of the first runway at Ashgabat International Airport is 12467 feet.</lex>
+      <lex comment="good" lid="Id2">The 1st runway at Ashgabat International airport is 12467 feet in length.</lex>
+      <lex comment="good" lid="Id3">Ashgabat International Airport's 1st runway has a length of 12467 feet.</lex>
+    </entry>
+    <entry category="Airport" eid="Id194" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | r3LengthF | 2953</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | 3rd_runway_LengthFeet | 2953</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Ashgabat International Airport's 3rd runway length in ft is 2953.</lex>
+      <lex comment="good" lid="Id2">The length of the 3rd runway at Ashgabat International Airport is 2953 feet.</lex>
+    </entry>
+    <entry category="Airport" eid="Id196" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | elevation | "211.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | elevationM | 211</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 211</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ashgabat International Airport is 211 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airport is elevated 211 metres above sea level.</lex>
+    </entry>
+    <entry category="Airport" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | location | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | location | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ashgabat International Airport is located in Ashgabat.</lex>
+      <lex comment="good" lid="Id2">Ashgabat is the location of Ashgabat International Airport.</lex>
+    </entry>
+    <entry category="Airport" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | operatingOrganisation | Turkmenistan_Airlines</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airport is operated by Turkmenistan Airlines.</lex>
+    </entry>
+    <entry category="Airport" eid="Id199" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | runwayLength | "2988.87"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 2989.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length at Ashgabat International Airport is 2989.0 meters.</lex>
+      <lex comment="good" lid="Id2">The runway length at Ashgabat International airport is 2989.0.</lex>
+      <lex comment="good" lid="Id3">The average runway length at Ashgabat International Airport is 2989.0 m.</lex>
+    </entry>
+    <entry category="Airport" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | runwayLength | "3800.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 3800.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length at Ashgabat International airport is 3800.0.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airport has a runway length of 3800.0.</lex>
+      <lex comment="good" lid="Id3">The runway length of Ashgabat International Airport is 3800.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | runwayLength | "900.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | runwayLength | 900.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The runway length at Ashgabat International Airport is 900.0.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airport's runway is 900 meters long.</lex>
+      <lex comment="good" lid="Id3">The runway length of Ashgabat International Airport is 900.0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id202" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | runwayDesignation | "12L/30R"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | runwayName | "12L/30R"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">12L/30R is the runway name of Ashgabat International Airport.</lex>
+      <lex comment="good" lid="Id2">The runway name of Ashgabat International Airport is 12L/30R.</lex>
+    </entry>
+    <entry category="Airport" eid="Id203" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | runwayDesignation | "12R/30L"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | runwayName | "12R/30L"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">12R/30L is the runway name of the Ashgabat International Airport.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airport has the runway name 12R/30L.</lex>
+      <lex comment="good" lid="Id3">Ashgabat International Airport has a runway named 12R/30L.</lex>
+    </entry>
+    <entry category="Airport" eid="Id277" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Luanda | country | Angola</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luanda | country | Angola</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Luanda is in the country of Angola.</lex>
+      <lex comment="good" lid="Id2">Luanda is located in Angola.</lex>
+    </entry>
+    <entry category="Airport" eid="Id280" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Maple Ridge Townshio, Alpena County Michigan is in the United States.</lex>
+      <lex comment="good" lid="Id2">The Maple Ridge Township, Alpena County, Michigan is in the U.S.</lex>
+      <lex comment="good" lid="Id3">Maple Ridge Township, Alpena County, Michigan is located in the United States.</lex>
+    </entry>
+    <entry category="Airport" eid="Id319" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Ashgabat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The headquarters of Turkmenistan Airlines are located in Ashgabat.</lex>
+      <lex comment="good" lid="Id2">The headquarters of Turkmenistan Airlines are in Ashgabat.</lex>
+    </entry>
+    <entry category="Airport" eid="Id320" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Turkmenistan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Turkmenistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The headquarters of Turkmenistan Airlines are located in Turkmenistan.</lex>
+      <lex comment="good" lid="Id2">The headquarters of Turkmenistan Airlines are in Turkmenistan.</lex>
+    </entry>
+    <entry category="Airport" eid="Id322" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenabat_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The hub airport for Turkmenistan Airlines is Turkmenabat Airport.</lex>
+      <lex comment="good" lid="Id2">Turkmenabat airport is the hub for Turkmenistan airlines.</lex>
+    </entry>
+    <entry category="Airport" eid="Id323" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenbashi_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenbashi_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The hub airport for Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+      <lex comment="good" lid="Id2">The hub Airport of Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+    </entry>
+    <entry category="Airport" eid="Id335" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wilson Township, in Alpena County, Michigan is in the U.S.A.</lex>
+      <lex comment="good" lid="Id2">Wilson Township, Alpena County, Michigan is in the United States.</lex>
+      <lex comment="good" lid="Id3">The Wilson Township, Alpena County, Michigan is in the United States.</lex>
+    </entry>
+    <entry category="Airport" eid="Id336" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wilson Township, Alpena County, Michigan is part of the United States.</lex>
+    </entry>
+    <entry category="Airport" eid="Id337" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ícolo e Bengo is in Angola.</lex>
+      <lex comment="good" lid="Id2">Ícolo e Bengo is located in Angola.</lex>
+    </entry>
+    <entry category="Airport" eid="Id338" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | subdivisionName | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ícolo e Bengo is in the Luanda Province.</lex>
+      <lex comment="good" lid="Id2">Ícolo e bengo is part of Luanda Province.</lex>
+    </entry>
+  </entries>
+</benchmark>

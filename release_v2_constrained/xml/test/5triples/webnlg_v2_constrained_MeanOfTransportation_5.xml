@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id55" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>American_Motors | subsidiary | Wheel_Horse</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | fate | Chrysler</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
+        <mtriple>American_Motors | subsidiary | Wheel_Horse</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | fate | Chrysler</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AMC Matador is manufactured by American Motors, a key person of the company is Roy D Chapin Jr. The Wheel Horse is a subsidiary of American Motors which was succeeded by Eagle and acquired by Chrysler.</lex>
+      <lex comment="good" lid="Id2">The AMC Matador is manufactured by American Motors, whose subsidiary is The Wheel Horse and successor is Eagle. American Motors was acquired by Chrysler and Roy D Chapin Jr is a key person there.</lex>
+      <lex comment="good" lid="Id3">Roy D Chapin Jr is a key person at American Motors who manufactured the AMC Matador. The company was acquired by Chrysler, was succeeded by Eagle ad has a subsidiary known as The Wheel Horse.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id56" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipBuilder | General_Dynamics_Electric_Boat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+        <mtriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</mtriple>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
+        <mtriple>American_submarine_NR-1 | shipDraft | 4.6 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">General Dynamics Electric Boat Co. built the American Submarine NR-1, which has a ship beam of 3.8 m, a top speed of 8.334 km/h, a ship draft of 4.6 m, and was launched on January 25, 1969.</lex>
+      <lex comment="good" lid="Id2">The American Submarine NR-1 has a ship beam of 3.8 m, a ship draft of 4.6m and a top speed of 8.334 km/h. It was built by General Dynamics Electric Boat and launched on January 25th 1969.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 was built by General Dynamics Electric Boat and was launched on 25 January 1969. It has a draft of 4.6 m, a ship beam of 3.8m and a top speed of 8.334.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id57" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "*\n* at stern stabilizers."@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "3.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipDraft | "4.6"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_submarine_NR-1 | shipLaunch | "1969-01-25"^^xsd:date</otriple>
+        <otriple>American_submarine_NR-1 | topSpeed | "8.334"^^xsd:double</otriple>
+        <otriple>American_submarine_NR-1 | shipDraft | "*\n*Box keel depth :"@en</otriple>
+        <otriple>American_submarine_NR-1 | MeanOfTransportation/length | "45000.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>American_submarine_NR-1 | shipBeam | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_submarine_NR-1 | shipLaunch | 1969-01-25</mtriple>
+        <mtriple>American_submarine_NR-1 | topSpeed | 8.334</mtriple>
+        <mtriple>American_submarine_NR-1 | shipDraft | 4.6 m</mtriple>
+        <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
+        <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American Submarine NR-1 has a ship beam of 3.8 m, a ship draft of 4.6m, is 45000.0 (millimetres) long and has a top speed of 8.334 km/h. It was launched on The 25th of January 1969.</lex>
+      <lex comment="good" lid="Id2">The American submarine NR-1 which was launched on January 25th 1969 has a top speed of 8.334 km/h. It has a 3.8m ship beam, a draft of 4.6m and measures 45000 mms in length.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 that was launched on 25th of January 1969 has a top speed of 8.334 km/h. It has a draft of 4.6m, a ship beam of 3.8m and has a total length of 45000 mms.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id103" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+        <otriple>Audi_A1 | engine | Audi_A1__3</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+        <otriple>Audi_A1 | engine | Audi_A1__2</otriple>
+        <otriple>Audi_A1 | layout | "Front-engine, front-wheel-drive Quattro in A1 Quattro"@en</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__2</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | class | "Supermini"@en</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+        <otriple>Audi_A1 | engine | Audi_A1__4</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | class | Supermini</otriple>
+        <otriple>Audi_A1 | engine | Audi_A1__2</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | class | Supermini</mtriple>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
+        <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 is a hatchback assembled by Audi Brussels and belongs to the supermini class. It has a 1.2 litre engine and a front-engine, front-wheel-drive layout.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 supermini, assembled at Audi Brussels, has a 1.2 liter, front engine, front-wheel drive layout.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id104" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__2</otriple>
+        <otriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</otriple>
+        <otriple>Audi_A1 | assembly | "Brussels, Belgium"@en</otriple>
+        <otriple>Audi_A1 | class | "Supermini"@en</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
+        <mtriple>Audi_A1 | assembly | "Brussels, Belgium"</mtriple>
+        <mtriple>Audi_A1 | class | Supermini</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi A1 hatchback is a supermini vehicle made in Brussels, Belgium. It contains a 1.2 l front engine with a front wheel drive layout.</lex>
+      <lex comment="good" lid="Id2">The Audi A1 is a hatchback belonging to the supermini class. It has a 1.2 litre engine, a front-engine with front-wheel-drive and is assembled in Brussels, Belgium.</lex>
+      <lex comment="good" lid="Id3">The Audi A1 is a supermini hatchback assembled in Brussels, Belgium. It has a front-engine with front-wheel-drive and a 1.2 litre engine.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id105" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsid | Quattro_GmbH</otriple>
+        <otriple>Audi | subsidiary | Lamborghini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+        <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
+        <mtriple>Audi | subsidiary | Lamborghini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Audi A1 is manufactured by Audi (founded by August Horch). The Quattro Gmbh and Lamborghini are subsidiaries of Audi, and Audi e-tron is a division of Audi.</lex>
+      <lex comment="good" lid="Id2">Lamborghini and Quattro Gmbh are subsidiaries of Audi which was founded by August Horch. The company make the Audi A1 and have a division known as Audi e-tron.</lex>
+      <lex comment="good" lid="Id3">Quattro Gmbh and Lamborghini are subsidiaries of Audi, and Audi e-tron is a division of the company. Audi manufactures the Audi A1 and were founded by August Horch.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id106" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | subsid | Ducati</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsidiary | Lamborghini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | subsidiary | Ducati</mtriple>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+        <mtriple>Audi | subsidiary | Lamborghini</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Audi A1 is made by Audi, the company which was founded by August Horch. Audi e-tron is a division of Audi which has Lamborghini and Ducati as subsidiaries.</lex>
+      <lex comment="good" lid="Id2">Made by Audi, whose founder is August Horch, is the Audi A1. Subsidiaries of Audi are the Ducati, Audi e-tron and Lamborghini.</lex>
+      <lex comment="good" lid="Id3">Audi, which was founded by August Horch, owns the company Ducati and manufactures the Audi A1. It also has a sub-division known as Audi e-tron and the subsidiary company Lamborghini.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id107" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsid | Quattro_GmbH</otriple>
+        <otriple>Audi | subsidiary | Ducati</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi | foundedBy | August_Horch</otriple>
+        <otriple>Audi | subsid | Ducati</otriple>
+        <otriple>Audi | division | Audi_e-tron</otriple>
+        <otriple>Audi | subsidiary | Quattro_GmbH</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi | foundedBy | August_Horch</mtriple>
+        <mtriple>Audi | subsidiary | Ducati</mtriple>
+        <mtriple>Audi | division | Audi_e-tron</mtriple>
+        <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Quattro Gmbh is a subsidiary of the Audi as is Ducati and Aidi e-tron. Audi A1 is made by Audi which was founded by August Horch.</lex>
+      <lex comment="good" lid="Id2">Audi was founded by August Horch and owned by Ducati and has subsidiaries, Audi e-tron and the Quattro Gmbh. It is the maker of the Audi A1.</lex>
+      <lex comment="good" lid="Id3">Ausi makes the A1. Audi owns Ducati, and was founded by August Horch. Quattro Gmbh and etron are all part of Audi.</lex>
+    </entry>
+  </entries>
+</benchmark>

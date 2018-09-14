@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts in the United States.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States.</lex>
+    </entry>
+    <entry category="Monument" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is found in the United States.</lex>
+      <lex comment="good" lid="Id3">14th New Jersey Volunteer Infantry Monument located in United States.</lex>
+      <lex comment="good" lid="Id4">14th New Jersey Volunteer Infantry Memorial is in the United States.</lex>
+    </entry>
+    <entry category="Monument" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id4">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield.</lex>
+    </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established 1907-07-11.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907.</lex>
+      <lex comment="good" lid="Id4">The 14th New Jersey Volunteer Infantry Monument was established on 11th July 1907.</lex>
+    </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">14th New Jersey Volunteer Infantry Monument was founded 1907-07-11.</lex>
+      <lex comment="good" lid="Id2">The memorial depicting the 14th New Jersey Volunteer Infantry was founded on July 11th, 1907.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was started on 11th July 1907.</lex>
+      <lex comment="good" lid="Id4">The 14th New Jersey Volunteer Infantry Monument's founding date was on 1907-07-11.</lex>
+    </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex comment="good" lid="Id2">The National Park Service looks after the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex comment="good" lid="Id3">14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex comment="good" lid="Id4">The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument.</lex>
+    </entry>
+    <entry category="Monument" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument has been provided by the National Park Service.</lex>
+      <lex comment="good" lid="Id3">14th New Jersey Volunteer Infantry Monument is owned by the National Park Service.</lex>
+      <lex comment="good" lid="Id4">The National Park Service has responsibility for the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex comment="good" lid="Id5">The National Park Service owns the 14th New Jersey Volunteer Infantry Monument.</lex>
+    </entry>
+    <entry category="Monument" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monuments is located in the state of Maryland.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer infantry Monument is in the state of Maryland.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the state of Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id2">Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+    </entry>
+    <entry category="Monument" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Dead Man's Plack is located in England.</lex>
+      <lex comment="good" lid="Id2">Dead Man's Plack is in England.</lex>
+      <lex comment="good" lid="Id3">Dead Man's Plack is found in England.</lex>
+    </entry>
+    <entry category="Monument" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Dead Man's Plack is made from rock.</lex>
+      <lex comment="good" lid="Id2">Dad Man's Plack is made of rock.</lex>
+      <lex comment="good" lid="Id3">Dead Man's Plack is made from stone.</lex>
+      <lex comment="good" lid="Id4">The Dead Man's Plack is made with rock.</lex>
+    </entry>
+    <entry category="Monument" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | capital | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | capital | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">London is the capital of England.</lex>
+      <lex comment="good" lid="Id2">The capital of England is London.</lex>
+      <lex comment="good" lid="Id3">England's capital is London.</lex>
+    </entry>
+    <entry category="Monument" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | ethnicGroups | British_Arabs</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the ethnic groups found in England is the British Arabs.</lex>
+      <lex comment="good" lid="Id2">The British Arabs are an English ethnic group.</lex>
+    </entry>
+    <entry category="Monument" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | languages | Cornish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | languages | Cornish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the languages spoken in England is the Cornish language.</lex>
+      <lex comment="good" lid="Id2">Cornish language is spoken in England.</lex>
+      <lex comment="good" lid="Id3">Cornish is a language spoken in the Cornwall region of England.</lex>
+    </entry>
+    <entry category="Monument" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>England | religion | Church_of_England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>England | religion | Church_of_England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In England the main religion is the Church of England.</lex>
+      <lex comment="good" lid="Id2">The established religion in England is The Church of England.</lex>
+      <lex comment="good" lid="Id3">the religion of England is Church of England.</lex>
+    </entry>
+    <entry category="Monument" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id2">The Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id3">The Monocacy National Battlefield is in the county Frederick, Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The city nearest to Monocacy National Battlefield is Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id2">The nearest city to Monocacy National Battlefield is Frederick, Maryland.</lex>
+    </entry>
+  </entries>
+</benchmark>

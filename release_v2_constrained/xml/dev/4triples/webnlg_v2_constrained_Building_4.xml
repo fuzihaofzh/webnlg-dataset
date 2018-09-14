@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroups | Asian_South_Africans</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is in South Africa, the capital of which is Cape Town. Two of the ethnic groups within South Africa are coloured people and Asian South Africans.</lex>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | built | 1913</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Added to National Register of Historic Places on February the 27nd, 1987 (reference number 87000823), the Asilomar Conference Grounds was built in 1913 and are located in Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds were constructed in 1913 in Pacific Grove, California, and were added to the National Register of Historic Places on February the 27nd 1987 with reference number 87000823.</lex>
+      <lex comment="good" lid="Id3">The Asilomar Conference Grounds constructed in 1913 is located at Pacific Grove, California. It was added to the National Register of Historic Places on 27 February 1987 with the reference number 87000823.</lex>
+    </entry>
+    <entry category="Building" eid="Id17" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroups | White_South_African</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, where Cape Town is the capital of South Africa, and ethnic groups are the white South Africans and the coloured.</lex>
+      <lex comment="good" lid="Id2">Coloured people are an ethnic group in South Africa, which has Cape Town as its capital. White South Africans are one of several ethnic groups in the country. Also, one of the streets in the country is 11 Diagonal Street.</lex>
+      <lex comment="good" lid="Id3">11 Diagonal Street is located in South Africa, Cape Town and white South Africans are called "Coloured" people.</lex>
+    </entry>
+    <entry category="Building" eid="Id18" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cyril Ramaphosa is one of the leaders of South Africa, which capital is Cape Town. The address, 11 Diagonal Street is located in that country and one of the the ethnic groups is Asian South Africans.</lex>
+      <lex comment="good" lid="Id2">Led by Cyril Ramaphosa, South Africa is location of 11 Diagonal Street, has the capital of Cape Town and has an ethnic group of Asian South Africans.</lex>
+      <lex comment="good" lid="Id3">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street, has the ethnic group of Asian South African and one of its leaders is Cyril Ramaphosa.</lex>
+    </entry>
+    <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, which has Cape Town as its capital and Cyril Ramaphosa as leader. Coloured people are an ethic group of this country.</lex>
+      <lex comment="good" lid="Id2">In South Africa (where the capital is Cape Town) there are many ethnic groups, one of which is called the Coloured, Cyril Ramaphosa is one of the leaders and 11 Diagonal Street is located there.</lex>
+    </entry>
+    <entry category="Building" eid="Id20" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is in South Africa, (the capital of which is Cape Town), a country where White South Africans are one of the ethnic groups and Cyril Ramaphosa is one of the leaders.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is in South Africa where the capital is Cape Town, Cyril Ramaphosa is a leader and the white South Africans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa which has the capital city of Cape Town. The leader of South Africa is Jacob Zuma and one of the ethnic groups are the Asian South Africans.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, the capital of which is Cape Town. The leader of South Africa is Jacob Zuma and one of the ethnic groups within the country is Asian South Africans.</lex>
+      <lex comment="good" lid="Id3">One of the ethnic groups of South Africa, where the leader is Jacob Zuma, are the Asian South Africans. The capital city is Cape Town and 11 Diagonal Street is located within the country.</lex>
+    </entry>
+    <entry category="Building" eid="Id22" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, where the leader is Jacob Zuma and the capital is Cape Town. Coloured people are an ethnic group in South Africa.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa which is led by Jacob Zuma. The capital city is Cape Town and the coloured people are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="Building" eid="Id23" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, Cape Town, and the leader is Jacob Zuma of the White South Africans.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa (led by Jacob Zuma), where Cape Town is the capital and white South Africans are an ethnic group.</lex>
+    </entry>
+    <entry category="Building" eid="Id24" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroups | Asian_South_Africans</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | ethnicGroups | White_South_African</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street and has the ethnic groups of Asian South Africans and white South Africans.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, of which Cape Town is the capital. Two ethnic groups within South Africa are the Asian South Africans, and white South Africans.</lex>
+      <lex comment="good" lid="Id3">11 Diagonal Street is located in South Africa, where the capital is Cape Town. White South Africans and Asian South Africans are ethnic groups in South Africa.</lex>
+    </entry>
+    <entry category="Building" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, where the capital is Cape Town, and key leaders are Cyril Ramaphosa and Jacob Zuma.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa where the capital is Cape Town. Two leaders of South Africa are Jacob Zuma and Cyril Ramaphosa.</lex>
+      <lex comment="good" lid="Id3">Led by Cyril Ramaphosa and Jacob Zuma, South Africa has the capital Cape Town and is the location of the address 11 Diagonal Street.</lex>
+    </entry>
+    <entry category="Building" eid="Id26" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The address, 11 Diagonal Street is located in South Africa where Cyril Ramaphosa and Jacob Zuma are leaders. In the country there is an ethnic group of Asian South Africans.</lex>
+      <lex comment="good" lid="Id2">Led by Cyril Ramaphosa and Jacob Zuma, South Africa is the location of the address 11 Diagonal Street and has the ethnic group of Asian South African.</lex>
+    </entry>
+    <entry category="Building" eid="Id27" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cyril Ramaphosa and Jacob Zuma are leaders of South Africa, a country where one ethnic group is coloured people and location of 11 Diagonal Street.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, where leaders are Cyril Ramaphosa and Jacob Zuma; coloured people are a major ethnic group here.</lex>
+    </entry>
+    <entry category="Building" eid="Id28" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, a country with an ethic group White South Africans, led by either Cyril Ramaphosa or Jacob Zuma.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, the country which has Cyril Ramaphosa and Jacob Zuma as leaders and where one of the ethnic groups is White South Africans.</lex>
+      <lex comment="good" lid="Id3">Cyril Ramaphosa and Jacob Zuma are leaders in South Africa where 11 Diagonal Street is located and the white South Africans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="Building" eid="Id96" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa Stadium, named for its city location, is located in Amharic-speaking Ethiopia.</lex>
+      <lex comment="good" lid="Id2">Both Addis Ababa City Hall and Addis Ababa Stadium are located in Addis Ababa, Ethiopia, where Amharic is spoken.</lex>
+      <lex comment="good" lid="Id3">The Addis Ababa Stadium and the Addis Ababa City Hall is in Addis Ababa in Ethiopia. Amharic is spoken in Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id97" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa Stadium and the Addis Ababa City Hall are in Addis Ababa, Ethiopia. Amharic is a language spoken there.</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa Stadium and Addis Ababa City Hall are located in the city of Addis Ababa, Ethiopia, where the language spoken is Amharic.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa is situated in Ethiopia and the language spoken is Amharic. Here you will also find the Addis Ababa Stadium and the Addis Ababa City Hall.</lex>
+    </entry>
+    <entry category="Building" eid="Id165" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan, born in San Francisco, designed significant buildings in Chinatown, San Francisco, including the Asilomar State Beach and Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id2">San Francisco born Julia Morgan was the architect of Asilomar Conference Grounds, Chinatown, San Francisco, and the significant building of Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id3">San Francisco born Julia Morgan has designed many significant buildings including the Asilomar Conference Grounds, Asilomar State Beech and many buildings in Chinatown, San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id166" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">San Francisco born architect Julia Morgan designed many significant buildings including the Asilomar Conference Grounds, the Los Angeles Herald Examiner Building and the Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan, born in San Francisco and designer of many significant buildings, including the Los Angeles Herald Examiner building and the Asilomar State Beach, was also the architect of the grounds of Asilomar Conference.</lex>
+      <lex comment="good" lid="Id3">Julia Morgan was born in San Fransisco. She designed the Asilomar Conference Grounds, the Asilomar State Beach and the Los Angeles Herald examiner, a landmark in California.</lex>
+    </entry>
+    <entry category="Building" eid="Id167" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was born in San Fransico and she designed the Asilomar Conference Grounds and the Los Angeles Herald examiner building, a landmark in California. The Riverside Art Museum is also one of her significant buildings.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was born in San Fransisco and she has designed many significant buildings including the Los Angeles Herald Examiner Building, the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
+    </entry>
+    <entry category="Building" eid="Id168" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">San Francisco born architect Julia Morgan designed the grounds of Asilomar Conference as well as the significant buildings of Riverside Art Museum and Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan, born in San Francisco, designed several significant buildings, such as the Asilomar Conference Grounds, the Riverside Art Musuem, and the Asilomar State Beach.</lex>
+    </entry>
+    <entry category="Building" eid="Id169" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in San Francisco, Julia Morgan designed the Asilomar Conference Grounds, The Riverside Art Museum and buildings of significance in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan, born in San Francisco designed Asilomar Conference grounds, The Riverside Art Museum and other significant buildings in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds was designed by Julia Morgan, who was born in San Francisco and also is the architect behind Chinatown in San Francisco and the Riverside Art Museum.</lex>
+    </entry>
+    <entry category="Building" eid="Id170" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Californian born Julia Morgan designed the significant buildings of Asilomar State Beach, Asilomar Conference Grounds and Chinatown in San Francisco.</lex>
+      <lex comment="good" lid="Id2">The architect of Asilomar Conference Grounds was Julia Morgan, born in California, who also designed Chinatown in San Francisco and the Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id3">Californian born architect Julia Morgan designed the Asilomar Conference Grounds, along with the significant building of Asilomar State Beach and Chinatown in San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id171" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Californian born architect Julia Morgan designed the grounds of Asilomar Conference as well as the significant buildings of Asilomar State Beach and the Los Angeles Herald Examiner building.</lex>
+      <lex comment="good" lid="Id2">The architect of Asilomar Conference Grounds was Julia Morgan, born in California, who has designed many significant buildings, including the Los Angeles Herald Examiner building and the Asilomar State Beach.</lex>
+    </entry>
+    <entry category="Building" eid="Id172" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in California, Julia Morgan has designed buildings such as Los Angeles Herald Examiner building and The Riverside Art Museum, and was also the architect of the grounds of Asilomar Conference.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan from California, designed many important buildings including the Los Angeles Herald building and the Asilomer Conference Grounds.</lex>
+    </entry>
+    <entry category="Building" eid="Id173" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was born in California, where she designed the Riverside Art Museum. One of the significant buildings that she designed was the Asilomar State Beach, and she has also designed the Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds was designed by Californian born Julia Morgan who also designed the significant buildings of the Riverside Art Museum and Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id3">Californian born architect Julia Morgan designed significant buildings including Asilomar State Beach, the Riverside Art Museum and the Asilomar Conference.</lex>
+    </entry>
+    <entry category="Building" eid="Id174" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was born in California. She designed significant buildings in Chinatown, San Fransisco; the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was born in California. She is the architect behind Chinatown in San Fransisco, the Asilomar Conference Grounds and the Riverside Art Museum, which is one of her most significant buildings.</lex>
+      <lex comment="good" lid="Id3">Californian born architect Julia Morgan designed the Asilomar Conference Grounds as well as being behind Chinatown in San Francisco and other significant buildings including the Riverside Art Museum.</lex>
+    </entry>
+    <entry category="Building" eid="Id175" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds which are designed based on the architecture style of "Arts and Crafts Movement and American craftsman Bungalows" and have the reference number in the the National Register of Historic Places of 87000823, were constructed in 1913 at Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id2">The location of Asilomar Conference Grounds constructed in 1913 is Asilomar Blvd., Pacific Grove, California. It has the reference number 87000823 in the National Register of Historic Places and was designed based on the architecture style of "Arts and Crafts Movement and American craftsman Bungalows".</lex>
+      <lex comment="good" lid="Id3">The location of Asilomar Conference Grounds, built in 1913 in the style of the "Arts and Crafts Movement and American Craftsman Bungalows", is Asilomar Blvd., Pacific Grove, California; and it has the reference number "87000823" in the National Register of Historic Places.</lex>
+    </entry>
+    <entry category="Building" eid="Id176" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | built | 1913</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California, was constructed in 1913, added to the National Register of Historic Places on 27 February 1987 where is has the reference number 87000823.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds, constructed in 1913, is located at Asilomar Blvd., Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987 with the reference number "87000823".</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California having been constructed in 1913. It was added to the National Register of Historic Places on February the 27nd 1987 with the reference number 87000823.</lex>
+    </entry>
+    <entry category="Building" eid="Id177" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds is located on Asilomar Blvd, in Pacific Grove, California, and was constructed in 1913. They are an example of the Arts and Crafts Movement and American craftsman Bungalows, and were added to the National Register of Historic Places on 27 February 1987.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds on Asilomar Blvd., Pacific Grove, California, was constructed in 1913 and added to the National Register of Historic Places on February the 27, 1987.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and were constructed in 1913 in the architectural style of the "Arts and Crafts Movement and American Craftsman Bungalows". The Grounds were added to the National Register of Historic Places on 27 February 1987.</lex>
+    </entry>
+    <entry category="Building" eid="Id178" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds are located in Pacific Grove, California, was constructed in 1913, has the reference number 87000823 in the National Register of Historic Places and architecturally is of the "Arts and Crafts Movement and American Craftsman Bungalows".</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds built in 1913 is located at Pacific Grove, California and was built in the architectural style of the "Arts and Crafts Movement and American craftsman Bungalows". "87000823" is the reference number in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id3">The Asilomar Conference Grounds is located at Pacific Grove, California and it was constructed in 1913. Its architecture is of the "Arts and Crafts Movement and American Craftsman Bungalows". It has the reference number 87000823 in the National Register of Historic Places.</lex>
+    </entry>
+    <entry category="Building" eid="Id179" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Located in Pacific Grove, California, Asilomar Conference Grounds were constructed in 1913, added to the National Register of Historic Places on 27nd February 1987 and is in the architectural style of the "Arts and Crafts Movement and American Craftsman Bungalows".</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds, constructed in 1913, are located in Pacific Grove, California and were added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id3">The Asilomar Conference Grounds are located at Pacific Grove, California and they were constructed in 1913. Its architecture is "Arts and Crafts Movement and American Craftsman Bungalows" and it was added to the National Register of Historic Places on the 27th February 1987.</lex>
+    </entry>
+    <entry category="Building" eid="Id200" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addis Ababa City Hall is in the country of Ethiopia (leader: Hailemariam Desalegn). Addis Ababa is home to the Addis Ababa City Hall and The Addis Ababa Stadium.</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa City Hall is located in Addis Ababa (Ethiopia) which is also where the Addis Ababa stadium can be found. The leader of Ethiopa is Hailemariam Desalegn .</lex>
+      <lex comment="good" lid="Id3">Ethiopia, led by Hailemariam Desalegn, is home to the Addis Ababa City Hall and Addis Ababa Stadium, both located in the city that named them.</lex>
+    </entry>
+    <entry category="Building" eid="Id201" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa in Ethiopia (led by Hailemariam Desalegn) is the location of Addis Ababa City Hall and Addis Ababa Stadium.</lex>
+      <lex comment="good" lid="Id2">Both Addis Ababa Stadium and City Hall are located in Addis Ababa, Ethiopa, whose leader is Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall is located in Addis Ababa, Ethopia, where Hailemariam Desalegn is the leader.</lex>
+    </entry>
+    <entry category="Building" eid="Id202" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ethiopa is led by Hailemariam Desalegn and uses the Amharic language. The Addis Ababa City Hall is located in the city of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethopia. Hailemariam Desalegn is the ruler, where the language spoken is Amharic.</lex>
+    </entry>
+    <entry category="Building" eid="Id203" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa, Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall. The name of the leader in Ethiopia is Malatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Mulatu Teshome is a leader in Ethiopia, a country where Addis Ababa is located and within which is Addis Ababa City Hall and Addis Ababa Stadium.</lex>
+      <lex comment="good" lid="Id3">Mulata Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa, Ethopia. Addis Ababa Stadium is part of Addid Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id204" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia, a country with leader Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The leader in Ethiopia is Malatu Teshome.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa is in Ethiopia which has a leader named Mulatu Teshome. Addis Ababa City Hall and the Addis Ababa Stadium are both in Addis Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id205" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia. Amharic is the national language, and their leader is Malatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Malatu Teshome is the leader of Ethiopia which has the Amharic language. Addis Ababa City Hall is located in Addis Ababa in the country.</lex>
+      <lex comment="good" lid="Id3">Ethiopia is led by Mulatu Teshome and has the spoken language of Amharic, and is the location of Addis Ababa City Hall, which can be found in Addis Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id206" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall can be found in Addis Ababa, Ethiopia, a country led by Mulatu Teshome and Hailemariam Desalegn.</lex>
+    </entry>
+    <entry category="Building" eid="Id207" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Hailemariam Desalegn is the leader of Ethiopia along with Mulatu Teshome. Addis Ababa City Hall is located in the country in the city of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Leaders in Ethiopia are Malatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Malatu Teshome and Hailemariam Desalegn.</lex>
+    </entry>
+  </entries>
+</benchmark>

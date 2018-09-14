@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | managerClub | SV_Babelsberg_03</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Union_Berlin</otriple>
+        <otriple>Jens_Härtel | clubs | FSV_Zwickau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Union_Berlin</mtriple>
+        <mtriple>Jens_Härtel | club | FSV_Zwickau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel has been the manager of 1 FC Magdeburg, part of SV Babelsberg 03 club and 1 FC Union Berlin. He is also attched to FSV Zwickau.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger is the manager at 1. FC Köln. He is a former player of SK Vorwärts Steyr, FC Admira Wacker Mödling and FK Austria Wien.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is at the FK Austria Wien club and is in the SK Vorwärts Steyr club, a player in FC Admira Wacker Mödling, and is the manager of FC Kolin.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+        <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
+        <otriple>Jens_Härtel | clubs | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | Berliner_AK_07</mtriple>
+        <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel has been the manager of 1 FC Magdeburg, has played for 1. FC Lokomotive Leipzig and Berliner AK 07 as well as representing the club FC Sachsen Leipzig.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel has played for 1. FC Lokomotive Leipzig, Berliner AK 07, FC Sachsen Leipzig and is manager of FC Magdeburg.</lex>
+      <lex comment="good" lid="Id3">Jens Härtel, previously of Berliner AK 07 and FC Sachsen Leipzig, is now a player for 1. FC Lokomotive Leipzig whilst managing 1 FC Magdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+        <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
+        <otriple>Jens_Härtel | clubs | SV_Babelsberg_03</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | Berliner_AK_07</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel first club was FC Lokomotive Leipzig. He has been involved in SV Babelsberg 03 and Berliner AK 07.</lex>
+      <lex comment="good" lid="Id2">The first club Jens Hartel played for was FC Lokomotive Leipzig and he currently plays for SV Babelsberg 03. His club is Berliner AK 07 and he is manager of 1 FC Magdeburg.</lex>
+      <lex comment="good" lid="Id3">The manager of FC Magdeburg is Jens Härtel. He also plays for 1. FC Lokomotive Leipzig and SV Babelsberg 03, and his club is Berliner AK 07.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+        <otriple>Jens_Härtel | managerClub | RB_Leipzig</otriple>
+        <otriple>Jens_Härtel | clubs | SV_Germania_Schöneiche</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | RB_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Germania_Schöneiche</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Hartel is in the RB Leipzig club and plays for both SV Germania Schoneiche and 1 FC Lokomotive Leipzig. He has also been the manager of 1FC Magdeburg.</lex>
+      <lex comment="good" lid="Id2">Jens Härtel started his career playing for FC Lokomotive Leipzig. Since then he has been the manager of 1 FC Magdeburg and is currently in the RB Leipzig club and playing for SV Germania Schoneiche.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+        <otriple>Jens_Härtel | managerClub | SV_Babelsberg_03</otriple>
+        <otriple>Jens_Härtel | clubs | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+        <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel, the manager of FC Magdeburg also plays for 1. FC Lokomotive Leipzig, SV Babelsberg 03 and he has played for FC Sachsen Leipzig.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+        <otriple>Jens_Härtel | managerClub | SV_Babelsberg_03</otriple>
+        <otriple>Jens_Härtel | clubs | FSV_Zwickau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+        <mtriple>Jens_Härtel | club | FSV_Zwickau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Hartel plays for 1.FC Lokomotive Leipzig and for SV Babelsberg 03. He is a member of the FSV Zwickau club and the manager of FC MAgdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+        <otriple>Jens_Härtel | managerClub | SV_Germania_Schöneiche</otriple>
+        <otriple>Jens_Härtel | clubs | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Germania_Schöneiche</mtriple>
+        <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="toFix" lid="Id1">The manager of FC Magdeburg is Jens Härtel, he played for FC Lokomotive Leipzig, for SV Germania Schoneiche, and has represented the club FC Sachsen Leipzig.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel started his career playing for FC Lokomotive Leipzig. Since then he has played for FC Sachsen Leipzig and now plays for SV Germania Schoneiche, whilst managing FC Magdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Union_Berlin</otriple>
+        <otriple>Jens_Härtel | clubs | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | Berliner_AK_07</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Union_Berlin</mtriple>
+        <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Hartel played for FC Sachsen Leipzig but is now manager of FC Magdeburg. His own club is Berliner AK 07 and he is also part of 1 FC Union Berlin.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel's club is Berliner AK 07 and he is part of FC Union Berlin. He used to play for FC Sachsen Leipzig and has also been manager of 1 FC Magdeburg.</lex>
+      <lex comment="good" lid="Id3">Jens Hartel has represented the club FC Sachsen Leipzig and his club is Berliner AK07. He is currently part of the club 1.FC Union Berlin and manages FC Magdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
+        <otriple>Jens_Härtel | team | SV_Babelsberg_03</otriple>
+        <otriple>Jens_Härtel | clubs | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | Berliner_AK_07</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+        <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Hartel played for FC Sachsen Leipzig and was manager of 1 FC Magdeburg. His club is Berliner AK 07 and he plays for SV Babelsberg 03.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel played for both Berliner AK 07 and FC Sachsen Leipzig. He has been manager for 1 FC Magdeburg and now plays for SV Babelsberg 03.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
+        <otriple>Jens_Härtel | team | SV_Babelsberg_03</otriple>
+        <otriple>Jens_Härtel | clubs | FSV_Zwickau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | Berliner_AK_07</mtriple>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+        <mtriple>Jens_Härtel | club | FSV_Zwickau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The manager of FC Magdeburg is Jens Härtel, who is attached to the club FSV Zwickau. He played for Berliner AK 07, and now plays for SV Babelsberg 03.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel played for Berliner AK 07 and has been manager of 1 FC Magdeburg. He is a member of the FSV Zwickau club and plays for SV Babelsberg 03.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+        <otriple>Jens_Härtel | managerClub | RB_Leipzig</otriple>
+        <otriple>Jens_Härtel | team | 1._FC_Union_Berlin</otriple>
+        <otriple>Jens_Härtel | clubs | FC_Sachsen_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+        <mtriple>Jens_Härtel | club | RB_Leipzig</mtriple>
+        <mtriple>Jens_Härtel | club | 1._FC_Union_Berlin</mtriple>
+        <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jens Härtel played for RB Leipzig and FC Sachsen Leipzig and has been the manager of 1 FC Magdeburg. Jens Härtel is currently part of the club 1. FC Union Berlin.</lex>
+      <lex comment="good" lid="Id2">Jens Hartel played for FC Sachsen Leipzig and has been manager of 1 FC Magdeburg. He is in the RB Leipzig club and is also part of 1 FC Union Berlin.</lex>
+      <lex comment="good" lid="Id3">Jens Hartel is in the RB Leipzig club, is part of the 1.FC Union Berlin club, represented FC Sachsen Leipzig. and managed 1 FC Magdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id37" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | "Metapán, El Salvador"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | manager | "Jorge Humberto Rodríguez"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>A.D._Isidro_Metapán | ground | "Metapán, El Salvador"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | "Metapán, El Salvador"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | manager | "Jorge Humberto Rodríguez"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | "10000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>A.D._Isidro_Metapán | ground | "Metapán, El Salvador"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | "10000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>A.D._Isidro_Metapán | ground | "Metapán, El Salvador"</mtriple>
+        <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
+        <mtriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"</mtriple>
+      </modifiedtripleset>
+      <lex comment="toFix" lid="Id1">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan, is located in Metapán, El Salvado, has 10000 members, and full name is "Asociación Deportiva".</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapan's full name is "Asociación Deportiva". It is managed by Jorge Humberto Rodríguez, its ground is located in Metapán, El Salvador and has 10000 members.</lex>
+      <lex comment="good" lid="Id3">The fullname of A.D. Isidro Metapan is Asociacion Deportiva. Its ground is located in Metapán, El Salvador, it has 10000 members. and its manager is Jorge Humberto Rodríguez.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id38" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | "10000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
+        <otriple>A.D._Isidro_Metapán | manager | "Jorge Humberto Rodríguez"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | "10000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</mtriple>
+        <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
+        <mtriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AD Isidro Metapan play at the Estadio Jorge Calero Suarez and has 10000 members. Their full name is "Asociación Deportiva" and they are managed by Jorge Humberto Rodriguez.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id39" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | "Jorge Humberto Rodríguez"@en</otriple>
+        <otriple>A.D._Isidro_Metapán | ground | Metapán</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | "10000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>A.D._Isidro_Metapán | ground | Metapán</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | "10000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>A.D._Isidro_Metapán | ground | Metapán</otriple>
+        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
+        <otriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>A.D._Isidro_Metapán | ground | Metapán</mtriple>
+        <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
+        <mtriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AD Isidro Metapan's ground is in Metapan and they have 10000 members. Their full name is "Asociación Deportiva" and they are managed by Jorge Humberto Rodriguez.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapan, full name Asociacion Deportiva, plays at its ground at Metapan. Their manager is Jorge Humberto Rodriguez and they have 10000 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id40" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | team | Alianza_F.C.</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | Alianza_F.C.</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodriguez is the manager of A.D. Isidro Metapan and plays for the El Salvador national football team and Alianza F.C. He is also in C.D. FAS.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for the Alianza F. C. club, C. D. FAS, and the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for the El Salvador national football team and for Alianza F.C. He manages the A.D. Isidro Metapan and is in C.D. FAS.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id41" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | Alianza_F.C.</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | team | FC_Dallas</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | Alianza_F.C.</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | FC_Dallas</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodriguez is the manager of AD Isidro Metapan. He is connected to Allianza FC and the FC Dallas as well as playing for the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez clubs are Alianza F.C. and the FC Dallas club. He also manages AD Isidro Metapan and plays for the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id3">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan. He also plays for Alianza F.C., FC Dallas, and the El Salvador national football team.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id42" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | team | FC_Dallas</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | C.D._Águila</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | FC_Dallas</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._Águila</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez, who is attached to the club CD Aguila. He is also member of the club FC Dallas, and plays for the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id2">Jorge Humberto Rodriguez is attached to the club CD Aguila and plays for the El Salvador national football team. He is in the FC Dallas Club and is manager of AD Isidro Metapan.</lex>
+      <lex comment="good" lid="Id3">Ex-A D Isidro Metapán manager Jorge Humberto, currently playing for FC Dallas and the El Salvador national football team, is attached to the club CD Aguila.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id152" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | clubs | Favoritner_AC</otriple>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stoger, manager for the FC Koln, was also a part of FC Admira Wacker Modling and Favoritner AC as well as the FK Austria Wien Soccer Club.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling and Favoritner AC. He also manages 1. FC Köln and is at the FK Austria Wien club.</lex>
+      <lex comment="good" lid="Id3">Peter Stöger's club is the FC Admira Wacker Mödling. He is also manager of 1. FC Köln, a player for Favoritner AC and a member of the FK Austria Wien soccer club.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id153" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger is the manager of 1. FC Köln and plays for FC Admira Wacker Mödling. He is affiliated with SC Wiener Neustadt club and previously played for the club LASK Linz.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger plays for both LASK Linz and FC Admira Wacker Modling. He previously played for SC Wiener Neustadt but is now the manager of FC Kolin.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger, who plays for FC Admira Wacker Modling is also the manager of FC Kolin. He is affiliated with the SC Wiener Neustadt club and previously played for the club LASK Linz.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id154" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | clubs | FK_Austria_Wien</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stoger is attached to First Vienna FC and is also in FK Austria Wien Club and SK Vorwarts Steyr. He is currently manager of 1FC Koln.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is in the SK Vorwarts Steyr club and attached to the club First Vienna F.C.. He is additionally at the FK Austria Wien club while managing FC Kolin.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id155" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | team | Favoritner_AC</otriple>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger is the manager of FC Kolin and has played for the following clubs: SK Vorwärts Steyr, Favoritner AC and FK Austria Wien.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger previously played football for SK Vorwarts Steyr and now plays for Favoritner AC. In addition he is a member of FK Austria Wien coccer club and the manager or 1.FC Koln.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id156" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger has played for FC Admira Wacker Modling, has managed FC Kolin and also worked for SK Vorwärts Steyr and First Vienna FC.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is attached to First Vienna FC and is in SK Vorwarts Steyr club. He plays for FC Admira Wacker Modling and is the manager of 1 FC Koln.</lex>
+      <lex comment="good" lid="Id3">Peter Soger has previously played football for SK Vorwarts Steyr and his club now is FC Admira Wacker Modling. He is currently attached to the club First Vienna FC and manages FC Kolin.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id157" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger, previously a player for SC Wiener Neustadt, is now in the SK Vorwärts Steyr club and managing 1. FC Köln. His club is the FC Admira Wacker Mödling.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is in the SK Vorwarts Steyr club and is affiliated with the SC Wiener Neustadt club. He is currently a player in FC Admira Wacker Modling while being a manager at 1.FC Koln.</lex>
+      <lex comment="good" lid="Id3">Peter Stöger is manager of FC Kolin, as well as playing for SC Wiener Neustadt. He is also in the SK Vorwärts Steyr and FC Admira Wacker Mödling clubs.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id158" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Peter Stöger, the manager of FC Kolin is also a part of the SK Vorwärts Steyr club, the SK Rapid Wien Club and SC Wiener Neustadt.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger played for both SC Wiener Neustadt and SK Vorwarts Steyr. He is now manager of 1 FC Koln and plays for SK Rapid Wien club.</lex>
+      <lex comment="good" lid="Id3">Peter Stöger is the manager of FC Koln. In his career so far, he has played for SK Vorwärts Steyr and SK Rapid Wien, and managed at SC Wiener Neustadt club.</lex>
+    </entry>
+  </entries>
+</benchmark>

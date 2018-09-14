@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was established 1907-07-11 at the Monocacy National Battlefield in the county of Frederick, Maryland, with Frederick, Maryland as its nearest city.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907and located in the Monocacy National Battlefield in the county Frederick, Maryland. The city nearest to Monocacy National Battlefield is Frederick, Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) at the Monocacy National Battlefield is categorised as a Historic district in the United States, and was provided by the National Park Service.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is a historic district in the United States, and was established on 11th July 1907 at the Monocacy National Battlefield, where it is owned by the National Park Service.</lex>
+      <lex comment="good" lid="Id3">On 11 July 1907 the 14th New Jersey Volunteer Infantry monument was established by the National Park Service in the Monocacy National Battlefield. It now belongs to the category of historic districts within the US.</lex>
+    </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument in the Historic District of the Monocacy National Battlefield was established on July 11th, 1907.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry monument is located in the United States within the Monocacy National Battlefield. It was established on 11 July 1907 and is categorised as a historic district.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument (established on 11th July 1907) is located on the Monocacy National Battlefield in the United States, where it is categorised as a historic district.</lex>
+    </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11 and is categorised as a historic district in the United States. The National Park Service has responsibility for this monument.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument, established 1907-07-11, is a historic district in the United States and owned by the National Park Service.</lex>
+    </entry>
+    <entry category="Monument" eid="Id36" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">London is the capital of England where Dead Man's Plack can be found. It is a rock formation dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id2">England, which has the capital of London, is the location of Dead Man's Plack, a rock formation dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id3">The Dead Man's Plack is a rock structure located in England (capital: London), and dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+    </entry>
+    <entry category="Monument" eid="Id37" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Dead Man's Plack is located in England and is dedicated to Æthelwald, Ealdorman of East Anglia. England's capital is London and the established religion is The Church Of England.</lex>
+      <lex comment="good" lid="Id2">The Dead Man's Plack is dedicated to Æthelwald, Ealdorman of East Anglia, England. The capital of England is London and the main religion is The Church of England.</lex>
+      <lex comment="good" lid="Id3">The Dead Man's Plack is found in England (capital city London, religion Church of England) and is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+    </entry>
+    <entry category="Monument" eid="Id38" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>England | languages | Cornish_language</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="toFix" lid="Id1">Dead Man' plack is made of rock and found in Cornwall, a region of England (the capital of which is London)where Cornish is spoken.</lex>
+      <lex comment="good" lid="Id2">The Dead Man's Plack is a rock formation in Cornwall. Located to the west of England's capital, London, Cornwall is a county with its own language, known as Cornish.</lex>
+    </entry>
+    <entry category="Monument" eid="Id39" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>England | languages | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">London is the capital of England where the established religion is the Church of England. It is also the location of Dead Man's Plack and the home of the Cornish language which is still spoken.</lex>
+      <lex comment="good" lid="Id2">The Dead Man's Plack is located in England, the capital city of which is London. The established religion in England is The Church of England and sometimes Cornish is spoken there.</lex>
+      <lex comment="good" lid="Id3">The Dead Man's Plack is located in England, where the capital is London, the main religion is the Church of England, and one of the languages spoken is the Cornish language.</lex>
+    </entry>
+    <entry category="Monument" eid="Id40" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroups | British_Arabs</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Dead Man's Plack is a rock formation in England dedicated to Aethelwald, Ealdorman of East Anglia. One of the ethnic groups to be found in England is that of the British Arabs.</lex>
+      <lex comment="good" lid="Id2">The Dead Man's Plack is located in England, made of rock and dedicated to Æthelwald, Ealdorman of East Anglia. One of the ethnic groups found in England is the British Arabs.</lex>
+    </entry>
+    <entry category="Monument" eid="Id41" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroups | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>England | languages | Cornish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Dead Man's Plack is located in England, of which the capital city is London. Cornish is a language spoken in England and one of the ethnic groups are The British Arabs.</lex>
+      <lex comment="good" lid="Id2">England's capital is London. The Cornish language is still spoken in some parts and one of the ethnic groups to be found are the British Arabs. A place of interest is Dead Man's Plack.</lex>
+      <lex comment="good" lid="Id3">The Dead Man's Plack is found in England which has the capital city of London. One of the languages spoken in England is Cornish and one of the ethnic groups is the British Arabs.</lex>
+    </entry>
+    <entry category="Monument" eid="Id42" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument, a historic district in the United States, is located in the district of the Monocacy National Battlefield in Frederick County, Maryland, with the nearest city being Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id2">Frederick, Maryland is the nearest city to the Monocacy National Battlefield in the county. The Battlefield is the location of the 14th New Jersey Volunteer Infantry Monument which is categorised as a historic district of the US.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Maryland, United States and is categorised as a historic district. The nearest city to Monocacy National Battlefield is Frederick, Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id43" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield in the county of Frederick, Maryland (United States), and its nearest city is Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield in Frederick County, Maryland, United States, and its nearest city is Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, in Frederick County, Maryland in the United States, which has Frederick as its nearest city.</lex>
+    </entry>
+    <entry category="Monument" eid="Id44" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument, which was established on July 11th, 1907, is in the Historic District of the Monocacy National Battlefield in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument was established 1907-07-11, found in the Monocacy National Battlefield and belongs to the category of Historic districts in the United States. Monocacy National Battlefield is located in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument, a Historic district in the United States, is located at the Monocacy National Battlefield in the county Frederick, Maryland, and was established on 1907-07-11.</lex>
+    </entry>
+    <entry category="Monument" eid="Id45" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument, provided by the National Park Service, was established on 11th July 1907and is located on the Monocacy National Battlefield in the county Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry monument which has been provided by the National Park Service is located within the Monocacy National Battlefield in Frederick County, Maryland. It was established on 11 July 1907.</lex>
+      <lex comment="good" lid="Id3">The Monocacy National Battlefield in Frederick, Maryland is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907. It was provided by the National Park Service.</lex>
+      <lex comment="good" lid="Id4">The Monocacy National Battlefield in Frederick County, Maryland, is the location of the 14th New Jersey Volunteer Infantry monument. The monument was provided by the National Park Service and established on 11 July 1907.</lex>
+      <lex comment="good" lid="Id5">The 14th New Jersey Volunteer Infantry Monument was established on 11th July 1907, and is found in the Monocacy National Battlefield in Frederick County, Maryland, where it is owned by the National Park Service.</lex>
+    </entry>
+  </entries>
+</benchmark>

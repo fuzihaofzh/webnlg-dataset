@@ -1,0 +1,652 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2.0"^^&lt;http://dbpedia.org/datatype/gramPerCubicCentimetre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | epoch | "2004-07-14"^^xsd:date</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | 0</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | epoch | "2004-07-14"^^xsd:date</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2.0"^^&lt;http://dbpedia.org/datatype/gramPerCubicCentimetre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2.0"^^&lt;http://dbpedia.org/datatype/gramPerCubicCentimetre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | 0</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66391)_1999_KW4 | epoch | 2004-07-14</mtriple>
+        <mtriple>(66391)_1999_KW4 | escapeVelocity | 0</mtriple>
+        <mtriple>(66391)_1999_KW4 | orbitalPeriod | 16244700.0</mtriple>
+        <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
+        <mtriple>(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The celestial body known as (66391) 1999 KW4 has an epoch date of 14 July 2004 and an escape velocity of zero. It has a density of 2 gms per cu cm, an orbital period of 16244700 and an apoapsis of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as (66391) 1999 KW4 has an orbital period of 16244700 and an escape velocity of 0. It has a density of 2.0 grams per cubic centimetre and an apoapsis of 162164091.8388 kilometres. Its epoch date is July 14th 2004.</lex>
+      <lex comment="good" lid="Id3">The asteroid called (66391) 1999 KW4, which has the epoch date 14 July 2004, has an orbital period of 16244700.0 and an escape velocity of zero. It's density is 2.0 gm per cu cm and the apoapsis measurement is 162164091.8388 kms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2.0"^^&lt;http://dbpedia.org/datatype/gramPerCubicCentimetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2.0"^^&lt;http://dbpedia.org/datatype/gramPerCubicCentimetre&gt;</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | 0</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | 0</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | epoch | "2004-07-14"^^xsd:date</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | epoch | "2004-07-14"^^xsd:date</otriple>
+        <otriple>(66391)_1999_KW4 | density | "2.0"^^&lt;http://dbpedia.org/datatype/gramPerCubicCentimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66391)_1999_KW4 | epoch | 2004-07-14</mtriple>
+        <mtriple>(66391)_1999_KW4 | escapeVelocity | 0</mtriple>
+        <mtriple>(66391)_1999_KW4 | orbitalPeriod | 16244700.0</mtriple>
+        <mtriple>(66391)_1999_KW4 | periapsis | 29919600000.0</mtriple>
+        <mtriple>(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The asteroid called (66391) 1999 KW4 has an orbital period of 16244700.0 and a periapsis of 29919600000.0. With the epoch date, July 14th 2004, (66391) 1999 KW4 has an escape velocity of 0 and a density of 2.0 grams per cubic centimetre.</lex>
+      <lex comment="good" lid="Id2">(66391) 199 KW4 , with the epoch date of July 14th 2004 and an escape velocity of 0.0, has an orbital period of 16244700.0. This asteroid has a periapsis of 29919600000.0 and a density of 2.0 grams per cubic centimetre.</lex>
+      <lex comment="good" lid="Id3">The epoch date for 66391 1999 KW4, which has a density of 2 gm per cu cm, is 2004.07.14. It's escape velocity is zero, it has an orbital period of 16244700.0 and a periapsis of 29919600000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | discoverer | Donal_O'Ceallaigh</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | epoch | "2006-03-06"^^xsd:date</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | discoverer | Donal_O'Ceallaigh</otriple>
+        <otriple>(15788)_1993_SB | epoch | "March 6, 2006 (JD2453800.5)"</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(15788)_1993_SB | discoverer | Donal_O'Ceallaigh</mtriple>
+        <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
+        <mtriple>(15788)_1993_SB | orbitalPeriod | 7729430000.0</mtriple>
+        <mtriple>(15788)_1993_SB | periapsis | 3997100000000.0</mtriple>
+        <mtriple>(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Donal O'Ceallaigh discovered 15788 1993 SB which has an epoch date of March 6th, 2006. The periapsis of 15788 1993 SB is 3,997,100,000,000 kilometres and it has an apoapsis of 7,715,100,000 kilometres.</lex>
+      <lex comment="good" lid="Id2">Donal O'Ceallaigh discovered (15788) 1993 SB, which has an epoch date of March 6th 2006, an orbital period of 7729430000.0, a periapsis of 3997100000000.0, and an apoapsis of 7715100000.0 km.</lex>
+      <lex comment="good" lid="Id3">The celestial body known as (15788) 1993 SB has an epoch date of 6 March 2006 and was discovered by Donal O Ceallaigh. It has an orbital period of 7729430000, a periapsis of 997100000000 and an apoapsis of 7715100000.0 kms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | discoverer | Iwan_P._Williams</otriple>
+        <otriple>(15788)_1993_SB | epoch | "March 6, 2006 (JD2453800.5)"</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | discoverer | Iwan_P._Williams</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | epoch | "2006-03-06"^^xsd:date</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(15788)_1993_SB | discoverer | Iwan_P._Williams</mtriple>
+        <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
+        <mtriple>(15788)_1993_SB | orbitalPeriod | 7729430000.0</mtriple>
+        <mtriple>(15788)_1993_SB | periapsis | 3997100000000.0</mtriple>
+        <mtriple>(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Iwan P William discovered (15788) 1993 SB which has an epoch date of 6 March 2006 and an orbital period of 7729430000.0. The periapsis measures 3997100000000.0 and the apoapsis is 7715100000.0 kms.</lex>
+      <lex comment="good" lid="Id2">15788 1993 SB was discovered by Iwan P Williams and has an epoch date of 6 March 2006. The orbital period is 772943000, the periapsis is 3997100000000.0 and the apoapsis 7715100000 kilometres.</lex>
+      <lex comment="good" lid="Id3">15788 1993 SB was discovered by Iwan P Williams. Its orbital period is 7729430000, periapsis is 3997100000000, apoapsis is 7715100000 km, and its epoch is on the 6th of March, 2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | epoch | "2006-03-06"^^xsd:date</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(15788)_1993_SB | discoverer | Roque_de_los_Muchachos_Observatory</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | epoch | "March 6, 2006 (JD2453800.5)"</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>(15788)_1993_SB | discoverer | Roque_de_los_Muchachos_Observatory</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
+        <mtriple>(15788)_1993_SB | orbitalPeriod | 7729430000.0</mtriple>
+        <mtriple>(15788)_1993_SB | periapsis | 3997100000000.0</mtriple>
+        <mtriple>(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)</mtriple>
+        <mtriple>(15788)_1993_SB | discoverer | Roque_de_los_Muchachos_Observatory</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">(15788) 1993 SB was discovered by Roque de los Muchachos Observatory and has the epoch date 6 March 2006 and an orbital period of 7729430000.0. The measurement of the periapsis is 3997100000000.0 and the apoapsis 7715100000 kilometres.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as (15788) 1993 SB has a periapsis of 3997100000000 and an apoapsis of 7715100000.0 (kilometres). Discovered by Roque de los Muchachos Observatory, (15788) 1993 SB has an orbital periodd of 7729430000.0 and its epoch is 6th March 2006.</lex>
+      <lex comment="good" lid="Id3">(15788) 1993 SB has an orbital period of 7729430000.0,its epoch date was on March 6th 2006 and was discovered by Roque de los Muchachos Observatory.It has a periapsis of 3997100000000.0. and its apoapsis is 7715100000 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | epoch | "2006-03-06"^^xsd:date</otriple>
+        <otriple>(15788)_1993_SB | discoverer | "La Palma"@en</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | epoch | "March 6, 2006 (JD2453800.5)"</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | discoverer | "La Palma"@en</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | discoverer | Alan_Fitzsimmons</otriple>
+        <otriple>(15788)_1993_SB | epoch | "March 6, 2006 (JD2453800.5)"</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(15788)_1993_SB | epoch | "March 6, 2006 (JD2453800.5)"</otriple>
+        <otriple>(15788)_1993_SB | orbitalPeriod | 7.72943e+09</otriple>
+        <otriple>(15788)_1993_SB | periapsis | 3.9971e+12</otriple>
+        <otriple>(15788)_1993_SB | discoverer | "Alan Fitzsimmons, and"@en</otriple>
+        <otriple>(15788)_1993_SB | Planet/apoapsis | "7.7151E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(15788)_1993_SB | orbitalPeriod | 7729430000.0</mtriple>
+        <mtriple>(15788)_1993_SB | periapsis | 3997100000000.0</mtriple>
+        <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
+        <mtriple>(15788)_1993_SB | discoverer | Alan_Fitzsimmons</mtriple>
+        <mtriple>(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Fitzsimmons discovered 15788 1993 SB which has an epoch of March 6th,2006 and an orbital period of 7,729,430,000 kilometres. Its periapsis is 3,997,100,000,000 kilometres and it has an apoapsis of 7,715,100,000 kilometres.</lex>
+      <lex comment="good" lid="Id2">(15788) 1993 SB, which was discovered by Alan Fitzsimmons, has an epoch date of March 6th 2006 and an orbital period of 7729430000.0. The measurement of the apoapsis and periapsis is 7715100000 and 3997100000000.0 kms respectively.</lex>
+      <lex comment="good" lid="Id3">The celestial body known as (15788) 1993 SB, discovered by Alan Fitzsimmons, has a periapsis of 3997100000000, an epoch date of March 6th 2006, an apoapsis of 7715100000 km, and an orbital period of 7729430000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(19255)_1994_VK8 | epoch | 2006-12-31</mtriple>
+        <mtriple>(19255)_1994_VK8 | mass | 5.6 (kilograms)</mtriple>
+        <mtriple>(19255)_1994_VK8 | orbitalPeriod | 8788850000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)</mtriple>
+        <mtriple>(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">19255 1994 VK8 has a mass of 5.6 kilograms and an an orbital period of 8,788,850,000 days. Its escape velocity is .0925 kilometres per second, it has an apoapsis of 6,603,633,000 kilometres and an epoch of December 31st, 2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | Planet/apoapsis | "6.603633E9"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(19255)_1994_VK8 | epoch | 2006-12-31</mtriple>
+        <mtriple>(19255)_1994_VK8 | mass | 5.6 (kilograms)</mtriple>
+        <mtriple>(19255)_1994_VK8 | orbitalPeriod | 8788850000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | periapsis | 6155910000000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">19255 1994 VK8 has a mass of 5.6kg,an orbital period of 8788850000.0 and its epoch date was on 31 December 2006.It has a periapsis of 6155910000000.0 and its apoapsis is 6603633000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">The epoch of 19255 1994 VK8, which has a mass of 5.6 kilograms is December 31st, 2006. Its orbital period is 8,788,850,000 kilometres, with a periapsis of 6,155,910,000,000 kilometres and an apoapsis of 6,603,633,000 kilometres.</lex>
+      <lex comment="good" lid="Id3">19255 1994 VK8 has a mass of 5.6kg,an orbital period of 8788850000.0 and its epoch date was on 31 December 2006.It has a periapsis of 6155910000000.0 and its apoapsis is 6603633000.0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "333.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | epoch | "2006-12-31"^^xsd:date</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5600.0"^^xsd:double</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
+        <otriple>(19255)_1994_VK8 | orbitalPeriod | 8.78885e+09</otriple>
+        <otriple>(19255)_1994_VK8 | periapsis | 6.15591e+12</otriple>
+        <otriple>(19255)_1994_VK8 | escapeVelocity | "0.0925"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>(19255)_1994_VK8 | mass | "5.6"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(19255)_1994_VK8 | epoch | 2006-12-31</mtriple>
+        <mtriple>(19255)_1994_VK8 | mass | 5.6 (kilograms)</mtriple>
+        <mtriple>(19255)_1994_VK8 | orbitalPeriod | 8788850000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | periapsis | 6155910000000.0</mtriple>
+        <mtriple>(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The epoch of 1994 VKB is on December 31, 2006, it has a mass of 5.6 kgs, an orbital period of 8788850000.0, a periapsis of 6155910000000.0. and escape velocity of 0.0925 km/s.</lex>
+      <lex comment="good" lid="Id2">The epoch of 19255 1994 VK8, which has a mass of 5.6 kilograms, is December 31st, 2006. Its orbital period is 8,788,850,000 kilometres, has a periapsis of 6,155,910000,000 kilometres and an escape velocity of 0.0925 kilometres per second.</lex>
+      <lex comment="good" lid="Id3">19255 1994 VK8 has a mass of 5.6 kgs, an epoch of 31 December 2006, an orbital period of 8788850000.0, a periapsis of 615591000000.0 and an escape velocity of 0.0925 km per second.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(29075)_1950_DA | density | "3500.0"^^xsd:double</otriple>
+        <otriple>(29075)_1950_DA | discoverer | Carl_A._Wirtanen</otriple>
+        <otriple>(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"</otriple>
+        <otriple>(29075)_1950_DA | orbitalPeriod | 6.98622e+07</otriple>
+        <otriple>(29075)_1950_DA | periapsis | 1.2495e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(29075)_1950_DA | discoverer | Carl_A._Wirtanen</otriple>
+        <otriple>(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"</otriple>
+        <otriple>(29075)_1950_DA | orbitalPeriod | 6.98622e+07</otriple>
+        <otriple>(29075)_1950_DA | periapsis | 1.2495e+11</otriple>
+        <otriple>(29075)_1950_DA | density | "&gt;3.5 g/cm³"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(29075)_1950_DA | discoverer | Carl_A._Wirtanen</otriple>
+        <otriple>(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"</otriple>
+        <otriple>(29075)_1950_DA | orbitalPeriod | 6.98622e+07</otriple>
+        <otriple>(29075)_1950_DA | periapsis | 1.24958e+11</otriple>
+        <otriple>(29075)_1950_DA | density | "&gt;3.5 g/cm³"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(29075)_1950_DA | density | "3500.0"^^xsd:double</otriple>
+        <otriple>(29075)_1950_DA | discoverer | Carl_A._Wirtanen</otriple>
+        <otriple>(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"</otriple>
+        <otriple>(29075)_1950_DA | orbitalPeriod | 6.98622e+07</otriple>
+        <otriple>(29075)_1950_DA | periapsis | 1.24958e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(29075)_1950_DA | discoverer | Carl_A._Wirtanen</mtriple>
+        <mtriple>(29075)_1950_DA | epoch | 2011-Aug-27</mtriple>
+        <mtriple>(29075)_1950_DA | orbitalPeriod | 69862200.0</mtriple>
+        <mtriple>(29075)_1950_DA | periapsis | 124950000000.0</mtriple>
+        <mtriple>(29075)_1950_DA | density | 3.5 (kilograms)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Carl A Wirtanen was the discoverer of 29075 1950 DA which has a 3.5 kilograms density and its epoch date was on 27 August 2011.Its periapsis is 124950000000.0 and has an orbital period of 69862200.</lex>
+      <lex comment="good" lid="Id2">(29075) 1950 DA was discovered by Carl A Wirtanen,has a density of 3.5 kilograms and its epoch date was on 27 August 2011.It has an orbital period of 69862200.0 and its periapsis is 124950000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | epoch | "2004-07-14"^^xsd:date</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | 0</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | "0.0"^^xsd:double</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | epoch | "2004-07-14"^^xsd:date</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
+        <otriple>(66391)_1999_KW4 | orbitalPeriod | 1.62447e+07</otriple>
+        <otriple>(66391)_1999_KW4 | periapsis | 2.99196e+10</otriple>
+        <otriple>(66391)_1999_KW4 | escapeVelocity | 0</otriple>
+        <otriple>(66391)_1999_KW4 | Planet/apoapsis | "1.621640918388E8"^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>(66391)_1999_KW4 | epoch | 2004-07-14</mtriple>
+        <mtriple>(66391)_1999_KW4 | orbitalPeriod | 16244700.0</mtriple>
+        <mtriple>(66391)_1999_KW4 | periapsis | 29919600000.0</mtriple>
+        <mtriple>(66391)_1999_KW4 | escapeVelocity | 0</mtriple>
+        <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">(66391) 199 KW4 has an epoch date of July 14th 2004 and has a periapsis of 29919600000.0. It's escape velocity is 0, orbital period is 16244700.0 and has an apoapsis measurement of 162164091.8388 (kilometres).</lex>
+      <lex comment="good" lid="Id2">(66391) 1999 KW4 has an orbital period of 16244700,a 0 escape velocity and its epoch date was on July 14th 2004.It has a periapsis of 29919600000.0 and its apoapsis is 162164091.8388 (kilometres).</lex>
+      <lex comment="good" lid="Id3">(66391) 1999 KW4 has an escape velocity of 0,an orbital period of 16244700 and its epoch date was on July 14th 2004.Its periapsis is 29919600000.0 and its apoapsis is 162164091.8388 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>1000_Piazzia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "90.72"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | formerName | "1923 NZ1951 OB"@en</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1000_Piazzia | epoch | 2015-06-27</mtriple>
+        <mtriple>1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)</mtriple>
+        <mtriple>1000_Piazzia | formerName | "1923 NZ1951 OB"</mtriple>
+        <mtriple>1000_Piazzia | orbitalPeriod | 488160.0</mtriple>
+        <mtriple>1000_Piazzia | periapsis | 352497000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1000 Piazzia-former name "1923 NZ1951 OB"- has an escape velocity of 0.0252 kilometres per second and its epoch date was on 2015-06-27.It has an orbital period of 488160.0 and its periapsis is 352497000000.0.</lex>
+      <lex comment="good" lid="Id2">The epoch of the dark asteroid 1000 Piazzia is June 27th, 2015. Its former name is 1923 NZ1951 OB and its has an escape velocity of .0252 kilometres per second while its periapsis is 352,497,000,000 kilometres.</lex>
+      <lex comment="good" lid="Id3">The epoch of 1000 Piazzia, which was formerly called 1923 NZ1951 OB, is June 27th, 2015. Its escape velocity is .0252 kilometres per second, it has an orbital period of 488,160 and a periapsis of 352,497,000,000 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id18" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>1000_Piazzia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "90.72"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | formerName | "1967 ED"@en</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1000_Piazzia | epoch | 2015-06-27</mtriple>
+        <mtriple>1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)</mtriple>
+        <mtriple>1000_Piazzia | formerName | "1967 ED"</mtriple>
+        <mtriple>1000_Piazzia | orbitalPeriod | 488160.0</mtriple>
+        <mtriple>1000_Piazzia | periapsis | 352497000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1967 ED was the former name of 1000 Piazzia which has an epoch date of 27 June 2015 and an orbital period of 488160.0. The escape velocity is 0.0252 km per sec and the periapsis measurement is 352497000000.0.</lex>
+      <lex comment="good" lid="Id2">The dark asteroid 1000 Piazzia, formerly known as "1967 ED", has an orbital period of 488160.0, a periapsis of 352497000000.0, and an escape Velocity of 0.0252 km/sec. The epoch of 1000 Piazzia is 2015-06-27.</lex>
+      <lex comment="good" lid="Id3">1000 Piazzia(formerly known as 1967 ED) has an epoch of June 27, 2015 and an orbital period of 488160. It has an escape velocity of 0.0252 km/sec and a periapsis of 352497000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>1000_Piazzia | mass | "1100.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+        <otriple>1000_Piazzia | epoch | "2015-06-27"^^xsd:date</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "0.0252"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1000_Piazzia | escapeVelocity | "90.72"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | mass | "1100.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+        <otriple>1000_Piazzia | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1000_Piazzia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "0.0252"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1000_Piazzia | mass | "1.1"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1000_Piazzia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "90.72"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+        <otriple>1000_Piazzia | mass | "1.1"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1000_Piazzia | escapeVelocity | "90.72"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+        <otriple>1000_Piazzia | epoch | "2015-06-27"^^xsd:date</otriple>
+        <otriple>1000_Piazzia | mass | "1.1"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1000_Piazzia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1000_Piazzia | mass | "1100.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "0.0252"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1000_Piazzia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "90.72"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | mass | "1100.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1000_Piazzia | orbitalPeriod | "488160.0"^^xsd:double</otriple>
+        <otriple>1000_Piazzia | periapsis | 3.52497e+11</otriple>
+        <otriple>1000_Piazzia | epoch | "2015-06-27"^^xsd:date</otriple>
+        <otriple>1000_Piazzia | escapeVelocity | "0.0252"^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1000_Piazzia | mass | "1.1"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1000_Piazzia | mass | 1.1 (kilograms)</mtriple>
+        <mtriple>1000_Piazzia | orbitalPeriod | 488160.0</mtriple>
+        <mtriple>1000_Piazzia | periapsis | 352497000000.0</mtriple>
+        <mtriple>1000_Piazzia | epoch | 2015-06-27</mtriple>
+        <mtriple>1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The dark asteroid called 1000 Piazzia which has the epoch of 27 June 2015 has an orbital period of 488160.0. It also has a mass of 1.1kg, a periapsis of 352497000000.0 and an escape velocity of 0.0252 km per sec.</lex>
+      <lex comment="good" lid="Id2">1000 Piazzia, which has the epoch date of 27 June 2015, has a mass of 1.1 kgs and an orbital period of 4881060.0. The escape velocity is 0.0252 km per sec and a periapsis of 352497000000.0.</lex>
+      <lex comment="good" lid="Id3">The dark asteroid 1000 Piazzia has an epoch date of 27 June 2015 and a mass of 1.1 kg. It's orbital period is 488160.0, the periapsis is 352497000000.0 and it has the escape velocity of 0.0252 km per sec.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id20" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1001_Gaussia | formerName | "1923 OAA907 XC"@en</otriple>
+        <otriple>1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | formerName | "1923 OAA907 XC"@en</otriple>
+        <otriple>1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+        <otriple>1001_Gaussia | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1001_Gaussia | discoverer | Sergey_Belyavsky</mtriple>
+        <mtriple>1001_Gaussia | epoch | 2015-06-27</mtriple>
+        <mtriple>1001_Gaussia | formerName | "1923 OAA907 XC"</mtriple>
+        <mtriple>1001_Gaussia | orbitalPeriod | 5.75 (days)</mtriple>
+        <mtriple>1001_Gaussia | periapsis | 419113394.55312 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1001 Gaussia, formerly known as "1923 OAA907 XC", was discovered by Sergey Belyavsky. It has a periapsis of 419113394.55312 kilometres and an orbital period of 5.75 days. Its epoch is on 31st July 2016.</lex>
+      <lex comment="good" lid="Id2">Sergey Belyavsky discovered 1001 Gaussia (formerly known as 1923 OAA907 XC) on its epoch date of July 31, 2016. It's orbital period is 5.75 days and has a periapsis of 419113394.55312 kilometres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | formerName | "A911 MD"@en</otriple>
+        <otriple>1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+        <otriple>1001_Gaussia | epoch | "2015-06-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1001_Gaussia | formerName | "A911 MD"@en</otriple>
+        <otriple>1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1001_Gaussia | discoverer | Sergey_Belyavsky</mtriple>
+        <mtriple>1001_Gaussia | epoch | 2015-06-27</mtriple>
+        <mtriple>1001_Gaussia | formerName | "A911 MD"</mtriple>
+        <mtriple>1001_Gaussia | orbitalPeriod | 5.75 (days)</mtriple>
+        <mtriple>1001_Gaussia | periapsis | 419113394.55312 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sergey Belyavsky discovered 1001 Gaussia-formerly called A911 MD-whose epoch date was on 30 July 2016.It has an orbital period of 5.75 days and its periapsis is 419113394.55312 (kilometres).</lex>
+      <lex comment="good" lid="Id2">1001 Gaussia was formerly known as A911 MD and has the epoch date of 31 July 2016. It was discovered by Sergey Belyavsky and has the orbital period of 5.75 days with a periapsis of 419113394.55312 kms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+        <otriple>1001_Gaussia | epoch | "2015-06-27"^^xsd:date</otriple>
+        <otriple>1001_Gaussia | absoluteMagnitude | "9.7"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
+        <otriple>1001_Gaussia | epoch | "27 June 2015 (JD2457200.5)"</otriple>
+        <otriple>1001_Gaussia | orbitalPeriod | "496800.0"^^xsd:double</otriple>
+        <otriple>1001_Gaussia | periapsis | 4.19113e+11</otriple>
+        <otriple>1001_Gaussia | absoluteMagnitude | "9.7"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1001_Gaussia | discoverer | Sergey_Belyavsky</mtriple>
+        <mtriple>1001_Gaussia | epoch | 2015-06-27</mtriple>
+        <mtriple>1001_Gaussia | orbitalPeriod | 5.75 (days)</mtriple>
+        <mtriple>1001_Gaussia | periapsis | 419113394.55312 (kilometres)</mtriple>
+        <mtriple>1001_Gaussia | absoluteMagnitude | 9.7</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Sergey Belyavsky discovered 1001 Gaussia which has an epoch date of 27 June 2015 and an orbital period of 5.75 days. It has an absolute magnitude of 9.7 and a periapsis of 419113394.55312 kms.</lex>
+      <lex comment="good" lid="Id2">The celestial body known as 1001 Gaussia (discovered by Sergey Belyavsky), has an absolute magnitude of 9.7 and an orbital period of 5.75 days. Its epoch date is 2015-06-27 and it has a periapsis of 419113394.55312 kilometres.</lex>
+      <lex comment="good" lid="Id3">Sergey Belyavsky discovered 1001 Gaussia which has an orbital period of 5.75 days and its epoch date was on 2015-06-27.It has an absolute magnitude of 9.7 and its periapsis is 419113394.55312 kilometres.</lex>
+    </entry>
+  </entries>
+</benchmark>

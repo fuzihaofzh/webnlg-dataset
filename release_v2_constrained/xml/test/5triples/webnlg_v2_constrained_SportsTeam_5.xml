@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id24" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>Sportpark_De_Toekomst | tenants | Jong_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+        <mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+        <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jong Ajax and Ajax Youth Academy are tenants of Sportpark De Toekomst. the home ground of AFC Ajax (amateurs). The ground is operated by AFC Ajax and owned by AFC Ajax NV.</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst which is operated by AFC Ajax and owned by AFC Ajax NV. Jong Ajax and Ajax Youth Academy are both tenants.</lex>
+      <lex comment="good" lid="Id3">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst. It is owned and operated by AFC Ajax N.V. and tenanted by Ajax Youth Academy (Jong Ajax).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id25" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+        <otriple>AZAL_PFK | capacity | 3500</otriple>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+        <otriple>AZAL_PFK | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+        <mtriple>AZAL_PFK | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK play in. AZAL Arena, is where home matches of AZAL PFK are played. The club has3500 members, and are in the 2014 season .</lex>
+      <lex comment="good" lid="Id2">AZAL PFK, who play at the AZAL Arena and have a membership of 3500, are in the Azerbaijan Premier League where they competed in 2014. The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.</lex>
+      <lex comment="good" lid="Id3">The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK. AZAL PFK competed in the 2014 season and play their home matches at the AZAL Arena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id26" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+        <otriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</otriple>
+        <otriple>AZAL_PFK | capacity | 3500</otriple>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+        <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AZAL Arena, which holds 3500 fans, is the ground of AZAL PFK who played in the Azerbaijan Premier League in 2014-15. Qarabag FK have been champions of this league.</lex>
+      <lex comment="good" lid="Id2">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK also competed in 2014-15. AZAL PFK have 3500 memberrs and play their home matches at the AZAL Arena.</lex>
+    </entry>
+  </entries>
+</benchmark>

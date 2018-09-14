@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aarhus | leaderName | Jacob_Bundsgaard</otriple>
+        <otriple>Aarhus_Airport | city | Aarhus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | leaderName | Jacob_Bundsgaard</mtriple>
+        <mtriple>Aarhus_Airport | cityServed | Aarhus</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus airport serves the city of Aarhus who's leader is Jacob Bundsgaard.</lex>
+      <lex comment="good" lid="Id2">Aarhus airport serves the city of Aarhus where Jacob Bundsgaard is a leader.</lex>
+      <lex comment="good" lid="Id3">Aarhus airport serves the city of Aarhus, it's leader is Jacob Bundsgaard.</lex>
+    </entry>
+    <entry category="Airport" eid="Id123" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</otriple>
+        <otriple>Andrews_County_Airport | owner | Andrews_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</mtriple>
+        <mtriple>Andrews_County_Airport | owner | Andrews_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Andrews County, Texas has its county seat in Andrews, Texas and owns the airport with the same name.</lex>
+      <lex comment="good" lid="Id2">Andrews County Airport is owned by Andrews County, Texas, which has its seat in the county.</lex>
+    </entry>
+    <entry category="Airport" eid="Id124" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Andrews_County,_Texas | largestCity | Andrews,_Texas</otriple>
+        <otriple>Andrews_County_Airport | owner | Andrews_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County,_Texas | largestCity | Andrews,_Texas</mtriple>
+        <mtriple>Andrews_County_Airport | owner | Andrews_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Andrews County Airport is owned by Andrews County, Texas where the largest city is Andrews.</lex>
+      <lex comment="good" lid="Id2">The owner of Andrews County airport is Andrews County, Texas where the largest city is Andrews.</lex>
+      <lex comment="good" lid="Id3">Andrews, Texas is the largest city in Andrews County, Texas, which owns the Andrews County Airport.</lex>
+    </entry>
+    <entry category="Airport" eid="Id178" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | icaoLocationIdentifier | "(Location of airport in Turkmenistan)"</otriple>
+        <otriple>Ashgabat_International_Airport | iataLocationIdentifier | "ASB"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | iataLocationIdentifier | "ASB"</otriple>
+        <otriple>Ashgabat_International_Airport | icaoLocationIdentifier | "UTAA"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | ICAO_Location_Identifier | "UTAA"</mtriple>
+        <mtriple>Ashgabat_International_Airport | IATA_Location_Identifier | "ASB"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ICAO Location Identifier of Ashgabat International Airport is UTAA and the IATA location is ASB.</lex>
+      <lex comment="good" lid="Id2">UTAA is the ICAO Location Identifier of Ashgabat International Airport and ASB is the IATA identifier.</lex>
+      <lex comment="good" lid="Id3">Ashgabat International airport has an ICAO location identifier of UTAA, and an IATA location identifier of ASB.</lex>
+    </entry>
+  </entries>
+</benchmark>

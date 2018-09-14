@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id7" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | city | Boston</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | locationCity | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Boston_Bruins | generalManager | Don_Sweeney</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+        <mtriple>Boston_Bruins | city | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Columbus, Ohio is the city of the Columbus Blue Jackets which were Adam McQuaid's draft team. He also played for the club, Boston Bruins which is based in the city of Boston. Don Sweeney is general manager of the Boston Bruins.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was drafted to the Columbus Blue Jackets based in the city of Columbus in Ohio. He also plays for the Boston based Boston Bruins where Don Sweeney is the general manager.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid, drafted by the Columbus Blue Jackets (Columbus, Ohio) and plays for Boston's, Boston Bruins, which is managed by Don Sweeney.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | city | Boston</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | locationCity | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+        <mtriple>Boston_Bruins | city | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid plays for the Boston based, Boston Bruins and was drafted by the Columbus Blue Jackets (Columbus, Ohio). The Blue Jackets are managed by Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was drafted to the Columbus, Ohio based team the Columbus Blue Jackets, whose general manager is Jarmo Kekalainen. McQuaid later played for the Boston Bruins, who are based in Boston.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was drafted to the Columbus Blue Jackets out of Columbus, Ohio and whose general manager is Jarmo Kekalainen. He now plays for the Boston centered Boston Bruins.</lex>
+    </entry>
+  </entries>
+</benchmark>

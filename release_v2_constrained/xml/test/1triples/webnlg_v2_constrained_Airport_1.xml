@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | owner | Andrews_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | owner | Andrews_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Andrews County Airport is owned by Andrews County, Texas.</lex>
+      <lex comment="good" lid="Id2">The owner of Andrews County airport is Andrews County, Texas.</lex>
+      <lex comment="good" lid="Id3">Andrews County Airport is owned by Andrews County, Texas.</lex>
+    </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | icaoLocationIdentifier | "(Location of airport in Turkmenistan)"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | ICAO_Location_Identifier | "UTAA"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">UTAA is the ICAO Location Identifier of Ashgabat International Airport.</lex>
+      <lex comment="good" lid="Id2">The ICAO Location Identifier of Ashgabat International Airport is UTAA.</lex>
+    </entry>
+    <entry category="Airport" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus | leaderName | Jacob_Bundsgaard</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | leaderName | Jacob_Bundsgaard</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of Aarhus is Jacob Bundsgaard.</lex>
+    </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | city | Aarhus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | cityServed | Aarhus</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aarhus airport serves the city of Aarhus.</lex>
+    </entry>
+    <entry category="Airport" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Al-Taqaddum_Air_Base | lid | "MAT"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al-Taqaddum_Air_Base | locationIdentifier | "MAT"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The location identifier for Al-Taqaddum air base is MAT.</lex>
+      <lex comment="good" lid="Id2">The location identifier of Al Taqaddum Air Base is MAT.</lex>
+    </entry>
+    <entry category="Airport" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Andrews County, Texas is country seat to Andrews, Texas.</lex>
+      <lex comment="good" lid="Id2">Andrews, Texas is the country seat of Andrews County, Texas.</lex>
+      <lex comment="good" lid="Id3">Andrews County, Texas has its county seat in Andrews, Texas.</lex>
+    </entry>
+    <entry category="Airport" eid="Id139" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County,_Texas | largestCity | Andrews,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County,_Texas | largestCity | Andrews,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The largest city in Andrews County, Texas is Andrews.</lex>
+      <lex comment="good" lid="Id2">Andrews, Texas is the largest city in Andrews County, Texas.</lex>
+    </entry>
+    <entry category="Airport" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ashgabat_International_Airport | iataLocationIdentifier | "ASB"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ashgabat_International_Airport | IATA_Location_Identifier | "ASB"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ASB is the IATA location identifier for Ashgabat International airport.</lex>
+      <lex comment="good" lid="Id2">The IATA Location Identifier of Ashgabat International Airport is ASB.</lex>
+    </entry>
+    <entry category="Airport" eid="Id248" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Flemish_Region | country | Belgium</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Flemish_Region | country | Belgium</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Flemish region is in the country of Belgium.</lex>
+    </entry>
+    <entry category="Airport" eid="Id249" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Flemish_Region | leaderName | Flemish_Government</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Flemish_Region | leaderName | Flemish_Government</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Flemish region is led by the Flemish government.</lex>
+      <lex comment="good" lid="Id2">The Flemish Government leads the Flemish Region.</lex>
+    </entry>
+    <entry category="Airport" eid="Id321" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubs | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The hub airport for Turkmenistan airlines is Ashgabat International airport.</lex>
+      <lex comment="good" lid="Id2">Turkmenistan Airlines utilizes the Ashgabat International Airport as its hub.</lex>
+    </entry>
+  </entries>
+</benchmark>

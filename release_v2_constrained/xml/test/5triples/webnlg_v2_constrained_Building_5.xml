@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is 42m high and has a 140000.0 (square metres) floor area. Construction began in 1961 and it was completed in 1964. The current tenants are the Government of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">The " Government of Addis Ababa" are the current tenants of Addis Ababa City Hall. The building started in 1961 and was completed in 1964. It has a floor area of 140000.0 square metres and is 42 m high.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall's was started in 1961 and completed in 1964. It is 42 metres high and has 140000 square metres of floor area. The " Government of Addis Ababa" are the current tenants of that hall.</lex>
+    </entry>
+    <entry category="Building" eid="Id3" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+        <mtriple>Perth | country | Australia</mtriple>
+        <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
+        <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">108 St Georges Terrace in Perth, Australia, has 50 floors and was completed in 198 at a cost of 120 million Australian dollars.</lex>
+      <lex comment="good" lid="Id2">108 St. Georges Terrace, with 50 floors, is located in Perth, Australia, and was completed in 1988. Its construction cost 120 million Australian dollars.</lex>
+      <lex comment="good" lid="Id3">108 St Georges Terrace was completed in 1988 in Perth, Australia. It has a total of 50 floors and cost 120m Australian dollars.</lex>
+    </entry>
+    <entry category="Building" eid="Id70" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</otriple>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</otriple>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</otriple>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</otriple>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Seat of the local government, Addis Ababa City Hall (built 1961-1964) is 42 metres tall and has a floor area of 140000.0 square metres.</lex>
+      <lex comment="good" lid="Id2">The construction of Addis Ababa City Hall began in 1961 and it was completed in 1964. The building, which is the seat of the local government, has a height of 42 metres and a floor area of 140000.0 (square metres).</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leaderName | Patrick_Allen_(politician)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leader | Patrick_Allen_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | birthPlace | Jamaica</mtriple>
+        <mtriple>Jamaica | leaderName | Patrick_Allen_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Patrick Allen is a political leader in Jamaica which is the birthplace of Akeem Priestley.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley was born in Jamaica where the leader is Patrick Allen.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley was born in Jamaica whose political leader is Patrick Allen.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born 1995-09-02 in Tampere, Finland.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Junior was born in Tampere, Finland on 2 September 1995.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | draftTeam | Minnesota_Wild</otriple>
+        <otriple>Minnesota_Wild | generalManager | Chuck_Fletcher</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Boogaard | draftTeam | Minnesota_Wild</mtriple>
+        <mtriple>Minnesota_Wild | generalManager | Chuck_Fletcher</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Boogaard's draft team is Minnesota Wild where Chuck Fletcher is the general manager.</lex>
+      <lex comment="good" lid="Id2">Aaron Boogaard's draft team is Minnestoa Wild where the general manager is Chuck Fletcher.</lex>
+      <lex comment="good" lid="Id3">Aaron Boogaard's draft team is Minnesota Wild, whose manager is Chuck Fletcher.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner plays for Coritiba Football Club and has represented Brazil at Under 17 level.</lex>
+      <lex comment="good" lid="Id2">Abner, who plays for the Coritiba Football club, has represented Brazil at under 17 level.</lex>
+      <lex comment="good" lid="Id3">The footballer Abner plays for Coritiba Football Club and the Brazil national under-17 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner plays for Coritiba Football Club and has played for the Brazil under 20 team.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner plays for the Brazilian national under 20 football team and the Coritiba Football club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abners plays for the CD FAS Club and Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id2">Abner has played for C.D. FAS. and Coritiba Football Club in his football career.</lex>
+      <lex comment="good" lid="Id3">Abner plays for Coritiba Football club and C.D. FAS.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id27" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner is a footballer who has represented the Brazil national under 20 team and also played for Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner plays for the Brazilian national under 20 football team and the club, Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id3">The footballer Abner has represented the Brazil national under 20 team and plays for Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner has played football for Real Madrid Castilla and C.D. FAS.</lex>
+      <lex comment="good" lid="Id2">Previous clubs of the footballer Abner include Real Madrid Castilla and CD FAS.</lex>
+      <lex comment="good" lid="Id3">Abner plays for the club, Real Madrid Castilla and the CD FAS club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner is a footballer for the Coritiba Football club and also Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id2">Footballer Abner plays for Real Madrid Castilla and Coritiba Football Club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id36" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's draft team is the Columbus Blue Jackets in Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid's draft team is the Columbus Blue Jackets, which are based in Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id3">The Columbus Blue Jackets in Columbus, Ohio drafted Adam McQuaid.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id37" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's draft team is the Columbus Blue Jackets, whose general manager is Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was drafted to the Columbus Blue Jackets which is managed by Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid's draft team was the Columbus Blue Jackets whose general manager is Jarmo Kekelainen.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id77" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leaderName | Elizabeth_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | birthPlace | Jamaica</mtriple>
+        <mtriple>Jamaica | leaderName | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley was born in Jamaica, where that country's leader is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley's birth place is Jamaica, which is led by Elizabeth II.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley was born in Jamaica, whose monarch is Queen Elizabeth II.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id109" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr . was born in Tampere, Finland in 1995.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born in 1995 in Tampere. Finland.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr was born in 1995 in Tampere, Finland.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born in 1995, Aleksander Barkov Jr plays for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov, Jr. was born in 1995 and has played for the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id111" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov was born on 2 September 1995 and plays for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. was born on the 2nd September 1995 and plays for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Born on 2nd September 1995, Aleksander Barkov Jr plays for the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id112" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr . was born in Tampere, Finland and played with the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born in Tampere Finland and plays for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Born in Tampere, Finland, Aleksander Barkov Jr played for the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id113" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</otriple>
+        <otriple>Florida_Panthers | generalManager | Dale_Tallon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</mtriple>
+        <mtriple>Florida_Panthers | generalManager | Dale_Tallon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr's draft team was the Florida Panthers whose general manager is Dale Tallon.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr's draft team is the Florida Panthers which is managed by Dale Tallon.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id114" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | league | National_Hockey_League</otriple>
+        <otriple>National_Hockey_League | mostChamps | Montreal_Canadiens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | league | National_Hockey_League</mtriple>
+        <mtriple>National_Hockey_League | mostChampions | Montreal_Canadiens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr. plays in the National Hockey League where the Montreal Canadiens have won the most championships.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. plays in the National Hockey League where most championships have been won by the Montreal Canadiens.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id168" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>C.D._FAS | league | Salvadoran_Primera_División</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>C.D._FAS | league | Salvadoran_Primera_División</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner plays for CD FAS in the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id2">Abner is a footballer for the CD FAS club whose league is the Salvadoran Primera Divison.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id169" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>C.D._FAS | position | Salvadoran_Primera_División</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>C.D._FAS | position | Salvadoran_Primera_División</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner is a footballer for the CD FAS club, which is a member team of the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id2">C.D FAS play in the Salvadoran Primera Division and is a former club of the footballer Abner.</lex>
+      <lex comment="good" lid="Id3">Abner plays for CD FAS in the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id4">Abner is a footballer for the CD FAS club which plays in the Salvadoran Primera division.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id195" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | team | Real_Madrid_Castilla</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Footballer, Abner plays for the club Real Madrid Castilla managed by Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id2">Abner played for the football club Real Madrid Castilla which is managed by Luis Miguel Ramis.</lex>
+    </entry>
+  </entries>
+</benchmark>

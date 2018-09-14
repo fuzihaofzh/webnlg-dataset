@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer, Abner belongs to the club, C.D. FAS.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner plays for C.D. FAS.</lex>
+      <lex comment="good" lid="Id3">Abner is a footballer for the CD FAS club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Maher | birthPlace | "Ait Ikkou, Morocco"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | birthPlace | "Ait Ikkou, Morocco"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam Maher was born in Ait Ikkou, Morocco.</lex>
+      <lex comment="good" lid="Id2">Ait Ikkou, Morocco is the birth place of Adam Maher.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | birthPlace | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | birthPlace | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad's birthplace is Iraq.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad was born in Iraq.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's place of birth is Iraq.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born in Tampere, Finland.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr . was born in Tampere, Finland.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Junior was born in Tampere, Finland.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthPlace | Finland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | Finland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born in Finland.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. was born in Finland.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov, Jr's birth place is Finland.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Florida_Panthers | generalManager | Dale_Tallon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Florida_Panthers | generalManager | Dale_Tallon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The general manager of Florida Panthers is Dale Tallon.</lex>
+      <lex comment="good" lid="Id2">Florida Panthers' general manager is Dale Tallon.</lex>
+      <lex comment="good" lid="Id3">Dale Tallon is the general manager of the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Minnesota_Wild | generalManager | Chuck_Fletcher</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Minnesota_Wild | generalManager | Chuck_Fletcher</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Chuck Fletcher is the general manager of the Minnesota Wild.</lex>
+      <lex comment="good" lid="Id2">The general manager of Minnesota Wild is Chuck Fletcher.</lex>
+      <lex comment="good" lid="Id3">Minnesota Wild's general manager is Chuck Fletcher.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id48" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Point_Fortin | country | Trinidad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Point_Fortin | country | Trinidad</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Point Fortin is in Trinidad.</lex>
+      <lex comment="good" lid="Id2">Point Fortin is located in Trinidad.</lex>
+      <lex comment="good" lid="Id3">Point Fortin is located in the country of Trinidad.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | draftTeam | Minnesota_Wild</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Boogaard | draftTeam | Minnesota_Wild</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Boogaard's draft team is Minnesota Wild.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Hunt | birthPlace | Goslar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Hunt | birthPlace | Goslar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Hunt was born in Goslar.</lex>
+      <lex comment="good" lid="Id2">Aaron Hunt's birth place is Goslar.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Hunt | birthPlace | West_Germany</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Hunt | birthPlace | West_Germany</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aaron Hunt was born in West Germany.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Hernández | birthPlace | Pando,_Uruguay</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | birthPlace | Pando,_Uruguay</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Hernandez's birthplace is Pando, Uruguay.</lex>
+      <lex comment="good" lid="Id2">Abel Hernández was born in Pando, Uruguay.</lex>
+      <lex comment="good" lid="Id3">Abel Hernández's birth place is Pando, Uruguay.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Hernández | birthPlace | Uruguay</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | birthPlace | Uruguay</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abel Hernández was born in Uruguay.</lex>
+      <lex comment="good" lid="Id2">Abel Hernandez was born in Uruguay.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner was born on 30/05/1996.</lex>
+      <lex comment="good" lid="Id2">Abner the footballer, was born on May 30th 1996.</lex>
+      <lex comment="good" lid="Id3">Footballer, Abner was born 30th May 1996.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | birthPlace | Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | birthPlace | Brazil</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner was born in Brazil.</lex>
+      <lex comment="good" lid="Id2">Abner (a footballer) was born in Brazil.</lex>
+      <lex comment="good" lid="Id3">Football player, Abner, was born in Brazil.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | birthPlace | Londrina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | birthPlace | Londrina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner (a footballer) was born in Londrina.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner plays for the Brazilian national under 17 football team.</lex>
+      <lex comment="good" lid="Id2">Footballer, Abner's club is the Brazil national under-17 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner has represented the Brazil national under 20 team.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner plays for the Brazilian national under 20 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner plays for the Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id2">Abner is a footballer for the Coritiba Football club.</lex>
+      <lex comment="good" lid="Id3">The footballer Abner plays for Coritiba Football Club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Real_Madrid_Castilla</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Footballer, Abner plays for the club, Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id2">Abner played for the football club Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | currentclub | Real_Madrid_Castilla</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner is a footballer with the Real Madrid Castilla club.</lex>
+      <lex comment="good" lid="Id2">Abner currently plays football for Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id3">Abner's current football club is Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid played for the club Boston Bruins.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid plays for the Boston Bruins.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid plays for Boston Bruins.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's draft team was the Columbus Blue Jackets.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid's draft team is the Columbus Blue Jackets.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was drafted to the Columbus Blue Jackets.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Adams | birthPlace | Point_Fortin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Adams | birthPlace | Point_Fortin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Adams was born in Point Fortin.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams' birthplace is Point Fortin.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id77" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Ayers | birthPlace | Raleigh,_North_Carolina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Ayers | birthPlace | Raleigh,_North_Carolina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Ayers birth place is Raleigh, North Carolina.</lex>
+      <lex comment="good" lid="Id2">Akeem Ayers was born in Raleigh,North Carolina.</lex>
+      <lex comment="good" lid="Id3">Akeem Ayers was born in Raleigh North Carolina.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Dent | birthPlace | Atlanta</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | birthPlace | Atlanta</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Dent was born in Atlanta.</lex>
+      <lex comment="good" lid="Id2">Atlanta is the birth place of Akeem Dent.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Dent | number | "50"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Dent | playerNumber | "50"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Dent is a player number 50.</lex>
+      <lex comment="good" lid="Id2">Number "50" is Akeem Dent's player number.</lex>
+      <lex comment="good" lid="Id3">Akeem Dent's player Number is 50.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id94" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | birthPlace | Jamaica</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | birthPlace | Jamaica</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's birth place is Jamaica.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley was born in Jamaica.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id95" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Kingston,_Jamaica</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | birthPlace | Kingston,_Jamaica</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | birthPlace | Kingston,_Jamaica</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akeem Priestley's birth place was Kingston in Jamaica.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley was born in Kingston Jamaica.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley was born in Kingston, Jamaica.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | birthPlace | Baghdad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | birthPlace | Baghdad</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra was born in Baghdad.</lex>
+      <lex comment="good" lid="Id2">Baghdad is the birth place of Alaa Abdul-Zahra.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul Zahra was born in Baghdad.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id136" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr's birthdate is 1995-09-02.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. was born on the 2nd September 1995.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id137" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthPlace | Tampere</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | Tampere</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov, Jr. was born in Tampere.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born in Tampere.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov, Jr. was born in 1995.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born in 1995.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id139" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr has played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov, Jr's club is the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr. plays for the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id140" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr's draft team is the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr's draft team was the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id141" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | formerTeam | Tappara</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | formerTeam | Tappara</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr previously played for the team Tappara.</lex>
+      <lex comment="good" lid="Id2">Tappara is the former team of Aleksander Barkov, Jr.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov, Jr's former team is Tappara.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id142" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | height | "1.905"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | height | 1.905</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr is 1.905m tall.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov, Jr's height is 1.905 metres.</lex>
+      <lex comment="good" lid="Id3">The height of Aleksander Barkov Jr. is 1.905.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | league | National_Hockey_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | league | National_Hockey_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr played in the National Hockey League.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. plays in the National Hockey League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id144" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | position | Centre_(ice_hockey)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr's position in ice hockey is centre.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. is playing as a centre.</lex>
+      <lex comment="good" lid="Id3">Ice Hockey player Aleksander Barkov Jr. plays as a Centre.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id145" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | Person/weight | "96.1632"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | weight | 96.1632 (kilograms)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Barkov Jr's weight is 96.1632 kg.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr weighs 96.1632 kilograms.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Barkov Jr's weight is 96.1632 kgs.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandr_Prudnikov | team | Russia_national_under-21_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandr_Prudnikov | club | Russia_national_under-21_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Prudnikov played for the Russia national under 21 football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Prudnikov played for the Russia national under-21 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id178" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | Georgia_national_under-21_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandre_Guruli | club | Georgia_national_under-21_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandre Guruli's club is the Georgia national under 21 football team.</lex>
+      <lex comment="good" lid="Id2">Aleksandre Guruli once played for the Georgia national under-21 football team.</lex>
+      <lex comment="good" lid="Id3">Aleksandre Guruli plays for the Georgian national under 21 team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id209" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alex_Tyus | Person/weight | "99.792"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Tyus | weight | 99.792 (kilograms)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alex Tyus weighs 99.792 kg.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus weighs 99.792 kilograms.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus weighs 99.792 (kilograms).</lex>
+    </entry>
+    <entry category="Athlete" eid="Id213" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Boston_Bruins | city | Boston</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Boston_Bruins | locationCity | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Boston_Bruins | city | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Boston Bruins are from Boston.</lex>
+      <lex comment="good" lid="Id2">Boston Bruins are based in Boston.</lex>
+      <lex comment="good" lid="Id3">The Boston Bruins are based in the city of Boston.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id214" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Boston_Bruins | generalManager | Don_Sweeney</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Boston_Bruins | generalManager | Don_Sweeney</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Don Sweeney is general manager for the Boston Bruins.</lex>
+      <lex comment="good" lid="Id2">Don Sweeney is general manager of the Boston Bruins.</lex>
+      <lex comment="good" lid="Id3">The general Manager of the Boston Bruins is Don Sweeney.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>C.D._FAS | league | Salvadoran_Primera_División</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>C.D._FAS | league | Salvadoran_Primera_División</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">CD FAS's league is the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id2">C.D. FAS play in the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id3">CD FAS plays in the Salvadoran Primera Division league.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id219" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>C.D._FAS | position | Salvadoran_Primera_División</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>C.D._FAS | position | Salvadoran_Primera_División</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">C.D. FAS play in the Salvadoran Primera Division.</lex>
+      <lex comment="good" lid="Id2">C.D. Fas is a member team of the Salvadoran Primera División.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id230" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Columbus Blue Jackets' city is Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2">The Columbus Blue Jackets are based in the city of Columbus, Ohio.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id231" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Columbus Blue Jackets' general manager is Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id2">The general Manager of Columbus Blue Jackets is Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id3">Jarmo Kekalainen is the general manager of the Columbus Blue Jackets.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id246" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Finland | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Finland | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Euro is the currency in Finland.</lex>
+      <lex comment="good" lid="Id2">The currency in Finland is the Euro.</lex>
+      <lex comment="good" lid="Id3">The currency of Finland is the Euro.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id248" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Finland | language | Finnish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Finland | language | Finnish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The language of Finland is the Finnish language.</lex>
+      <lex comment="good" lid="Id2">The Finnish language is spoken in Finland.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id250" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Finland | officialLanguages | Finnish_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Finland | officialLanguage | Finnish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Finland | officialLanguage | Finnish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The official language in Finland is Finnish.</lex>
+      <lex comment="good" lid="Id2">The official language in Finland is the Finnish language.</lex>
+      <lex comment="good" lid="Id3">Finnish is the official language of Finland.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id262" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jamaica | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jamaica | leaderName | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jamaica | leaderName | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jamaica's leader is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2">Elizabeth II is the leader of Jamaica.</lex>
+      <lex comment="good" lid="Id3">Elizabeth II is the queen of Jamaica.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id263" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jamaica | leaderName | Patrick_Allen_(politician)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jamaica | leader | Patrick_Allen_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jamaica | leaderName | Patrick_Allen_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of Jamaica is Patrick Allen.</lex>
+      <lex comment="good" lid="Id2">Patrick Allen is a political leader in Jamaica.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id270" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>National_Hockey_League | mostChamps | Montreal_Canadiens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>National_Hockey_League | mostChampions | Montreal_Canadiens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Montreal Canadiens have won the National Hockey League the most times.</lex>
+      <lex comment="good" lid="Id2">Montreal Canadiens have been the champions of the National Hockey League the most times.</lex>
+      <lex comment="good" lid="Id3">Montreal Canadiens won the most championships in the National Hockey League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id276" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Luis Miguel Ramis is the manager for Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id2">Luis Miguel Ramis was a manager of Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id3">Luis Miguel Ramis is the manager of Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id277" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Regina,_Saskatchewan | leaderTitle | Legislative_Assembly_of_Saskatchewan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Regina,_Saskatchewan | leaderTitle | Legislative_Assembly_of_Saskatchewan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Legislative Assembly of Saskatchewan governs Regina, Saskatchewan.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leader | Patrick_Allen_(politician)</otriple>
+        <otriple>Jamaica | leaderName | Elizabeth_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | placeOfBirth | Jamaica</otriple>
+        <otriple>Jamaica | leader | Elizabeth_II</otriple>
+        <otriple>Jamaica | leaderName | Patrick_Allen_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | birthPlace | Jamaica</mtriple>
+        <mtriple>Jamaica | leaderName | Patrick_Allen_(politician)</mtriple>
+        <mtriple>Jamaica | leaderName | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jamaica, whose queen is Elizabeth II, is led by Patrick Allen and is the birth place of Akeem Priestley.</lex>
+      <lex comment="good" lid="Id2">Patrick Allen and Elizabeth II led Jamaica, is the birthplace of Akeem Priestley.</lex>
+      <lex comment="good" lid="Id3">Jamaica, which is led by Patrick Allen and Elizabeth II, is the birthplace of Akeem Priestley.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born in Tampere, Finland on 2 September 1995.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr. was born on the 2nd September 1995 in Tampere, Finland.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born on 2 September 1995 and has played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr who plays for the Florida Panthers was born on 2 September 1995.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr., who was born on the 2nd September 1995, played for the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | Person/weight | "96.1632"^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</otriple>
+        <otriple>Florida_Panthers | generalManager | Dale_Tallon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | weight | 96.1632 (kilograms)</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</mtriple>
+        <mtriple>Florida_Panthers | generalManager | Dale_Tallon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksandr Barkov Jr weights 96.1632 kgs and his draft team is the Florida Panthers whose general manager is Dale Tallon.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Barkov Jr. ( weight 96.1632 kgs) was drafted by the Florida Panthers, whose general manager is Dale Tallon.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | team | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner who is a player for the Coritiba Football Club also plays for Real Madrid Castilla which is managed by Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner plays for Coritiba Football Club and also Real Madrid Castilla which is managed by Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id3">Abner plays for the Coritiba Football Club having previously played for Real Madrid Castilla, a club that has been managed by Luis Miguel Ramis.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Born on May 30th 1996, footballer, Abner, played for the Brazil national under-17 football team and plays for the Coritiba Football club.</lex>
+      <lex comment="good" lid="Id2">Abner was born on 30 May 1996 and plays for the Coritiba Fooball club and the Brazil national under 17 team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner was born on 30 May 1996 and plays for both the Brazilian national under 17 football team and Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id2">Abner was born 30th May 1996 and played for the Real Madrid Castilla and the Brazilian national under 17 football teams.</lex>
+      <lex comment="good" lid="Id3">Abner was born on 30 May 1996 and played for the Brazilian national under 17 football team as well as Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner the footballer, was born on May 30th 1996 and he has represented the Brazil national under 20 team as well as plays for the Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner was born on 30/05/1996 and plays for the Brazilian national under 20 football team and Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id3">Abner is a footballer who was born on 30 May 1996 and plays for the Coritiba Football Club and the Brazilian national under 20 football team.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner is a footballer who was born on 30 May 1996 . He belongs to the CD FAS club and plays for Coritiba FC.</lex>
+      <lex comment="good" lid="Id2">The footballer Abner was born on 30 May 1996 and plays for CD FAS and Coritiba Football Club.</lex>
+      <lex comment="good" lid="Id3">Abner was born on 30 May 1996, belongs to the club CD FAS and plays for Coritiba Football club.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer, Abner, was born on 30/05/1996. He played for the football club Real Madrid Castilla and is a footballer for the CD FAS club.</lex>
+      <lex comment="good" lid="Id2">Abner was born on 30 May 1995 and formerly played football for Real Madrid Castilla. He currently plays for CD FAS.</lex>
+      <lex comment="good" lid="Id3">Abner, born on 30 May 1996, plays football for the CD FAS club and also Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | team | Coritiba_Foot_Ball_Club</otriple>
+        <otriple>Abner_(footballer) | dateOfBirth | "1996-05-30"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | Coritiba_Foot_Ball_Club</mtriple>
+        <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer Abner was born on 30/05/1996 and plays for Real Madrid Castilla and the Coritiba football club.</lex>
+      <lex comment="good" lid="Id2">Abner, who was born on 30 May 1996, formerly played for Real Madrid Castilla, and now for Coritiba FC.</lex>
+      <lex comment="good" lid="Id3">Born, 30th May 1996, the footballer, Abner, plays for Coritiba Football Club and for Real Madrid Castilla.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | locationCity | Boston</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+        <otriple>Boston_Bruins | city | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+        <mtriple>Boston_Bruins | city | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid, who plays for Boston based, Boston Bruins, draft team was the Columbus Blue Jackets.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid whose draft team is the Columbus Blue Jackets plays for the Boston Bruins from Boston.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid's draft team was the Columbus Blue Jackets and he later played for Boston Bruins who are based in Boston.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id40" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Adam_McQuaid | team | Boston_Bruins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's draft team was the Columbus Blue Jackets whose city is Columbus, Ohio but he currently plays for the Boston Bruins.</lex>
+      <lex comment="good" lid="Id2">Based in the city of Columbus, Ohio, the Columbus Blue Jackets, are the team that drafted Adam McQuaid. He played for the club Boston Bruins.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid's draft team is the Columbus Blue Jackets, located in Columbus, Ohio. He now plays for the Boston Bruins.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</otriple>
+        <otriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</otriple>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | draftTeam | Columbus_Blue_Jackets</mtriple>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+        <mtriple>Columbus_Blue_Jackets | generalManager | Jarmo_Kekäläinen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Adam McQuaid's draft team was the Columbus Blue Jackets, who are based in the city of Columbus, Ohio and whose General Manager is Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid was drafted to the Columbus Blue Jackets team that are based in Columbus, Ohio and managed by Jarmo Kekalainen.</lex>
+      <lex comment="good" lid="Id3">Adam McQuaid was drafted to the Columbus Blue Jackets in the city of Columbus, Ohio who are managed by Jarmo Kekalainen.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id120" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthYear | "1995"^^xsd:gYear</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthYear | 1995</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov, Jr. was born in 1995 in Tampere, Finland and has played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born in Tampere, Finland in 1995 and his club is the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr . was born in Tampere, Finland (1995) and his club is the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id121" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr was born in Tampere, Finland on 1995-09-02 and he plays for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Born September 2, 1995, Aleksander Barkov Jr of Tampere, Finland, played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr was born on 2 September 1995 in Tampere, Finland and his club is the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id122" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | dateOfBirth | "1995-09-02"^^xsd:date</otriple>
+        <otriple>Aleksander_Barkov,_Jr. | placeOfBirth | "Tampere, Finland"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Aleksander Barkov Jr, whose draft team was the Florida Panthers, was born on 2 September 1995 in Tampere, Finland.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born in Tampere, Finland on Sept. 2, 1995 and his draft team is the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov Jr was born Sept. 2, 1995 in Tampere, Finland and drafted with the Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id220" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-17_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-17_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The footballer, Abner, plays for the Brazilian national under 17 football team. He also plays for Real Madrid Castilla, managed by Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id2">Former Brazil national under-17 football team member, Abner, plays for the club, Real Madrid Castilla which is managed by Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id3">Abner is a footballer who once played for Real Madrid Castilla under their manager Luis Miguel Ramis, but now plays for the Brazilian national under 17 football.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id221" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | team | Brazil_national_under-20_football_team</otriple>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Brazil_national_under-20_football_team</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Footballer, Abner, played for the Brazilian national under 20 football team. He also for the football club Real Madrid Castilla, the manager of which, is Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id2">Abner plays football for the Brazilian national under 20 football team and also for Real Madrid Castilla who are managed by Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id3">Abner is a footballer who has represented the Brazil national under 20 team and plays for Real Madrid Castilla under their manager Luis Miguel Ramis.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id222" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</otriple>
+        <otriple>Abner_(footballer) | clubs | Real_Madrid_Castilla</otriple>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Real_Madrid_Castilla | manager | Luis_Miguel_Ramis</mtriple>
+        <mtriple>Abner_(footballer) | club | Real_Madrid_Castilla</mtriple>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Footballer, Abner, plays C.D. FAS. and Real Madrid Castilla, the manager of which, is Luis Miguel Ramis.</lex>
+      <lex comment="good" lid="Id2">Footballer, Abner plays for the club, Real Madrid Castilla and belongs to C.D. FAS club. Luis Miguel Ramis manages the Real Madrid Castilla.</lex>
+      <lex comment="good" lid="Id3">The footballer Abner has played for C.D. FAS and also Real Madrid Castilla, which is managed by Luis Miguel Ramis.</lex>
+    </entry>
+  </entries>
+</benchmark>

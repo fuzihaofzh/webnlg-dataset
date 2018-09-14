@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+        <otriple>108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+        <otriple>108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
+        <otriple>108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
+        <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">108 St. Georges Terrace a 39599 square metre, 50 floor building, was completed in 1988 at a cost of 120 million Australian dollars.</lex>
+      <lex comment="good" lid="Id2">108 St. Georges Terrace was completed in 1988, has 50 floors, is 39599 square meters and cost 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id3">108 St. Georges Terrace, which was completed in 1988, has a floor area of 39599.0 square metres. It has 50 floors, and cost 120 million AUD.</lex>
+    </entry>
+    <entry category="Building" eid="Id12" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | buildingEndDate | "1988"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | buildingEndDate | "1988"</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+        <mtriple>Perth | country | Australia</mtriple>
+        <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">108 St. Georges Terrace is located in Perth, Australia it was completed in 1988 and is made up of 50 floors.</lex>
+      <lex comment="good" lid="Id2">The 108 St. Georges Terrace, located in Perth, Australia, has 50 floors and completed in 1988.</lex>
+      <lex comment="good" lid="Id3">108 St Georges Terrace, Perth, Australia was completed in 1988 with 50 floors.</lex>
+    </entry>
+    <entry category="Building" eid="Id13" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+        <mtriple>Perth | country | Australia</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
+        <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The 120 million Australian dollar 108 St Georges Terrace in Perth has 50 floors.</lex>
+      <lex comment="good" lid="Id2">108 St Georges Terrace in Perth, Australia has 50 floors and cost 120 million AUD.</lex>
+      <lex comment="good" lid="Id3">108 St. Georges Terrace is located in Perth, Australia. It has 50 floors, and it cost 120m Australian dollars to build.</lex>
+    </entry>
+    <entry category="Building" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | buildingStartDate | "1978"</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | buildingStartDate | "1978"</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | buildingStartDate | "1978"</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | buildingStartDate | "1978"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
+        <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
+        <mtriple>11_Diagonal_Street | buildingStartDate | "1978"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Construction of 11 Diagonal Street began in 1978 and finished in 1983 with 20 floors. The architect was Helmut Jahn.</lex>
+      <lex comment="good" lid="Id2">Helmut Jahn is the architect of 11 Diagonal Street which was begun in 1978 and completed in 1983 with 20 floors.</lex>
+      <lex comment="good" lid="Id3">The building at 11 Diagonal Street was completed in 1983 , 5 years after the street itself was build in 1978. It is a 20 floor structure designed by Helmut Jahn.</lex>
+    </entry>
+    <entry category="Building" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | floorArea | "1200.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorArea | "1200.0"^^xsd:double</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
+        <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
+        <mtriple>11_Diagonal_Street | floorArea | 1200 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The architect of 11 Diagonal Street is Helmut Jahn and it was completed in 1983. It has 20 floors and a floor area of 1200 square metres.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street was designed by Helmut Jahn and was completed in 1983. It has 20 floors and an area of 1200 square metres.</lex>
+      <lex comment="good" lid="Id3">Helmut Jahn was the architect of 11 Diagonal Street which was completed in 1983 with 20 floors and a total floor area of 1200 square metres.</lex>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
+        <mtriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</mtriple>
+        <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Helmut Jahn was the architect of 11 Diagonal Street which is owned by Redefine Properties Limited and completed in 1983 with 20 floors.</lex>
+      <lex comment="good" lid="Id2">Redefine Properties Limited is the owner of 11 Diagonal Street which was designed by the architect Helmut Jahn and completed in 1983 with 20 floors.</lex>
+      <lex comment="good" lid="Id3">11 Diagonal Street is a 20 floor Helmut Jahn building, completed in 1983 and owned by Redefine Properties Ltd.</lex>
+    </entry>
+    <entry category="Building" eid="Id68" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+        <otriple>320_South_Boston_Building | formerName | "Exchange National Bank Building"@en</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | formerName | "Exchange National Bank Building"@en</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | height | 121.92 (metres)</mtriple>
+        <mtriple>320_South_Boston_Building | formerName | "Exchange National Bank Building"</mtriple>
+        <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
+        <mtriple>320_South_Boston_Building | floorCount | 22</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The building at 320 South Boston Street, formerly called the Exchange National Bank Building, is 121.92 metres, has 22 floors, and was completed in 1929.</lex>
+      <lex comment="good" lid="Id2">The 320 South Boston Building formally known as the Exchange National Bank Building was completed in 1929 and has 22 floors and is 121.92 meters.</lex>
+      <lex comment="good" lid="Id3">The 320 South Boston Building was formerly called the Exchange National Bank Building and was completed in 1929. The building has a height of 121.92 metres and has 22 floors.</lex>
+    </entry>
+    <entry category="Building" eid="Id98" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall was completed in 1964; it has a height of 42 metres and 140000 square metres. Its current tenants are the Government of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall, which was completed in 1964 with a height of 42 metres and a floor area of 140000 square metres. The current tenants are the Government of Addis Ababa.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall's completion date was in 1964. Its height is 42 meters and a floor area of 140000 square meters. One tenant is the Government of Addis Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id99" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall, which was completed in 1964, has a height of 42 metres. Building commenced in 1961, and its floor area is 140000.0 (square metres).</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall, a 140000.0 floor area, 42 metres high building, was built between 1961-1964.</lex>
+    </entry>
+    <entry category="Building" eid="Id100" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Building started on the Addis Ababa City Hall in 1961, it is 42 m high and has a floor area of 140000.0 square metres. The Government of Addis Ababa are the current tenants.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall, a 42 m high, 140,000-square meter facility which began construction in 1961, is currently occupied by the government of Addis Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id163" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | added to the National Register of Historic Places | "1988-11-22"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Texas and was built in 1911. The House was added to the National Register of Historic Places on 22nd November 1988 with the reference number 88002539.</lex>
+      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House, constructed in 1911, is located in Asherton, Texas, and was added to the National Register of Historic Places on "1988-11-22" with the reference number 88002539.</lex>
+      <lex comment="good" lid="Id3">Asher and Mary Isabelle Richardson House is located in Asherton, Texas and was built in 1911. The building was added to the National Register of Historic Places on 22 November 1988 with the reference number 88002539.</lex>
+    </entry>
+    <entry category="Building" eid="Id164" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | added to the National Register of Historic Places | "1988-11-22"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located at U.S. Route 83 and was constructed in 1911. It has been added to the National Register of Historic Places, on 22nd November 1988, with a reference number of 88002539.</lex>
+      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House was constructed in 1911 on US Route 83. It was added to the National Register of Historic Places on 1988-11-22 with the Reference Number 88002539.</lex>
+      <lex comment="good" lid="Id3">The Asher and Mary Isabelle Richardson House was built in 1911 and is located on U.S. Route 83. It was added to the National Register of Historic Places, on 22nd November 1988 with the reference number 88002539.</lex>
+    </entry>
+  </entries>
+</benchmark>

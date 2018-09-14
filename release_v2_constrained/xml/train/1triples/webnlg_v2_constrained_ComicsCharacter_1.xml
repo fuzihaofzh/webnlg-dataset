@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman is broadcast by the BBC.</lex>
+      <lex comment="good" lid="Id2">Bananaman the TV series was shown on the BBC.</lex>
+      <lex comment="good" lid="Id3">The BBC broadcasted Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie was born in Lancashire.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Scott_Adsit | birthPlace | Northbrook,_Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Scott_Adsit | birthPlace | Northbrook,_Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Scott Adsit was born in Northbrook, Illinois.</lex>
+      <lex comment="good" lid="Id2">Scott Adsit was born in Northbrook Illinois.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">BBC was founded by John Reith 1st Baron Reith.</lex>
+      <lex comment="good" lid="Id2">The BBC was founded by John Reith, 1st Baron Reith.</lex>
+      <lex comment="good" lid="Id3">1st Baron, John Reith was the founder of the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Rona Fairhead is the key person for BBC.</lex>
+      <lex comment="good" lid="Id2">Rona Fairhead was a key person at the BBC.</lex>
+      <lex comment="good" lid="Id3">The key person for BBC is Rona Fairhead.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Tony_Hall,_Baron_Hall_of_Birkenhead</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A key person at the BBC is Baron Hall of Birkenhead, Tony Hall.</lex>
+      <lex comment="good" lid="Id2">A key person at the BBC is Tony Hall, Baron Hall of Birkenhead.</lex>
+      <lex comment="good" lid="Id3">Tony Hall, the Baron Hall of Birkenhead, is a key person with the BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | locationCity | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The location of the BBC is the Broadcasting House in London.</lex>
+      <lex comment="good" lid="Id2">The BBC headquarters is called Broadcasting House.</lex>
+      <lex comment="good" lid="Id3">Broadcasting House is the home of the BBC which is based in London.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | locationCity | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">BBC is located in London.</lex>
+      <lex comment="good" lid="Id2">The BBC location city is London.</lex>
+      <lex comment="good" lid="Id3">The BBC is located in London.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>BBC | product | BBC_Radio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | product | BBC_Radio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the products of BCC is BCC radio.</lex>
+      <lex comment="good" lid="Id2">BBC radio is one of the products of the BBC.</lex>
+      <lex comment="good" lid="Id3">The BBC produces BBC Radio.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman is broadcast by STV.</lex>
+      <lex comment="good" lid="Id2">Bananaman is broadcasted by "STV".</lex>
+      <lex comment="good" lid="Id3">Bananaman was broadcasted by STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">John Geering is the creator of Bananaman.</lex>
+      <lex comment="good" lid="Id2">The TV character Bananaman was created by John Geering.</lex>
+      <lex comment="good" lid="Id3">The fictional comic superhero Bananaman was created by John Geering.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | creator | Steve_Bright</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Steve Bright is the creator of Bananaman.</lex>
+      <lex comment="good" lid="Id2">Bananaman was created by Steve Bright.</lex>
+      <lex comment="good" lid="Id3">The creator of Bananaman is Steve Bright.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman first aired on 3rd October 1983.</lex>
+      <lex comment="good" lid="Id2">Bananaman first aired on the 3rd of October, 1983.</lex>
+      <lex comment="good" lid="Id3">Bananaman was first aired on 10/03/1983.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bananaman last aired on April 15th 1986.</lex>
+      <lex comment="good" lid="Id2">Bananaman last aired on 15th April 1986.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie stars in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Bananaman starred Bill Oddie.</lex>
+      <lex comment="good" lid="Id3">Bill Oddie starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Graeme Garden stars in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Bananaman stars Graeme Garden.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id39" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Jill Shilling stared in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Jill Shilling starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor starred in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id41" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax was created by Duncan Rouleau.</lex>
+      <lex comment="good" lid="Id2">Duncan Rouleau created Baymax.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Steven T. Seagle is the creator of Baymax.</lex>
+      <lex comment="good" lid="Id2">The creator of Baymax is Steven T. Seagle.</lex>
+      <lex comment="good" lid="Id3">Baymax was created by Steve T. Seagle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baymax | firstAppearance | "Big Hero 6(2014)"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Big Hero 6 was Baymax's first film appearance.</lex>
+      <lex comment="good" lid="Id2">The first appearance in a film for the character Baymax was Big Hero 6.</lex>
+      <lex comment="good" lid="Id3">Baymax first appeared in the film Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Baymax is a character in Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Scott Adsit does the voice for Baymax.</lex>
+      <lex comment="good" lid="Id2">Scott Adsit provides the voice for the character Baymax.</lex>
+      <lex comment="good" lid="Id3">The character Baymax is voiced by Scott Adsit.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film , Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">The distributor of Big Hero 6 (film) is Walt Disney Studios Motion Pictures.</lex>
+      <lex comment="good" lid="Id3">Big Hero 6 was a film distributed by Walt Disney Studios Motion Pictures.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alan Tudyk stars in the film, Big Hero 6.</lex>
+      <lex comment="good" lid="Id2">The film, Big Hero 6, starred Alan Tudyk.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The film Big Hero 6 stars actor Damon Wayans Jr.</lex>
+      <lex comment="good" lid="Id2">The film Big Hero 6 stars Damon Wayans, Jr.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The film Big Hero 6 starred Jamie Chung.</lex>
+      <lex comment="good" lid="Id2">The film Big Hero 6, stars Jamie Chung.</lex>
+      <lex comment="good" lid="Id3">Jamie Chung starred in the film Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id54" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Big Hero 6 stars Maya Rudolph.</lex>
+      <lex comment="good" lid="Id2">The starring of Big Hero 6 (film) is Maya Rudolph.</lex>
+      <lex comment="good" lid="Id3">Maya Rudolph, was one of the stars, in the film Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The film, Big Hero 6, stars Ryan Potter.</lex>
+      <lex comment="good" lid="Id2">Ryan Potter starred in the film Big Hero 6.</lex>
+      <lex comment="good" lid="Id3">Big Hero 6 stars Ryan Potter.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The film, Big hero 6, stars Scott Adsit.</lex>
+      <lex comment="good" lid="Id2">Scott Adsit starred in the film Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie was born in Rochdale.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id59" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Bill Oddie's daughter is Kate Hardie.</lex>
+      <lex comment="good" lid="Id2">Kate Hardie is Bill Oddie's child.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id80" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The nationality of Duncan Rouleau is American.</lex>
+      <lex comment="good" lid="Id2">Duncan Rouleau is American.</lex>
+      <lex comment="good" lid="Id3">Duncan Rouleau is an American.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Graeme_Garden | birthPlace | Aberdeen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Graeme_Garden | birthPlace | Aberdeen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Graeme Garden was born in Aberdeen.</lex>
+      <lex comment="good" lid="Id2">The birth place of Graeme Garden is Aberdeen.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Buxton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in Buxton.</lex>
+      <lex comment="good" lid="Id2">Buxton is the birthplace of Tim Brooke-Taylor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke Taylor was born in Derbyshire.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor was born in Derbyshire.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke Taylor was born in England.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor was born in England.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Tim Brooke-Taylor's birth place is the United Kingdom.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Taylor was born in the UK.</lex>
+      <lex comment="good" lid="Id3">The birth place of Tim Brooke-Taylor is United Kingdom.</lex>
+    </entry>
+  </entries>
+</benchmark>

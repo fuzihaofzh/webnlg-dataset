@@ -1,0 +1,529 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
+        <otriple>George_Winkler | country | United_States</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
+        <otriple>George_Winkler | country | United_States</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | architect | George_Winkler</mtriple>
+        <mtriple>George_Winkler | country | United_States</mtriple>
+        <mtriple>320_South_Boston_Building | floorCount | 22</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">George Winkler, United States, is the architect of the 22 floor 320 South Boston Building.</lex>
+      <lex comment="good" lid="Id2">George Winkler from the United States was the architect of 320 South Boston Building. 320 South Boston Street has 22 floors.</lex>
+    </entry>
+    <entry category="Building" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | cost | "A$120 million"@en</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+        <otriple>108_St_Georges_Terrace | buildingEndDate | "1988"</otriple>
+        <otriple>108_St_Georges_Terrace | cost | "1.2E8"^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
+        <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">108 St Georges Terrace which has 50 floors, was completed in 1988 at a cost of 120 million Australian dollars.</lex>
+      <lex comment="good" lid="Id2">108 St Georges Terrace has 50 floors and was completed in 1988 at a cost of 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id3">108 St. Georges Terrace cost 120 million AUD, has a floor count of 50 and was completed in 1988.</lex>
+    </entry>
+    <entry category="Building" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | startDate | 1981</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | buildingStartDate | "1981"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+        <mtriple>Perth | country | Australia</mtriple>
+        <mtriple>108_St_Georges_Terrace | buildingStartDate | 1981</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Construction of 108 St Georges Terrace, Perth, Australia began in 1981.</lex>
+      <lex comment="good" lid="Id2">108 St. Georges Terrace in Perth, Australia, began construction in 1981.</lex>
+      <lex comment="good" lid="Id3">108 St. Georges Terrace is located in Perth, Australia. Its construction began in 1981.</lex>
+    </entry>
+    <entry category="Building" eid="Id13" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | buildingEndDate | "1988"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+        <mtriple>Perth | country | Australia</mtriple>
+        <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">108 St. Georges Terrace, completed in 1988, is located in Perth, Australia.</lex>
+      <lex comment="good" lid="Id2">108 St. George's Terrace was completed in 1988 in Perth, Australia.</lex>
+    </entry>
+    <entry category="Building" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | Building/floorArea | "39500.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | floorArea | "39500.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+        <mtriple>Perth | country | Australia</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">108 St Georges Terrace has a floor area of 39599.0 square metres and is located in Perth, Australia.</lex>
+    </entry>
+    <entry category="Building" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | "50"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+        <otriple>Perth | country | Australia</otriple>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+        <mtriple>Perth | country | Australia</mtriple>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">108 St. Georges Terrace boasts 50 floors and is located in Perth, Australia.</lex>
+      <lex comment="good" lid="Id2">108 St. Georges Terrace in Perth, Australia has 50 floors.</lex>
+      <lex comment="good" lid="Id3">The 108 St. Georges Terrace in Perth, Australia, has a floor count of 50.</lex>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | completionDate | 1983</otriple>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | buildingEndDate | "1983"</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
+        <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
+        <mtriple>11_Diagonal_Street | completionDate | 1983</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street, with 20 floors, was designed by Helmut Jahn and completed in 1983.</lex>
+      <lex comment="good" lid="Id2">Helmut Jahn was the architect of 11 Diagonal Street which was completed in 1983 and has 20 floors.</lex>
+      <lex comment="good" lid="Id3">Helmut Jan designed 11 Diagonal Street which was completed in 1983 and has 20 floors.</lex>
+    </entry>
+    <entry category="Building" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+        <otriple>11_Diagonal_Street | architect | "Helmut Jahn"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | floorCount | "20"^^xsd:positiveInteger</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | 20</otriple>
+        <otriple>11_Diagonal_Street | architect | Helmut_Jahn</otriple>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
+        <mtriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</mtriple>
+        <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street (which had 20 floors) was designed by architect Helmut Jahn and is owned by Redefine Properties Limited.</lex>
+      <lex comment="good" lid="Id2">The 20-floor 11 Diagonal Street designed by architect Helmut Jahn is owned by Redefine Properties Limited.</lex>
+    </entry>
+    <entry category="Building" eid="Id67" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
+        <otriple>George_Winkler | country | United_States</otriple>
+        <otriple>320_South_Boston_Building | startDate | 1910</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
+        <otriple>George_Winkler | country | United_States</otriple>
+        <otriple>320_South_Boston_Building | buildingStartDate | "1910"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | architect | George_Winkler</mtriple>
+        <mtriple>George_Winkler | country | United_States</mtriple>
+        <mtriple>320_South_Boston_Building | buildingStartDate | 1910</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The American George Winkler was the architect of 320 South Boston Building, of which construction began in 1910.</lex>
+    </entry>
+    <entry category="Building" eid="Id68" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
+        <otriple>George_Winkler | country | United_States</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
+        <otriple>George_Winkler | country | United_States</otriple>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | architect | George_Winkler</mtriple>
+        <mtriple>George_Winkler | country | United_States</mtriple>
+        <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The United States architect George Winkler designed the 320 South Boston Building completed in 1929.</lex>
+      <lex comment="good" lid="Id2">The US architect George Winkler was the architect for the 320 South Boston Building completed in 1929.</lex>
+      <lex comment="good" lid="Id3">320 South Boston Building, designed by architect George Winkler of the United States of America, was completed in 1929.</lex>
+    </entry>
+    <entry category="Building" eid="Id69" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | height | "121.92"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | "121.92"^^xsd:double</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | buildingEndDate | "1929"</otriple>
+        <otriple>320_South_Boston_Building | height | "121.92"^^xsd:double</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | "400.0"^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | floorCount | "22"^^xsd:positiveInteger</otriple>
+        <otriple>320_South_Boston_Building | height | "121.92"^^xsd:double</otriple>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | height | 121.92 (metres)</mtriple>
+        <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
+        <mtriple>320_South_Boston_Building | floorCount | 22</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In 1929 the 320 South Boston Building was completed with 22 floors and a height of 121.92 metres.</lex>
+      <lex comment="good" lid="Id2">The 320 South Boston Building, which was completed in 1929, has a height of 121.92 meters and 22 floors.</lex>
+    </entry>
+    <entry category="Building" eid="Id109" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Construction on Addis Ababa City Hall, which has a 140000.0 (square metres) floor area, began in 1961 and was completed in 1964.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall, started in 1961 and completed in 1964, has a 140000.0 (square metres) floor area.</lex>
+    </entry>
+    <entry category="Building" eid="Id110" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In 1964 the Addis Ababa City Hall was completed with a floor area of 140000.0 (square metres) and a total height of 42 metres.</lex>
+      <lex comment="good" lid="Id2">Addid Ababa City Hall, completed in 1964, is 42 metres high and has a floor area of 140000.0 square metres.</lex>
+    </entry>
+    <entry category="Building" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42 m"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | floorArea | "140000.0"^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | "42.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall which is 42 metres high and has a floor area of 140000.0 (square metres).</lex>
+      <lex comment="good" lid="Id2">The Government of Addis Ababa is the current tenants of the Addis Ababa city hall. which has a floor area of 140000.0 square metres. It is 42 m high.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall, which houses the Government of Addis Ababa, is 42 m high and has a floor area of140000.0 square metres.</lex>
+    </entry>
+    <entry category="Building" eid="Id168" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</otriple>
+        <otriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</otriple>
+        <otriple>Alfred_Giles_(architect) | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</mtriple>
+        <mtriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</mtriple>
+        <mtriple>Alfred_Giles_(architect) | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The architect of Asher and Mary Isabelle Richardson House Alfred Giles was born in England and died in Kendall County Texas.</lex>
+      <lex comment="good" lid="Id2">Alfred Giles was born in England and died in Kendall County, Texas. He designed the Asher and Mary Isabelle Richardson House .</lex>
+      <lex comment="good" lid="Id3">The architect Alfred Giles was born in England and he died in Kendall County, Texas. He was the architect of Asher and Mary Isabelle Richardson House.</lex>
+    </entry>
+    <entry category="Building" eid="Id169" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which was was built in 1911 and has the reference number 88002539 in the National Register of Historic Places..</lex>
+      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House is located in Asherton, Texas and was built in 1911. It holds the Reference Number 88002539 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id3">Asher and Mary Isabelle Richardson House is located in Asherton, Texas. It was constructed in 1911. It has the reference number 88002539 in the National Register of Historic Places.</lex>
+    </entry>
+    <entry category="Building" eid="Id170" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | ".Asherton, Texas"@en</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | added to the National Register of Historic Places | "1988-11-22"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House was constructed in 1911 in Asherton Texas and was added to the National Register of Historic Places, on 22nd November 1988.</lex>
+      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House was constructed in 1911 and is located in Asherton, Texas. It was added to the National Register of Historic Places on 1988-11-22.</lex>
+      <lex comment="good" lid="Id3">Asher and Mary Isabelle Richardson House was built in 1911 and is located in Asherton, Texas. It was added to the National Register of Historic Places, on 22nd November 1988.</lex>
+    </entry>
+    <entry category="Building" eid="Id171" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | "88002539"</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and was built in 1911. It has the reference number 88002539 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House built in 1911 is located at U.S. Route 83 and has the reference number 88002539 in the National Register of Historic Places.</lex>
+    </entry>
+    <entry category="Building" eid="Id172" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | "1911"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | added | "1988-11-22"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | added to the National Register of Historic Places | "1988-11-22"</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asher and Mary Isabelle Richardson House located on US Route 83 and built in 1911 was added to the National Register of Historic Places, on 22nd November 1988.</lex>
+      <lex comment="good" lid="Id2">The Asher and Mary Isabelle Robinson House on U.S. Route 83 was constructed in 1911 and added to the National Register of Historic Places on 22 November 1988.</lex>
+      <lex comment="good" lid="Id3">The Asher and Mary Isabelle Richardson House on U.S. Route 83 was constructed in 1911 and added to the National Register of Historic Places on 22 November 1988.</lex>
+    </entry>
+    <entry category="Building" eid="Id173" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Asherton,_Texas | country | United_States</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+        <otriple>Asherton,_Texas | subdivisionName | Dimmit_County,_Texas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asherton,_Texas | country | United_States</otriple>
+        <otriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asherton,_Texas | country | United_States</mtriple>
+        <mtriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Dimmit County, Texas. United States.</lex>
+      <lex comment="good" lid="Id2">The Asher and Mary Isabelle Richardson House is located in Asherton, Texas, U.S. and is part of Dimmit County, Texas.</lex>
+      <lex comment="good" lid="Id3">Asherton , Texas is in Dimmit County, Texas in the United States. Asher and Mary Isabelle Richardson House is located in Asherton, Texas.</lex>
+    </entry>
+    <entry category="Building" eid="Id174" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Asherton,_Texas | subdivisionName | United_States</otriple>
+        <otriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asherton,_Texas | isPartOf | United_States</mtriple>
+        <mtriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asherton, Texas is part of Dimmit County, Texas in the United States. Asher and Mary Isabelle Richardson House is in Asherton.</lex>
+      <lex comment="good" lid="Id2">Asherton, Texas is part of Dimmit County, Texas, United States. Asher and Mary Isabelle Richardson House is located in Asherton, Texas.</lex>
+      <lex comment="good" lid="Id3">Asher and Mary Isabelle Richardson House is located in Asherton, Dimmit County, Texas, United States.</lex>
+    </entry>
+  </entries>
+</benchmark>

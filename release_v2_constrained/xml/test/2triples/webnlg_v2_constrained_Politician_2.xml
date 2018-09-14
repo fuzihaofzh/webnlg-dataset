@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | party | Republican_Party_(United_States)</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | party | Republican_Party_(United_States)</mtriple>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal was a member of the Republican party of the United States and worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal was a member of the Connecticut Senate from the 26th District and a member of the Republican Party of the United States.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal, a member of the Republican party of the United States, worked as a member of the Connecticut Senate from the 26th District.</lex>
+    </entry>
+    <entry category="Politician" eid="Id37" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | country | Nigeria</otriple>
+        <otriple>Nigeria | leader | Yemi_Osinbajo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | country | Nigeria</mtriple>
+        <mtriple>Nigeria | leaderName | Yemi_Osinbajo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar lives in Nigeria, where the leader is Yemi Osinbajo.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar is from Nig where Yemi Osinbajo is the leader.</lex>
+      <lex comment="good" lid="Id3">Abdulsalami Abubakar's comes from Nigeria whose leader is called Yemi Osinbajo.</lex>
+    </entry>
+    <entry category="Politician" eid="Id66" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | birthDate | "1921-04-11"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W Sibal (11-04-1921) was a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal, who was born on 4 November 1921, was a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal was born on the 11th April 1921 and worked as a member of the Connecticut Senate from the 26th District.</lex>
+    </entry>
+    <entry category="Politician" eid="Id67" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ridgewood, Queens is the birthplace of Abner W. Sibal who worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">Born in Ridgewood, Queens, Abner W. Sibal, was a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal was born in Ridgewood, Queens and worked for the Connecticut Senate from the 26th district.</lex>
+    </entry>
+    <entry category="Politician" eid="Id68" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | successor | Donald_J._Irwin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Donald_J._Irwin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Donald J. Irwin was succeeded by Abner W. Sibal who worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal, a member of the Connecticut Senate from the 26th District, was succeeded by, Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal, member of the Connecticut Senate from the 26th District was succeeded by Donald J. Irwin.</lex>
+    </entry>
+    <entry category="Politician" eid="Id69" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | office | "Member of theConnecticut Senatefrom the26th District"</otriple>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | successor | Marjorie_Farmer</otriple>
+        <otriple>Abner_W._Sibal | office | "Member of the Connecticut Senate from the 26th District"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | office (workedAt, workedAs) | "Member of the Connecticut Senate from the 26th District"</mtriple>
+        <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abner W. Sibal worked as a member of the Connecticut Senate from the 26th District, he was succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal of Connecticut Senate, District 26, succeeded Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal, a member of the Connecticut Senate from the 26th District, was succeeded by Marjorie Farmer.</lex>
+    </entry>
+    <entry category="Politician" eid="Id79" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | president | John_F._Kennedy</otriple>
+        <otriple>John_F._Kennedy | predecessor | Dwight_D._Eisenhower</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | inOfficeWhilePresident | John_F._Kennedy</mtriple>
+        <mtriple>John_F._Kennedy | predecessor | Dwight_D._Eisenhower</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff was in office at the same time as John F. Kennedy was president who had been preceded by Dwight D. Eisenhower.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff was in office while John F. Kennedy was president he succeeded Dwight D. Eisenhower.</lex>
+    </entry>
+    <entry category="Politician" eid="Id201" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alfons_Gorbach | successor | Josef_Klaus</otriple>
+        <otriple>Josef_Klaus | almaMater | University_of_Vienna</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfons_Gorbach | successor | Josef_Klaus</mtriple>
+        <mtriple>Josef_Klaus | almaMater | University_of_Vienna</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Altona Gorbach was suceeded by Josef Klaus who graduated the University of Vienna.</lex>
+      <lex comment="good" lid="Id2">The successor to Alfons Gorbach is Josef Klaus, whose alma mater is the University of Vienna.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was succeeded by Josef Klaus, who studied at the University of Vienna.</lex>
+    </entry>
+    <entry category="Politician" eid="Id202" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_Madison_Leach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</mtriple>
+        <mtriple>Alfred_Moore_Scales | successor | James_Madison_Leach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The alma mater of Alfred Moore Scales, who was succeeded by James Madison Leach, was the University of North Carolina at Chapel Hill.</lex>
+      <lex comment="good" lid="Id2">The alma mater of Alfred Moore Scales, later succeeded by James Madison Leach, was the University of North Carolina at Chapel Hill.</lex>
+    </entry>
+    <entry category="Politician" eid="Id203" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</mtriple>
+        <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moores Scales, whose alma mater was the University of North Caroline at Chapel Hill, was succeeded by the politician James W Reid.</lex>
+      <lex comment="good" lid="Id2">The alma Mater of Alfred Moore Scales,who was succeeded by the politician James W .Reid, is the University of North Carolina at Chapel Hill.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales who was succeeded by the politician, James W. Reid, studied at the University of North Carolina at Chapel Hill.</lex>
+    </entry>
+    <entry category="Politician" eid="Id208" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+        <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales, Governor of North Carolina was succeeded by James W Reid.</lex>
+      <lex comment="good" lid="Id2">Alfred Moore Scales, was Governor of North Carolina, and was succeeded by the politician James W Reid.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales was Governor of North Carolina and was succeeded by James W. Reid.</lex>
+    </entry>
+    <entry category="Politician" eid="Id209" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</mtriple>
+        <mtriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Daniel Gould Fowle suceeded Alfred Moore Scales, whose alma mater was the University of North Carolina at Chapel Hill.</lex>
+      <lex comment="good" lid="Id2">Daniel Gould Fowle succeeded Alfred Moore Scales . Mr. Scales alma mater was the University of North Carolina at Chapel Hill.</lex>
+      <lex comment="good" lid="Id3">Daniel Gould Fowle is the successor to Alfred Moore Scales, the alma mater of whom, was the University of North Carolina at Chapel Hill.</lex>
+    </entry>
+    <entry category="Politician" eid="Id210" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</mtriple>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Daniel Gould Fowle is the successor to Alfred Moore Scales, the Governor of North Carolina.</lex>
+      <lex comment="good" lid="Id2">Daniel Gould Fowle suceeded Alfred Moore Scales, who was the Governor of North Carolina.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales was Governor of North Carolina and was succeeded by Daniel Gould Fowle.</lex>
+    </entry>
+    <entry category="Politician" eid="Id211" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</otriple>
+        <otriple>Daniel_Gould_Fowle | almaMater | Princeton_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | Daniel_Gould_Fowle</mtriple>
+        <mtriple>Daniel_Gould_Fowle | almaMater | Princeton_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales was succeeded by Daniel Gould Fowle, his alma mater is Princeton University.</lex>
+      <lex comment="good" lid="Id2">Daniel Gould Fowle, attended Princeton University, and suceeded Alfred Moore Scales.</lex>
+      <lex comment="good" lid="Id3">Daniel Gould Fowle attended Princeton University and he succeeded Alfred Moore Scales.</lex>
+    </entry>
+    <entry category="Politician" eid="Id212" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"</otriple>
+        <otriple>Alfred_Moore_Scales | successor | James_Madison_Leach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | successor | James_Madison_Leach</otriple>
+        <otriple>Alfred_Moore_Scales | office | "Governor of North Carolina"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | successor | James_Madison_Leach</mtriple>
+        <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alfred Moore Scales was Governor of North Carolina, and was succeeded by James Madison Leach.</lex>
+      <lex comment="good" lid="Id2">Governor Alfred Moore Scales of North Carolina was succeeded by James Madison Leach.</lex>
+      <lex comment="good" lid="Id3">Alfred Moore Scales was Governor of North Carolina and he was succeeded by James Madison Leach.</lex>
+    </entry>
+    <entry category="Politician" eid="Id222" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers, who worked as the Governor of Texas, was born in Lufkin, Texas.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers, born in Lufkin, Texas, worked as the Governor of Texas.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was Governor of Texas, and his birth place was Lufkin, Texas.</lex>
+    </entry>
+    <entry category="Politician" eid="Id223" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Lieutenant Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was born in Lufkin Texas, where he was Lieutenant Governor.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers, who wsa born in Lufkin, Texas, was Lieutenant Governor of Texas.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was born in Lufkin, Texas where he as Lieutenant Governor.</lex>
+    </entry>
+    <entry category="Politician" eid="Id224" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allan_Shivers | birthPlace | Lufkin,_Texas</otriple>
+        <otriple>Allan_Shivers | office | "Member of the Texas State Senate from District 4"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was born in Lufkin, Texas and was a member of the Texas State Senate from District 4 (Port Arthur).</lex>
+      <lex comment="good" lid="Id2">Allan Shivers who worked as a member of the Texas State Senate from District 4 (Port Arthur), was born in Lufkin, Texas.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was a member of the Texas State Senate District 4 for Port Arthur and was born in Lufkin Texas.</lex>
+    </entry>
+    <entry category="Politician" eid="Id228" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
+        <otriple>Allan_Shivers | successor | Ben_Ramsey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+        <mtriple>Allan_Shivers | successor | Ben_Ramsey</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was part of the Texas State Senate District 4 for Port Arthur. Ben Ramsey succeeded him.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers worked as a member of the Texas State Senate from District 4 (Port Arthur) he was succeed by Ben Ramsey.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was a member of the Texas State Senate District 4 for Port Arthur and Ben Ramsey succeeded him.</lex>
+    </entry>
+    <entry category="Politician" eid="Id229" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was a member of the Texas State Senate District 4 for Port Arthur and he was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers, a member of the Texas State Senate District 4 for Port Arthur, was succeeded by Price Daniel.</lex>
+    </entry>
+    <entry category="Politician" eid="Id230" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | office | "Member of theTexas State SenatefromDistrict 4(Port Arthur)"</otriple>
+        <otriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Member of the Texas State Senate from District 4 (Port Arthur)"</mtriple>
+        <mtriple>Allan_Shivers | successor | Wilfred_R._Cousins,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Wilfred R. Cousins, Jr. was the successor of Allan Shivers, who was a member of the Texas State Senate District 4 for Port Arthur.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was a part of the Texas State Senate District 4 for Port Arthur. Wilfred R. Cousins, Jr. succeeded him.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers worked as a member of the Texas State Senate from District 4 (Port Arthur) and was succeeded by Wilfred R. Cousins, Jr.</lex>
+    </entry>
+    <entry category="Politician" eid="Id231" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | successor | Ben_Ramsey</otriple>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | successor | Ben_Ramsey</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Lieutenant Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was Lieutenant Governor of Texas and was succeeded by Ben Ramsey.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was Lieutenant Governor of Texas and was succeded by Ben Ramsey.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers, was Lieutenant Governor of Texas, and his successor was Ben Ramsey.</lex>
+    </entry>
+    <entry category="Politician" eid="Id232" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | office | "Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers was the Governor of Texas and his successor was Price Daniel.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers was Governor of Texas and was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers worked as the Governor of Texas and was succeeded by Price Daniel.</lex>
+    </entry>
+    <entry category="Politician" eid="Id233" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allan_Shivers | successor | Price_Daniel</otriple>
+        <otriple>Allan_Shivers | office | "Lieutenant Governor of Texas"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | successor | Price_Daniel</mtriple>
+        <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Lieutenant Governor of Texas"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Allan Shivers, was Lieutenant Governor of Texas and was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers, a Lieutenant Governor of Texas, was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was Lieutenant Governer of Texas and was succeeded by Price Daniel.</lex>
+    </entry>
+  </entries>
+</benchmark>

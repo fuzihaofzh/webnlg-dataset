@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="City" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Anderson,_Indiana | isPartOf | Richland_Township,_Madison_County,_Indiana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anderson,_Indiana | isPartOf | Richland_Township,_Madison_County,_Indiana</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Anderson is within Richland Township, Madison County, Indiana.</lex>
+      <lex comment="good" lid="Id2">Anderson is part of Richland Township, Madison County, Indiana.</lex>
+    </entry>
+    <entry category="City" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | populationDensity | "1472.0"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | populationDensity | 1472.0 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arlington, Texas, has a population density, of 1472.0 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">There are 1472 people per square kilometer in Arlington, Texas.</lex>
+      <lex comment="good" lid="Id3">The population density of Arlington, Texas is 1472 inhabitants per square kilometre.</lex>
+    </entry>
+    <entry category="City" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlanta | leaderName | Kasim_Reed</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlanta | leader | Kasim_Reed</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Kasim Reed is the leader in Atlanta.</lex>
+      <lex comment="good" lid="Id2">Kasim Reed is the leader of Atlanta.</lex>
+    </entry>
+    <entry category="City" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | areaTotal | "44.125"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Atlantic City, New Jersey has a total area of 44.125 (square kilometres).</lex>
+      <lex comment="good" lid="Id2">The total area of Atlantic City, New Jersey is 44.125 square kilometres.</lex>
+      <lex comment="good" lid="Id3">The total area of Atlantic City, New Jersey, is 44.125 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Michigan is in the United states.</lex>
+      <lex comment="good" lid="Id2">Michigan is in the U.S.</lex>
+      <lex comment="good" lid="Id3">Michigan is found within the United States.</lex>
+    </entry>
+    <entry category="City" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Michigan | largestCity | Detroit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | largestCity | Detroit</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Detroit is the largest city in Michigan.</lex>
+    </entry>
+    <entry category="City" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaCode | 325</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | areaCode | 325</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The area code of Abilene, in Texas, is 325.</lex>
+      <lex comment="good" lid="Id2">325 is the area code for Abilene, Texas.</lex>
+      <lex comment="good" lid="Id3">The area code for Abilene in Texas is 325.</lex>
+    </entry>
+    <entry category="City" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaWater | 1.42e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | areaOfWater | 14.2 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">There are 14.2 square kilometers of water in Abilene, Texas.</lex>
+      <lex comment="good" lid="Id2">Abilene, Texas has a water area of 14.2 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Abilene, Texas has an area of water that is 14.2 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | areaTotal | "286.4526850031616"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abilene (Texas) has a total area of 286.5 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Abilene in Texas has a total area of 286.5 SqK.</lex>
+      <lex comment="good" lid="Id3">Abilene, Texas has a total area of 286.5 sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | elevation | "523.951"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | elevationAboveTheSeaLevel | 524.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abilene Texas is 524m above sea level.</lex>
+      <lex comment="good" lid="Id2">Abilene, Texas is 524.0 above sea level.</lex>
+      <lex comment="good" lid="Id3">Abilene, Texas is situated at 524.0 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abilene,_Texas | populationDensity | "429.9"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The total population density of Abilene, Texas is 429.9 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id2">Albilene, Texas has a population density of 429.9 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">Abilene, Texas, has a population density of 429.9 (inhabitants per square kilometre).</lex>
+    </entry>
+    <entry category="City" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaCode | "234, 330"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | areaCode | 234, 330</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The area codes in Akron, Ohio are 234 and 330.</lex>
+    </entry>
+    <entry category="City" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaWater | "880000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | areaOfWater | 0.88 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akron in Ohio has .88 square kilometres of water.</lex>
+      <lex comment="good" lid="Id2">The area of water with Akron, Ohio, is .88 sq. km.</lex>
+      <lex comment="good" lid="Id3">There is 0.88 square km of water in Akron, Ohio.</lex>
+    </entry>
+    <entry category="City" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | areaTotal | "161.53755844165633"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | areaTotal | 161.54 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akron, Ohio has a total area of 161.54 square kilometres.</lex>
+      <lex comment="good" lid="Id2">The total area of Akron Ohio is 161.54 Sq Km.</lex>
+      <lex comment="good" lid="Id3">The total area of Akron, Ohio is 161.54 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | elevation | "306.019"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | elevationAboveTheSeaLevel | 306.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Akron, Ohio is at a height of 306.0 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | populationDensity | "1239.35"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | populationDensity | 1239.3 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The population density, of Akron (Ohio), is 1239.3 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">The population density of Akron, Ohio is 1239.3 inhabitants per square km.</lex>
+    </entry>
+    <entry category="City" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaCode | 541458</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | areaCode | 541, 458</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albany, Oregon has area codes 541 and 458.</lex>
+      <lex comment="good" lid="Id2">The area codes for Albany, Oregon are 541 and 458.</lex>
+    </entry>
+    <entry category="City" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaWater | "540000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | areaOfWater | 0.54 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">There is .54 square kilometers of water in Albany, Oregon.</lex>
+      <lex comment="good" lid="Id2">Albany, Oregon has a water area of 0,54 square kilometres.</lex>
+      <lex comment="good" lid="Id3">The area of water in Albany, Oregon, is 0.54 (square kilometres).</lex>
+    </entry>
+    <entry category="City" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | areaTotal | 4.59723e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | areaTotal | 45.97 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albany, Oregon has a total area of 45.97 square kilometres.</lex>
+      <lex comment="good" lid="Id2">The total area of Albany Oregon is 45.97 Sq K.</lex>
+      <lex comment="good" lid="Id3">The total area of Albany, Oregon is 45.97 sq kms.</lex>
+    </entry>
+    <entry category="City" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | elevation | "64.008"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | elevationAboveTheSeaLevel | 64.008</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albany, Oregon is 64,008 above sea level.</lex>
+      <lex comment="good" lid="Id2">Albany, Oregon is located at 64.008 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Albany,_Oregon | populationDensity | "1104.1"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The population density of Albany, in Oregon, is 1104.1 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Albany is located in Oregon, where the population density is 1104.1 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">The population density for Albany, Oregon is 1104.1 inhabitants per sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaCode | 765</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alexandria,_Indiana | areaCode | 765</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The area code for Alexandria, Indiana is 765.</lex>
+      <lex comment="good" lid="Id2">The area code of Alexandria, Indiana is 765.</lex>
+    </entry>
+    <entry category="City" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | areaTotal | 6.81e+06</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alexandria,_Indiana | areaTotal | 6.81 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alexandria, in Indiana, has a total area of 6,81 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Alexandria in Indiana occupies 6.81 square kilometers.</lex>
+      <lex comment="good" lid="Id3">The total area of Alexandria, Indiana is 6.81 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | elevation | "265.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alexandria,_Indiana | elevationAboveTheSeaLevel | 265.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alexandria, Indiana is 265m above sea level.</lex>
+      <lex comment="good" lid="Id2">Alexandria, Indiana is located at 265.0 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alexandria,_Indiana | populationDensity | "755.3"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alexandria,_Indiana | populationDensity | 755.3 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alexandria, Indiana has a population density of 755.3 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">The population density of Alexandria, Indiana is 755.3 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id3">The population density of Alexandria, Indiana, is 755.3 (inhabitants per square kilometer).</lex>
+    </entry>
+    <entry category="City" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaCode | 770404678</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | areaCode | 770, 404, 678</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpharetta, Georgia has area codes 770, 404, and 678.</lex>
+      <lex comment="good" lid="Id2">The area codes for Alpharetta, Georgia are 770, 404 and 678.</lex>
+    </entry>
+    <entry category="City" eid="Id59" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaWater | "100000.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | areaOfWater | 1.0 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpharetta, Georgia has an area of water 1.0 sq km.</lex>
+      <lex comment="good" lid="Id2">Alpharetta, Georgia has a total area of water of 1.0 sq km.</lex>
+      <lex comment="good" lid="Id3">The area of water in Alpharetta, Georgia, is 1.0 (square kilometres).</lex>
+    </entry>
+    <entry category="City" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | areaTotal | 5.54e+07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | areaTotal | 55.4 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The total area of Alpharetta, Georgia is 55.4 SqKm.</lex>
+      <lex comment="good" lid="Id2">The area of Alpharetta, Georgia is 55.4 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Alpharetta in Georgia has a total area of 55.4 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | elevation | "345.948"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | elevationAboveTheSeaLevel | 346.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Alpharetta, Georgia is elevated 346.0 above sea level.</lex>
+      <lex comment="good" lid="Id2">Alpharetta, Georgia is located at 346.0 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpharetta,_Georgia | populationDensity | "992.6"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">There are 992.6 people per square kilometres in Alpharetta, Georgia.</lex>
+      <lex comment="good" lid="Id2">Alpharetta, Georgia has a population density of 992.6 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">The population density in Alpharetta, Georgia is 992.6 inhabitants per sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id109" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | areaCode | "734"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | areaCode | 734</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The area code for Ann Arbor Michigan is 734.</lex>
+      <lex comment="good" lid="Id2">734 is the area code for Ann Arbor, Michigan.</lex>
+    </entry>
+    <entry category="City" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | areaTotal | "74.3326587666432"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor, Michigan has a total area of 74.33 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor (Michigan), has a total area of 74.33 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor in Michigan has a total area of 74.33 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is in Michigan.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is part of Michigan.</lex>
+    </entry>
+    <entry category="City" eid="Id112" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | subdivisionName | Washtenaw_County,_Michigan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County in Michigan.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, Michigan is part of Washtenaw County.</lex>
+    </entry>
+    <entry category="City" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderName | Christopher_Taylor_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leader | Christopher_Taylor_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Christopher Taylor, politician, leads Ann Arbor, Michigan.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, Michigan is led by the politician Christopher Taylor.</lex>
+    </entry>
+    <entry category="City" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | "City Administrator"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A City Administrator leads Ann Arbor, Michigan.</lex>
+      <lex comment="good" lid="Id2">The City Administrator leads Ann Arbor in Michigan.</lex>
+    </entry>
+    <entry category="City" eid="Id115" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | City_manager</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | City_Manager</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The city manager is the leader of Ann Arbor, Michigan.</lex>
+      <lex comment="good" lid="Id2">The title of the leader of Ann Arbor in Michigan is the City Manager.</lex>
+      <lex comment="good" lid="Id3">City Manager is the leader title in Ann Arbor, Michigan.</lex>
+    </entry>
+    <entry category="City" eid="Id116" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | leaderTitle | "Mayor"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | leaderTitle | Mayor</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Mayor, is the title of the leader in Ann Arbor, Michigan.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, Michigan is led by the Mayor.</lex>
+      <lex comment="good" lid="Id3">The leader title of Ann Arbor, Michigan, is Mayor.</lex>
+    </entry>
+    <entry category="City" eid="Id117" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ann_Arbor,_Michigan | populationDensity | "1580.7"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The city of Ann Arbor, Michigan, has a population of 1580.7 as per square kilometre.</lex>
+      <lex comment="good" lid="Id2">AnnArbor, Michigan has a population of 1580.7 peer square kilometer.</lex>
+      <lex comment="good" lid="Id3">The population density of Ann Arbor, Michigan is 1580.7 inhabitants per sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id128" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaCode | "682, 817,214, 469, 972"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | areaCode | 682, 817, 214, 469, 972</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Area codes for Arlington, Texas are: 682, 817, 214, 469 and 972.</lex>
+      <lex comment="good" lid="Id2">The area codes for Arlington, Texas are 682, 817, 214, 469 and 972.</lex>
+      <lex comment="good" lid="Id3">The area codes for Arlington, Texas are 682, 817, 214, 469, 972.</lex>
+    </entry>
+    <entry category="City" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaWater | 8.3e+06</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | areaOfWater | 82.8 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arlington, Texas has a water area of 82.8 square kilometres.</lex>
+      <lex comment="good" lid="Id2">The area of water within Arlington Texas is 82.8 sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id130" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | areaTotal | 2.58222e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | areaTotal | 258.2 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The total area of Arlington (Texas) is 258.3 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Arlington Texas has an area of 258.2 SqK.</lex>
+      <lex comment="good" lid="Id3">The total area of Arlington in Texas is 258.2 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arlington,_Texas | elevationAboveTheSeaLevel | 184.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arlington Texas is has an elevation of 184 above sea level.</lex>
+      <lex comment="good" lid="Id2">Arlington in Texas is located at 184.0 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlanta | leaderName | Atlanta_City_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlanta | leader | Atlanta_City_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of Atlanta is the Atlanta City Council.</lex>
+      <lex comment="good" lid="Id2">Atlanta is led by Atlanta City Council.</lex>
+    </entry>
+    <entry category="City" eid="Id145" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | areaCode | "609"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | areaCode | 609</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The area code in Atlantic City (New Jersey) is 609.</lex>
+      <lex comment="good" lid="Id2">609 is the area code of Atlantic City, N.J.</lex>
+      <lex comment="good" lid="Id3">The area code of Atlantic City, New Jersey, is 609.</lex>
+    </entry>
+    <entry category="City" eid="Id148" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | leader | Don_Guardian</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Don Guardian is the leader of Atlantic City (New Jersey).</lex>
+      <lex comment="good" lid="Id2">The leader of Atlantic City, New Jersey is Don Guardian.</lex>
+      <lex comment="good" lid="Id3">The leader in Atlantic City, New Jersey is Don Guardian.</lex>
+    </entry>
+    <entry category="City" eid="Id149" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader's title in Atlantic City (New Jersey) is Clerk, which is a municipal official.</lex>
+      <lex comment="good" lid="Id2">A Clerk (municipal official) is the leader of Atlantic City, N.J.</lex>
+      <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey.</lex>
+    </entry>
+    <entry category="City" eid="Id150" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">"Mayor" is the title of the leader in Atlantic City, New Jersey.</lex>
+      <lex comment="good" lid="Id2">The municipal leader of Atlantic City, New Jersey is known as the Mayor.</lex>
+    </entry>
+    <entry category="City" eid="Id151" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Atlantic_City,_New_Jersey | populationDensity | "1421.2"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City,_New_Jersey | populationDensity | 1421.2 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Atlantic City, in New Jersey, has a population density of 1421.2 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Atlantic City, New Jersey, has a population of 1421.2 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">The population density of Atlantic City, New Jersey is 1421.2 inhabitants per square kilometre.</lex>
+    </entry>
+    <entry category="City" eid="Id160" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaCode | 334</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | areaCode | 334</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Auburn, Alabama, has the area code, 334.</lex>
+      <lex comment="good" lid="Id2">The area code for Auburn, Alabama is 334.</lex>
+    </entry>
+    <entry category="City" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaWater | 1.7e+06</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | areaOfWater | 1.7 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1.7 square kilometres is the area of water in Auburn, Alabama.</lex>
+      <lex comment="good" lid="Id2">Auburn, Alabama has an area of water that is 1.7 km.</lex>
+      <lex comment="good" lid="Id3">There is a total area of 1.7 square kilometres of water in Auburn, Alabama.</lex>
+    </entry>
+    <entry category="City" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | areaTotal | "140.8"^^&lt;http://dbpedia.org/datatype/squareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | areaTotal | 140.8 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The total area of the city Auburn, in Alabama, is 140.8 square kilometres.</lex>
+      <lex comment="good" lid="Id2">The total area of Auburn, Alabama is 140.8 Sq Km.</lex>
+      <lex comment="good" lid="Id3">The total area of Auburn, Alabama is 140.8 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | elevation | "214.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | elevationAboveTheSeaLevel | 214.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Auburn Alabama has an elevation above sea level of 214.</lex>
+      <lex comment="good" lid="Id2">Auburn, Alabama is located at 214.0 above sea level.</lex>
+    </entry>
+    <entry category="City" eid="Id166" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Auburn,_Alabama | populationDensity | "368.65"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auburn,_Alabama | populationDensity | 368.65 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Population density in Auburn,Alabama is 368.65 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Auburn, Alabama has a population density of 368.65 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id3">The population density of the city, Auburn in Alabama is 368.65 (inhabitants per square kilometre).</lex>
+    </entry>
+    <entry category="City" eid="Id174" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaCode | 512</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | areaCode | 512</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The area code of Austin (Texas), is 512.</lex>
+      <lex comment="good" lid="Id2">The area code for Austin, Texas is 512.</lex>
+      <lex comment="good" lid="Id3">The area code of Austin, Texas, is 512.</lex>
+    </entry>
+    <entry category="City" eid="Id175" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaCode | "512 &amp; 737"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | areaCode | 512, 737</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ares codes of Austin (Texas) are 512 and 737.</lex>
+    </entry>
+    <entry category="City" eid="Id176" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaLand | 6.86088e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | areaOfLand | 686.0 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Austin, Texas has a land area of 686 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Austin, Texas has a area of land that measures 686.0 (square kilometers).</lex>
+      <lex comment="good" lid="Id3">Austin, Texas covers 686.0 square kilometres of land.</lex>
+    </entry>
+    <entry category="City" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Austin,_Texas | areaTotal | 7.03959e+08</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The area of Austin, Texas is 703.95 (square kilometres).</lex>
+      <lex comment="good" lid="Id2">Austin, Texas has a total area of 703.95 square kilometres.</lex>
+    </entry>
+    <entry category="City" eid="Id184" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Austin,_Texas | populationDensity | "1296.654601076267"^^&lt;http://dbpedia.org/datatype/inhabitantsPerSquareKilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The population density, of Austin (Texas), is 1296.65 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Austin in Texas has a population of 1296.65 people per square kilometer.</lex>
+      <lex comment="good" lid="Id3">The population density of Austin, Texas, is 1296.65 inhabitants per sq km.</lex>
+    </entry>
+    <entry category="City" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Linn_County,_Oregon | largestCity | Albany,_Oregon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Linn_County,_Oregon | largestCity | Albany,_Oregon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Albany is the largest city in Linn County, Oregon.</lex>
+      <lex comment="good" lid="Id2">Albany is the largest city in Linn county which is in Oregon.</lex>
+      <lex comment="good" lid="Id3">The largest city in Linn County, Oregon, is Albany.</lex>
+    </entry>
+    <entry category="City" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Michigan | capital | Lansing,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Lansing is the capital of Michigan.</lex>
+      <lex comment="good" lid="Id2">The capital of Michigan is Lansing.</lex>
+    </entry>
+    <entry category="City" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Michigan | language | Arabic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | language | Arabic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Arabic is a language found in Michigan.</lex>
+      <lex comment="good" lid="Id2">Arabic is spoken in Michigan.</lex>
+      <lex comment="good" lid="Id3">The language used in Michigan is Arabic.</lex>
+    </entry>
+    <entry category="City" eid="Id223" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Michigan | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The English language is spoken in Michigan.</lex>
+      <lex comment="good" lid="Id2">English is the language spoken in Michigan.</lex>
+    </entry>
+    <entry category="City" eid="Id224" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Michigan | language | Spanish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michigan | language | Spanish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Spanish is one of the languages spoken in Michigan.</lex>
+      <lex comment="good" lid="Id2">Spanish is a language spoken in Michigan.</lex>
+      <lex comment="good" lid="Id3">The Spanish language is spoken in Michigan.</lex>
+    </entry>
+    <entry category="City" eid="Id239" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Potter_County,_Texas | countySeat | Amarillo,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Potter_County,_Texas | countySeat | Amarillo,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amarillo is the county seat of Potter County which is in Texas.</lex>
+      <lex comment="good" lid="Id2">Amarillo is the county seat for Potter County, Texas.</lex>
+    </entry>
+    <entry category="City" eid="Id243" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Richland_Township,_Madison_County,_Indiana | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Richland_Township,_Madison_County,_Indiana | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Richland Township is in Madison County, Indiana, U.S.</lex>
+      <lex comment="good" lid="Id2">Richland Township, in Madison County, Indiana is in the United States.</lex>
+      <lex comment="good" lid="Id3">Richland Township, Madison County, Indiana is located within the United States.</lex>
+    </entry>
+    <entry category="City" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Taylor_County,_Texas | largestCity | Abilene,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Taylor_County,_Texas | largestCity | Abilene,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Abilene is the largest city, in Taylor County, Texas.</lex>
+      <lex comment="good" lid="Id2">Abilene is the largest city in Taylor County, Texas.</lex>
+    </entry>
+    <entry category="City" eid="Id253" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Travis_County,_Texas | countySeat | Austin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Travis_County,_Texas | countySeat | Austin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Austin is the county seat of Travis County, in Texas.</lex>
+      <lex comment="good" lid="Id2">The County Seat for Travis County is in Austin, Texas.</lex>
+    </entry>
+    <entry category="City" eid="Id254" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Travis_County,_Texas | largestCity | Austin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Travis_County,_Texas | largestCity | Austin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Austin is the largest city in Travis County, Texas.</lex>
+      <lex comment="good" lid="Id2">Austin, Texas is the largest city in Travis County, Texas.</lex>
+      <lex comment="good" lid="Id3">The largest city in Travis County, Texas, is Austin.</lex>
+    </entry>
+    <entry category="City" eid="Id271" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Washtenaw_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Washtenaw_County,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Washtenaw County, Michigan is in the United States.</lex>
+      <lex comment="good" lid="Id2">Washtenaw County in Michigan is located within the United States.</lex>
+    </entry>
+    <entry category="City" eid="Id272" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Washtenaw_County,_Michigan | largestCity | Ann_Arbor,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Washtenaw_County,_Michigan | largestCity | Ann_Arbor,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ann Arbor is the largest city in Washtenaw County, Michigan.</lex>
+      <lex comment="good" lid="Id2">The largest town in Washtenaw county Michigan is Ann Arbor.</lex>
+      <lex comment="good" lid="Id3">The largest city in Washtenaw County, Michigan is Ann Arbor.</lex>
+    </entry>
+  </entries>
+</benchmark>

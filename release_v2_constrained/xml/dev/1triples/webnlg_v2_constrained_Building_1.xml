@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa.</lex>
+      <lex comment="good" lid="Id2">The address, 11 Diagonal Street is located in South Africa.</lex>
+    </entry>
+    <entry category="Building" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was the architect of the grounds of Asilomar Conference.</lex>
+      <lex comment="good" lid="Id2">The architect of Asilomar Conference Grounds was Julia Morgan.</lex>
+    </entry>
+    <entry category="Building" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds is designed based on the architecture style of "Arts and Crafts Movement and American craftsman Bungalows".</lex>
+      <lex comment="good" lid="Id2">The architecture of Asilomar Conference Grounds is of the "Arts and Crafts Movement and American Craftsman Bungalows".</lex>
+    </entry>
+    <entry category="Building" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | built | 1913</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asilomar Conference Grounds were constructed in 1913.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds was constructed in 1913.</lex>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Mulatu Teshome is an Ethiopian leader.</lex>
+      <lex comment="good" lid="Id2">The name of the leader in Ethiopia is Mulatu Teshome.</lex>
+    </entry>
+    <entry category="Building" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building.</lex>
+    </entry>
+    <entry category="Building" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pacific_Grove,_California | isPartOf | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pacific_Grove,_California | isPartOf | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Pacific Grove, California is part of California.</lex>
+      <lex comment="good" lid="Id2">Pacific Grove is part of California.</lex>
+    </entry>
+    <entry category="Building" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroups | White_South_African</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The white South Africans are an ethnic group of South Africa.</lex>
+      <lex comment="good" lid="Id2">One of the ethnic groups in South Africa is White South Africans.</lex>
+    </entry>
+    <entry category="Building" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa is located in Ethiopia.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa is in Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id82" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa Stadium is part of Addid Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa Stadium is situated in Addis Ababa.</lex>
+      <lex comment="good" lid="Id3">The Addis Ababa Stadium is part of Addis Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in the country of Ethiopia.</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa City Hall is in the country of Ethiopia.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall is in Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id90" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id142" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds has the reference number 87000823 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id2">The reference number in the the National Register of Historic Places for Asilomar Conference Grounds is 87000823.</lex>
+      <lex comment="good" lid="Id3">"87000823" is Asilomar Conference Grounds' reference number in the National Register of Historic Places.</lex>
+    </entry>
+    <entry category="Building" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asilomar Conference Grounds were added to the National Register of Historic Places on 27 February 1987.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+    </entry>
+    <entry category="Building" eid="Id144" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asilomar Conference Grounds have the architectural style of American Craftsman.</lex>
+    </entry>
+    <entry category="Building" eid="Id145" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.</lex>
+      <lex comment="good" lid="Id3">The Asilomar Conference Grounds are in the architectural style of the Arts and Crafts Movement.</lex>
+    </entry>
+    <entry category="Building" eid="Id146" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grouns is located at Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id3">The location of Asilomar Conference Grounds is Asilomar Blvd., Pacific Grove, California.</lex>
+    </entry>
+    <entry category="Building" eid="Id147" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asilomar Conference Grounds is located at Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds are located in Pacific Grove, California.</lex>
+    </entry>
+    <entry category="Building" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ethiopia | currency | Ethiopian_birr</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | currency | Ethiopian_birr</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ethiopia's currency is the Ethiopian Birr.</lex>
+      <lex comment="good" lid="Id2">The Ethiopian birr is the money used in Ethiopia.</lex>
+      <lex comment="good" lid="Id3">The currency of Ethiopia is the Ethiopian birr.</lex>
+    </entry>
+    <entry category="Building" eid="Id194" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ethiopia | officialLanguage | Amharic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amharic is a language found in Ethiopia.</lex>
+      <lex comment="good" lid="Id2">The language spoken in Ethiopia is Amharic.</lex>
+      <lex comment="good" lid="Id3">Amharic is the language of Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id195" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The leader of Ethiopia is Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id216" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The birth place of Julia Morgan is California.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was born in California.</lex>
+    </entry>
+    <entry category="Building" eid="Id217" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was born in San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of the significant buildings designed by Julia Morgan is the Asilomar State Beach.</lex>
+    </entry>
+    <entry category="Building" eid="Id219" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julie Morgan designed significant buildings in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan is the architect behind Chinatown in San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id220" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Riverside Art Musuem is one of Julia Morgan's significant buildings.</lex>
+    </entry>
+    <entry category="Building" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantProject | Hearst_Castle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Hearst Castle was a significant project of Julia Morgan.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was the architect of the landmark Hearst Castle.</lex>
+      <lex comment="good" lid="Id3">Hearst Castle was a significant project for Julia Morgan.</lex>
+    </entry>
+    <entry category="Building" eid="Id235" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pacific_Grove,_California | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pacific_Grove,_California | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Pacific Grove, California is in the United States.</lex>
+      <lex comment="good" lid="Id2">Pacific Grove, California is located in the United States.</lex>
+    </entry>
+    <entry category="Building" eid="Id242" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cape Town is the capital of South Africa.</lex>
+      <lex comment="good" lid="Id2">The capital of South Africa is Cape Town.</lex>
+    </entry>
+    <entry category="Building" eid="Id244" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroups | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">In South Africa there is an ethnic group of Asian South Africans.</lex>
+      <lex comment="good" lid="Id2">One of the ethnic groups within South Africa is Asian South Africans.</lex>
+    </entry>
+    <entry category="Building" eid="Id245" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">One of South Africa's ethnic groups are the Coloured.</lex>
+      <lex comment="good" lid="Id2">Coloured people are an ethnic group in South Africa.</lex>
+    </entry>
+    <entry category="Building" eid="Id246" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cyril Ramaphosa is the leader of South Africa.</lex>
+      <lex comment="good" lid="Id2">Cyril Ramaphosa is one of the leaders of South Africa.</lex>
+      <lex comment="good" lid="Id3">The leader of South Africa is called Cyril Ramaphosa.</lex>
+    </entry>
+    <entry category="Building" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">South Africa's leader is called Jacob Zuma.</lex>
+      <lex comment="good" lid="Id2">The leader of South Africa is Jacob Zuma.</lex>
+      <lex comment="good" lid="Id3">Jacob Zuma is a leader in South Africa.</lex>
+    </entry>
+  </entries>
+</benchmark>

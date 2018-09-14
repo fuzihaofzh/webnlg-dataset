@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id140" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | 1999</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | "1999"^^xsd:gYear</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | "1999"^^xsd:gYear</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | 1999</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | "1999"^^xsd:gYear</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | year | 1999</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | "1999"^^xsd:gYear</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | "1999"^^xsd:gYear</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | "1999"^^xsd:gYear</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | protein | "1.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | protein | "1.8"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | servingSize | "30.0"^^xsd:double</otriple>
+        <otriple>Barny_Cakes | year | 1999</otriple>
+        <otriple>Barny_Cakes | fat | "4.8"^^&lt;http://dbpedia.org/datatype/gram&gt;</otriple>
+        <otriple>Barny_Cakes | carbohydrate | "18.0"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
+        <mtriple>Barny_Cakes | servingSize | 30.0 g</mtriple>
+        <mtriple>Barny_Cakes | year | 1999</mtriple>
+        <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
+        <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Barny cakes, which were invented in 1999 can be served in 30g sizes and these contain 1.8g of protein, 18.0g of carbohydrates and 4.8g of fat.</lex>
+    </entry>
+  </entries>
+</benchmark>

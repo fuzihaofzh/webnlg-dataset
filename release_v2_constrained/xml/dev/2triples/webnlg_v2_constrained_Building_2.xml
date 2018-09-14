@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addis Ababa City Hall is located in Addis Ababa, Ethiopia.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | capital | Cape_Town</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | capital | Cape_Town</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Cape Town is the capital of South Africa where 11 Diagonal Street is located.</lex>
+    </entry>
+    <entry category="Building" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, where there is an ethnic group of Asian South Africans.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is found in South Africa where one of the ethnic groups is Asian South Africans.</lex>
+      <lex comment="good" lid="Id3">There is an ethnic group of Asian South Africans and the address 11 Diagonal Street is also located in South Africa.</lex>
+    </entry>
+    <entry category="Building" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is in South Africa. One South African group is the Coloured.</lex>
+      <lex comment="good" lid="Id2">The address, 11 Diagonal Street is located in South Africa which is home to some coloured people.</lex>
+    </entry>
+    <entry category="Building" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroup | White_South_African</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa where white South Africans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">The address, 11 Diagonal Street is located in South Africa where White South Africans are one of the ethnic groups.</lex>
+    </entry>
+    <entry category="Building" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, which has Cyril Ramaphosa as a leader.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, a country led by Cyril Ramaphosa.</lex>
+      <lex comment="good" lid="Id3">The address, 11 Diagonal Street is located in South Africa, the country that has Cyril Ramaphosa as one of its leaders.</lex>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, where the leader is called Jacob Zuma.</lex>
+      <lex comment="good" lid="Id2">Jacob Zuma is the leader of South Africa which is also the location of 11 Diagonal Street.</lex>
+      <lex comment="good" lid="Id3">The address, 11 Diagonal Street is located in South Africa, which is led by Jacob Zuma.</lex>
+    </entry>
+    <entry category="Building" eid="Id95" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Both the Addis Ababa Stadium and the Addis Ababa City Hall are located in Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa.</lex>
+    </entry>
+    <entry category="Building" eid="Id98" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | currency | Ethiopian_birr</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Ethiopia | currency | Ethiopian_birr</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Ethiopia, where the currency is the Ethiopian birr.</lex>
+      <lex comment="good" lid="Id2">The Ethiopian Birr is the currency of Ethiopia while The Addis Ababa City Hall is also located in Ethiopia.</lex>
+      <lex comment="good" lid="Id3">The Addis Ababa City Hall is in the country of Ethiopia, where the currency is the Ethiopian Birr.</lex>
+    </entry>
+    <entry category="Building" eid="Id99" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | officialLanguage | Amharic</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addis Ababa City Hall is in the country of Ethiopia, where Amharic is spoken.</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa City Hall is in Ethiopia where they speak Amharic.</lex>
+      <lex comment="good" lid="Id3">The language of Ethiopia is Amharic and the Addis Ababa City Hall is located in Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id102" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Addis Ababa City Hall is located in Addis Ababa, Ethiopia.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa city hall is located in the city of Addis Ababa which is in the country of Ethiopia.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id153" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was born in California and is the architect of Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds was designed by Julia Morgan, who was born in California.</lex>
+    </entry>
+    <entry category="Building" eid="Id154" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan from San Francisco was the designer of the Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id2">The architect of Asilomar Conference Grounds was Julia Morgan, who was born in San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id155" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar State Beach is one of the significant buildings designed by architect Julia Morgan, who also designed The Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.</lex>
+    </entry>
+    <entry category="Building" eid="Id156" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julie Morgan is the architect of Asilomar Conference Grounds and Chinatown in San Francisco.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was the architect behind Chinatown in San Francisco and the grounds of Asilomar Conference.</lex>
+      <lex comment="good" lid="Id3">The architect of Asilomar Conference Grounds was Julia Morgan who also designed significant buildings in Chinatown, San Francisco.</lex>
+    </entry>
+    <entry category="Building" eid="Id157" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan designed the Asilomar Conference Gardens, and the landmark Los Angeles Herald Examiner building in California.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building, and also designed Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id3">Julia Morgan is the architect of the grounds of the Asilomar Conference as well as many other significant buildings including the Los Angeles Herald Examiner building.</lex>
+    </entry>
+    <entry category="Building" eid="Id158" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Julia Morgan was the architect of the Asilomar Conference Grounds and The Riverside Art Museum.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan was the architect of the grounds of Asilomar Conference and The Riverside Art Musuem.</lex>
+    </entry>
+    <entry category="Building" eid="Id159" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds, Asilomar Blvd., Pacific Grove, California has a reference number in the National Register of Historic Places of: 87000823.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and it's reference number is 87000823 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id3">"87000823" is Asilomar Conference Grounds' reference number in the National Register of Historic Places, and it is located on Asilomar Blvd, Pacific Grove, California.</lex>
+    </entry>
+    <entry category="Building" eid="Id160" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds, which is located at Asilomar Blvd., Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+    </entry>
+    <entry category="Building" eid="Id161" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds, with the American Craftsman architectural style, is located at Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds, which has the architectural style of American Craftsman, is located at Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and has the architectural style of American Craftsman.</lex>
+    </entry>
+    <entry category="Building" eid="Id162" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | built | 1913</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was constructed in 1913.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA.</lex>
+    </entry>
+    <entry category="Building" eid="Id163" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | "87000823"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds are located in Pacific Grove, California and has the reference number 87000823 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located in Pacific Grove, California. 87000823 is it's reference number in the National Register of Historic Places.</lex>
+    </entry>
+    <entry category="Building" eid="Id164" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | "1987-02-27"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds at Pacific Grove, California was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds are located in Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds, Pacific Grove, California was added to the National Register of Historic Places on February 27, 1987.</lex>
+    </entry>
+    <entry category="Building" eid="Id165" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asilomar Conference Grounds, with an Arts and Crafts movement style architecture, is located at Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds, with an architectural style of the Arts and Crafts Movement, is located in Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds are located in Pacific Grove, California and has the architectural style of Arts and Crafts Movement.</lex>
+    </entry>
+    <entry category="Building" eid="Id166" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | built | 1913</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | yearOfConstruction | "1913"^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds were constructed in 1913 and are located in Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds, constructed in 1913, is located at Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id3">Constructed in 1913, the Asilomar Conference Grounds are located at Pacific Grove, California.</lex>
+    </entry>
+    <entry category="Building" eid="Id167" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Pacific_Grove,_California | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Pacific_Grove,_California | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Asilomar Conference Grounds is located at Pacific Grove, California in the United States.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds are in Pacific Grove, California in the United States.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds are located in Pacific Grove, California which is in the United States.</lex>
+    </entry>
+    <entry category="Building" eid="Id168" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Pacific_Grove,_California | isPartOf | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Pacific_Grove,_California | isPartOf | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds in Pacific Grove, CA is part of the state of California.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds is located at Pacific Grove, which is part of California.</lex>
+      <lex comment="good" lid="Id3">Asilomar Conference Grounds are located in Pacific Grove, a part of California.</lex>
+    </entry>
+    <entry category="Building" eid="Id181" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in the country of Ethiopia which is led by Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located.</lex>
+      <lex comment="good" lid="Id3">The leader of Ethipoia is Hailemarian Desalegn and Addis Ababa City Hall is also located in Ethiopia.</lex>
+    </entry>
+    <entry category="Building" eid="Id182" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Ethiopia whose leader is Malatu Teshome.</lex>
+      <lex comment="good" lid="Id2">The leader of Ethiopia is Malatu Teshome and The Addis Ababa City Hall is located in Ethiopia.</lex>
+      <lex comment="good" lid="Id3">The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en</otriple>
+        <otriple>A.C._Lumezzane | league | "Lega Pro/A"@en</otriple>
+        <otriple>A.C._Lumezzane | capacity | "4150"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en</otriple>
+        <otriple>A.C._Lumezzane | league | "Lega Pro/A"@en</otriple>
+        <otriple>A.C._Lumezzane | capacity | 4150</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"</mtriple>
+        <mtriple>A.C._Lumezzane | league | "Lega Pro/A"</mtriple>
+        <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The "Associazione Calcio Lumezzane SpA" is the full name of A.C. Lumezzane who play in Lega Pro/A and have 4150 members.</lex>
+      <lex comment="good" lid="Id2">Associazione Calcio Lumezzane SpA (abbreviated to A.C. Lumezzane) play in the Lega Pro/A and has 4150 members.</lex>
+      <lex comment="good" lid="Id3">The fullname of A.C. Lumezzane is Associazione Calcio Lumezzane SpA. It is in the Lega Pro/A league and has 4150 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | 1500</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.E. Dimitra Efxeinoupolis has 1500 members, is chaired by Antonis Milionis, and is located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id2">Antonis Milionis is chairman of A.E Dimitra Efxeinoupolis. they have 1500 members and their ground is located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id3">The ground of A.E. Dimitra Efxeinoupolis is located in Efeinoupoli, has 1500 members and its chairman is Antonis Milionis.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | manager | Dave_Challinor</otriple>
+        <otriple>Dave_Challinor | team | Stockport_County_F.C.</otriple>
+        <otriple>Dave_Challinor | managerClub | Colwyn_Bay_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | manager | Dave_Challinor</mtriple>
+        <mtriple>Dave_Challinor | club | Stockport_County_F.C.</mtriple>
+        <mtriple>Dave_Challinor | club | Colwyn_Bay_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Dave Challinor manages A.F.C. Fylde and plays at the Stockport County F.C. He is also at Colwyn Bay FC.</lex>
+      <lex comment="good" lid="Id2">Dave Challinor played for Stockport County F.C., is at Colwyn Bay FC and is the manager of AFC Fylde.</lex>
+      <lex comment="good" lid="Id3">Dave Challinor played for Stockport County F.C., is at Colwyn Bay FC and manages A.F.C Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Amsterdam</otriple>
+        <otriple>Amsterdam | leaderName | Eberhard_van_der_Laan</otriple>
+        <otriple>Amsterdam | part | Amsterdam-Centrum</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam | p | Amsterdam-Centrum</otriple>
+        <otriple>AFC_Ajax_(amateurs) | ground | Amsterdam</otriple>
+        <otriple>Amsterdam | leaderName | Eberhard_van_der_Laan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Amsterdam</mtriple>
+        <mtriple>Amsterdam | leader | Eberhard_van_der_Laan</mtriple>
+        <mtriple>Amsterdam | part | Amsterdam-Centrum</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ground of AFC Ajax (amateurs) can be found in Amsterdam. Amsterdam-Centrum is part of the city and its leader is Eberhard van der Laan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Amsterdam</otriple>
+        <otriple>Amsterdam | leaderName | Eberhard_van_der_Laan</otriple>
+        <otriple>Amsterdam | p | Amsterdam-Noord</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Amsterdam</otriple>
+        <otriple>Amsterdam | leaderName | Eberhard_van_der_Laan</otriple>
+        <otriple>Amsterdam | part | Amsterdam-Noord</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Amsterdam</mtriple>
+        <mtriple>Amsterdam | leader | Eberhard_van_der_Laan</mtriple>
+        <mtriple>Amsterdam | part | Amsterdam-Noord</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdam Noord is part of Amsterdam whose leader is Eberhard van der Laan. The city is the location of the homeground of AFC Ajax (amateurs).</lex>
+      <lex comment="good" lid="Id2">The ground of AFC Ajax (amateurs) can be found in Amsterdam, which has Eberhard van der Laan as leader, and a region called Amsterdam-Noord.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | league | 3._Liga</otriple>
+        <otriple>1._FC_Magdeburg | season | 2014</otriple>
+        <otriple>1._FC_Magdeburg | capacity | "27250"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | league | 3._Liga</otriple>
+        <otriple>1._FC_Magdeburg | season | 2014</otriple>
+        <otriple>1._FC_Magdeburg | capacity | 27250</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | league | 3._Liga</mtriple>
+        <mtriple>1._FC_Magdeburg | season | 2014</mtriple>
+        <mtriple>1._FC_Magdeburg | numberOfMembers | 27250</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1 FC Magdeburg has 27250 members and played in the 3 Liga League in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">1 FC Magdeburg is in the 3 Liga league. They played in the 2014 season and have 27250 members.</lex>
+      <lex comment="good" lid="Id3">1 FC Magdeburg is in the 3 Liga league, it played in the 2014 season and has 27250 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | league | 3._Liga</otriple>
+        <otriple>1._FC_Magdeburg | capacity | "27250"^^xsd:nonNegativeInteger</otriple>
+        <otriple>1._FC_Magdeburg | season | 2014–15_Regionalliga</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | league | 3._Liga</otriple>
+        <otriple>1._FC_Magdeburg | season | 2014–15_Regionalliga</otriple>
+        <otriple>1._FC_Magdeburg | capacity | 27250</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | league | 3._Liga</mtriple>
+        <mtriple>1._FC_Magdeburg | season | 2014–15_Regionalliga</mtriple>
+        <mtriple>1._FC_Magdeburg | numberOfMembers | 27250</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">1 FC Magdeburg has 27250 members and are in the 3 Liga league. During the 2014-2015 they played in the Regionalliga.</lex>
+      <lex comment="good" lid="Id2">1 FC Magdeburg is in the 3 Liga league, they played in the Regionalliga in 2014-15 season and have 27250 members.</lex>
+      <lex comment="good" lid="Id3">1 FC Magdeburg, with 27250 members, is in the 3 Liga league and was in Regionalliga in 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id29" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | manager | Rolando_Maran</otriple>
+        <otriple>Rolando_Maran | managerClub | Calcio_Catania</otriple>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | manager | Rolando_Maran</mtriple>
+        <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Associazione Calcio ChievoVerona is managed by Rolando Maran, who is a member of the Calcio Cantania and plays at the Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id2">Rolando Maran has managed AC Chievo Verona and is a member of the Calcio Cantania. He currently plays at the Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id3">Rolando Maran is attached to the club Calcio Catania, plays at Carrarese Calcio and is manager of A.C. Chievo Verona.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id30" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | manager | Rolando_Maran</otriple>
+        <otriple>Rolando_Maran | managerClub | F.C._Bari_1908</otriple>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | manager | Rolando_Maran</mtriple>
+        <mtriple>Rolando_Maran | club | F.C._Bari_1908</mtriple>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Associazione Calcio Chievo Verona is managed by Rolando Maran, who has previously worked at FC Bari 1908 and Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id2">Associazione Calcio CheivoVerona manager Rolando Maran has formerly worked at FC Bari 1908, and is a member of the Carrarese Calcio club.</lex>
+      <lex comment="good" lid="Id3">Rolando Maran has managed AC Chievo Verona and plays for both F.C. Bari 1908 and Carrarese Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id31" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | manager | Rolando_Maran</otriple>
+        <otriple>Rolando_Maran | managerClub | Unione_Triestina_2012_S.S.D.</otriple>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | manager | Rolando_Maran</mtriple>
+        <mtriple>Rolando_Maran | club | Unione_Triestina_2012_S.S.D.</mtriple>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Associazione Calcio ChievoVerona is managed by Rolando Maran, who plays for Unione Triestina 2012 S.S.D at the Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id2">Rolando Maran plays for Unione Triestina 2012 S.S.D and Carrarese Calcio. He has also managed AC Chievo Verona.</lex>
+      <lex comment="good" lid="Id3">The manager of A.C. Chievo Verona is Rolando Maran who is in the following clubs: Unione Triestina 2012 S.S.D. and Carrarese Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | manager | Rolando_Maran</otriple>
+        <otriple>Rolando_Maran | managerClub | Varese_Calcio_S.S.D.</otriple>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | manager | Rolando_Maran</mtriple>
+        <mtriple>Rolando_Maran | club | Varese_Calcio_S.S.D.</mtriple>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The manager of A.C. Chievo Verona is Rolando Maran, who is in Varese Calcio S.S.D. club and plays for Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id2">The manager of A.C. Chievo Verona is Rolando Maran who is in the Carrarese Calcio club and plays for Varese Calcio S.S.D.</lex>
+      <lex comment="good" lid="Id3">Rolando Maran plays for both Varese Calcio S.S.D. and Carrarese Calcio and has managed AC Chievo Verona.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id33" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | manager | Rolando_Maran</otriple>
+        <otriple>Rolando_Maran | placeOfBirth | Italy</otriple>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | manager | Rolando_Maran</mtriple>
+        <mtriple>Rolando_Maran | placeOfBirth | Italy</mtriple>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Associazione Calcio ChievoVerona is managed by Rolando Maran, who was born in Italy and is in the Carrarese Calcio club.</lex>
+      <lex comment="good" lid="Id2">Rolando Maran (born in Italy), has managed AC Chievo Verona and played for Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id3">Rolando Maran (born: Italy) plays for Carrarese Clacio and manages Associazione Calcio ChievoVerona.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en</otriple>
+        <otriple>A.C._Lumezzane | league | Lega_Pro</otriple>
+        <otriple>A.C._Lumezzane | capacity | 4150</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"@en</otriple>
+        <otriple>A.C._Lumezzane | capacity | "4150"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.C._Lumezzane | league | Lega_Pro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | fullname | "Associazione Calcio Lumezzane SpA"</mtriple>
+        <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
+        <mtriple>A.C._Lumezzane | league | Lega_Pro</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Associazione Calcio Lumezzane SpA is abbreviated to A.C. Lumezzane, they have 4150 members and play in the Lega Pro league.</lex>
+      <lex comment="good" lid="Id2">The fullname of A.C. Lumezzane is Associazione Calcio Lumezzane SpA, they have 4150 members and play in the Lega Pro league.</lex>
+      <lex comment="good" lid="Id3">Associazione Calcio Lumezzane SpA( A.C. Lumezzane) has 4150 members and plays in the Lega Pro league.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | league | "Lega Pro/A"@en</otriple>
+        <otriple>A.C._Lumezzane | season | 2014</otriple>
+        <otriple>A.C._Lumezzane | capacity | 4150</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | league | "Lega Pro/A"@en</otriple>
+        <otriple>A.C._Lumezzane | season | 2014</otriple>
+        <otriple>A.C._Lumezzane | capacity | "4150"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | league | "Lega Pro/A"</mtriple>
+        <mtriple>A.C._Lumezzane | season | 2014</mtriple>
+        <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AC Lumezzane has 4150 members and is in the Lega Pro/A league where they played in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">I am interested in the 2014 A.C. Lumezzane season. It plays in Lega Pro/A. and has 4150 members.</lex>
+      <lex comment="good" lid="Id3">A.C Lumezzane, with 4150 members, play in the Lega Pro/A, participating in the 2014 season.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id36" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | league | "Lega Pro/A"@en</otriple>
+        <otriple>A.C._Lumezzane | capacity | "4150"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | league | "Lega Pro/A"@en</otriple>
+        <otriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</otriple>
+        <otriple>A.C._Lumezzane | capacity | 4150</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | league | "Lega Pro/A"</mtriple>
+        <mtriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</mtriple>
+        <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.C. Lumezzane has 4150 members and has played in the Lega Pro during the 2014 season.</lex>
+      <lex comment="good" lid="Id2">A.C. Lumezzane, with 4150 members, is in the Lega Pro/A league and played during the 2014 season.</lex>
+      <lex comment="good" lid="Id3">A.C Lumezzane play in the Lega Pro/A 20-14 season. They have 4150 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id37" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | league | Lega_Pro</otriple>
+        <otriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</otriple>
+        <otriple>A.C._Lumezzane | capacity | 4150</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | capacity | "4150"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.C._Lumezzane | league | Lega_Pro</otriple>
+        <otriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | league | Lega_Pro</mtriple>
+        <mtriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</mtriple>
+        <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
+      </modifiedtripleset>
+      <lex comment="toFix" lid="Id1">Lumezzane played in the Lega Pro during the 2014 season. and has 4150 members.</lex>
+      <lex comment="good" lid="Id2">A.C. Lumezzane has 4150 members, played in the Lega Pro during the 2014 season and still play in the same league.</lex>
+      <lex comment="good" lid="Id3">A.C. Lumezzane has 4150 members and will play in Lega Pro. Lumezzane played in Lega Pro: 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id46" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | season | 2014</otriple>
+        <otriple>A.C._Lumezzane | capacity | "4150"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.C._Lumezzane | league | Lega_Pro</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | season | 2014</otriple>
+        <otriple>A.C._Lumezzane | league | Lega_Pro</otriple>
+        <otriple>A.C._Lumezzane | capacity | 4150</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | season | 2014</mtriple>
+        <mtriple>A.C._Lumezzane | league | Lega_Pro</mtriple>
+        <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The A.C. Lumezzane has 4150 members and play in the Lega Pro League.</lex>
+      <lex comment="good" lid="Id2">A.C. Lumezzane, with 4150 members, plays in the Lega Pro. and were active in 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id63" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | 1500</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis ground is in the town of Efxeinoupoli. It has 1500 members and plays in the A EPSTH 2nd GROUP.</lex>
+      <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis, which has 1500 members, is in the league EPSTH 2nd GROUP and their ground is located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis is in the league, EPSTH 2nd GROUP, with 1500 members their ground is located in the town of Efxeinoupoli.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id64" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | 1500</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | season | 2014</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AE Dimitra Efxeinoupolis played in the 2014 season and has 1500 members. Their ground is located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis played in season 2014. They have 1500 members and their ground is located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id3">AE Dimitra Efxeinoupolis has 1500 members and their ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli. They were in the 2014 season.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id65" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | 1500</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | "1500"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli and has 1500 member. They were in the 2014–15 A EPSTH Greece season.</lex>
+      <lex comment="good" lid="Id2">The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli. They have 1500 members and were in the 2014-15 A EPSTH, Greece.</lex>
+      <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis have 1500 members and were in the 2014-15 A EPSTH, Greece. Their home ground is located in Efxeinoupoli.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id81" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | "Kellamergh Park"@en</otriple>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | "Kellamergh Park"@en</otriple>
+        <otriple>A.F.C._Fylde | capacity | 3180</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | "Kellamergh Park"</mtriple>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">A.F.C.Fylde's ground is Kellamergh Park. They have 3180 members and the full name of "Association Football Club Fylde.".</lex>
+      <lex comment="good" lid="Id2">The full name of the A.F.C. Fylde is "Association Football Club Fylde," they have 3180 members and their ground is Kellamergh Park.</lex>
+      <lex comment="good" lid="Id3">AFC Fylde has the full name "Association Football Club Fylde", it's grounds are Kellamergh Park and it has 3180 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id82" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"@en</otriple>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"@en</otriple>
+        <otriple>A.F.C._Fylde | capacity | 3180</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | "Warton, Fylde, Lancashire"</mtriple>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The full name of AFC Fylde, the 3180 member strong club, is Association Football Club Fylde.</lex>
+      <lex comment="good" lid="Id2">Association Football Club Fylde (abbreviated to A.F.C. Fylde) has 3180 members and are based at Warton, Fylde, Lancashire.</lex>
+      <lex comment="good" lid="Id3">A.F.C. Fylde (its full name is "Association Football Club Fylde"), which has 3180 members, is based at Warton, Fylde, Lancashire.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id83" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | The_Fylde</otriple>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | The_Fylde</otriple>
+        <otriple>A.F.C._Fylde | capacity | 3180</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | The_Fylde</mtriple>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AFC Fylde has the full name "Association Football Club Fylde" and has 3180. Their home ground is called The Fylde.</lex>
+      <lex comment="good" lid="Id2">AFC Fylde, who play at The Fylde, has 3180 members and the full name Association Football Club Fylde.</lex>
+      <lex comment="good" lid="Id3">3180 member club, Association Football Club "AFC" Fylde plays at a ground called The Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id84" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | Warton,_Fylde</otriple>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | Warton,_Fylde</mtriple>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AFC Fylde has the full name "Association Football Club Fylde," they have 3180 members and their ground is located in Warton, Fylde.</lex>
+      <lex comment="good" lid="Id2">Association Football Club Fylde, abbreviated to A.F.C Fylde, has 3180 members and its ground is Warton Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id85" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | manager | Dave_Challinor</otriple>
+        <otriple>Dave_Challinor | team | Tranmere_Rovers_F.C.</otriple>
+        <otriple>Dave_Challinor | managerClub | Colwyn_Bay_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | manager | Dave_Challinor</mtriple>
+        <mtriple>Dave_Challinor | club | Tranmere_Rovers_F.C.</mtriple>
+        <mtriple>Dave_Challinor | club | Colwyn_Bay_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AFC Fylde's manager is Dave Challinor who is affiliated with Tranmere Rovers F.C. and plays for Colwyn Bay F.C. club.</lex>
+      <lex comment="good" lid="Id2">Dave Challinor is at Colwyn Bay FC and manages A.F.C. Fylde. He is also affiliated with Tranmere Rovers F.C.</lex>
+      <lex comment="good" lid="Id3">Dave Challinor is affiliated with Tranmere Rovers F.C. , plays for Colwyn Bay F.C. and is manager of AFC Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id86" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+        <otriple>A.F.C._Fylde | ground | "Bryning Lane"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
+        <mtriple>A.F.C._Fylde | ground | "Bryning Lane"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The full name of the A.F.C. Fylde is "Association Football Club Fylde" they are based at Bryning Lane and have 3180 members.</lex>
+      <lex comment="good" lid="Id2">AFC Fylde has the full name "Association Football Club Fylde," they have 3180 members and are based at Bryning Lane.</lex>
+      <lex comment="good" lid="Id3">AFC Fylde has the full name "Association Football Club Fylde", they are based at Bryning Lane and have 3180 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id87" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | Lancashire</otriple>
+        <otriple>A.F.C._Fylde | capacity | 3180</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | capacity | "3180"^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | ground | Lancashire</otriple>
+        <otriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | ground | Lancashire</mtriple>
+        <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Association Football Club Fylde (abbreviated to AFC Fylde) has 3180 members and its ground is in Lancashire.</lex>
+      <lex comment="good" lid="Id2">AFC Fylde has the full name "Association Football Club Fylde", its ground can be found in the county of Lancashire and it has 3180 members.</lex>
+      <lex comment="good" lid="Id3">Association Football Club Fylde, abbreviated to A.F.C Fylde, has 3180 members and its ground is in Lancashire.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id106" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | manager | Paulo_Sousa</otriple>
+        <otriple>Paulo_Sousa | team | Juventus_F.C.</otriple>
+        <otriple>Paulo_Sousa | managerClub | Maccabi_Tel_Aviv_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | manager | Paulo_Sousa</mtriple>
+        <mtriple>Paulo_Sousa | club | Juventus_F.C.</mtriple>
+        <mtriple>Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Paulo Sousa is the manager of the ACF Fiorentina but played for Maccabi Tel Aviv FC. His club is Juventus.</lex>
+      <lex comment="good" lid="Id2">Paul Sousa plays for Juventus F.C. and Maccabi Tel Aviv F.C. while also managing ACF Fiorentina.</lex>
+      <lex comment="good" lid="Id3">Paulo Sousa played for Juventus FC and now plays for Maccabi Tel Aviv F.C while managing ACF Fiorentina.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id107" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | manager | Paulo_Sousa</otriple>
+        <otriple>Paulo_Sousa | managerClub | Maccabi_Tel_Aviv_F.C.</otriple>
+        <otriple>Paulo_Sousa | team | Portugal_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | manager | Paulo_Sousa</mtriple>
+        <mtriple>Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.</mtriple>
+        <mtriple>Paulo_Sousa | club | Portugal_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Paulo Sousa is the manager of the ACF Fiorentina. He plays for Maccabi Tel Aviv F.C. and is also a member of the Portugal National Football Team.</lex>
+      <lex comment="good" lid="Id2">The manager of ACF Fiorentina is Paulo Sousa who plays for Maccabi Tel Aviv F.C. and also the Portugal national football team.</lex>
+      <lex comment="good" lid="Id3">Paulo Sousa is the manager of the ACF Fiorentina. He has played for Maccabi Tel Aviv F.C and is a member of the Portugal National Football Team.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id108" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | capacity | 47290</otriple>
+        <otriple>ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."@en</otriple>
+        <otriple>ACF_Fiorentina | season | 2014</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."@en</otriple>
+        <otriple>ACF_Fiorentina | season | 2014</otriple>
+        <otriple>ACF_Fiorentina | capacity | "47290"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | numberOfMembers | 47290</mtriple>
+        <mtriple>ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."</mtriple>
+        <mtriple>ACF_Fiorentina | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">ACF Fiorentina (full name: ACF Fiorentina S.p.A.) competed in the 2014 season and their ground holds 47290 fans.</lex>
+      <lex comment="good" lid="Id2">ACF Fiorentina, who competed in the 2014 season has the fullname of ACF Fiorentina S.p.A. . They currently have 47290 members.</lex>
+      <lex comment="good" lid="Id3">ACF Fiorentina fullname is ACF Fiorentina S.p.A, they have 47290 members and competed in the 2014 season.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id109" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | capacity | 47290</otriple>
+        <otriple>ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."@en</otriple>
+        <otriple>ACF_Fiorentina | season | 2014–15_Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."@en</otriple>
+        <otriple>ACF_Fiorentina | capacity | "47290"^^xsd:nonNegativeInteger</otriple>
+        <otriple>ACF_Fiorentina | season | 2014–15_Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | numberOfMembers | 47290</mtriple>
+        <mtriple>ACF_Fiorentina | fullname | "ACF Fiorentina S.p.A."</mtriple>
+        <mtriple>ACF_Fiorentina | season | 2014–15_Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The full name of ACF Fiorentina is ACF Fiorentina S.p.A., they have 47290 members and played the 2014-15 season in Serie A.</lex>
+      <lex comment="good" lid="Id2">The full name of ACF Fiorentia is "ACF Fiorentina S.p.A," they played the 2014-15 season in Serie A and have 47290 members.</lex>
+      <lex comment="good" lid="Id3">ACF Fiorentina, or ACF Fiorentina S.p.A., has 47290 members and played in the 2014-15 Serie A season.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id115" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax | season | 2014–15_Eredivisie</otriple>
+        <otriple>AFC_Ajax | capacity | 53502</otriple>
+        <otriple>AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AFC_Ajax | season | 2014–15_Eredivisie</otriple>
+        <otriple>AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
+        <mtriple>AFC_Ajax | season | 2014–15_Eredivisie</mtriple>
+        <mtriple>AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The full name of AFC Ajax is Amsterdamsche Football Club Ajax. They have 53502 members and were in the Eredivisie for the season 2014-2015.</lex>
+      <lex comment="good" lid="Id2">The full name of AFC Ajax is Amsterdamsche Football Club Ajax, they played in the 2014-15 Eredivisie season and have 53502 members.</lex>
+      <lex comment="good" lid="Id3">The full name of AFC Ajax is "Amsterdamsche Football Club Ajax". It were in the Eredivisie for the season 2014-2015 and has 53502 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id116" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax | season | 2014</otriple>
+        <otriple>AFC_Ajax | capacity | "53502"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax | season | 2014</otriple>
+        <otriple>AFC_Ajax | capacity | 53502</otriple>
+        <otriple>AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | season | 2014</mtriple>
+        <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
+        <mtriple>AFC_Ajax | fullname | "Amsterdamsche Football Club Ajax"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Amsterdamsche Football Club Ajax (abbreviated to AFC Ajax) has 53502 members and played in season 2014.</lex>
+      <lex comment="good" lid="Id2">The full name of AFC Ajax is Amsterdamsche Football Club Ajax, they have 53502 members and played in season 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id117" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+        <mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst where Ajax Youth Academy also play.</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, tenanted by Ajax Youth Academy and operated by AFC Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id118" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+        <otriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+        <mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst which is operated by AFC Ajax. The tenant of the ground is Jong Ajax.</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, operated by AFC Ajax. The tenant is Jong Ajax.</lex>
+      <lex comment="good" lid="Id3">AFC Ajax and amateur's ground is Sportpark De Toekomst. Jong Ajax are the tenants of the De Toekomst Sportpark.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id119" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>Sportpark_De_Toekomst | tenants | Jong_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+        <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AFC Ajax N.V. own Sportpark De Toekomst where Jong Ajax is the tenant. It is the ground of AFC Ajaz (amateurs).</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateur) play as Sportpark De Toekomst, which is owned by AFC Ajax N.V, with Jong Ajax as the tenant.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id120" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+        <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">Ajax Youth Academy is a tenant of Sportpark De Toekomst which is owned by AFC Ajax NV and is the ground for AFC Ajax (amateurs).</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, tenanted by Ajax Youth Academy and owned by AFC Ajax N.V.</lex>
+      <lex comment="good" lid="Id3">AFC Ajax N.V. own Sportpark De Toekomst who in turn host both the Ajax Youth Academy and AFC Ajax (amateurs).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id121" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+        <otriple>Sportpark_De_Toekomst | tenants | Jong_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst of which both Ajax Youth Academy and Jong Ajax are tenants.</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst where the Ajax Youth Academy and Jong Ajax are also tenants of.</lex>
+      <lex comment="good" lid="Id3">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, tenanted by Ajax Youth Academy (Jong Ajax).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id122" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | capacity | "5000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</otriple>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</otriple>
+        <otriple>AFC_Ajax_(amateurs) | capacity | 5000</otriple>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="toFix" lid="Id1">AFC Ajax (amateurs) has 5000 members play in the Hoofdklasse league and competed in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (Amateurs) competed in the 2014 season, they play in the Hoofdklasse league and the main team have 5000 members.</lex>
+      <lex comment="good" lid="Id3">AFC Ajax, who played in the 2014 season, have 5000 members and play in the Hoofdklasse league.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id123" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | capacity | "5000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</otriple>
+        <otriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</otriple>
+        <otriple>AFC_Ajax_(amateurs) | capacity | 5000</otriple>
+        <otriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The Amsterdamsche Football Club Ajax Amateurs is now known as AFC Ajax and has 5000 members and has played in the 2014-15 Topklasse season.</lex>
+      <lex comment="good" lid="Id2">The AFC Ajax (amateurs) complete name is the "Amsterdamsche Football Club Ajax Amateurs. They play in the Topklasse in the 2014-2015 season and have 5000 memberrs.</lex>
+      <lex comment="good" lid="Id3">The full name of AFC Ajax (amateurs) is "Amsterdamsche Football Club Ajax Amateurs" they have 5000 members and played in the 2014-15 Topklasse season.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id124" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014</otriple>
+        <otriple>AFC_Ajax_(amateurs) | capacity | 5000</otriple>
+        <otriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014</otriple>
+        <otriple>AFC_Ajax_(amateurs) | capacity | "5000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | season | 2014</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The full name of AFC Ajax (amateurs) is "Amsterdamsche Football Club Ajax Amateurs", they have 5000 members and played in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (Amateurs) competed in the 2014 season and has 5000 members. Their full name is Amsterdamsche Football Club Ajax Amateurs.</lex>
+      <lex comment="good" lid="Id3">Amsterdamsche Football Club Ajax Amateurs (abbreviated to AFC Ajax (amateurs), competed in the 2014 season and has 5000 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id125" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"@en</otriple>
+        <otriple>AZAL_PFK | season | 2014</otriple>
+        <otriple>AZAL_PFK | capacity | "3500"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"@en</otriple>
+        <otriple>AZAL_PFK | season | 2014</otriple>
+        <otriple>AZAL_PFK | capacity | 3500</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"</mtriple>
+        <mtriple>AZAL_PFK | season | 2014</mtriple>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The fullname of AZAL PFK is AZAL Pesokar Futbol Klubu, they have 3500 members and were in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">The full name of AZAL PFK is AZAL Pesokar Futbol Klubu. They competed in the 2014 season and have 3500 members.</lex>
+      <lex comment="good" lid="Id3">AZAL PFK stands for "AZAL Peşəkar Futbol Klubu". They competed in the season 2014 and have 3500 members.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id126" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"@en</otriple>
+        <otriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</otriple>
+        <otriple>AZAL_PFK | capacity | 3500</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"@en</otriple>
+        <otriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</otriple>
+        <otriple>AZAL_PFK | capacity | "3500"^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | fullname | "AZAL Peşəkar Futbol Klubu"</mtriple>
+        <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AZAL PFK stands for "AZAL Peşəkar Futbol Klubu" and they have 3500 members. AZAL PFK Bakou is playing in the Azerbaijan Premier League, 2014–15.</lex>
+      <lex comment="good" lid="Id2">AZAL PFK's full name is AZAL Peşəkar Futbol Klubu. They played in the Azerbaijan PremierLeague, 2014–15 and have 3500 members.</lex>
+      <lex comment="good" lid="Id3">The AZAL PFK (abbreviated from "AZAL Peşəkar Futbol Klubu"), with 3500 members, competed in The Azerbaijan Premier League in 2014-15.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id127" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena, and are in the Azerbaijan Premier League, who's championships name is the Qarabag FK.</lex>
+      <lex comment="good" lid="Id2">AZAL Arena is the ground of AZAL PFK and competes in The Azerbaijan Premier League, which champions are Qarabag FK.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id128" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+        <otriple>AZAL_PFK | capacity | 3500</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK.</lex>
+      <lex comment="good" lid="Id2">Qarabag FK are champions of the Azerbaijan Premier League which AZAL PFK play in and they have 3500 members.</lex>
+    </entry>
+  </entries>
+</benchmark>
